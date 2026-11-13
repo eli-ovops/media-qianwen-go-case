@@ -1,0 +1,17 @@
+{
+  "sentAt": "2026-10-14T11:25:00.961743+08:00",
+  "targetThreadId": "01a11194-c40d-7bf0-8396-5bb5d6449444",
+  "tool": "mcp__codex_app__send_message_to_thread",
+  "toolSucceeded": true,
+  "rawReceipt": {
+    "content": [
+      {
+        "type": "text",
+        "text": "{\"threadId\":\"01a11194-c40d-7bf0-8396-5bb5d6449444\"}"
+      }
+    ],
+    "isError": false
+  },
+  "pmoRead": "UNKNOWN",
+  "pmoAcceptance": "PENDING"
+}

@@ -1,0 +1,116 @@
+{
+  "content_id": "qianwen-go-case-20261013",
+  "stage": "02",
+  "version": "v2",
+  "date": "2026-10-13 Asia/Shanghai",
+  "owner_thread_id": "01a11a70-35e6-7db1-86ac-80a7ce40a9cb",
+  "status": "DELIVERED_PENDING_PMO_AND_USER_SCRIPT_REVIEW",
+  "gate": {
+    "allowed": true,
+    "exit_code": 0,
+    "tool_chunk": "3a31c5",
+    "content": "qianwen-go-case-20261013",
+    "stage": "02"
+  },
+  "inputs": [
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/01/01会话初稿-已选题.md",
+      "sha256": "7e7a30d42d7f0a76e6d29a56edcb3c20154eb502fc07d481f243b0b2ca87785f"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/01/PMO验收.json",
+      "sha256": "6e9493a7ede4bc45ba6b0bbf70bf0387077f9237a064acb026add7cc3028a865"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/02/重写任务-v2.md",
+      "sha256": "49393e6f33999cf8317117743571ed204b0f18c903296c4585c6c2c3eefea0b7"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261013/柱子哥千问Go专项/分析与本人讲法.md",
+      "sha256": "b9f00176d0a196b2f0d54f737d719f09e4d080259653dd44f1f48f5a8cc879ab"
+    }
+  ],
+  "outputs": [
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/02/分镜与素材清单-v2.md",
+      "sha256": "2582608b387d4aa9f4e59886ea2d640d8325a461d73134996c7e21c3fb566888"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/02/提词版-v2.md",
+      "sha256": "6835a37e8f8e30dc481d9d3ffd76f7389c6cd0e1a41cab7a01012d6b4c0d7d58"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/02/正式口播-v2.md",
+      "sha256": "31bd10b0a154f97e958f09b8f58487e6119bfabc012440ea794403c5ddebc059"
+    }
+  ],
+  "validation": {
+    "prompt_matches": true,
+    "hanzi": 360,
+    "english_letters": 6,
+    "english_spoken_equivalent_estimate": 6,
+    "speech_chars_per_second": [
+      4.8,
+      5.4
+    ],
+    "pause_seconds": [
+      6,
+      10
+    ],
+    "estimated_seconds": [
+      73.8,
+      86.2
+    ],
+    "actual_duration": "UNKNOWN",
+    "recording_segments": 5,
+    "alternate_hooks": 2,
+    "v1_sha_unchanged": true,
+    "inputs_sha_intact": true
+  },
+  "changes": [
+    "Hook based on concrete frustration and expectation",
+    "Personal evaluation drives the case; no step-list product introduction",
+    "End defines expected useful deliverable; monitoring is explicitly hoped-for continuation, not verified execution"
+  ],
+  "source_boundary": [
+    "Same01 public case and same-day upcoming media status",
+    "No personal use/purchase/savings claimed",
+    "Monitoring setup only; no delivery or continuous-run evidence",
+    "Original illustrations rather than copied primary creator footage"
+  ],
+  "handoff": "PMO reviews v2 and presents full script to user. Only after user approves does03 update filming card and request five new narration segments; v1 is not to be recorded.",
+  "coordination_rule": "CONTENT-COORDINATION-NO-POLL-20261013-v2",
+  "rules": [
+    "ROUTING-2026-09-30-v3",
+    "HANDOFF-2026-10-10-v2",
+    "BLOCKERS-2026-09-23-v1"
+  ],
+  "requested_model": "gpt-6.1-sol",
+  "requested_effort": "medium",
+  "actual_model": "UNKNOWN",
+  "actual_effort": "UNKNOWN",
+  "actual_speed": "UNKNOWN",
+  "skill_used": "/Volumes/EXTERNAL/自媒体/.agents/skills/humanizer/SKILL.md",
+  "known_required_fixes": [],
+  "remaining": [
+    "PMO and user approval of new script",
+    "03 new recording, actual duration",
+    "04 production and05 QA/full-film user review"
+  ],
+  "report_authorization": {
+    "human_message": "01a133d5-4256-7321-a6d0-b6116d2e02ce",
+    "human_turn": "01a133cb-599d-7630-99a5-0ac3524beba7",
+    "verification": "Direct human original verified via read_thread in preceding report turn; authority persists"
+  },
+  "shared_state_modified": false,
+  "downstream_messaged": false,
+  "subagents": false,
+  "temporary_files": [],
+  "created_files": [
+    "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/02/分镜与素材清单-v2.md",
+    "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/02/提词版-v2.md",
+    "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/02/正式口播-v2.md",
+    "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/02/交付-v2.json"
+  ],
+  "cleanup": "All v1 retained; no temporary files or media generated/deleted."
+}

@@ -1,0 +1,14 @@
+{
+  "name": "qianwen-go-case-v1",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "remotion": "4.0.535",
+    "@remotion/cli": "4.0.535",
+    "@remotion/media": "4.0.535",
+    "@remotion/captions": "4.0.535",
+    "@remotion/fonts": "4.0.535",
+    "react": "19.3.0",
+    "react-dom": "19.3.0"
+  }
+}

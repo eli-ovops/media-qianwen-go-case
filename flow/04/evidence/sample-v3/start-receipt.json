@@ -1,0 +1,18 @@
+{
+  "rule": "ROUTING-2026-10-13-v4",
+  "thread": "01a11a6f-49ef-7653-934a-4312979fd4e7",
+  "target_model": "gpt-6-astra",
+  "target_effort": "high",
+  "actual_model": "UNKNOWN",
+  "actual_effort": "UNKNOWN",
+  "actual_speed": "UNKNOWN",
+  "reason": "No platform receipt proving actual runtime fields; no settings changed.",
+  "scope": "v3 same-task visual revision; internal PMO review only; full film paused",
+  "references_actually_viewed": [
+    "7694088597179239690/exact-fullspan-fixed/sheet-3.jpg",
+    "7690958652961770794/exact-fullspan/sheet-1.jpg"
+  ],
+  "reference_limit": "sampled screenshots only, no continuous audio/video viewing; not 20-video complete corpus",
+  "at": "2026-10-13T19:28:35.119845+08:00",
+  "pmo_v2_receipt": "RECEIVED_AND_REVISION_REQUIRED"
+}

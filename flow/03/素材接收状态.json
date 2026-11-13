@@ -1,0 +1,39 @@
+{
+  "content_id": "qianwen-go-case-20261013",
+  "stage": "03",
+  "date": "2026-10-13",
+  "owner_thread_id": "01a11a73-6bcd-7451-975f-95e05c883fa8",
+  "status": "GUIDANCE_COMPLETE_WAITING_USER_ORIGINAL",
+  "status_zh": "拍摄指导完成／等待用户原片",
+  "received_media": [],
+  "exact_media_allowlist": [],
+  "media_processing_started": false,
+  "required_media": "本期A—F完整口播原视频：一次连续录或六段；同时供全程原声及A/E/F少量人像。",
+  "next_action": "用户提供本期准确原片路径及保留遍次后，沿授权只读接收并核规格、台词覆盖、时长和可读取声画；缺口最小化。",
+  "missing": [
+    "本期真实原片尚未提供；声音、动态画面、时长与漏句尚未核实。"
+  ],
+  "retake_required": "UNKNOWN，收到指定原片后判断，当前不提出额外补录。",
+  "stage03_complete": false,
+  "stage04_release_allowed": false,
+  "inputs": [
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/02/正式口播.md",
+      "sha256": "f70527ea86a16b80de1287aad35ae1fb1fe19e131811e0a0f8ebeafb678c7053"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/02/提词版.md",
+      "sha256": "aebc4efca3c0547b4c42758e752946705912d254a1089756b6aa46462761ddad"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/02/分镜与素材清单.md",
+      "sha256": "b07a91834a523569483b9fa86e73e76c083b3b8f6124a58b27f120ee7e9b89b6"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/02/PMO验收.json",
+      "sha256": "c88ef0936f95cfc31cbbd23aec704de1309ee4a454975a2df1e98bfa763e1e90"
+    }
+  ],
+  "guidance": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/拍摄卡.md",
+  "note": "本文件是03交付快照，不代替PMO维护的共享流程状态；未扫描私有媒体或复用旧口播。"
+}

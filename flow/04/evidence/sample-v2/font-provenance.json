@@ -1,0 +1,9 @@
+{
+  "source": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/qianwen-go-case-20261013/flow/04/project/public/heiti.ttc",
+  "source_sha256": "2d37f927fb4c24a2ba4d318b903a607f6b7ad4e5f365c26aba6aaccb84038beb",
+  "face_index": 1,
+  "family": "Heiti SC",
+  "output": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/qianwen-go-case-20261013/flow/04/project/public/heiti-sc-v2.ttf",
+  "sha256": "212997b8c8fff6e8d044b8aa78ae6f69775687225e3fa4fc4659b9878b6a5636",
+  "method": "copy TTC face tables into SFNT, rebase offsets and recalculate checksums; no font outlines changed"
+}

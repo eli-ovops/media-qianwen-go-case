@@ -1,0 +1,15 @@
+{
+  "reason": "Actual render audit found long still stretches; targeted narration-aligned object reveals and focus changes, keep approved colors/layout/voice",
+  "sourceBefore": "qianwen-go-case-20261013/flow/04/project/src/v9/Film.tsx",
+  "sourceAfter": "qianwen-go-case-20261013/flow/04/project/src/v9r2/Film.tsx",
+  "changes": [
+    "5–10s split arrow/result entry by definition and goal narration",
+    "21.05s Qianwen title follows the name cue",
+    "28.57–32.55s fridge and 11.11 enter at their cues",
+    "34.51s faster grouping and55.51s quicker final lift; condition outlines check sequentially",
+    "58–61s visible model scan and confirmation",
+    "86.27/89.77/92.0s focus transfers through search/question/sort tasks"
+  ],
+  "voiceUnchanged": true,
+  "costSceneUnchanged": true
+}

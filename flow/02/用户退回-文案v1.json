@@ -1,0 +1,12 @@
+{
+  "date": "2026-10-13",
+  "content_id": "qianwen-go-case-20261013",
+  "stage": "02",
+  "pmo_thread_id": "01a11194-c40d-7bf0-8396-5bb5d6449444",
+  "decision": "ROLLBACK_USER_REJECTED_SCRIPT",
+  "human_source": "PMO direct human: 文案不行; followed by1和2: too flat/no hook and news repetition/no own viewpoint",
+  "scope": "Rewrite narrative and spoken wording for the selected Qianwen Go refrigerator public-case topic; not a new topic",
+  "affected": ["02 script and shot map", "03 old recording instructions", "04-08 old downstream approvals not applicable"],
+  "preserved": ["01 selected topic and source evidence", "02 v1 files as history", "no raw recording yet", "human final publishing boundary"],
+  "next": "02 rewritev2 and proactively reportPMO; new script must be shown to user before recording"
+}

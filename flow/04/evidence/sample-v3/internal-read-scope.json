@@ -1,0 +1,33 @@
+{
+  "first_design_times_viewed": [
+    8.8,
+    9.6,
+    11.5,
+    13.8,
+    18.5,
+    20.5
+  ],
+  "fixed_design_times_viewed": [
+    11.5,
+    13.8,
+    15.5,
+    17.6
+  ],
+  "png_design_times_viewed": [
+    20.9
+  ],
+  "fixed_video_read": {
+    "fps": 15,
+    "frames": 60,
+    "all_contact_sheets_viewed": true,
+    "result": "texture repetition detected"
+  },
+  "png_video_read": {
+    "fps": 15,
+    "frames": 60,
+    "all_contact_sheets_viewed": true,
+    "result": "no repeated texture in read frames"
+  },
+  "later_changes": "sequential caption timing at9.04 and10.4; final verification pending",
+  "continuous_realtime_av": false
+}

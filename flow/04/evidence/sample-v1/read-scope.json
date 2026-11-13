@@ -1,0 +1,35 @@
+{
+  "whole_sample_frames": 22,
+  "sampling": "exact every60th frame;0–21s",
+  "native_times": [
+    0.1,
+    4.5,
+    8.6,
+    13,
+    17.8,
+    20.5,
+    21.75
+  ],
+  "dense_windows": [
+    {
+      "start_frame": 240,
+      "frames": 48,
+      "fps": 60
+    },
+    {
+      "start_frame": 474,
+      "frames": 90,
+      "fps": 60
+    },
+    {
+      "start_frame": 1014,
+      "frames": 48,
+      "fps": 60
+    }
+  ],
+  "dense_total": 186,
+  "assistant_viewed": true,
+  "limits": "sampled pixels and all186 dense frames, not real-time full audiovisual playback",
+  "reviewed_at": "2026-10-13T16:27:17.375456+08:00",
+  "findings": "已查看22张全段间隔帧、7张原尺寸帧、3窗口全部186帧及播放器20.5秒截图；该范围未见叠字、文字裁切、主体/字幕遮挡。非全1308帧逐帧读取，未直接听音或连续实时观看。"
+}

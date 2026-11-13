@@ -1,0 +1,13 @@
+{
+  "at": "2026-10-13T20:43:11.461386+08:00",
+  "rule": "ROUTING-2026-10-13-v4",
+  "actual_model": "UNKNOWN",
+  "actual_effort": "UNKNOWN",
+  "actual_speed": "UNKNOWN",
+  "target_model": "gpt-6-astra",
+  "target_effort": "high",
+  "source": "PMO样片v5审阅.md",
+  "scope": "v6 sample only 8–21.8 seconds; frozen voice/facts",
+  "validation_owner": "04 export and visual selfcheck; PMO independent acceptance",
+  "no_installs": true
+}

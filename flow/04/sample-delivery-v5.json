@@ -1,0 +1,164 @@
+{
+  "content_id": "qianwen-go-case-20261013",
+  "version": "sample-motion-v5",
+  "at": "2026-10-13T20:32:39.882116+08:00",
+  "owner_thread_id": "01a11a6f-49ef-7653-934a-4312979fd4e7",
+  "pmo_thread_id": "01a11194-c40d-7bf0-8396-5bb5d6449444",
+  "status": "PMO_VISUAL_REVISION_REQUIRED",
+  "user_preview": "WITHHELD_PENDING_PMO_VISUAL_ACCEPTANCE",
+  "sample": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/output/sample-motion-v5-final.mp4",
+  "review": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/sample-review-v5.md",
+  "frame_review": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/tail-frame-review-v5.html",
+  "changed_interval_seconds": [
+    8,
+    21.8
+  ],
+  "first8_seconds": "v4 source reused; seam reviewed, remaining unchanged interval not visually reread",
+  "raw_source": "/Users/USER/Downloads/e404afe47f88fa4affadf7f5fa273814_raw.mp4",
+  "raw_video_seconds": [
+    29.09666666666667,
+    50.89666666666666
+  ],
+  "qa": {
+    "duration": 21.8,
+    "frames": 1308,
+    "fps": 60,
+    "width": 1080,
+    "height": 1920,
+    "decode_exit": 0,
+    "monotonic_pts": true,
+    "max_frame_gap": 0.01670000000000016,
+    "native_loudness_lufs": -19.74,
+    "native_true_peak_dbtp": -4.89,
+    "audio_decoded_pcm_identical_to_v1": true,
+    "audio_pcm_sha256": "605cef78eb3da66b45547363d8c94a9b016e958d1e55526f4e037c48bc466cae",
+    "sha256": "5630c10620002eea73b5274d78a9b550f2693e4bf290b798ad892000c9744ee4",
+    "bytes": 7485666,
+    "direct_audio_listening": false,
+    "continuous_realtime_av_review": false
+  },
+  "visual_scope": {
+    "changed_interval": [
+      8,
+      21.8
+    ],
+    "tail_frames": 828,
+    "contact_sheets": 35,
+    "contact_tile_pixels": [
+      180,
+      320
+    ],
+    "native_times": [
+      8.1,
+      9.2,
+      9.8,
+      10.7,
+      11.5,
+      12.6,
+      13.2,
+      14.2,
+      15.4,
+      16.7,
+      17.3,
+      17.8,
+      18.4,
+      19.1,
+      19.6,
+      20.2,
+      20.7,
+      21.2
+    ],
+    "seam_interval": [
+      7.9,
+      8.0833333
+    ],
+    "seam_frames": 12,
+    "assistant_viewed": true,
+    "direct_listening": false,
+    "realtime_continuous_av_review": false,
+    "viewed_at": "2026-10-13T20:32:39.799600+08:00",
+    "viewed_contact_files": [
+      "tail-all-contact-8.jpg",
+      "tail-all-contact-9.jpg",
+      "tail-all-contact-10.jpg",
+      "tail-all-contact-11.jpg"
+    ],
+    "final_contact_frames_actually_viewed": 96,
+    "final_contact_interval_actually_viewed": [
+      11.2,
+      12.7833333
+    ],
+    "initial_export_contact_review": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v5/read-scope.json",
+    "viewed_native_files": [
+      "native-8.1.png",
+      "native-9.2.png",
+      "native-9.8.png",
+      "native-10.7.png",
+      "native-11.5.png",
+      "native-12.6.png",
+      "native-13.2.png",
+      "native-14.2.png",
+      "native-15.4.png",
+      "native-16.7.png",
+      "native-17.3.png",
+      "native-17.8.png",
+      "native-18.4.png",
+      "native-19.1.png",
+      "native-19.6.png",
+      "native-20.2.png",
+      "native-20.7.png",
+      "native-21.2.png"
+    ],
+    "additional_viewed": [
+      "seam-0.jpg",
+      "pair-9.8.jpg",
+      "pair-15.4.jpg",
+      "pair-19.6.jpg",
+      "pair-21.2.jpg",
+      "frame-review-21.2.png"
+    ],
+    "observations": [
+      "Service fee slip now lands on the bill before static handoff; two copies no longer coexist.",
+      "The estimate receipt persists across the calendar and conditional gate into the bell closeup.",
+      "8s seam is a hard cut from the earlier quote sheet to the new closeup; no black frame seen.",
+      "Roller, moving truck and foreground bell intentionally occlude parts of the paper during movement; main cost/estimate titles are readable when they are the focus.",
+      "No subtitle overlap observed; aesthetic sufficiency remains for PMO review."
+    ],
+    "limits": "All 828 initial tail frames read in 35 contact sheets; final patch re-read 96 consecutive frames, plus 18 native final frames and seam/pairs. Remaining final contacts not reread. No direct listening or realtime AV review."
+  },
+  "routing": {
+    "rule": "ROUTING-2026-10-13-v4",
+    "owner": "01a11a6f-49ef-7653-934a-4312979fd4e7",
+    "target_model": "gpt-6-astra",
+    "target_effort": "high",
+    "actual_model": "UNKNOWN",
+    "actual_effort": "UNKNOWN",
+    "actual_speed": "UNKNOWN",
+    "scope": "8.0-21.8s cinematic scene redesign from PMO v4 review; frozen voice and facts",
+    "at": "2026-10-13T20:09:14.027285+08:00",
+    "original": "PMO样片v4审阅.md",
+    "validation_owner": "04 local export checks; PMO independent visual acceptance",
+    "dependencies": "existing Remotion and SVG only; no install"
+  },
+  "full_film": "PAUSED",
+  "stage05": "NOT_RELEASED",
+  "report": {
+    "tool_sent": "CONFIRMED",
+    "pmo_received": "CONFIRMED",
+    "pmo_acceptance": "REVISION_REQUIRED",
+    "receipt": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/sample-report-send-receipt-v5.json"
+  },
+  "pmo_review": "PMO样片v5审阅.md",
+  "currentLocalAvailability": {
+    "at": "2026-10-15T11:15:56.225185+08:00",
+    "status": "POST_PUBLICATION_GENERATED_VIDEOS_CLEANED",
+    "latestLocalFinalExists": false,
+    "latestFinalHistoricalPath": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/output/qianwen-go-full-v9-r3c.mp4",
+    "latestFinalSHA256": "797426b66fec27431ecf298b9df67f9869b2cddfaa456b1c851009dd6b84ab10",
+    "deletedCount": 66,
+    "report": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/发布后视频清理-20261015报告.md",
+    "exactList": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/cleanup-20261015/准确路径清单.md",
+    "reproduce": "完整成片-v9复现.md#发布后重导出说明2026-10-15",
+    "historicalRecords": "Original paths/SHA and checks are historical; deleted video paths are no longer usable downloads."
+  }
+}

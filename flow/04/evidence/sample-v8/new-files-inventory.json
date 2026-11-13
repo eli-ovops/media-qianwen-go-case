@@ -1,0 +1,2614 @@
+{
+  "at": "2026-10-14T09:56:33.260926+08:00",
+  "files": [
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/trial2-native-8.9.png",
+      "sha256": "f9d7e0c2e678832a84b28c23900ee882a2b0ec28a79b22b5cc07d298bba1f3dc",
+      "bytes": 275010
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/reminder-top3.json",
+      "sha256": "527e56f947aec8252f3fda0fbdd524ede653e6b07e598f62e3037ab29cd4b711",
+      "bytes": 30395
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/test-11.8.png",
+      "sha256": "6f828b6e14a855bd403e264ff88a0fe2340c2edd1b248b80b47d5b50d704a509",
+      "bytes": 167245
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/test2-0.png",
+      "sha256": "588d3b43ce23517593277732430c326874bb68e3b56c7532b891308e647740da",
+      "bytes": 203009
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/trial2-native-9.65.png",
+      "sha256": "bafa82c59dd8ec36f5eedf0416379d7cc9a602e839219e0053a499a93e04e24f",
+      "bytes": 206537
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/trial2-native-6.5.png",
+      "sha256": "4435ef690220a7e8b459aca490625180c23a6760f5cde51e230723c74c6b7ae9",
+      "bytes": 272772
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/research_catalog.py",
+      "sha256": "6cd3ff81e684f5f8f6383d52ed38c961765a1250db39c83596dd7b7ea0bdaca1",
+      "bytes": 821
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/test-0.7.png",
+      "sha256": "a7c20add430db2328551efb24dc0704e3dba854b04d3b738be88da43a2dfa1f6",
+      "bytes": 222741
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/test-12.65.png",
+      "sha256": "d0002664ca7c4735fd6919ac23f759b6b427a7c67e7c5263f6eb3dc790eb04ba",
+      "bytes": 179601
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/test-board.jpg",
+      "sha256": "d3eaf563508747170d5f52ea94f5ec97f35b9f1424de3f58cea0ecfaca96f8bc",
+      "bytes": 160266
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/test3-9.1.png",
+      "sha256": "cbe37029513ab28bc33603647de9066055be40018b346931914e8e1e503a59af",
+      "bytes": 200801
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/trial-5to10.1.mp4",
+      "sha256": "0a97d97188124a85d67c45644c34e05f5a19a6a8fe66f3d17f5c7efa89eb6868",
+      "bytes": 484041
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/trial-board-3.jpg",
+      "sha256": "ca2f220ff409d70847e635818d7379c269882f494d45469a22786052d847ef71",
+      "bytes": 55321
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/test2-9.1.png",
+      "sha256": "cbe37029513ab28bc33603647de9066055be40018b346931914e8e1e503a59af",
+      "bytes": 200801
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/fetch_refs.py",
+      "sha256": "ea651e3cee49ed7c3cefe7e900ba04004e4d40ede2bf59401cadafb68f6d48d3",
+      "bytes": 1608
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/trial-board-2.jpg",
+      "sha256": "4a58499e3dd0f2cd50ec5a14baa55622b1777aaac13b48ee4f414dc763e2dc1d",
+      "bytes": 155980
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/test-6.5.png",
+      "sha256": "d2916b7fa659fc9b4667350927c3e3afd8ea953b27508a58e72dbd20792eb319",
+      "bytes": 222410
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/trial2-native-6.1.png",
+      "sha256": "ca067b7999355361b9a0846f811e558378eba535a3cee08f74f944686385a7aa",
+      "bytes": 252957
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/trial2-native-6.3.png",
+      "sha256": "25d41435baa50f0d4ffb7b58a6e03b970a4c63dbfdfd73bab1f9374ce6580140",
+      "bytes": 273158
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/test-1.85.png",
+      "sha256": "9a94967ced3823073db2b35690c9f9ad61567eb0615f6cedb3e2e7302d46df75",
+      "bytes": 242125
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/test2-12.65.png",
+      "sha256": "d0002664ca7c4735fd6919ac23f759b6b427a7c67e7c5263f6eb3dc790eb04ba",
+      "bytes": 179601
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/trial-board-0.jpg",
+      "sha256": "3e224c384a9d7bcfd1970483d121241e22b0e12a0e937f9e1524d56ea33f4bb9",
+      "bytes": 167235
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/test-8.8.png",
+      "sha256": "481e54d6770d41df7d962783666dbfbcfa583681a18bf52bba35a7d4907133e8",
+      "bytes": 229935
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/gather-source.json",
+      "sha256": "fc827ff31ca222383a90dc7d73c01f5bc6fea9c757a75264153b65bdaf0c7942",
+      "bytes": 8098
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/start-receipt.json",
+      "sha256": "55c436eac219b7443ed4104e4ad0a400824455cf117edbed058ba430e0c053df",
+      "bytes": 2535
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/reminder-scene-candidates.json",
+      "sha256": "ff55345bf45ba0d9be6962c4a7f1a0f6f8b9859c9447ab5ead0ebc1af02842f8",
+      "bytes": 34920
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/trial-board-1.jpg",
+      "sha256": "7e4ba377425c49c30b5b4cedf25e00744a5d68973ed8d19f9432ff48e174ed13",
+      "bytes": 169636
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/trial-native-6.5.png",
+      "sha256": "9290cea965a4e428f11bdac2bb2c1a0efb684ce6df222c8eedb4631ef3ebc90b",
+      "bytes": 273435
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/player-check.json",
+      "sha256": "3ca202b500ad2f0a25aa6dc5cf7d4382c81640bfbf320e3d00945ec507949ef2",
+      "bytes": 3313
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/manifest-suggestion-snapshot.json",
+      "sha256": "a648cdf743f94f10f360c55f119e12c09a400b2a245476ac65e10294e3facf92",
+      "bytes": 15340
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/trial2-native-5.7.png",
+      "sha256": "98d37be1ee16cf13113543e72c7198ba7339f45a3935ffe79e9c56bbb69af802",
+      "bytes": 247500
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/startup-blocker-report-receipt.json",
+      "sha256": "13caa88fedbd5c8cfd2383e963b8446ae11cfc228faae67dbdac04f755ae495e",
+      "bytes": 430
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/test-9.png",
+      "sha256": "621a6a37144ac90d6a3c837bd4ee7eb2685f53c0f7b25ef27d97ef99ac3f9d66",
+      "bytes": 219910
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/test3-13.5833.png",
+      "sha256": "a626110ca1a916d51d5a7a874d9203a094767ed4775d59bf84bb1199801c68a9",
+      "bytes": 165869
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/fees-top3.json",
+      "sha256": "99f98360ef0bd11a8e002fd5065249bc208564f08b0b781845680b8c67b729f7",
+      "bytes": 26900
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/test3-1.85.png",
+      "sha256": "9a94967ced3823073db2b35690c9f9ad61567eb0615f6cedb3e2e7302d46df75",
+      "bytes": 242125
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/test2-1.85.png",
+      "sha256": "9a94967ced3823073db2b35690c9f9ad61567eb0615f6cedb3e2e7302d46df75",
+      "bytes": 242125
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/overview-06.jpg",
+      "sha256": "51469ae10971cf6bf380398cb95618b8165bc020c1636dd609430ec31549547e",
+      "bytes": 321724
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/test-3.4.png",
+      "sha256": "a13ed5911f983df226e710bb813bac6b6171fbd56f0cedbca6a7c2bcc42349e6",
+      "bytes": 235538
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/overview-04.jpg",
+      "sha256": "492373e2e09cd5501cb15cf95ff0c9210cd01aaa0c657f20a1b2dd0c19852e62",
+      "bytes": 415872
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/test3-0.png",
+      "sha256": "aec654613da580acf406d3ed458c4cd5dfa85c892f807ad6d269eca5c00fc298",
+      "bytes": 188410
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/source-voice.wav",
+      "sha256": "c37a187bba95cde336830cd541e7619bdea3457eb98070197bc9add454f85db2",
+      "bytes": 1305678
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/resolve-existing-typescript.cjs",
+      "sha256": "254d0f7fe931b5d6f7993ba221d95d0e922f22445aa020286ba0fb2e2a39f23b",
+      "bytes": 514
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/avfoundation-metadata.json",
+      "sha256": "0651be637573fb832379cea70d019fe2152504501d5dd1237e2db32394000ac2",
+      "bytes": 379
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/visual-review.json",
+      "sha256": "84ca6ab6fe57debe55ecdf0df52da4637c95a4533d6dd97ae9b1a4cd83f8faaf",
+      "bytes": 5648
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/trial2-board.jpg",
+      "sha256": "cf7b3d5d49b51716caea79337a6eccdf282824b5e53816f106c48446b55eaecd",
+      "bytes": 114238
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/overview-05.jpg",
+      "sha256": "0aa2323818d8aa7f45cebe5f61602de82b0f33795e03ece2f2dfb6037976d46c",
+      "bytes": 369491
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/gate-suggestion-current.json",
+      "sha256": "1fc25c887eecb05d424fbeb6d6309af6a90a60d0c07b446065345dbc09d02c88",
+      "bytes": 151
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/overview-01.jpg",
+      "sha256": "ca46391edd329aa9805394a3f7455373b18b645b3b37434adc975db0565a4d38",
+      "bytes": 379977
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/workflow-representative.stdout.json",
+      "sha256": "b6ea3bda40f5075e0ba746878a397cc03ed84df2743a5c15f891a63f1c3cb0c8",
+      "bytes": 39
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/gate-keyframes.stdout.json",
+      "sha256": "5bd732ada2e99190a2ea3039e5e2dddbd3a2d12ec2ff9ee9282fef3986eff2ae",
+      "bytes": 151
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/test-5.5.png",
+      "sha256": "47897b75020b91058fae4d7c1babbec640fd2daaa5d46983624000fcd205cb39",
+      "bytes": 225567
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/decode-showinfo.log",
+      "sha256": "ed90a261a87349bffb59ace3f1182bea1a8c64e263edb5da3d8f4920cee31708",
+      "bytes": 324991
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/parser-runtime.json",
+      "sha256": "2902c116b9ffd4f0eb4f4aa6b752cd3a0b8d9d056077a3f5cfbdb0291648ea90",
+      "bytes": 712
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/clock-lint.json",
+      "sha256": "24fceead78851cc6b93574053be956a5370a5c3c5668bc8bb078aee609fc79be",
+      "bytes": 57
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/keyframe-gates.py",
+      "sha256": "cd9ebdc445bdbe7b23c81b3a262ae05b0433daf326cc949a8bdccd0d2ea46274",
+      "bytes": 2718
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/overview-02.jpg",
+      "sha256": "0e14f0718171ef10ad4e8b3cfbf1169139fa88088a6c6f2c239d061d6dd4271f",
+      "bytes": 410962
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/fees-scene-candidates.stderr.txt",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/test3-11.8.png",
+      "sha256": "6f828b6e14a855bd403e264ff88a0fe2340c2edd1b248b80b47d5b50d704a509",
+      "bytes": 167245
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/test3-12.65.png",
+      "sha256": "d0002664ca7c4735fd6919ac23f759b6b427a7c67e7c5263f6eb3dc790eb04ba",
+      "bytes": 179601
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/test2-11.8.png",
+      "sha256": "6f828b6e14a855bd403e264ff88a0fe2340c2edd1b248b80b47d5b50d704a509",
+      "bytes": 167245
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/frame-index.json",
+      "sha256": "142c9f984bae4afe636d836919b832fa959a5736ba91010da26211e94d6461e4",
+      "bytes": 60156
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/motion-audit.json",
+      "sha256": "7af23856477bb9628f237b44b2111e3fdedbab0439464b073a8f4cee053c35ab",
+      "bytes": 932
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/overview-03.jpg",
+      "sha256": "f4c3ed195d1cbd6d6be009948821ecb5219cb576b34b9c705d320a6bcb8c3f3c",
+      "bytes": 399438
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/gather-dense-01.jpg",
+      "sha256": "b4835fc9dd32f76ec4281e09ec68b4ce459ae465c4eaf1ea78dc66b071be3205",
+      "bytes": 340507
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/fees-installed-top3.json",
+      "sha256": "c38c48e9b1e939654c1e73ce3044a9ddb23e055efce299ef8cfcfec6d121af1b",
+      "bytes": 26571
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/test-9.65.png",
+      "sha256": "7532154a43a4257da643b825dc481b7a384e39f8cab28d7dc61946449e7107f0",
+      "bytes": 142312
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/workflow-planning-final.stderr.txt",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/test-0.png",
+      "sha256": "7ec200006279bdf57a42ffb5c64f3cd02b95b5f562cf7f391aa66926963eae6d",
+      "bytes": 203055
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/gate-keyframes.stderr.txt",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/test3-8.8.png",
+      "sha256": "481e54d6770d41df7d962783666dbfbcfa583681a18bf52bba35a7d4907133e8",
+      "bytes": 229935
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/handoff-dense-01.jpg",
+      "sha256": "8f72a00c3958d62330442cfe3f1bb023b20a58571d347ec2c51e409a377c2a08",
+      "bytes": 385770
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/trial2-native-9.25.png",
+      "sha256": "156c35f9938c04fe6316fd0ecae5a8e84ed6cd844f9f59ccc7dbf5a7b463e0aa",
+      "bytes": 244935
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/update-trace.py",
+      "sha256": "cda70a61eba0384c81ccf6cc3add53fa4b82bdfdb6ebb572ea490e3baf469e90",
+      "bytes": 1934
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/test3-6.5.png",
+      "sha256": "d2916b7fa659fc9b4667350927c3e3afd8ea953b27508a58e72dbd20792eb319",
+      "bytes": 222410
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/handoff-dense-03.jpg",
+      "sha256": "[REDACTED_PHONE]bb5ad758fc17494a13a3193f78afc993a6c45e4e8e9b37e6150d8",
+      "bytes": 270883
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/workflow-planning.json",
+      "sha256": "b6ea3bda40f5075e0ba746878a397cc03ed84df2743a5c15f891a63f1c3cb0c8",
+      "bytes": 39
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/gather-dense-02.jpg",
+      "sha256": "b128b537a34e8456632eafd8deffbbf871cd5236d18b2fffd999613a0a5e8e1e",
+      "bytes": 408921
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/workflow-planning-final.stdout.json",
+      "sha256": "b6ea3bda40f5075e0ba746878a397cc03ed84df2743a5c15f891a63f1c3cb0c8",
+      "bytes": 39
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/workflow-representative.stderr.txt",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/test3-9.png",
+      "sha256": "621a6a37144ac90d6a3c837bd4ee7eb2685f53c0f7b25ef27d97ef99ac3f9d66",
+      "bytes": 219910
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/test2-0.7.png",
+      "sha256": "a7c20add430db2328551efb24dc0704e3dba854b04d3b738be88da43a2dfa1f6",
+      "bytes": 222741
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/trial2-native-9.1.png",
+      "sha256": "926cbebd27dc69b106251d99a8d47a30d9ee91d2e0558afe61db2d382a575c37",
+      "bytes": 234661
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/gather-dense-03.jpg",
+      "sha256": "39261ea40559d6fa283030a9497f8f8de19be8df860e258cfe8a26a90e67e1cb",
+      "bytes": 68296
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/handoff-dense-02.jpg",
+      "sha256": "71760f83ed7659b9996390992a86597165f2b0dfb2b9bc49e0bed1909c0f6bd0",
+      "bytes": 363842
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/gate-suggestion.json",
+      "sha256": "412b49e1c3f4f91ad6e5f0adc14851cea0d91c4ea2da0d5183383d6a4fb3549c",
+      "bytes": 151
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/test2-6.5.png",
+      "sha256": "d2916b7fa659fc9b4667350927c3e3afd8ea953b27508a58e72dbd20792eb319",
+      "bytes": 222410
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/additional-candidate.json",
+      "sha256": "b23160ad6cd7a9a54d95e6297fe2dd21d2a6a1aef96a5f864c14b315cc6b9fd0",
+      "bytes": 12416
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/toggle-dense-01.jpg",
+      "sha256": "b601464e991cc7339ea10d749c0a8ce709a2e82f4c637ad4e3392fa604d45045",
+      "bytes": 392770
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/test-9.1.png",
+      "sha256": "cbe37029513ab28bc33603647de9066055be40018b346931914e8e1e503a59af",
+      "bytes": 200801
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/trial2-native-5.9.png",
+      "sha256": "8213f11e969bc0f315c02fd7240e9370b6e065946f9ed761dc631936445e30c5",
+      "bytes": 213458
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/test3-0.7.png",
+      "sha256": "a7c20add430db2328551efb24dc0704e3dba854b04d3b738be88da43a2dfa1f6",
+      "bytes": 222741
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/trial2-native-9.35.png",
+      "sha256": "becd2d14271976bb385a1d6f7dd6744402ae81cdcf84ab908dd0b6b90bc90572",
+      "bytes": 253827
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/manifest.json",
+      "sha256": "997c049d60fd64da9749b060a171a34a27c768edf4018166aaf657cf28450957",
+      "bytes": 19114
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/toggle-dense-02.jpg",
+      "sha256": "74f3173728fd414010e1d160344d2388e404aa7fa429c8a081ed714f78895cb5",
+      "bytes": 431388
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/toggle-dense-03.jpg",
+      "sha256": "657bf7dbf989ee21edd2d6ee30efc5aebc881e2ac4d71bbe9e6e468c83499d02",
+      "bytes": 357451
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/test2-8.8.png",
+      "sha256": "481e54d6770d41df7d962783666dbfbcfa583681a18bf52bba35a7d4907133e8",
+      "bytes": 229935
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/test2-3.4.png",
+      "sha256": "a13ed5911f983df226e710bb813bac6b6171fbd56f0cedbca6a7c2bcc42349e6",
+      "bytes": 235538
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/comparison-player.png",
+      "sha256": "78daf8f3d189d3e104668ed5ef2c338040889925bccbb55a33b335aec1ecc1ca",
+      "bytes": 310124
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/test2-9.png",
+      "sha256": "621a6a37144ac90d6a3c837bd4ee7eb2685f53c0f7b25ef27d97ef99ac3f9d66",
+      "bytes": 219910
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/trial2-native-6.03.png",
+      "sha256": "68e4f8cebc9121a6cdc1ab0e4b8c61ef2542ee6ac7e3318d81484bb548259c5b",
+      "bytes": 200882
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/gather-top3.json",
+      "sha256": "cd93ff80adbe13981347f5db6f7b8c12abf6e396e40899f596a6917135eafb0f",
+      "bytes": 27110
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/fees-scene-candidates.json",
+      "sha256": "78f5714011f654a02f11501dc6a17b66d7425c5ffa38b29010df89f347cd5cb0",
+      "bytes": 33829
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/v7-interval-audio.json",
+      "sha256": "7a974681be2be5cb1c6b9f984b587e8fadfa131f451a79eed2eaa7a89044a5a2",
+      "bytes": 329
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/test3-5.5.png",
+      "sha256": "4f51a550f0a80a15ec3620cefbadfc7ab3c438059d4c569ca5ffc491e1b3b75d",
+      "bytes": 225934
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/player-check.cjs",
+      "sha256": "dc5573113bf83822bd76d409a13aaece7aebb900369aa0dec871101f899fa9df",
+      "bytes": 2600
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/gate-keyframes.json",
+      "sha256": "26ccdad2a52ac8b048afb4cdba8bf73eb1c2b61c42f68cdd280b3c0524df2b07",
+      "bytes": 150
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/trial2-5to10.1.mp4",
+      "sha256": "561355f5b3b7d867eaaddbb4f9456c497449e11b566eb35353a6b5a6b2be3fbb",
+      "bytes": 458898
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/reminder-scene-candidates.stderr.txt",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/technical-qa.json",
+      "sha256": "46889f63b2fd1c68dd2fe4d3c10295c7aae09d4488e6d3c93c67fd5105b1b4ff",
+      "bytes": 797
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/test2-5.5.png",
+      "sha256": "47897b75020b91058fae4d7c1babbec640fd2daaa5d46983624000fcd205cb39",
+      "bytes": 225567
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-qa.py",
+      "sha256": "e1db5ef6f55f88e2fa13427c1e965bc754fe5e16b3042741934ee30465bf67ed",
+      "bytes": 3567
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/prepare.py",
+      "sha256": "48784d5e1970a7a314b73a3ca05ed0bc93541dca2b8e2ae80b820357cbc46d1b",
+      "bytes": 7714
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/trial2-native-9.95.png",
+      "sha256": "6d4532e10d7139d3b6d6ca46d409a77cee19987b916de6e2a8a3a463f09ce5c9",
+      "bytes": 206583
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/full-muted.mp4",
+      "sha256": "d1fab9a0ad944098885ae9065a5aab59f99633dc50bd07494da532e8bad5a127",
+      "bytes": 805940
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/test3-3.4.png",
+      "sha256": "a13ed5911f983df226e710bb813bac6b6171fbd56f0cedbca6a7c2bcc42349e6",
+      "bytes": 235538
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/test2-13.5833.png",
+      "sha256": "a626110ca1a916d51d5a7a874d9203a094767ed4775d59bf84bb1199801c68a9",
+      "bytes": 165869
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/test2-9.65.png",
+      "sha256": "7532154a43a4257da643b825dc481b7a384e39f8cab28d7dc61946449e7107f0",
+      "bytes": 142312
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/test3-9.65.png",
+      "sha256": "7532154a43a4257da643b825dc481b7a384e39f8cab28d7dc61946449e7107f0",
+      "bytes": 142312
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/test-13.5833.png",
+      "sha256": "a626110ca1a916d51d5a7a874d9203a094767ed4775d59bf84bb1199801c68a9",
+      "bytes": 165869
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/references/t19c-fetch.json",
+      "sha256": "195231234ec0c51dcd93a5c38c862e640f00ede6cf6d67c6a9489c56e1b0884e",
+      "bytes": 1043
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/references/top3-coreframes.jpg",
+      "sha256": "0e08ca32d40ace161208f67b44221d788409a52d8c498c2205fed59349d672d7",
+      "bytes": 38783
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/references/t19c-coreframes.jpg",
+      "sha256": "5093f6508a5df5a57873a231e34a8d5b74d765aa91aec9ee67a4eff9972dbc7f",
+      "bytes": 68603
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/references/library-new10-n044-2.jpg",
+      "sha256": "d20adde0f0664b06af435890c6b8a23d149d7729f3fb4b2fcf596d7ee2ff23ab",
+      "bytes": 67632
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/references/gather-fetch.json",
+      "sha256": "2e31a611e3deb35356101095b148af408fb7e24e549e16b4e9ab8472eb2bb510",
+      "bytes": 1184
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/references/library-new10-n044-1.jpg",
+      "sha256": "ac2a8d5ae16ccb32d99b7a9aca7dd989e0fe99db1988818bda6ef17a966f05cf",
+      "bytes": 55260
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/references/library-new10-n044-0.jpg",
+      "sha256": "648cd169685bdc01f2addc714be994f9ec9273ede1bc8ea65d3541959b15c8f2",
+      "bytes": 55699
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/references/new30-op09-2.png",
+      "sha256": "e327b795f3c180f6685a3718840b30d6350f9a548895d7229cb834dcf2e98d4f",
+      "bytes": 1261487
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/references/new30-op09-0.png",
+      "sha256": "d6a9a0ae63c8ce256c07d40ac1e5140d9f6002fcb8aad37889b08b3da267359c",
+      "bytes": 2372896
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/references/new30-op09-1.png",
+      "sha256": "31697556e3d8ba25932647b019d2672e341d79eb6353a638aff8d9f310e85ee8",
+      "bytes": 1191572
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/references/fred-native-t09a-0.jpg",
+      "sha256": "4e2ea7b7433b37a29ae8e21983295a43c83a29b9540cae1ccddd2616e6452ec5",
+      "bytes": 28306
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/references/library-new10-n026-2.jpg",
+      "sha256": "3ef19be579ab0d60c0c60ee10addbc8d3f0f3fc311be6d51fede359e10804823",
+      "bytes": 119166
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/references/fred-native-t09a-1.jpg",
+      "sha256": "7df94d652b799ca214ffba6775908ccc042ad0d2fbe5d5a463b97896a54d273c",
+      "bytes": 21601
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/references/library-new10-n026-1.jpg",
+      "sha256": "27e8d91bd66a43dba701ac80536d1d530d999ebd7eaab034b58901803e71e1aa",
+      "bytes": 168302
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/references/library-new10-n026-0.jpg",
+      "sha256": "3c60e392c9610e268a0d3ca453833bb9ec4e21308e51b2f22dc58e8d09dd06ea",
+      "bytes": 205441
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/references/gather-coreframes.jpg",
+      "sha256": "263a5b11ecca9b4d2d8660f2930db46885a1f639074cd4bc327b4b64ecd3b2cc",
+      "bytes": 55939
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/references/fred-native-t09a-2.jpg",
+      "sha256": "695a53d522c52fd31c9ba398f7808b6ea51101e15072d976448c3fcfb51eedc9",
+      "bytes": 25040
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/references/fred-wave2-42-t15d-2.jpg",
+      "sha256": "b0ab9516d810c9e51a53957cb1a7bd7b84d637a3c34eb6ed032e641c20c2c464",
+      "bytes": 35805
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/references/view-index.json",
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "bytes": 2
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/references/fred-wave2-42-t15d-0.jpg",
+      "sha256": "c2c109562bb2ddb0723e29ef7787efeadb88b76841a6ebdb9295b7cfffca9280",
+      "bytes": 30377
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/references/fred-wave2-42-t15d-1.jpg",
+      "sha256": "8cd31a6b48d4cd4fbdf190f3fe079dab4490c6230f29e1912f5f6be105ba4945",
+      "bytes": 35549
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/references/library-new10-n008-1.jpg",
+      "sha256": "6ff557e766bb08f0e1e8d80b1c43ac5130456a98dd84b5e8d6320a012018a228",
+      "bytes": 47747
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/references/t19c-0.jpg",
+      "sha256": "80fe818aba2b499cdf61841618321aa5c1ba675ccbb5b367c92c20f7e433c953",
+      "bytes": 88054
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/references/t19c-1.jpg",
+      "sha256": "d8684c706193c0b36317f5d17650585e05206e52818a4e21a6ad57e17f6d6edc",
+      "bytes": 93425
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/references/library-new10-n008-0.jpg",
+      "sha256": "d4207bd896719880d85e7b994e664916ffe4724923151c8a5fcb22f4661764c2",
+      "bytes": 66806
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/references/library-new10-n008-2.jpg",
+      "sha256": "670ccf6a8ab12a7f492fe403e3841f450e9a0c602a7884b0adea495ed35a0c22",
+      "bytes": 85300
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/references/t19c-2.jpg",
+      "sha256": "cd088cd56214546815c34d2ae57611e58a8991376f306de243ec6c05dfdc2598",
+      "bytes": 93407
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/references/top3-coreframes-verified.jpg",
+      "sha256": "3480861e771ea48899c79514630f2cc05da3d74e597cc864d77a240ce8c57c3d",
+      "bytes": 147156
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/references/fetch-receipt.json",
+      "sha256": "59df205277fe42921bd7e8c7e89853db223507f1faaf15ff7506f7353b1ea5b2",
+      "bytes": 8033
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0188.jpg",
+      "sha256": "87f8306365981c380fc77b4b8bbabc6e91da3c9f46cbfd373d68bff7a6281eb1",
+      "bytes": 11755
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0177.jpg",
+      "sha256": "809875e2bb24b990c5e3989cf8fb5d8171d46af4361d792ffc6aa35109a5d42f",
+      "bytes": 11665
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0163.jpg",
+      "sha256": "2ea6a463d68a8b48a7bf9b741a119979efb70efadc6e3b5e284473f88fb19777",
+      "bytes": 13848
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/native-f534.png",
+      "sha256": "cc50cff25bd23908163d3eff27513f3998311cdf56b66cf63004c4754702aacb",
+      "bytes": 257905
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0003.jpg",
+      "sha256": "2dffaa66cab0bf03c0914bf9e189c266344b56d42e726dff23a5f6987b905fd8",
+      "bytes": 12345
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0017.jpg",
+      "sha256": "1f5012f0cb225004fa5306bf7a3d7176bdd96392626ac72cf845f315e5c11691",
+      "bytes": 15055
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0201.jpg",
+      "sha256": "1a1daa2819443ab7d27222977ad6f15ab4a45a3adb512e4ccc21474b1338c1b8",
+      "bytes": 13386
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0215.jpg",
+      "sha256": "32e55c5f8f39253e7637c4c5931cd1c8a58a8233939661cc566dfdfc010e521b",
+      "bytes": 13930
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0229.jpg",
+      "sha256": "61620ad8a6907b52bd731a45c4c8a87ade54b77d96af55cbd488f7d44f076faf",
+      "bytes": 14354
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0228.jpg",
+      "sha256": "681da4efe9c45996fb199411f44649c306e71e7796023556833f7f90f463d558",
+      "bytes": 14347
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0214.jpg",
+      "sha256": "43b14471395a95804160d6938ef7937def8473d0bdaadcb409d4ad2f459d3635",
+      "bytes": 13935
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0200.jpg",
+      "sha256": "683ee68be6fb7e5aca310cad4ffd414a92a5943ad47f93baa5a3ce1c8ec99d1d",
+      "bytes": 13400
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0016.jpg",
+      "sha256": "0361da14a3d9a9e7c5f71846a8985aebafbfe1b3d1e32c66cd3bfe8cef0c44a9",
+      "bytes": 14090
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0002.jpg",
+      "sha256": "0df5ccbcf7d221433747d79b6b8a93414215c81b6a54d2962cb7c2f2d801df70",
+      "bytes": 12253
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0162.jpg",
+      "sha256": "27df13e988a44dd9450d67a62b7497135b80771793028d73be6de9f1810ca36e",
+      "bytes": 13953
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0176.jpg",
+      "sha256": "ddbb3de0da14173a43b4205bdcf9f0d5aa5c236bc66dea339d41c36716f78e3a",
+      "bytes": 11919
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0189.jpg",
+      "sha256": "6fa8c8ccc2a0bdc5f7130ecf822477e656a2cc191b5ba662827606d52aa0e55f",
+      "bytes": 11753
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/native-f723.png",
+      "sha256": "b311bd977355aead4fa828c9b16b5e0ca0ddc0ebc4a8d94925fa2c21589a81a5",
+      "bytes": 269202
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0160.jpg",
+      "sha256": "c142bd3c92b9c02d403677755b94c307331d319dafc916c26b2397615f7435af",
+      "bytes": 13896
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0174.jpg",
+      "sha256": "75e1f177a38b8c6ac8fe8f12907ab53e2991b10485936427f586ae655c24d56c",
+      "bytes": 11841
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0148.jpg",
+      "sha256": "08e77526b3aadfa3c07a97ea22cdd4f0a35edd3c00dfef91755a47582b13f780",
+      "bytes": 12896
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0014.jpg",
+      "sha256": "0b2a9dd443c9317b4b198852fc4cb72d667fa7686e83014173739ba79db9ec1d",
+      "bytes": 13434
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0028.jpg",
+      "sha256": "e442b4624e20a31dc638a8fdb733bc78d159631556b77391092623c5d9dbe691",
+      "bytes": 15190
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0216.jpg",
+      "sha256": "304b7894fb89049c0831294ef831bf597fdc13bffd92bc2a9ade936fe98d0891",
+      "bytes": 13935
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0202.jpg",
+      "sha256": "62de9fc7884380b195206cab41bf07b55ba43d00aba6d2744a97bce2c6e68843",
+      "bytes": 13400
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0203.jpg",
+      "sha256": "647083763fbb754386b1a3ba1f42cdb09e7f43c49782f38a697782489e4633cf",
+      "bytes": 13390
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0217.jpg",
+      "sha256": "7a601c0f167369921fa77a03b1ef2b7acce9bd84445f79005fe6c13a8674020a",
+      "bytes": 14022
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/native-f330.png",
+      "sha256": "7d9e00c35523502b71aad4ff44c4ef6792abeadcaeaab948c66ba24e302594b1",
+      "bytes": 256434
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0029.jpg",
+      "sha256": "5381c1cb4277803ae719a725ae768a0178a137c0ffb1fbc8e641b65650f4fdf5",
+      "bytes": 15191
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0001.jpg",
+      "sha256": "8f121ee0c4b04dc3e58f41f44c876de322484a9e14aaa82d02a011a8cfc6221f",
+      "bytes": 10272
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0015.jpg",
+      "sha256": "35901da5f1b83c5e2372e32eb75bfdcfbab677b4b4f543b137964d9b2a91996c",
+      "bytes": 13426
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0149.jpg",
+      "sha256": "c4fc4bf183080ce10fcb46d6050632fa7a046697e9cf7f27e8b655f15d689de1",
+      "bytes": 12697
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0175.jpg",
+      "sha256": "6aba3ea054b3365cae92b584c1cfbe462b5a1e38aabe1da501e4660fa93b59f1",
+      "bytes": 11843
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0161.jpg",
+      "sha256": "5b070dfa514cddf443fa2e63b7ce5396996e822cc5f506a75798600a7badb44c",
+      "bytes": 14122
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/native-f708.png",
+      "sha256": "8e98608ff6d3ca28707f36f569bedfb819de9020dad219d26acfdf0fdb63106e",
+      "bytes": 267241
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0159.jpg",
+      "sha256": "65d8e499a20dd8e6d5edc44ee3d8d473b1c2f33df80a21f08db10efe0eb2ab6b",
+      "bytes": 13902
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0165.jpg",
+      "sha256": "4721e2900e097bef7e5a646c98af36d64481319f5a3db3b02d355acc2e7174a3",
+      "bytes": 13324
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0171.jpg",
+      "sha256": "d7f1392175f0de42e70ec034aae593e33b0c44f4418fec532bc212e0f4dc1910",
+      "bytes": 12191
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0039.jpg",
+      "sha256": "834548ceea126d192baa6ac45933fa48eec1b45662b517b7758b0872ba489d10",
+      "bytes": 14883
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0011.jpg",
+      "sha256": "61963e01d3a65a6b07d1ee4e1c6c99fe4ef01b89185f51177a1411f48c85b3f3",
+      "bytes": 13425
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0005.jpg",
+      "sha256": "917d1ab50d135b42fb6c53c33e1c25817d9396b68e2ad3d034409bca6d2dbda4",
+      "bytes": 13339
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0213.jpg",
+      "sha256": "9ba5fe50117b435825acfd77248799c3c76335aee603ea662ac0acb0eb09b53a",
+      "bytes": 13957
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0207.jpg",
+      "sha256": "c22166f24d8bc34f6f13b27d29e07ae7df713ba9f8d9da3a7bb2ef61baac982b",
+      "bytes": 13867
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0206.jpg",
+      "sha256": "6357e481e40a0b91b907d42ca6f5a0bf83b6b8fd8bbda5e1dd46a88f8fb01f28",
+      "bytes": 13718
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0212.jpg",
+      "sha256": "0919ed3fa740da19615ac75d356acd5fb2e4406fe46396438ed3851ea2cbba9e",
+      "bytes": 13962
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0004.jpg",
+      "sha256": "a677a8c7f0ac5925c208a5928238e1afc19f3ca9108c9e1c8bb63ebcb74fa4df",
+      "bytes": 13148
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0010.jpg",
+      "sha256": "08038bbe1e549517db00f5cc324ac8afdbd647d4fd8bbb8b33d7f8c9884b2f2d",
+      "bytes": 13412
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0038.jpg",
+      "sha256": "5014c859cee14978a06302f9356252215685cd354bb0dc4696646e8658fde5e4",
+      "bytes": 14892
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0170.jpg",
+      "sha256": "5116518bdce71e1dd10593bd5f2c14ca66d0e0b61b0eae265190b3d45bd2ba93",
+      "bytes": 12318
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0164.jpg",
+      "sha256": "752b948fe8319cdb4271af0acb366a1e77c0676df046be4885a8644cabb87ea2",
+      "bytes": 13453
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0158.jpg",
+      "sha256": "bd9f13d74f13597a7e0743a7db61e5ada0433b69ca69f5f1e8ff24454f417d05",
+      "bytes": 13911
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0199.jpg",
+      "sha256": "1e26978f968f454efe10220a00d3e47b0212e81f427607e0266c526ff368c944",
+      "bytes": 13327
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0172.jpg",
+      "sha256": "dfb91c3ea58a2575d057eabb88ac974ba7f16b8a450808331a8a70c345b2a02e",
+      "bytes": 12213
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0166.jpg",
+      "sha256": "3768f7269ed5fce4f1b119b1a48c872962991a7f395d1921d5d651a1f36aba06",
+      "bytes": 12917
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0006.jpg",
+      "sha256": "d4582300656e0897ac43802ba7ab8193abcab0a51fe179eae52a0d661ceb1bb3",
+      "bytes": 13382
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0012.jpg",
+      "sha256": "52db720a5bd2a5d9d363505ea24d331cf8fbfd94220de1a4e7558be33c49ffc7",
+      "bytes": 13429
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0238.jpg",
+      "sha256": "6948aaabe9211127f399e9f146dfea5adceb23263fb60031d82c0443361d9b03",
+      "bytes": 14375
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0204.jpg",
+      "sha256": "f44005364cc43f0df7fc8012accf9ef9d90339073f2f9ca6ccef63487bfa3a63",
+      "bytes": 13402
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0210.jpg",
+      "sha256": "8c87601a394e759e9eed43de331dbb34dea6e8e74565465d42b726493350cfce",
+      "bytes": 13987
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0211.jpg",
+      "sha256": "a5e468f211303951c26aa51f12c847388e8a889626eaad0b54d5476a4a5a4e2b",
+      "bytes": 13959
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0205.jpg",
+      "sha256": "7f169f66c9bff3e6abe3295a92dd0b1f46a63b40a1510bf10cd6a9aa97f99f8a",
+      "bytes": 13398
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0239.jpg",
+      "sha256": "1f87af7ff748a3917ee80e3556cb4291eb701d5729f1aaca81fd4c68943839ea",
+      "bytes": 14397
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0013.jpg",
+      "sha256": "454546566c581687cd3bb59c38bed8b040d4f2cb3289cb6cf135327342973384",
+      "bytes": 13429
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0007.jpg",
+      "sha256": "5c9f83a127721e916f021b0500accaefe7a13dac53f9ae673a75556ab8a4525c",
+      "bytes": 13370
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0167.jpg",
+      "sha256": "f408a46194e288ffce73c5e0dd09b85cfb96c6e9fd9b0fdb8bcb8d9508416e7e",
+      "bytes": 12593
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0173.jpg",
+      "sha256": "27ee3d46d3f6c0b85a4c186c8dc0dd85c21034a870b14de68940058a273b86b5",
+      "bytes": 11945
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0198.jpg",
+      "sha256": "8ee4d9d4575aae960861bf6ae60be98d3eb0bf7f244fa63e8a0ccb4c55c50b32",
+      "bytes": 13143
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0114.jpg",
+      "sha256": "3fc948d5aae44fb5c59fdd7221ecca3d85c9b07c53d5eedb135a27e5b979df43",
+      "bytes": 16086
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0100.jpg",
+      "sha256": "12b2dbc23125b509a382753a3cfa08caab110ae4878f54738fbd4be6c9d4b45f",
+      "bytes": 15034
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0128.jpg",
+      "sha256": "1c82174af446ada90312790d886832775dc839d4b1d345e1a94ddde586625723",
+      "bytes": 16115
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0060.jpg",
+      "sha256": "a8b51481c90fa6d28ea839077983e16aa7d3d3cfe7404cffbff5a1ccc186a9a7",
+      "bytes": 12839
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0074.jpg",
+      "sha256": "61f8e7adcafc05ba3932f86b1fca581a3d8779c0c5f66dd651bdea6619794555",
+      "bytes": 11246
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0048.jpg",
+      "sha256": "d4a33bb5b74f946a2cd3f8e3f6606ab7b7b327f0c073bb2f0385557a48811a30",
+      "bytes": 15051
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0262.jpg",
+      "sha256": "b3107d418733ddae3f9508849a8fc753c42f3f97876b81b2482210ba91124090",
+      "bytes": 16167
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0276.jpg",
+      "sha256": "0d54eff47ce4ee59484d3da8601f5016bc158c96752e9dcfec23dda131743d51",
+      "bytes": 16283
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0277.jpg",
+      "sha256": "0d54eff47ce4ee59484d3da8601f5016bc158c96752e9dcfec23dda131743d51",
+      "bytes": 16283
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0263.jpg",
+      "sha256": "e7606c73a7b62d7590148fb8de924adbdf1d9dc9db33181c6b109f759125e783",
+      "bytes": 16170
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0049.jpg",
+      "sha256": "e9e280f118e335905fddcef9964fe5f8ab8d58e618583b4d5728506c4b29a7c9",
+      "bytes": 15058
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/native-f378.png",
+      "sha256": "ed8ba88b208fee746e630d7a3039316982c6f5d9cc9d404533f857e39e2f1c47",
+      "bytes": 268372
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0075.jpg",
+      "sha256": "e6671dea93257a93c99ffaff19728670aab5f81234a5233c125a89bf04d89bb2",
+      "bytes": 11232
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0061.jpg",
+      "sha256": "d48e18c840a656557545d034a2c50f3e0ef065b4b2f9b4a6b679eeb9a01ae9c9",
+      "bytes": 12805
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0129.jpg",
+      "sha256": "062d68ed12de3f43c39316bdafca1d0d01b7f536b7596413ae503233ffdb7d59",
+      "bytes": 16103
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0101.jpg",
+      "sha256": "db7735712573681b12f1a79aa1f7c00c41a17886fc8aaa2d0be3ddee23f71f8d",
+      "bytes": 15042
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0115.jpg",
+      "sha256": "3fc948d5aae44fb5c59fdd7221ecca3d85c9b07c53d5eedb135a27e5b979df43",
+      "bytes": 16086
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0103.jpg",
+      "sha256": "6df28e9d820b8c9a40195e538ab85a9a7a046280e71d3fee568c96ef5b226443",
+      "bytes": 15052
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0117.jpg",
+      "sha256": "3fc948d5aae44fb5c59fdd7221ecca3d85c9b07c53d5eedb135a27e5b979df43",
+      "bytes": 16086
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/native-f540.png",
+      "sha256": "ae80225d89044c2476736c86517ce2c039f28e3c23093641ed6b056bc7313871",
+      "bytes": 248953
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0088.jpg",
+      "sha256": "d734cb9da75fc4f810c055fb77a92f9350b309eed6d88febb15dc212203fa48a",
+      "bytes": 14907
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0077.jpg",
+      "sha256": "d075aee4f427f931e22c3273ba0ec42643148db8adf52705d3573f2931ef82b4",
+      "bytes": 11153
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0063.jpg",
+      "sha256": "edb0c620028c654eb8587d54166afc872fc47e15b4cde887ad40fda939c069c4",
+      "bytes": 12622
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0275.jpg",
+      "sha256": "8b0c656a28d91213e72723681be765007e98cd019b196b01d5c4e1310e1ede43",
+      "bytes": 16256
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0261.jpg",
+      "sha256": "8de88a14c9865e6e30be63a182eb7f72049c9b43d0efa9bc91f7ff03ca79c90b",
+      "bytes": 16206
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0249.jpg",
+      "sha256": "2643dfb7d97587b3ab9b6c1de1206cd8a5b84cba93578a9f6365d17c0d635f12",
+      "bytes": 16195
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0248.jpg",
+      "sha256": "08b71147758696262ee85dddb3503e723faaa08f93013d8454421b238d3584a6",
+      "bytes": 16167
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0260.jpg",
+      "sha256": "7edae88920e4419866c0b509c8ed4117df45b36e3068e81e97c68992506ba904",
+      "bytes": 16176
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0274.jpg",
+      "sha256": "50b19bb4eb7dd38b4bc8b0ac6d9bf0034b6cc5be4f21da252db3d1ae06a0dc92",
+      "bytes": 16273
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0062.jpg",
+      "sha256": "10a1723d15d9fc56b27bbb92ff66b551083d54a4d86b159a14a81107e35cb440",
+      "bytes": 12690
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0076.jpg",
+      "sha256": "8e7943d6da76c64c5db31b8a725fc77fd58c3c3427b9fa4f3c34e943be45f12e",
+      "bytes": 11185
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/native-f390.png",
+      "sha256": "bd95f2b7d73ddf230629fcb7da66773eb19f5f02fd20ea1f015987365e61d1f1",
+      "bytes": 267200
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0089.jpg",
+      "sha256": "83e168728add26ea64ae8d94fabe3a528dc03ee08397ca36692431fbb7163a84",
+      "bytes": 14949
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/native-f555.png",
+      "sha256": "f52c202378f850d58211933415ddb91ae7d7168c002ca5898845d03a9634b162",
+      "bytes": 256032
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0116.jpg",
+      "sha256": "3fc948d5aae44fb5c59fdd7221ecca3d85c9b07c53d5eedb135a27e5b979df43",
+      "bytes": 16086
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0102.jpg",
+      "sha256": "dee40dcf2d707236e8b090ae5d39875c1f60137c7a0941e2a5acd706dd8629d1",
+      "bytes": 15053
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0106.jpg",
+      "sha256": "b8818c96ac38ffc15f80418632bb93dc0b4fdc6e962a9734a12162ea3904c3e1",
+      "bytes": 15055
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/native-f579.png",
+      "sha256": "3a0ba3bf4179461b50e7d4ab10d7e66a1a7fe05dac9205d63c513904b72dcaee",
+      "bytes": 209522
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0112.jpg",
+      "sha256": "3fc948d5aae44fb5c59fdd7221ecca3d85c9b07c53d5eedb135a27e5b979df43",
+      "bytes": 16086
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0099.jpg",
+      "sha256": "0c6294e6472bd4fd06b6597f16ff3d24c9c2dfbbfe96b81861a74660cef4f8cf",
+      "bytes": 15033
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0072.jpg",
+      "sha256": "d67b93493a0db764d5075da5e89e4124bef9a3411b42b3dcb17b09aab34dde36",
+      "bytes": 11440
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0066.jpg",
+      "sha256": "f5705381ccee9f18d7e42c42dd81281c2ea5d3b78ae647616e08f5cddac2f5e4",
+      "bytes": 12105
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0258.jpg",
+      "sha256": "341a3239c711bff614587fc778026429fe8150aecc165bde11af822d6f4071af",
+      "bytes": 16206
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0270.jpg",
+      "sha256": "2e5cdac4a63236208b0bd17d40a4708b2bab8ba3b8c681a7ab5b0a0939f0bef8",
+      "bytes": 16246
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0264.jpg",
+      "sha256": "b307ae93457a6b43a791e80065d403f5f4c122b09f3063f508658eee5653032f",
+      "bytes": 16169
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0265.jpg",
+      "sha256": "00bfc746671c3f79ba1dd8c47d42acf84eb97c95183fa791c185a21ffe78988f",
+      "bytes": 16172
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0271.jpg",
+      "sha256": "2b534e7de24a0ecbe640be94015f34e0ba60362f90b252d22447d62a77d5b658",
+      "bytes": 16273
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0259.jpg",
+      "sha256": "c8a1de9e59fc260ea95b838dc7b068e0a42993a349df734479af06b86aa83867",
+      "bytes": 16168
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/native-f815.png",
+      "sha256": "226ca39b89163e55ec47934d4a3a0d0f38ad97c77bb39ee81c51c43734089a54",
+      "bytes": 233383
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0067.jpg",
+      "sha256": "cc260578f1bc2b069202ac636a7cfd69eb2faaf1408a4b410dcbdefa645c882e",
+      "bytes": 11923
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0073.jpg",
+      "sha256": "5647bb318d89a16b9a1f5dd59e8ae71bcc7dbf134016078b7ac8d3e7de5cafaa",
+      "bytes": 11417
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/native-f342.png",
+      "sha256": "22be0148a46d6b947c39e1ba2f724fc05c533ae6b273ccc1a990c4aea1c507c2",
+      "bytes": 240642
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0098.jpg",
+      "sha256": "00b8b1f44cbde0a6806a5ca38d78aefb4c4b6a497860fb1f45d106572ed75922",
+      "bytes": 15039
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0113.jpg",
+      "sha256": "3fc948d5aae44fb5c59fdd7221ecca3d85c9b07c53d5eedb135a27e5b979df43",
+      "bytes": 16086
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0107.jpg",
+      "sha256": "c76b7f00cc20d80ef4f6323749b095633d19c432f502fdbf02a15de4edff3ecd",
+      "bytes": 15056
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/native-f744.png",
+      "sha256": "bc06c119507d37e6d92fd4351910df3310f94f3bf4a8dd95dce6df507510f99a",
+      "bytes": 306929
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/native-f546.png",
+      "sha256": "90a752db2a5435e9fe09eeaaece5d9cc0a1a952eaaf5fd3127bda51c24699939",
+      "bytes": 228668
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0139.jpg",
+      "sha256": "87923ae8a6770105cbd82f69dabac029f198d9fb2a8b6d3288c5b004839f5330",
+      "bytes": 14371
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0111.jpg",
+      "sha256": "3fc948d5aae44fb5c59fdd7221ecca3d85c9b07c53d5eedb135a27e5b979df43",
+      "bytes": 16086
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0105.jpg",
+      "sha256": "ba341079cf7b0b97bea32754d29a2c31703c4b97eb3e9b4a73437766215e34dd",
+      "bytes": 15047
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/native-f354.png",
+      "sha256": "7ec541456eb5698b7d895e38f2b02ca78e2cb561bdd589cadbc918dfb2ef4266",
+      "bytes": 206714
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0059.jpg",
+      "sha256": "a2d9352e57a1f9fc703897555b1f75a260d86a12ece9c3eddc5ed226a0203bfa",
+      "bytes": 12950
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0065.jpg",
+      "sha256": "6a0c7d1e7d69dd4209fc3eeabb0f3cd5112ec06a0432282c801fc4caa9f119fc",
+      "bytes": 12285
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0071.jpg",
+      "sha256": "f45815f6990b3fe76cf0ad596287911f297dd9c24d6414feee6348f287d27c68",
+      "bytes": 11475
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0267.jpg",
+      "sha256": "9d070fa226baf27baa16e2f3bc6ffebed73f9792b76a4958f8637a6f5358c6da",
+      "bytes": 16238
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0273.jpg",
+      "sha256": "88fa35abfc6a3985a6da71ad5a03851cfe8ffff7ff5adc5313180572c4ac63bd",
+      "bytes": 16250
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0272.jpg",
+      "sha256": "bf3f04c93eab8bd7a814d13e6e7a4afdd43f0fd7517560e4335c7808a0885b17",
+      "bytes": 16249
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0266.jpg",
+      "sha256": "3fcdf94832c516adc301f6e79856ddc807cd6e9914bf80652a28c8c54e28497e",
+      "bytes": 16234
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0070.jpg",
+      "sha256": "9444e653c806f4e3517a07f3fa2ab972fe0fc9223c4e4fc6908fcd951cc01fa8",
+      "bytes": 11518
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0064.jpg",
+      "sha256": "97abe4531abf0fbe13a9bd904f629879706f9c12e1c0df7eb383e5ac7bd02e92",
+      "bytes": 12538
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0058.jpg",
+      "sha256": "3e86231aee060a0c6b0cf4b943dc41379bd5b75dc4ffb8fcea5459f1bf5cb57f",
+      "bytes": 12869
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0104.jpg",
+      "sha256": "a7cf52183302395530d2f7747d2eb80dd251fa9ae53a1fd2023f7a22bfded9b1",
+      "bytes": 15049
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0110.jpg",
+      "sha256": "3fc948d5aae44fb5c59fdd7221ecca3d85c9b07c53d5eedb135a27e5b979df43",
+      "bytes": 16086
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0138.jpg",
+      "sha256": "4f703f651dd8d383cee80913b0ec96f79badfcea9067c7060ab640e0ca31e29b",
+      "bytes": 14129
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0135.jpg",
+      "sha256": "6bafec72994949ed0a0a263e0169efc49dbb0252567af173e0e0bbd4fdd19171",
+      "bytes": 14928
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0121.jpg",
+      "sha256": "3fc948d5aae44fb5c59fdd7221ecca3d85c9b07c53d5eedb135a27e5b979df43",
+      "bytes": 16086
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0109.jpg",
+      "sha256": "38c133d0d276f2833ff92a1dfa45c99031d70e7f6b1318f829ca03d3e77e30f9",
+      "bytes": 16086
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0082.jpg",
+      "sha256": "2d59701e42d877bf15ca0b877e804d2969959678fdb14356b6702cbfc889be46",
+      "bytes": 13986
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0096.jpg",
+      "sha256": "60567f0f0f086d7cb618d65127899d80e899e0fa7f4e30452eec81b84e1d282f",
+      "bytes": 15014
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0041.jpg",
+      "sha256": "2d88274a641695e2cb6cce459f1a79df9edafa0ed5125fc132907aec83037cb2",
+      "bytes": 14913
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0055.jpg",
+      "sha256": "84c2aa35928cc74f4eba8a133e75f7add400375d08f8337d6362ab96f8a5cf4c",
+      "bytes": 14394
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0069.jpg",
+      "sha256": "7b7b99cc070a91ec7e5c4216a6bf81ef40f1f490b0eb559f31289073704b7493",
+      "bytes": 11635
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0280.jpg",
+      "sha256": "c79508b2050274b0a2c59c0dfb4a7fd1937aee2d44ea58243a549d7ef0a2fc3f",
+      "bytes": 16253
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0243.jpg",
+      "sha256": "7ace64fafb53bd75b14040daaa30108fa90e033fd272ba4d056d363009726d57",
+      "bytes": 15964
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0257.jpg",
+      "sha256": "e2886473bff6609de5fd21e644e3e929c9431c2b080eaa9df6fb4c6f6aedaad7",
+      "bytes": 16184
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0256.jpg",
+      "sha256": "04430bd34ef97053019a948606a5843fa431a2ac0002cc04d2047fbb349226d2",
+      "bytes": 16185
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0242.jpg",
+      "sha256": "21da2e1ecd6f07cf93318737cc3654a0259495bab521e42d2f7acb0616a17bba",
+      "bytes": 15869
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0281.jpg",
+      "sha256": "3b9c157db7dd2041d6bd3ea60ae4fd971fdd12d83e91312677be15b2060ba146",
+      "bytes": 16253
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0068.jpg",
+      "sha256": "72d0c8cb202544121c2c60fbe2e4939e70571560bce792ef7b666b41f0ed5ceb",
+      "bytes": 11760
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0054.jpg",
+      "sha256": "fcd0e88fe275de78a9b5a41417cd1904c0282918e83f8302d8dbe248db3b9331",
+      "bytes": 14534
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0040.jpg",
+      "sha256": "433f2cf3192796ba2cb9fe220cb80e755175741a4552c60051b481a786a33f0e",
+      "bytes": 14904
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0097.jpg",
+      "sha256": "fff156c6cf7f08999ec1be7041c8b58a7d5cc71484bd227567979bbb9743e982",
+      "bytes": 15021
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0083.jpg",
+      "sha256": "981720da8083a218745350262d01c73effc36ed4923beb156e7de905c51413ed",
+      "bytes": 14393
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0108.jpg",
+      "sha256": "25cbe9cbc745810ea16fa7420858c121f95458dfb62360c0a4a4ee37dc48ea4f",
+      "bytes": 16087
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0120.jpg",
+      "sha256": "3fc948d5aae44fb5c59fdd7221ecca3d85c9b07c53d5eedb135a27e5b979df43",
+      "bytes": 16086
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0134.jpg",
+      "sha256": "49e3173b0d501e9e180d4dcab3df735e2cf0777c7e6780d2346a190d15f0cd34",
+      "bytes": 15011
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0122.jpg",
+      "sha256": "3fc948d5aae44fb5c59fdd7221ecca3d85c9b07c53d5eedb135a27e5b979df43",
+      "bytes": 16086
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0136.jpg",
+      "sha256": "a466c8a25d0b751da6a7dc9ca5e1be04bb8e5d8d64c4b831b2714c636de2fd10",
+      "bytes": 14646
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/native-f561.png",
+      "sha256": "e32a29e83970ca54cdc3f36b758510849ed6142d47bb92b67e650fb0999ec01f",
+      "bytes": 260892
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0095.jpg",
+      "sha256": "578413d6ba194a75a3d34efb498877efbbc9addfb4ca92fded6fdba062a22fe6",
+      "bytes": 15016
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0081.jpg",
+      "sha256": "47778d34c01c22b2c76b43fccc605e442076da4a80ac336cce5cbe43ebbd1c40",
+      "bytes": 13488
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0056.jpg",
+      "sha256": "6bc4d1f5681f971eb9753e34f1f3108d5ca1ad21dcf0d8648c4e3a741e252210",
+      "bytes": 13869
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0042.jpg",
+      "sha256": "6fbfe646179a84f6f8a66e64dc7efed4f6c83affa7dfda49417c5dc4bccf9fe5",
+      "bytes": 14916
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0283.jpg",
+      "sha256": "7bcbcd159223e70210b7df4be069ce712e66ba231b931dd15ec63eaf68e20754",
+      "bytes": 16248
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0254.jpg",
+      "sha256": "e867b4ce68f909dc97ad3a8a9f800b640a3d7e7fcbac8031883be0732676f500",
+      "bytes": 16205
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0240.jpg",
+      "sha256": "e04ebfda562b5e61495d46a6cbc5d3a0a00c1e66b911158c0ce50b04a1efcb16",
+      "bytes": 15222
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0268.jpg",
+      "sha256": "10cf45fe8ce702cbc809353edd9840b62d7890af9d8a39e4aa0ab0d848148d33",
+      "bytes": 16249
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0269.jpg",
+      "sha256": "994dcc2c0c45d2baa18f445d10b6ec2427587d6170076a074702b647b82694a4",
+      "bytes": 16247
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0241.jpg",
+      "sha256": "9aa773366df98785d8ab661d655fe698a4fc784107953114a264d32327d6dd98",
+      "bytes": 15728
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0255.jpg",
+      "sha256": "26b0b1ea19423645c31ff1c18e071e994a4df436952e8157a600a45c7ddc7256",
+      "bytes": 16195
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0282.jpg",
+      "sha256": "3227dc23191c1d7f712d085ad3838d7503306f702d85bd16165642e6fe58847a",
+      "bytes": 16267
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/native-f366.png",
+      "sha256": "16556ec1ed711b60f770bc1af9a2e7fd0e601bb3df2956dd1e90c55dbd4cf04a",
+      "bytes": 246333
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0043.jpg",
+      "sha256": "a3b6fa760a1874b3c16f9e7445af07787dd4b9219697d220d18102d3a85fa5c1",
+      "bytes": 14939
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0057.jpg",
+      "sha256": "9e9d737e98bf99dd36c7c59615cd996bc2e0a3348b60cc1a80196e2ec1d415b8",
+      "bytes": 13456
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0080.jpg",
+      "sha256": "13bc8b2e9a892f26b4f865ef5ad76e2b7ccb616c5bb02e958cf098411ccea381",
+      "bytes": 12603
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0094.jpg",
+      "sha256": "9966d3d4d17937496ad58455fef47511d5862d187c2ad0a897bfe5bf51f2230e",
+      "bytes": 15002
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0137.jpg",
+      "sha256": "9283e29ad0aa94f5bfdf77d76c51de9e3f84c071904af3d16607ef17a2bb0c10",
+      "bytes": 14345
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0123.jpg",
+      "sha256": "3fc948d5aae44fb5c59fdd7221ecca3d85c9b07c53d5eedb135a27e5b979df43",
+      "bytes": 16086
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/native-f000.png",
+      "sha256": "d24a4d72d7f334fdde73e569be338692e98990604e9e3446740e5418d064547d",
+      "bytes": 176174
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0127.jpg",
+      "sha256": "d73d29ee9e2627bfe485113b57a93300a03ccff70c09d2c40d961f0ac3a02205",
+      "bytes": 16107
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0133.jpg",
+      "sha256": "a89eb3aa4f5f799aa222148e73d265eef34f55b0f672c7a40a546850e6ebd177",
+      "bytes": 15240
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0090.jpg",
+      "sha256": "37c8662e731449b5059fb4b3ceea7f8a33886a09fa045c6a[REDACTED_PHONE]ef105",
+      "bytes": 14970
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0084.jpg",
+      "sha256": "d1bb5381a0e1e35c18218a5f349a4de0c81ff25bbca4b3fbdaa9e94eb6496b3d",
+      "bytes": 14605
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0053.jpg",
+      "sha256": "ae15ce24fbbe6f68172096d40e9cdb458337bb9061b596cf33458e964ff0c225",
+      "bytes": 14725
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0047.jpg",
+      "sha256": "93f942e4d7b5c7542bd6658392aa89adc09b30ab2bf608f12f0afd4e9cb0ba20",
+      "bytes": 15056
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0286.jpg",
+      "sha256": "ec54e3c706b1bef1a2b084e7800b3874b1113a5c153a06074fd6dd088be9d0fc",
+      "bytes": 14719
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0279.jpg",
+      "sha256": "3b9c157db7dd2041d6bd3ea60ae4fd971fdd12d83e91312677be15b2060ba146",
+      "bytes": 16253
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0251.jpg",
+      "sha256": "075c47750509bad61c8430ee3b5ac83e72449a21742aba7618ff674fce890ba6",
+      "bytes": 16195
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0245.jpg",
+      "sha256": "217d4cb965481537a2c6084e6855960272ce8ebd235b2bd8f81dd81b1fab771b",
+      "bytes": 16097
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0244.jpg",
+      "sha256": "d8c633a90f006496ab5c4ed2c0420e9f7e4aca996dac2b6f5c85da88e8f16e4c",
+      "bytes": 15980
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0250.jpg",
+      "sha256": "923e6520b7283426a866155a58d0eccbbce25bf7672ea1395b0fa55400daadb7",
+      "bytes": 16205
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0278.jpg",
+      "sha256": "c79508b2050274b0a2c59c0dfb4a7fd1937aee2d44ea58243a549d7ef0a2fc3f",
+      "bytes": 16253
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0287.jpg",
+      "sha256": "ec54e3c706b1bef1a2b084e7800b3874b1113a5c153a06074fd6dd088be9d0fc",
+      "bytes": 14719
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0046.jpg",
+      "sha256": "4ee15cc9f85b0800cf95a635f2232759b0b95c65c18be7d4823ff730e0ef7191",
+      "bytes": 15008
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0052.jpg",
+      "sha256": "886ec9ca74c7f4daf7f3710461e824905b41021cabe7b210bebeb7fd109ecfbb",
+      "bytes": 14877
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0085.jpg",
+      "sha256": "8af031bf5f5853d08915ccc06a9ab1f35e72ef581bb2050ee629b7205f06152e",
+      "bytes": 14787
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0091.jpg",
+      "sha256": "58eaae035d68878f5a3a2b2e443c8fbdd95f797e0dd1eee926e919eec2efc8d0",
+      "bytes": 14917
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0132.jpg",
+      "sha256": "68f92684546bec66d725dd1f5d372f3dcd8e7e91a52eaca7e74164c25b7e4888",
+      "bytes": 15476
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0126.jpg",
+      "sha256": "f4508baa88c22d0b418b8972784e3a6b1083f8690a34f0032307337348d29e99",
+      "bytes": 16110
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/native-f759.png",
+      "sha256": "c4d827c4ed564e3a421f5dc2c8544dd3f5b43e55b1589ac750890a43e96fb878",
+      "bytes": 264627
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0118.jpg",
+      "sha256": "3fc948d5aae44fb5c59fdd7221ecca3d85c9b07c53d5eedb135a27e5b979df43",
+      "bytes": 16086
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0130.jpg",
+      "sha256": "b0e623a6eccc5c6c7ffed339b20f06e785a694c228b1852aac26547b5264c9a9",
+      "bytes": 15879
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0124.jpg",
+      "sha256": "fb737db6466d08a77592799ef3354fd48a352e244a7f4a5a58c46e03ecc7ea6e",
+      "bytes": 16086
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0087.jpg",
+      "sha256": "a2974aef79404e0267af2281f3f699734e8493474a291d839ab5667a9ef206ef",
+      "bytes": 14853
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0093.jpg",
+      "sha256": "7810b010cfd6faeebfe536e82d2c71b44fa3b289a2592d61bb3892207bbfd402",
+      "bytes": 15003
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0078.jpg",
+      "sha256": "f90d03418785cce8b29afe9416e842515e88d258e25143ee7cc9cfc20babe3a1",
+      "bytes": 11102
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0044.jpg",
+      "sha256": "1b7723b6941db30c6dbcb1fc474fc60f6018559210cdf5a57c273b6b013cf42a",
+      "bytes": 14943
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0050.jpg",
+      "sha256": "4cdb8bdbacaf269fe70cf5340970547d9a2a984f05b0b8fc2deeb2ec411f1c91",
+      "bytes": 15057
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0285.jpg",
+      "sha256": "18054dd6ad6324a25f2d224320b532f1675d1a7688e0d36b36dbc73ca08e5de2",
+      "bytes": 16267
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0246.jpg",
+      "sha256": "fd3dc6438eda49128dd4793e48c528b211cc0a707736f9a4ddc0178428bd6fdd",
+      "bytes": 16124
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0252.jpg",
+      "sha256": "cb254abd89e0640bfe57b9e882977a1d2f3b62752660fdde3bda41e20351f3dc",
+      "bytes": 16187
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0253.jpg",
+      "sha256": "d4c24a4203aac6c61ce7c14671bbe487911bbce7247588c7b6538c01a2a51983",
+      "bytes": 16207
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0247.jpg",
+      "sha256": "ae00b18af6efc6da019bc33e0fd9c3650c19539f60ce793a865cc9e398547872",
+      "bytes": 16163
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0284.jpg",
+      "sha256": "3227dc23191c1d7f712d085ad3838d7503306f702d85bd16165642e6fe58847a",
+      "bytes": 16267
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0051.jpg",
+      "sha256": "b2c82bdf2be0b0c8c7d151f63791a8471355a4f044be85397337462a8e9e7403",
+      "bytes": 15053
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0045.jpg",
+      "sha256": "f7332798de61f7be169b762327484461dba7d74f0e45fc3f242c32df9fbad06e",
+      "bytes": 14927
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0079.jpg",
+      "sha256": "8c81d4255d5d90c14ec3baecee34f96d223fef90a00e33630d26f0b6131d36a3",
+      "bytes": 11088
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0092.jpg",
+      "sha256": "5ac1748d2647be761e2539ad1a9e1c45698dc205dee64be802778c3bcdced273",
+      "bytes": 14938
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0086.jpg",
+      "sha256": "a795f6713f70f5406a1a9cde38a69f3734a2bf8c7f4940c6a87e21e939d6e7b5",
+      "bytes": 14787
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0125.jpg",
+      "sha256": "487882037e7813fbad70693b66254fa0d015bfc9c0e495b40e8731808fb4aef5",
+      "bytes": 16101
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0131.jpg",
+      "sha256": "0607859b86b22de212c48891755a5d39c405c13b42ec48fabc6c88221e88ab72",
+      "bytes": 15714
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0119.jpg",
+      "sha256": "3fc948d5aae44fb5c59fdd7221ecca3d85c9b07c53d5eedb135a27e5b979df43",
+      "bytes": 16086
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0195.jpg",
+      "sha256": "0bcd19caea83cb7678eba984c852b9b916992e5d29693cf603fec30478646b10",
+      "bytes": 11759
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0181.jpg",
+      "sha256": "a08494cb889a8c28d55d8600c125301d155e914c989fadb5846282ade4eade7a",
+      "bytes": 11758
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0156.jpg",
+      "sha256": "dc3a8704a4519eb4cd40b2fe12c33cf8f5d6ece1826dad627744d0ac8b07b4d6",
+      "bytes": 13509
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0142.jpg",
+      "sha256": "c69ee55cf6e3bd378172f9c2b9faaccc988823662137f509f0d02db6bd287e79",
+      "bytes": 14038
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0022.jpg",
+      "sha256": "e62a31d51d764e8379b072437218ffc59fc70c5904f6acbc23c9cf45e61dc28a",
+      "bytes": 15186
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0036.jpg",
+      "sha256": "1a475723379c141691e278ccd44160297292fe5e90be575249a36bea77c9662b",
+      "bytes": 14873
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0220.jpg",
+      "sha256": "2e985698918d3bf88f3ba1b4518356ca997b507718aa65b3be574f36c9a32e87",
+      "bytes": 14425
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0234.jpg",
+      "sha256": "2b6bf3ba425edb07c2203a85e6ada31fedfb8491a1cd1533e55bb478d6286994",
+      "bytes": 14374
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/native-f111.png",
+      "sha256": "6d90e1bcdd4ca3f659e2e34c3a5dc9a4b3d1c4d053b28678b7cc2982baa0955e",
+      "bytes": 296315
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0208.jpg",
+      "sha256": "4e3adcad1f0dafd5e26c8b73d5ad9967ebdd0a60c726a03457e36d327e5f3f66",
+      "bytes": 13970
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0209.jpg",
+      "sha256": "38832ace4076ef733cf7ca66555d8cd4da78c67b8595f70763c499805ba2af42",
+      "bytes": 14011
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0235.jpg",
+      "sha256": "d547070f365880e7b26e24c42ec5d77eaa763dbf63a0810591f5eb3220b0208e",
+      "bytes": 14382
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0221.jpg",
+      "sha256": "050ad92fc9ad9ef92a220487d04683265e0999182f4180fe09207a0ce8e3cc87",
+      "bytes": 14438
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0037.jpg",
+      "sha256": "d7360d7ea7b1a8c1a1b3b5ccdb9eee1016ba4edd1fc998e5da0d111c47afea52",
+      "bytes": 14881
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0023.jpg",
+      "sha256": "c24c19b07e9d3e5ab25d008c317e43551a45db7bc4a78b8431468193f1212587",
+      "bytes": 15174
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/native-f528.png",
+      "sha256": "40a441cb94024032b0001577638452284a456d0c21032ffd9abe9402f61aab23",
+      "bytes": 265600
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0143.jpg",
+      "sha256": "67acef10d6e0c4ad5c601146dfb62bda1ba55c6c1301abab21bc463e2c6112ad",
+      "bytes": 13912
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0157.jpg",
+      "sha256": "c6f1768ba4b52abf802c5ba354d8bfdd042549ff269e37357eaed1971e2e05dd",
+      "bytes": 13278
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0180.jpg",
+      "sha256": "12cd3c7fd2caceca9837ae65fea55f5340ae52868918ea92c80b3cc7d09236d8",
+      "bytes": 11759
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0194.jpg",
+      "sha256": "0bcd19caea83cb7678eba984c852b9b916992e5d29693cf603fec30478646b10",
+      "bytes": 11759
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0182.jpg",
+      "sha256": "25f6fc097529491c9c940b478d396a6605640514e3d9c29e6a33147b33ea8352",
+      "bytes": 11753
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0196.jpg",
+      "sha256": "e719f26878c7419a1418f97dc8bc6577fed71e92d991352bd566f7ff64a20015",
+      "bytes": 11749
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0141.jpg",
+      "sha256": "614ceb3a300d9cf92c8b5dd63482c14d33070a6ca981336d7805620e857ca051",
+      "bytes": 14295
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0155.jpg",
+      "sha256": "fa88efa28fea9f7666fca71c93e4088c84176f823ff169d4bb40ecafe99622fc",
+      "bytes": 13762
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0169.jpg",
+      "sha256": "182df0c0240d9c8fb90cfd9173028a70e8531954fd8958f66db2a3e497e6530c",
+      "bytes": 12323
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0035.jpg",
+      "sha256": "9ef0e77bdb4ab2569d0afcbe9536d02a2256cdb3200cff1485f05700e107fd4d",
+      "bytes": 14851
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0021.jpg",
+      "sha256": "ffeb721cd0d32e3544c518c3f728e440e6d1b97b8c2e500bb9408dd16df2c21f",
+      "bytes": 15071
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0009.jpg",
+      "sha256": "1437358494533e3b82d0ed11b84ec404d46da7c18c540793b2c5d5b44ccc6648",
+      "bytes": 13426
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0237.jpg",
+      "sha256": "46e9b3eff2e115596102119b9d54c4347b1918370cfc41b63241785ab76ae465",
+      "bytes": 14374
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0223.jpg",
+      "sha256": "8e60369f85b73a423edb687b64c870929f605dfcd01fa700503828a04c2bd502",
+      "bytes": 14395
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0222.jpg",
+      "sha256": "e10deb87343e7d2a34115e16d5e33c3272ca2d76cb554834c6018813570c33fb",
+      "bytes": 14377
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0236.jpg",
+      "sha256": "cf2792ee3cda61bd749fed6c458a20fa126de161cec48a8934f26ed134255e8d",
+      "bytes": 14363
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0008.jpg",
+      "sha256": "d53c2924e876e989ab79afdd4d27f6b5b146cf4050e2c6db9e90599f9dc14bec",
+      "bytes": 13434
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0020.jpg",
+      "sha256": "956ba9d5b7d7d2603b58ce37d8b4d6d780196ac3ae050798d073f6c659444400",
+      "bytes": 15168
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0034.jpg",
+      "sha256": "5d418758eb39cf49ad65214141d6215f68f1f68600c260b44d9a44b7e63f4446",
+      "bytes": 14817
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0168.jpg",
+      "sha256": "cbd3602afdec6a92ac471585bbe1f8648f1bf8b4593312f10a261f17ec2d130c",
+      "bytes": 12352
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0154.jpg",
+      "sha256": "564a556b0da3c27746fb8a2149c1822e19d12971cc5c0b2fa3c5f1cf2774baa6",
+      "bytes": 13411
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0140.jpg",
+      "sha256": "fa7038fef75e18485aea87296e4020aa51f61fca509e285e6341e0c2fda3439b",
+      "bytes": 14369
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0197.jpg",
+      "sha256": "75bbf2c1d7cd54b7a3b033b82e27bf9caf521db28c9992c4a4820f46d14dcdb7",
+      "bytes": 11758
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0183.jpg",
+      "sha256": "68f814e857404a379755327e934ededfc7ef48e35eba477aff2952756d0d9edb",
+      "bytes": 11731
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0187.jpg",
+      "sha256": "87f8306365981c380fc77b4b8bbabc6e91da3c9f46cbfd373d68bff7a6281eb1",
+      "bytes": 11755
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0193.jpg",
+      "sha256": "0f3203aa83167be2eb24cb5e290cebabc122e88bce65c29ca072445bd0f7e88b",
+      "bytes": 11746
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0178.jpg",
+      "sha256": "69248e4b3099fb9c90eaabf33a2fea2a0b75078359a840f88fcb3ad21eb2c324",
+      "bytes": 11649
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0144.jpg",
+      "sha256": "e1c7f3f7175c320b80a76536556d2dc748936313a36398c9ac732cc8cb6422e8",
+      "bytes": 14019
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0150.jpg",
+      "sha256": "fb0fc18cfb0a108b31b71d012b822e8aa072d1244115c9fe056bf68888e29e0e",
+      "bytes": 12555
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0018.jpg",
+      "sha256": "82560b85d6d982385a7464a78b3414c0f1831fd165312f8f61afab18e7bfb1ef",
+      "bytes": 15110
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0030.jpg",
+      "sha256": "15c96432f1caa0395e13d83add6e20607656c264a3ca3ee9191832d1e5f94f83",
+      "bytes": 15190
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0024.jpg",
+      "sha256": "68ee932bddfe34e3ef614b9e0ff6b5dd0b3ae3fec27f467d750580161a6b2c85",
+      "bytes": 15190
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0232.jpg",
+      "sha256": "ad82a2e03a485e162f2c5767f41bd103aa3cd8f539ef2f6c735236bf1e32f3c6",
+      "bytes": 14377
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0226.jpg",
+      "sha256": "c6ace1b028bd8de0c0862ec23040bc2a90d6ad4877d0c90a08c13bcba4e06952",
+      "bytes": 14346
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0227.jpg",
+      "sha256": "f46d3a73236478bb4a88aed2d281d116cef63f32afff151e252d876d99e137b6",
+      "bytes": 14346
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0233.jpg",
+      "sha256": "57130e41eded78678ee6cb3c35a652444adf054f033cc4e2832296de249ed125",
+      "bytes": 14366
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0025.jpg",
+      "sha256": "64a61481f0c4811db23a0f03a1521cf78c623afad5027cc5866d290e8bda7de5",
+      "bytes": 15191
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0031.jpg",
+      "sha256": "69994c15d1bc0d81d33670c6f52979d10f615a1c7205ddb6961bd86ec460db24",
+      "bytes": 15190
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0019.jpg",
+      "sha256": "416c68fef104211c8b357379b3c2f4b2615a2411f75bf1f728e5bde746661d41",
+      "bytes": 15135
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0151.jpg",
+      "sha256": "fe039c955873d1e8f53857907cdc78b305dc86c749e1695c7296d1b56083ba32",
+      "bytes": 12655
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0145.jpg",
+      "sha256": "212400e94946253da8d6c29dd244e333b6a2edf41d776b851a913661c47bfa3f",
+      "bytes": 13287
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0179.jpg",
+      "sha256": "5a56d0b5ed54026de58447c76c9b72d7a8e64d8180bdd6c4f5bf60a2a156ad3d",
+      "bytes": 11756
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0192.jpg",
+      "sha256": "bae8483b394178e2ca5bbc3a6237b4a2854f848370e240df91cb0b345322f29b",
+      "bytes": 11758
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0186.jpg",
+      "sha256": "e850a2e5ad8d962651381cea3034763c586218e5fe1aac29fb619266a07c3811",
+      "bytes": 11754
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0190.jpg",
+      "sha256": "de21ddc4eed61ff11cee9b5f57af3fe7ac2c172419100b0371f61102b03070f8",
+      "bytes": 11755
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0184.jpg",
+      "sha256": "a7dbbcfa384713c6cf5b61e3d56283ab0ad987f0909bd99fb850f780acc8b462",
+      "bytes": 11736
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0153.jpg",
+      "sha256": "5a4968d2a62f751f40dc2fce07d8fc99a93a38af7cc96e76413e6ee20acd7b8d",
+      "bytes": 12955
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0147.jpg",
+      "sha256": "71c86136033a8c8673b2c510152837a65b1f01629a2acd60395000421fbf6b59",
+      "bytes": 12899
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0027.jpg",
+      "sha256": "6906bc0da58c63145372c739c58a47870b317d1b0c13365f288c5a36924e431d",
+      "bytes": 15191
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0033.jpg",
+      "sha256": "6e9c28d4ad156962bda6a12e54f3545a380a2142641f3001cc378ae93368e2c6",
+      "bytes": 14730
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0219.jpg",
+      "sha256": "71320bd78c01e2f16805ccde501976149229935ad20821913689588aa2d32e33",
+      "bytes": 14027
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0225.jpg",
+      "sha256": "bbab2cbdb2d1b4fa0352db074fd06c7540e7d8781766f0369a3c6d5d5be8a42d",
+      "bytes": 14401
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0231.jpg",
+      "sha256": "3d08bb515fd251e2943ba05820b55f5ff27e94363800ad0a647b820a065491fb",
+      "bytes": 14367
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0230.jpg",
+      "sha256": "e1444873c969ffffe30cb280554efa6e279e3521de77f0a23b7ba327c72fe677",
+      "bytes": 14337
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0224.jpg",
+      "sha256": "061bd28465177d4b5db2b564fe845a3a8d361d4ead62c546342f54852c34a309",
+      "bytes": 14387
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0218.jpg",
+      "sha256": "22581002448d9df219de6875d7956b1f5a85e8163b9fa73d6addfcc08382434c",
+      "bytes": 14047
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0032.jpg",
+      "sha256": "7c9a5ccbad193513acdd54ae2b9e99e922c0f7c9466b481a696a3e6a66c7e152",
+      "bytes": 14542
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0026.jpg",
+      "sha256": "15c96432f1caa0395e13d83add6e20607656c264a3ca3ee9191832d1e5f94f83",
+      "bytes": 15190
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0146.jpg",
+      "sha256": "89aa9495f896e7f157ae238fd634980e7d07e99c0551d1bc3af15bb70d3fd06f",
+      "bytes": 12931
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0152.jpg",
+      "sha256": "f06b1db6680f9d553938ce30786db49e3498dbd31465a220dfabd265e96dc0d5",
+      "bytes": 12709
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0185.jpg",
+      "sha256": "1d6a51ac66a8c6c3d4df98c2ef8888034fb499114d37512100e06a7c37717201",
+      "bytes": 11774
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/small-0191.jpg",
+      "sha256": "56aa7ea7a1c465132b01c3d905f926f2034dbb02a63a2df74f4963786ebe5a16",
+      "bytes": 11756
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/trial-frames/016.jpg",
+      "sha256": "f1d781a4159f6f13c51d099eadcdc6a0e0cbfd582cd6a0be2c7492db68839d94",
+      "bytes": 4564
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/trial-frames/002.jpg",
+      "sha256": "dc4fbf209f3dd802f9c963c14b07d781cd2eedbc859ef114bc0dea334f708ca0",
+      "bytes": 14897
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/trial-frames/003.jpg",
+      "sha256": "684d084d32a07a3a008eb8162dbf5a69db25255fc06de7d88339831b0f73d031",
+      "bytes": 14690
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/trial-frames/017.jpg",
+      "sha256": "e7864be12b160bd94b0cee06834a604cff19fe709a49bcd32a09b55ee144d71a",
+      "bytes": 4402
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/trial-frames/029.jpg",
+      "sha256": "910dfbc2f531410fceda1307e1b63531acdb856dbb805ab084147f67d7d9cde8",
+      "bytes": 4048
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/trial-frames/001.jpg",
+      "sha256": "d00d7157977f09c9ad53a0e59acb334f3eb478956a3448e706fd80a4c8dd2628",
+      "bytes": 10757
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/trial-frames/015.jpg",
+      "sha256": "e5056198f1daff1f4e31dbdde6b3991f46085651cebbc0fd2db759e95cd9ae67",
+      "bytes": 4720
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/trial-frames/014.jpg",
+      "sha256": "bf49e28d699286302556ae14cf6955ccfbb914fbeb0749384b7d0ada12f6166f",
+      "bytes": 5056
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/trial-frames/028.jpg",
+      "sha256": "910dfbc2f531410fceda1307e1b63531acdb856dbb805ab084147f67d7d9cde8",
+      "bytes": 4048
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/trial-frames/004.jpg",
+      "sha256": "fb39264bacc53c3656e33e41acacf6e14ee6470441883353c04ae28c662c641d",
+      "bytes": 14610
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/trial-frames/010.jpg",
+      "sha256": "bd7a38f78a4f0aa7e4880b7714999d680c9d0a3ab15b675dcbfc372fdb4aeaa9",
+      "bytes": 7214
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/trial-frames/038.jpg",
+      "sha256": "8a8ffce2d95792b89427d0ada0d9bb4c4c83234a09d9f0aa88febeb2fd1b6c71",
+      "bytes": 4052
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/trial-frames/039.jpg",
+      "sha256": "8e381b3f947c88ac9810a0b5f1d8cf7469edcfeb8ce8d998ec066aca36353e82",
+      "bytes": 4038
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/trial-frames/011.jpg",
+      "sha256": "5cfedebbab81b9bd83625be7578c7dbb5043520b751e9260d7de73eb9364267a",
+      "bytes": 6330
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/trial-frames/005.jpg",
+      "sha256": "9f903c7b090f58cc1f1786da2f3bd0a62c108d9594c1cc6c056671f6720d2a4e",
+      "bytes": 14236
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/trial-frames/013.jpg",
+      "sha256": "b3ec6ab80f66a94480899cbec75dedf7d7ec5781b41647d8a6049d681ac7273b",
+      "bytes": 5279
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/trial-frames/007.jpg",
+      "sha256": "44f65c33968870d688029929ecc5ddc78c1aefbfdef524602a309866e4810034",
+      "bytes": 9393
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/trial-frames/006.jpg",
+      "sha256": "ac8771da7fc4712d53fe18db65c9e1d0ea90aa558a3e7f74b9f740119ba742b8",
+      "bytes": 11277
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/trial-frames/012.jpg",
+      "sha256": "12eec2975db605e8f547ac9441dacd38e77e5258f6844ce5f0ffdd9bc11da418",
+      "bytes": 5733
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/trial-frames/049.jpg",
+      "sha256": "ce419a2afdd5d731a82747db8651c06a6adea725854b5b1a1617cae7a7e52a59",
+      "bytes": 3086
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/trial-frames/048.jpg",
+      "sha256": "e6cb5a799447b7b7c8cd10443ec5f06a34b9e6d1afa0ee40f22f93be147a6fad",
+      "bytes": 3085
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/trial-frames/040.jpg",
+      "sha256": "86ff945ef3b2ebf643577c9ab4afb1ae8b90b44df4481325fbc95e5ca60cf20b",
+      "bytes": 3931
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/trial-frames/041.jpg",
+      "sha256": "f55a8c892a8518c9ff55ff60bebf79bff60403014e0dd9f667144d377c1e325e",
+      "bytes": 3766
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/trial-frames/043.jpg",
+      "sha256": "80bee276d62de47f736fb6260f63edcd4e5774ee88ff22dc9431b23293a5cc6b",
+      "bytes": 3403
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/trial-frames/042.jpg",
+      "sha256": "3f1f3ef36fae98df8a562b905f8a3914ee94937b703e92864d3e08470186e235",
+      "bytes": 3481
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/trial-frames/046.jpg",
+      "sha256": "67ed5d4eba9212f057ae7de8b27b7ec0b7a9894c1140d8507d3e04b704cdb508",
+      "bytes": 3131
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/trial-frames/047.jpg",
+      "sha256": "2c418f59e120458f58aef8be1e34efda623fd4994023803a0a56241294ed5484",
+      "bytes": 3087
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/trial-frames/051.jpg",
+      "sha256": "ce419a2afdd5d731a82747db8651c06a6adea725854b5b1a1617cae7a7e52a59",
+      "bytes": 3086
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/trial-frames/045.jpg",
+      "sha256": "63ffebcc6546b812bffee94cf856946d490875d7c891bdb178cea52497b5b45f",
+      "bytes": 3214
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/trial-frames/044.jpg",
+      "sha256": "a947e2d05292f25869df53338224783fe3909d6998e96dc7100d47f145590158",
+      "bytes": 3451
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/trial-frames/050.jpg",
+      "sha256": "ce419a2afdd5d731a82747db8651c06a6adea725854b5b1a1617cae7a7e52a59",
+      "bytes": 3086
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/trial-frames/037.jpg",
+      "sha256": "64ab0e8a9a2abb8d917ac551c7c1fdb4d19053e07003c8bd476c0b4044abffbf",
+      "bytes": 4049
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/trial-frames/023.jpg",
+      "sha256": "3b76dba7eee85fd42582a75d589c9501c3c189f0b71ba14f957adedc764cecad",
+      "bytes": 4048
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/trial-frames/022.jpg",
+      "sha256": "3b76dba7eee85fd42582a75d589c9501c3c189f0b71ba14f957adedc764cecad",
+      "bytes": 4048
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/trial-frames/036.jpg",
+      "sha256": "0a9af7ed9c100cafa91ab8a82480dcd1e6972ad07bb220cd3428545b5d76d3cc",
+      "bytes": 4052
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/trial-frames/008.jpg",
+      "sha256": "9af5b78006ccd1b3b27094f760f7656c41d72b0cf5d70a29bd714fb061fd117a",
+      "bytes": 9422
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/trial-frames/020.jpg",
+      "sha256": "910dfbc2f531410fceda1307e1b63531acdb856dbb805ab084147f67d7d9cde8",
+      "bytes": 4048
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/trial-frames/034.jpg",
+      "sha256": "a80cf2195bc3fa9cb09cb4ac4bda1bbb8b2ed431c4bf8d9fe25cb78452953612",
+      "bytes": 4048
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/trial-frames/035.jpg",
+      "sha256": "0cea7db2b5814a013582d9b065936d0bd0a4015847d164cdb90b3edf68227646",
+      "bytes": 4046
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/trial-frames/021.jpg",
+      "sha256": "910dfbc2f531410fceda1307e1b63531acdb856dbb805ab084147f67d7d9cde8",
+      "bytes": 4048
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/trial-frames/009.jpg",
+      "sha256": "67ff8ee0eca2505085749c72eb8347ce53e627f2cdf8a2b5fc3603395f8f1483",
+      "bytes": 8266
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/trial-frames/025.jpg",
+      "sha256": "910dfbc2f531410fceda1307e1b63531acdb856dbb805ab084147f67d7d9cde8",
+      "bytes": 4048
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/trial-frames/031.jpg",
+      "sha256": "3b76dba7eee85fd42582a75d589c9501c3c189f0b71ba14f957adedc764cecad",
+      "bytes": 4048
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/trial-frames/019.jpg",
+      "sha256": "1d9ff9415f41158c709da503e22d2a86dcb9d15ef9894b85c12ca75459b081aa",
+      "bytes": 4280
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/trial-frames/018.jpg",
+      "sha256": "1572d975ca4a4f88e28b11e9c7b8fc5dc0fdcc0cd88f371bdc11c70f75d9c0dd",
+      "bytes": 4399
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/trial-frames/030.jpg",
+      "sha256": "3b76dba7eee85fd42582a75d589c9501c3c189f0b71ba14f957adedc764cecad",
+      "bytes": 4048
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/trial-frames/024.jpg",
+      "sha256": "910dfbc2f531410fceda1307e1b63531acdb856dbb805ab084147f67d7d9cde8",
+      "bytes": 4048
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/trial-frames/032.jpg",
+      "sha256": "910dfbc2f531410fceda1307e1b63531acdb856dbb805ab084147f67d7d9cde8",
+      "bytes": 4048
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/trial-frames/026.jpg",
+      "sha256": "3b76dba7eee85fd42582a75d589c9501c3c189f0b71ba14f957adedc764cecad",
+      "bytes": 4048
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/trial-frames/027.jpg",
+      "sha256": "3b76dba7eee85fd42582a75d589c9501c3c189f0b71ba14f957adedc764cecad",
+      "bytes": 4048
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/trial-frames/033.jpg",
+      "sha256": "66e8ca0de146a4984ce30e3676425d4b2175475f9bcd84aef8ec4f68d4c4fff2",
+      "bytes": 4048
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/project/src/v8/captions.json",
+      "sha256": "f3a46865afd2f5f6ee18bee0f54200b245e02ba8b79e645ff5cceeb6d4b5723b",
+      "bytes": 1635
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/project/src/v8/Entry.tsx",
+      "sha256": "152fa20319d4a61cda878a74e86b9ae41981ebc61cdc4c705e7929aa01832329",
+      "bytes": 624
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/project/src/v8/CostReminder.tsx",
+      "sha256": "692d7365600036a7da7036f35381b097950e87f868280c1b3893da027a700007",
+      "bytes": 9840
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/project/src/v8/theme.ts",
+      "sha256": "a235e95c652137b43c31a9c680dabfd8fce3bbb45fac8559cd0af70ce2e9b1a3",
+      "bytes": 3786
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/project/public/v8/MiSans-Heavy.otf",
+      "sha256": "6be4fe9fd5fcfbf766e90b0936b44b731893a3836376a77d964673f398b7131c",
+      "bytes": 6677020
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/project/public/v8/MiSans-Medium.otf",
+      "sha256": "f9239c75fa0a661b788916250c6d4ad0d52d8a643f1ce2a9142f6588d4d2cb64",
+      "bytes": 6550784
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/project/public/v8/MiSans-Semibold.otf",
+      "sha256": "8a194c3e7f6813f73a2c68988bf77483296268416fb0c1d0870338a0b23b8c9a",
+      "bytes": 6530232
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/project/render-sample-v8.cjs",
+      "sha256": "984ca163e995b6cd5efae8e54833aed05f68cc90bfdefcaaf8b1f5951bb5198e",
+      "bytes": 1557
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/output/sample-motion-v8.mp4",
+      "sha256": "2ea32be0211d5cdde889da2942f44d805aead2537820d0046e04e9033a38ec3d",
+      "bytes": 1095535
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/sample-review-v8.html",
+      "sha256": "e3c972908658184141036fa8d3507a6ddc85e77a5a0d75395c0b7bc30cae3b67",
+      "bytes": 4647
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/sample-review-v8.md",
+      "sha256": "0fc703d7da1c6d1414ad08fafe47effa4be1e641a149224719524786185a853c",
+      "bytes": 11245
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/sample-delivery-v8.json",
+      "sha256": "7d7a2314210afe9278f15c922283c1b797bdb2515e5d9189d50534ddb29562ca",
+      "bytes": 6999
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/pmo-report-receipt.json",
+      "sha256": "2316392c48a6e92babb1bf2d00164c9c9eec9a4115eb65f21fc3189742ed16ef",
+      "bytes": 469
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/df-end.txt",
+      "sha256": "ac054e21a399cf78fff94fc32c7d570382ed0335c0567b619c7db7f457e70fca",
+      "bytes": 290
+    }
+  ],
+  "count": 521,
+  "totalBytes": 58041205,
+  "deletions": 0,
+  "note": "Created v8 scoped artifacts, including actual send receipt; original inputs/v7 excluded. Inventory excludes itself."
+}

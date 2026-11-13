@@ -1,0 +1,16 @@
+[
+  {
+    "source_start": 5.1,
+    "source_end": 5.65,
+    "max_20ms_rms_dbfs": -60.54,
+    "median_20ms_rms_dbfs": -75.3,
+    "limits": "03停顿候选与低能量支持；不等于直接听音"
+  },
+  {
+    "source_start": 19.1,
+    "source_end": 19.48,
+    "max_20ms_rms_dbfs": -55.75,
+    "median_20ms_rms_dbfs": -59.47,
+    "limits": "03停顿候选与低能量支持；不等于直接听音"
+  }
+]

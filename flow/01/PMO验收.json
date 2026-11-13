@@ -1,0 +1,22 @@
+{
+  "pmo_thread_id": "01a11194-c40d-7bf0-8396-5bb5d6449444",
+  "content_id": "qianwen-go-case-20261013",
+  "stage": "01",
+  "decision": "PASS",
+  "scope": "User-selected public-case commentary and script input; not personal product test or public release",
+  "human_source": "01 userMessage01a133c3-97b3-7003-be55-08303cc39ffd selects Qianwen Go; current PMO human says draft confirmed and asks sequential production today",
+  "evidence_read": [
+    "01 thread latest user and assistant original turn01a133c3-9751-7341-9e6c-9b418be98bd0",
+    "/Volumes/EXTERNAL/自媒体/内容雷达/20261013/柱子哥千问Go专项/分析与本人讲法.md",
+    "/Volumes/EXTERNAL/自媒体/内容雷达/20261013/柱子哥千问Go专项/回执.json",
+    "/Volumes/EXTERNAL/自媒体/内容雷达/20261013/柱子哥千问Go专项/evidence/coverage.json",
+    "PMO read relevant ASR shopping segment and actually viewed result-detail.jpg and frame-005.jpg"
+  ],
+  "verified": ["One selected topic, not three-tool roundup", "Public reference has specified refrigerator, destination, old removal, subsidy/coupons/recycling/service fees and budget conditions", "Actual sampled screenshot shows daily price-monitor setup, not independent proof of continuous delivery or purchase", "Current draft naturally attributes the case to creator; no user's personal success claimed"],
+  "source_boundary": "Product upcoming status uses research Owner's same-day Yicai body-reading receipt. PMO independent refresh failed: Jina401, web open Internal Error. Do not label primary official release independently read or claim everyone has access; use restrained recent-message wording if needed.",
+  "remaining_required_work": [],
+  "later_stage_dependencies": ["02 concise shooting-ready wording and scene map", "03 user's new voice/video input or explicit authorized existing relevant narration", "04 production", "05 independent QA and user's full-film review", "06 exact platform/account and final copy confirmation", "07 user's personal final publish"],
+  "actual_01_model": "UNKNOWN",
+  "actual_01_effort": "UNKNOWN",
+  "formal_video_or_publication_acceptance": false
+}

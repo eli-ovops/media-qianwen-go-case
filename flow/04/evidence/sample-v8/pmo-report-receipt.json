@@ -1,0 +1,18 @@
+{
+  "targetThreadId": "01a11194-c40d-7bf0-8396-5bb5d6449444",
+  "version": "sample-v8",
+  "tool": "mcp__codex_app__send_message_to_thread",
+  "toolSent": "CONFIRMED",
+  "rawToolResult": {
+    "content": [
+      {
+        "type": "text",
+        "text": "{\"threadId\":\"01a11194-c40d-7bf0-8396-5bb5d6449444\"}"
+      }
+    ],
+    "isError": false
+  },
+  "pmoReceived": "UNKNOWN",
+  "pmoAccepted": "PENDING",
+  "scope": "Tool send receipt only; no subsequent polling"
+}

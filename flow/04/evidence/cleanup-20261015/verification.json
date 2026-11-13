@@ -1,0 +1,9 @@
+{
+  "at": "2026-10-15T11:16:23.487324+08:00",
+  "deletedAbsent": 66,
+  "protectedUnchanged": 183,
+  "rootJSONParsed": 20,
+  "liveLinksToDeletedVideos": 0,
+  "errors": [],
+  "scope": "Exact deletion targets, protected files, current local indexes and root HTML media attrs; no extra cleanup"
+}

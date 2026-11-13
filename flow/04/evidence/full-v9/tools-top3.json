@@ -1,0 +1,634 @@
+{
+  "catalogRevision": "217ebeb42f5bfca098228f5eb8b29d5c3196c0a2a7b57a38eb8e7c8e07720c7e",
+  "count": 28,
+  "returned": 3,
+  "entries": [
+    {
+      "id": "component:library-legacy81-c005",
+      "label": "L81-C005",
+      "segments": [
+        {
+          "start": 0,
+          "end": 13.5,
+          "fps": 60.0,
+          "url": "/api/design-assets/659c7c263224fd7d6eaff113"
+        }
+      ],
+      "referenceId": "library-legacy81-c005",
+      "title": "分支树收束为输入输出流程",
+      "kind": "components",
+      "category": "讲解段落",
+      "origin": "FredTalk 组件库",
+      "description": "分支树收束为输入输出流程",
+      "tags": [
+        "讲解段落",
+        "内容交接",
+        "文字",
+        "信息结构",
+        "前后内容",
+        "载体",
+        "一段解释",
+        "分类、分支与归组"
+      ],
+      "selectionStatus": "keep",
+      "reusability": {
+        "level": "snapshot",
+        "label": "当前场景源码",
+        "parameters": [],
+        "limitations": [
+          "当前展示沿用统一库的清理版本；按所展示的准确源码适配本期内容。",
+          "不把旧参考的参数接口或参考片段认可自动转移给当前适配。"
+        ]
+      },
+      "previews": [
+        {
+          "videoUrl": "/api/design-assets/42d226412e3e203b1dd25444",
+          "posterUrl": "/api/design-assets/4b5c7d[REDACTED_PHONE]f4335e0",
+          "keyframes": [
+            {
+              "url": "/api/design-assets/378fc8f83f964cbc8b6352f3",
+              "timeSeconds": 2.966666666666667,
+              "frame": 178
+            },
+            {
+              "url": "/api/design-assets/bfa31f595b565793a5c7869b",
+              "timeSeconds": 7.016666666666667,
+              "frame": 421
+            },
+            {
+              "url": "/api/design-assets/83bbee4361adc0df688984d4",
+              "timeSeconds": 10.533333333333333,
+              "frame": 632
+            }
+          ],
+          "available": true,
+          "status": "ready",
+          "start": 0,
+          "end": 13.5,
+          "fps": 60,
+          "audioPolicy": "no-audio-track",
+          "posterTimeSeconds": 6.75,
+          "posterSelection": "reviewed"
+        }
+      ],
+      "sources": [
+        {
+          "label": "RebuiltC005.tsx",
+          "symbol": "",
+          "url": "/api/design-source/7d3c463380ba44261860c789",
+          "available": true,
+          "status": "ready"
+        }
+      ],
+      "mergedInto": [],
+      "hiddenReason": null,
+      "visibleByDefault": true,
+      "categoryId": "explain",
+      "libraryOrder": 999,
+      "matching": {
+        "referenceId": "library-legacy81-c005",
+        "primaryUse": "explain",
+        "useIds": [
+          "explain",
+          "handoff"
+        ],
+        "sourceId": "fredtalk",
+        "conceptIds": [
+          "text",
+          "handoff",
+          "input",
+          "process",
+          "summary"
+        ],
+        "inputObjects": [
+          "文字",
+          "信息结构",
+          "前后内容",
+          "载体"
+        ],
+        "action": "分支树收束为输入输出流程",
+        "segmentRole": "一段解释",
+        "nativeDurationSeconds": 13.5,
+        "adaptation": "按口播分成几步建立与阅读；15–20秒需重排具体cue和阅读窗口，原短片不是现成20秒模板。",
+        "tags": [
+          "讲解段落",
+          "内容交接",
+          "文字",
+          "信息结构",
+          "前后内容",
+          "载体",
+          "一段解释",
+          "分类、分支与归组"
+        ],
+        "scenarioId": "relation",
+        "scenarioTitle": "分类、分支与归组",
+        "label": "L81-C005",
+        "categoryId": "explain",
+        "category": "讲解段落",
+        "sceneTypes": [
+          "summary",
+          "relationship"
+        ],
+        "title": "分支树收束为输入输出流程",
+        "collectionId": null,
+        "kind": "components",
+        "score": 333.1,
+        "matchedConceptIds": [
+          "input",
+          "process"
+        ],
+        "matchedUseIds": [],
+        "matchedWords": [
+          "输入"
+        ],
+        "reasons": [
+          "输入与反馈",
+          "流程与关系",
+          "原词命中：输入",
+          "原词命中：输出",
+          "相近词：输入、输出"
+        ]
+      },
+      "sceneTypes": [
+        "summary",
+        "relationship"
+      ],
+      "projectDownload": {
+        "url": null,
+        "filename": "d514c6d2c464749b.zip",
+        "available": true
+      },
+      "implementation": {
+        "projects": [
+          "components/projects/2c1373611323"
+        ],
+        "compositionId": "C005",
+        "reuseBoundary": "Sanitized source snapshot; media dependencies are declared in library/media-manifest.json. Inspect the project entry for registration when compositionId is not recorded."
+      },
+      "assetAvailability": {
+        "quarantinedDependencyPaths": 0,
+        "note": "Full project snapshot may include unused branches; check the selected composition."
+      },
+      "sourceFiles": [
+        {
+          "path": "components/projects/2c1373611323/groups/ctw/core/src/RebuiltC005.tsx",
+          "sha256": "d646c06d576dbee79966fa668633eadea7cc5534f84149b78b9fcbfcc7da83d2",
+          "url": "/api/design-source/7d3c463380ba44261860c789",
+          "available": true,
+          "remoteAvailable": false,
+          "status": "ready"
+        }
+      ],
+      "sourceAvailability": {
+        "available": true,
+        "status": "ready",
+        "authRequired": false,
+        "installationRequired": false,
+        "reason": "Verified source is installed.",
+        "importCommand": null,
+        "downloadCommand": null,
+        "installCommand": null
+      },
+      "candidateId": "library-legacy81-c005"
+    },
+    {
+      "id": "component:library-legacy81-r006",
+      "label": "L81-R006",
+      "segments": [
+        {
+          "start": 0,
+          "end": 13.7,
+          "fps": 60.0,
+          "url": "/api/design-assets/31eb1fdc1f428831c2e87f96"
+        }
+      ],
+      "referenceId": "library-legacy81-r006",
+      "title": "多种输入汇聚为统一入口",
+      "kind": "components",
+      "category": "讲解段落",
+      "origin": "FredTalk 组件库",
+      "description": "多种输入汇聚为统一入口",
+      "tags": [
+        "讲解段落",
+        "文字",
+        "信息结构",
+        "一段解释",
+        "分类、分支与归组"
+      ],
+      "selectionStatus": "keep",
+      "reusability": {
+        "level": "snapshot",
+        "label": "当前场景源码",
+        "parameters": [],
+        "limitations": [
+          "当前展示沿用统一库的清理版本；按所展示的准确源码适配本期内容。",
+          "不把旧参考的参数接口或参考片段认可自动转移给当前适配。"
+        ]
+      },
+      "previews": [
+        {
+          "videoUrl": "/api/design-assets/65e081ad550c6006cc2e26aa",
+          "posterUrl": "/api/design-assets/bb9a1f9ddf18e6be8265304e",
+          "keyframes": [
+            {
+              "url": "/api/design-assets/d94b8e19d8be2117777525a3",
+              "timeSeconds": 3.0166666666666666,
+              "frame": 181
+            },
+            {
+              "url": "/api/design-assets/7c68d9180022684d7f039e42",
+              "timeSeconds": 7.116666666666666,
+              "frame": 427
+            },
+            {
+              "url": "/api/design-assets/c42357fb8a5293bc7fb9c5d0",
+              "timeSeconds": 10.683333333333334,
+              "frame": 641
+            }
+          ],
+          "available": true,
+          "status": "ready",
+          "start": 0,
+          "end": 13.7,
+          "fps": 60,
+          "audioPolicy": "no-audio-track",
+          "posterTimeSeconds": 6.85,
+          "posterSelection": "reviewed"
+        }
+      ],
+      "sources": [
+        {
+          "label": "EncoderV3.tsx",
+          "symbol": "",
+          "url": "/api/design-source/c70196b77d6014bc179f5133",
+          "available": true,
+          "status": "ready"
+        }
+      ],
+      "mergedInto": [],
+      "hiddenReason": null,
+      "visibleByDefault": true,
+      "categoryId": "explain",
+      "libraryOrder": 999,
+      "matching": {
+        "referenceId": "library-legacy81-r006",
+        "primaryUse": "explain",
+        "useIds": [
+          "explain"
+        ],
+        "sourceId": "fredtalk",
+        "conceptIds": [
+          "text",
+          "input"
+        ],
+        "inputObjects": [
+          "文字",
+          "信息结构"
+        ],
+        "action": "多种输入汇聚为统一入口",
+        "segmentRole": "一段解释",
+        "nativeDurationSeconds": 13.7,
+        "adaptation": "按口播分成几步建立与阅读；15–20秒需重排具体cue和阅读窗口，原短片不是现成20秒模板。",
+        "tags": [
+          "讲解段落",
+          "文字",
+          "信息结构",
+          "一段解释",
+          "分类、分支与归组"
+        ],
+        "scenarioId": "relation",
+        "scenarioTitle": "分类、分支与归组",
+        "label": "L81-R006",
+        "categoryId": "explain",
+        "category": "讲解段落",
+        "sceneTypes": [
+          "summary",
+          "relationship"
+        ],
+        "title": "多种输入汇聚为统一入口",
+        "collectionId": null,
+        "kind": "components",
+        "score": 272.7,
+        "matchedConceptIds": [
+          "input"
+        ],
+        "matchedUseIds": [],
+        "matchedWords": [
+          "输入",
+          "汇聚"
+        ],
+        "reasons": [
+          "输入与反馈",
+          "原词命中：输入",
+          "原词命中：汇聚",
+          "相近词：汇聚、输入"
+        ]
+      },
+      "sceneTypes": [
+        "summary",
+        "relationship"
+      ],
+      "projectDownload": {
+        "url": null,
+        "filename": "5281c0d023cfaef3.zip",
+        "available": true
+      },
+      "implementation": {
+        "projects": [
+          "components/projects/5673609cc79a"
+        ],
+        "compositionId": "Library120-UnifiedEncoder",
+        "reuseBoundary": "Sanitized source snapshot; media dependencies are declared in library/media-manifest.json. Inspect the project entry for registration when compositionId is not recorded."
+      },
+      "assetAvailability": {
+        "quarantinedDependencyPaths": 0,
+        "note": "Full project snapshot may include unused branches; check the selected composition."
+      },
+      "sourceFiles": [
+        {
+          "path": "components/projects/5673609cc79a/groups/r/legacy/src/EncoderV3.tsx",
+          "sha256": "6f1eca08556542962edee32d1ebe1243d7d972baa9c2c0a5ddae35eff060ad78",
+          "url": "/api/design-source/c70196b77d6014bc179f5133",
+          "available": true,
+          "remoteAvailable": false,
+          "status": "ready"
+        }
+      ],
+      "sourceAvailability": {
+        "available": true,
+        "status": "ready",
+        "authRequired": false,
+        "installationRequired": false,
+        "reason": "Verified source is installed.",
+        "importCommand": null,
+        "downloadCommand": null,
+        "installCommand": null
+      },
+      "candidateId": "library-legacy81-r006"
+    },
+    {
+      "id": "component:library-new10-n026",
+      "label": "N026",
+      "title": "外部素材卡汇集并交给手机聊天输入",
+      "kind": "components",
+      "category": "内容交接",
+      "origin": "FredTalk 组件库",
+      "description": "解释多模态输入、将素材交给 Agent、从素材准备转入指令提交。",
+      "tags": [
+        "外部素材卡汇集并交给手机聊天输入",
+        "逻辑与流程",
+        "聚焦与转场",
+        "界面与交互",
+        "内容交接",
+        "图片与作品",
+        "前后内容",
+        "载体",
+        "图片",
+        "作品",
+        "短交接",
+        "输入、聊天与反馈"
+      ],
+      "selectionStatus": "keep",
+      "reusability": {
+        "level": "snapshot",
+        "label": "准确场景参考",
+        "parameters": [],
+        "limitations": [
+          "用户对本批成片整体认可；不表示此组件已用新文案及素材完成通用参数视觉验收。"
+        ]
+      },
+      "previews": [
+        {
+          "videoUrl": "/api/design-assets/4e31dc1db31c1d05bcbc9634",
+          "posterUrl": "/api/design-assets/02b8e472e3f8915a56de201c",
+          "keyframes": [
+            {
+              "url": "/api/design-assets/3c60e392c9610e268a0d3ca4",
+              "timeSeconds": 1.667,
+              "frame": 100
+            },
+            {
+              "url": "/api/design-assets/27e8d91bd66a43dba701ac80",
+              "timeSeconds": 3.95,
+              "frame": 237
+            },
+            {
+              "url": "/api/design-assets/3ef19be579ab0d60c0c60ee1",
+              "timeSeconds": 5.933,
+              "frame": 356
+            }
+          ],
+          "available": true,
+          "status": "ready",
+          "start": 0,
+          "end": 7.6,
+          "fps": 60,
+          "audioPolicy": "no-audio-track",
+          "posterTimeSeconds": 3.8,
+          "posterSelection": "reviewed",
+          "width": 1920,
+          "height": 1080
+        }
+      ],
+      "sources": [
+        {
+          "label": "BatchC.tsx",
+          "symbol": "BatchC",
+          "url": "/api/design-source/0c420727e2aef11366c5af1a",
+          "available": true,
+          "status": "ready"
+        },
+        {
+          "label": "BatchC.tsx",
+          "symbol": "",
+          "url": "/api/design-source/0c420727e2aef11366c5af1a",
+          "available": true,
+          "status": "ready"
+        },
+        {
+          "label": "index.tsx",
+          "symbol": "",
+          "url": "/api/design-source/9bd30027ac727e3097c8e526",
+          "available": true,
+          "status": "ready"
+        },
+        {
+          "label": "package-lock.json",
+          "symbol": "",
+          "url": "/api/design-source/5d02b542b76987fbac880994",
+          "available": true,
+          "status": "ready"
+        },
+        {
+          "label": "material-policy.tsx",
+          "symbol": "",
+          "url": "/api/design-source/496bf6ea78205c1e87f191e2",
+          "available": true,
+          "status": "ready"
+        },
+        {
+          "label": "material-bindings.json",
+          "symbol": "",
+          "url": "/api/design-source/7986dba0cc5039b1d159a2b1",
+          "available": true,
+          "status": "ready"
+        }
+      ],
+      "referenceId": "library-new10-n026",
+      "mergedInto": [],
+      "hiddenReason": null,
+      "visibleByDefault": true,
+      "categoryId": "handoff",
+      "libraryOrder": 999,
+      "matching": {
+        "referenceId": "library-new10-n026",
+        "primaryUse": "handoff",
+        "useIds": [
+          "handoff",
+          "images"
+        ],
+        "sourceId": "fredtalk",
+        "conceptIds": [
+          "handoff",
+          "media",
+          "input"
+        ],
+        "inputObjects": [
+          "前后内容",
+          "载体",
+          "图片",
+          "作品"
+        ],
+        "action": "外部素材卡汇集并交给手机聊天输入",
+        "segmentRole": "短交接",
+        "nativeDurationSeconds": 7.6,
+        "adaptation": "衔接前后段的实际对象和终态；用于短交接，不能把整段讲解单纯放慢。",
+        "tags": [
+          "内容交接",
+          "图片与作品",
+          "前后内容",
+          "载体",
+          "图片",
+          "作品",
+          "短交接",
+          "输入、聊天与反馈"
+        ],
+        "scenarioId": "input",
+        "scenarioTitle": "输入、聊天与反馈",
+        "label": "N026",
+        "categoryId": "handoff",
+        "category": "内容交接",
+        "sceneTypes": [
+          "relationship",
+          "summary"
+        ],
+        "title": "外部素材卡汇集并交给手机聊天输入",
+        "collectionId": null,
+        "kind": "components",
+        "score": 154.7,
+        "matchedConceptIds": [
+          "input"
+        ],
+        "matchedUseIds": [],
+        "matchedWords": [
+          "输入"
+        ],
+        "reasons": [
+          "输入与反馈",
+          "原词命中：输入",
+          "相近词：输入"
+        ]
+      },
+      "sceneTypes": [
+        "relationship",
+        "summary"
+      ],
+      "implementation": {
+        "projects": [
+          "components/projects/30b3c05aa839"
+        ],
+        "compositionId": "N026",
+        "reuseBoundary": "Sanitized source snapshot; media dependencies are declared in library/media-manifest.json. Inspect the project entry for registration when compositionId is not recorded.",
+        "entryPoint": "components/projects/30b3c05aa839/src/index.tsx",
+        "publicDir": "components/projects/30b3c05aa839/public",
+        "runtimeVersion": "4.0.473",
+        "renderInputProps": {
+          "includeNarration": false
+        }
+      },
+      "assetAvailability": {
+        "quarantinedDependencyPaths": 2,
+        "note": "Full project snapshot may include unused branches; check the selected composition."
+      },
+      "materialRevision": "20261004-material-replacements",
+      "previewMatchesImplementation": true,
+      "materialStatus": "rendered-and-reviewed",
+      "materialSources": [
+        "/api/design-source/496bf6ea78205c1e87f191e2",
+        "/api/design-source/7986dba0cc5039b1d159a2b1"
+      ],
+      "sourceFiles": [
+        {
+          "path": "components/projects/30b3c05aa839/src/BatchC.tsx",
+          "sha256": "3c4ca261253ff69439d77cff85d0d7de2dbb5d886b8bc2f573b22b272c31123c",
+          "url": "/api/design-source/0c420727e2aef11366c5af1a",
+          "available": true,
+          "remoteAvailable": false,
+          "status": "ready",
+          "symbol": "BatchC"
+        },
+        {
+          "path": "components/projects/30b3c05aa839/src/BatchC.tsx",
+          "sha256": "3c4ca261253ff69439d77cff85d0d7de2dbb5d886b8bc2f573b22b272c31123c",
+          "url": "/api/design-source/0c420727e2aef11366c5af1a",
+          "available": true,
+          "remoteAvailable": false,
+          "status": "ready"
+        },
+        {
+          "path": "components/projects/30b3c05aa839/src/index.tsx",
+          "sha256": "d1a1e8bbf7eb9cd45a4435ba7c2e049a5107a9a01e2e5561bcc65d7f2dbe9e7c",
+          "url": "/api/design-source/9bd30027ac727e3097c8e526",
+          "available": true,
+          "remoteAvailable": false,
+          "status": "ready"
+        },
+        {
+          "path": "components/projects/30b3c05aa839/package-lock.json",
+          "sha256": "8013de4fdd6d9017b924fe768bf820baadf9f4f3399818a803e0aef97d3ce924",
+          "url": "/api/design-source/5d02b542b76987fbac880994",
+          "available": true,
+          "remoteAvailable": false,
+          "status": "ready"
+        },
+        {
+          "path": "components/projects/30b3c05aa839/material-policy.tsx",
+          "sha256": "710ee99b3004369f66b996ea9988fdffb73d6e29d512adbe06adbe9f523da292",
+          "url": "/api/design-source/496bf6ea78205c1e87f191e2",
+          "available": true,
+          "remoteAvailable": false,
+          "status": "ready"
+        },
+        {
+          "path": "components/projects/30b3c05aa839/material-bindings.json",
+          "sha256": "98a954add10947863eebb1f02b305692dcebfdbc97f688140cf587859e83e989",
+          "url": "/api/design-source/7986dba0cc5039b1d159a2b1",
+          "available": true,
+          "remoteAvailable": false,
+          "status": "ready"
+        }
+      ],
+      "sourceAvailability": {
+        "available": true,
+        "status": "ready",
+        "authRequired": false,
+        "installationRequired": false,
+        "reason": "Verified source is installed.",
+        "importCommand": null,
+        "downloadCommand": null,
+        "installCommand": null
+      },
+      "candidateId": "library-new10-n026"
+    }
+  ]
+}

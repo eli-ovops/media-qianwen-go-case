@@ -1,0 +1,914 @@
+{
+  "libraryCandidates": {
+    "query": "界面 点击 开关 反馈",
+    "sceneType": "custom",
+    "candidates": [
+      {
+        "id": "fred-wave2-42-t19c",
+        "displayLabel": "T19c",
+        "title": "惊叹反应：Fred 形象加短评",
+        "useWhen": "看到结果 → Fred 惊叹，短评落定",
+        "sceneTypes": [
+          "custom",
+          "summary"
+        ],
+        "collectionId": "fred-wave2-42-20261012",
+        "editableParameters": [],
+        "knownLimitations": [
+          "源码包保留真实实现、kit、字体与动作音效；人物素材、实际录屏与每期原片由使用者自备。",
+          "新文字、数量、媒体与口播时码需检查容量、可读性和动态。"
+        ],
+        "nativeTiming": {
+          "fps": 60,
+          "durationInFrames": 240,
+          "width": 1920,
+          "height": 1080
+        },
+        "sourceAvailability": {
+          "available": false,
+          "status": "needs-auth",
+          "authRequired": true,
+          "installationRequired": true,
+          "reason": "Source is not installed; log in to the website, download the official source ZIP and import it locally. Automatic token downloads are optional.",
+          "importCommand": "python3 scripts/assets.py import --zip <official-source-ZIP-path>",
+          "downloadCommand": "python3 scripts/assets.py download --members --collection fred-wave2-42-20261012",
+          "installCommand": "python3 scripts/assets.py materialize --members --collection fred-wave2-42-20261012"
+        },
+        "earlyAccess": {
+          "enabled": true,
+          "audience": "exclusive_group",
+          "requiredMembershipLevels": [
+            "exclusive_group"
+          ],
+          "durationDays": 14,
+          "startsAt": "2026-10-13T03:15:00.000Z",
+          "publicAt": "2026-10-27T03:15:00.000Z"
+        },
+        "label": "T19c",
+        "score": 82.4,
+        "reasons": [
+          "媒体与设备"
+        ],
+        "sameSceneType": true,
+        "productionUse": {
+          "useIds": [
+            "explain",
+            "images"
+          ],
+          "sourceId": "fred-wave2-42",
+          "inputObjects": [
+            "结果图",
+            "Fred 形象",
+            "短评"
+          ],
+          "action": "看到结果 → Fred 惊叹，短评落定",
+          "segmentRole": "新做参数化组件（Fred 认可入库）",
+          "nativeDurationSeconds": 4.0,
+          "adaptation": "只通过 props 换文字、素材、数量；新内容先出静帧检查容量与可读性。"
+        },
+        "resolveCommand": "references.py --id fred-wave2-42-t19c --full"
+      },
+      {
+        "id": "library-new10-n026",
+        "displayLabel": "N026",
+        "title": "外部素材卡汇集并交给手机聊天输入",
+        "useWhen": "解释多模态输入、将素材交给 Agent、从素材准备转入指令提交。",
+        "sceneTypes": [
+          "relationship",
+          "summary"
+        ],
+        "editableParameters": [],
+        "knownLimitations": [
+          "用户对本批成片整体认可；不表示此组件已用新文案及素材完成通用参数视觉验收。"
+        ],
+        "nativeTiming": {},
+        "sourceAvailability": {
+          "available": true,
+          "status": "ready",
+          "authRequired": false,
+          "installationRequired": false,
+          "reason": "Verified source is installed.",
+          "importCommand": null,
+          "downloadCommand": null,
+          "installCommand": null
+        },
+        "label": "N026",
+        "score": 286.4,
+        "reasons": [
+          "媒体与设备",
+          "原词命中：界面",
+          "原词命中：反馈",
+          "相近词：反馈、界面"
+        ],
+        "sameSceneType": false,
+        "productionUse": {
+          "useIds": [
+            "handoff",
+            "images"
+          ],
+          "sourceId": "fredtalk",
+          "inputObjects": [
+            "前后内容",
+            "载体",
+            "图片",
+            "作品"
+          ],
+          "action": "外部素材卡汇集并交给手机聊天输入",
+          "segmentRole": "短交接",
+          "nativeDurationSeconds": 7.6,
+          "adaptation": "衔接前后段的实际对象和终态；用于短交接，不能把整段讲解单纯放慢。"
+        },
+        "resolveCommand": "references.py --id library-new10-n026 --full"
+      },
+      {
+        "id": "fred-native-t09a",
+        "displayLabel": "T09a",
+        "title": "点击路径聚焦：镜头跟光标找到入口并点下",
+        "useWhen": "点击路径聚焦：镜头跟光标找到入口并点下",
+        "sceneTypes": [
+          "device-demo"
+        ],
+        "collectionId": "fred-native-16-20261012",
+        "editableParameters": [
+          "image",
+          "imageSize"
+        ],
+        "knownLimitations": [
+          "源码包保留真实实现、kit、字体与动作音效；人物素材、实际录屏与每期原片由使用者自备。",
+          "新文字、数量、媒体与口播时码需检查容量、可读性和动态。"
+        ],
+        "nativeTiming": {
+          "fps": 60,
+          "durationInFrames": 300,
+          "width": 1920,
+          "height": 1080
+        },
+        "sourceAvailability": {
+          "available": false,
+          "status": "needs-auth",
+          "authRequired": true,
+          "installationRequired": true,
+          "reason": "Source is not installed; log in to the website, download the official source ZIP and import it locally. Automatic token downloads are optional.",
+          "importCommand": "python3 scripts/assets.py import --zip <official-source-ZIP-path>",
+          "downloadCommand": "python3 scripts/assets.py download --members --collection fred-native-16-20261012",
+          "installCommand": "python3 scripts/assets.py materialize --members --collection fred-native-16-20261012"
+        },
+        "earlyAccess": {
+          "enabled": true,
+          "audience": "exclusive_group",
+          "requiredMembershipLevels": [
+            "exclusive_group"
+          ],
+          "durationDays": 14,
+          "startsAt": "2026-10-13T03:15:00.000Z",
+          "publicAt": "2026-10-27T03:15:00.000Z"
+        },
+        "label": "T09a",
+        "score": 286.4,
+        "reasons": [
+          "媒体与设备",
+          "原词命中：界面",
+          "原词命中：点击",
+          "相近词：点击、界面"
+        ],
+        "sameSceneType": false,
+        "productionUse": {
+          "useIds": [
+            "recording-focus",
+            "video-entry"
+          ],
+          "sourceId": "fred-native",
+          "inputObjects": [
+            "真实界面截图",
+            "点击坐标"
+          ],
+          "action": "点击路径聚焦：镜头跟光标找到入口并点下",
+          "segmentRole": "新做参数化组件（Fred 认可入库）",
+          "nativeDurationSeconds": 5.0,
+          "adaptation": "只通过 props 换文字、素材、数量；新内容先出静帧检查容量与可读性。"
+        },
+        "resolveCommand": "references.py --id fred-native-t09a --full"
+      },
+      {
+        "id": "library-new10-n044",
+        "displayLabel": "N044",
+        "title": "商品大图压成附件，输入框被提到前景",
+        "useWhen": "多模态任务开始时先交代提交的东西，再讲输入方式。",
+        "sceneTypes": [
+          "device-demo",
+          "prompt-reading"
+        ],
+        "editableParameters": [],
+        "knownLimitations": [
+          "用户对本批成片整体认可；不表示此组件已用新文案及素材完成通用参数视觉验收。"
+        ],
+        "nativeTiming": {},
+        "sourceAvailability": {
+          "available": true,
+          "status": "ready",
+          "authRequired": false,
+          "installationRequired": false,
+          "reason": "Verified source is installed.",
+          "importCommand": null,
+          "downloadCommand": null,
+          "installCommand": null
+        },
+        "label": "N044",
+        "score": 286.4,
+        "reasons": [
+          "媒体与设备",
+          "原词命中：界面",
+          "原词命中：反馈",
+          "相近词：反馈、界面"
+        ],
+        "sameSceneType": false,
+        "productionUse": {
+          "useIds": [
+            "explain",
+            "images",
+            "video-entry",
+            "handoff"
+          ],
+          "sourceId": "fredtalk",
+          "inputObjects": [
+            "文字",
+            "信息结构",
+            "图片",
+            "作品",
+            "录屏",
+            "视频",
+            "窗口",
+            "前后内容",
+            "载体"
+          ],
+          "action": "商品大图压成附件，输入框被提到前景",
+          "segmentRole": "一段解释",
+          "nativeDurationSeconds": 3.4,
+          "adaptation": "按口播分成几步建立与阅读；15–20秒需重排具体cue和阅读窗口，原短片不是现成20秒模板。"
+        },
+        "resolveCommand": "references.py --id library-new10-n044 --full"
+      },
+      {
+        "id": "fred-wave2-42-t09d2",
+        "displayLabel": "T09d2",
+        "title": "发任务看运行（返修）：步骤按口播时间点完成",
+        "useWhen": "任务发出 → 每一步按口播依次完成",
+        "sceneTypes": [
+          "device-demo",
+          "prompt-reading"
+        ],
+        "collectionId": "fred-wave2-42-20261012",
+        "editableParameters": [],
+        "knownLimitations": [
+          "源码包保留真实实现、kit、字体与动作音效；人物素材、实际录屏与每期原片由使用者自备。",
+          "新文字、数量、媒体与口播时码需检查容量、可读性和动态。"
+        ],
+        "nativeTiming": {
+          "fps": 60,
+          "durationInFrames": 300,
+          "width": 1920,
+          "height": 1080
+        },
+        "sourceAvailability": {
+          "available": false,
+          "status": "needs-auth",
+          "authRequired": true,
+          "installationRequired": true,
+          "reason": "Source is not installed; log in to the website, download the official source ZIP and import it locally. Automatic token downloads are optional.",
+          "importCommand": "python3 scripts/assets.py import --zip <official-source-ZIP-path>",
+          "downloadCommand": "python3 scripts/assets.py download --members --collection fred-wave2-42-20261012",
+          "installCommand": "python3 scripts/assets.py materialize --members --collection fred-wave2-42-20261012"
+        },
+        "earlyAccess": {
+          "enabled": true,
+          "audience": "exclusive_group",
+          "requiredMembershipLevels": [
+            "exclusive_group"
+          ],
+          "durationDays": 14,
+          "startsAt": "2026-10-13T03:15:00.000Z",
+          "publicAt": "2026-10-27T03:15:00.000Z"
+        },
+        "label": "T09d2",
+        "score": 224,
+        "reasons": [
+          "原词命中：界面",
+          "原词命中：反馈",
+          "相近词：反馈、界面"
+        ],
+        "sameSceneType": false,
+        "productionUse": {
+          "useIds": [
+            "recording-focus",
+            "explain"
+          ],
+          "sourceId": "fred-wave2-42",
+          "inputObjects": [
+            "真实界面截图",
+            "提示词",
+            "执行步骤"
+          ],
+          "action": "任务发出 → 每一步按口播依次完成",
+          "segmentRole": "新做参数化组件（Fred 认可入库）",
+          "nativeDurationSeconds": 5.0,
+          "adaptation": "只通过 props 换文字、素材、数量；新内容先出静帧检查容量与可读性。"
+        },
+        "resolveCommand": "references.py --id fred-wave2-42-t09d2 --full"
+      }
+    ],
+    "crossTypeFallback": true,
+    "scope": "Candidates only; inspect exact video and interface before selecting. No approval inferred.",
+    "selectionRule": "Inspect every listed candidate; record each as selected or rejected with a concrete reason before any original route.",
+    "publicFallbackCandidates": [
+      {
+        "id": "library-new10-n026",
+        "displayLabel": "N026",
+        "title": "外部素材卡汇集并交给手机聊天输入",
+        "useWhen": "解释多模态输入、将素材交给 Agent、从素材准备转入指令提交。",
+        "sceneTypes": [
+          "relationship",
+          "summary"
+        ],
+        "editableParameters": [],
+        "knownLimitations": [
+          "用户对本批成片整体认可；不表示此组件已用新文案及素材完成通用参数视觉验收。"
+        ],
+        "nativeTiming": {},
+        "sourceAvailability": {
+          "available": true,
+          "status": "ready",
+          "authRequired": false,
+          "installationRequired": false,
+          "reason": "Verified source is installed.",
+          "importCommand": null,
+          "downloadCommand": null,
+          "installCommand": null
+        },
+        "label": "N026",
+        "score": 286.4,
+        "reasons": [
+          "媒体与设备",
+          "原词命中：界面",
+          "原词命中：反馈",
+          "相近词：反馈、界面"
+        ],
+        "sameSceneType": false,
+        "productionUse": {
+          "useIds": [
+            "handoff",
+            "images"
+          ],
+          "sourceId": "fredtalk",
+          "inputObjects": [
+            "前后内容",
+            "载体",
+            "图片",
+            "作品"
+          ],
+          "action": "外部素材卡汇集并交给手机聊天输入",
+          "segmentRole": "短交接",
+          "nativeDurationSeconds": 7.6,
+          "adaptation": "衔接前后段的实际对象和终态；用于短交接，不能把整段讲解单纯放慢。"
+        },
+        "resolveCommand": "references.py --id library-new10-n026 --full"
+      },
+      {
+        "id": "library-new10-n044",
+        "displayLabel": "N044",
+        "title": "商品大图压成附件，输入框被提到前景",
+        "useWhen": "多模态任务开始时先交代提交的东西，再讲输入方式。",
+        "sceneTypes": [
+          "device-demo",
+          "prompt-reading"
+        ],
+        "editableParameters": [],
+        "knownLimitations": [
+          "用户对本批成片整体认可；不表示此组件已用新文案及素材完成通用参数视觉验收。"
+        ],
+        "nativeTiming": {},
+        "sourceAvailability": {
+          "available": true,
+          "status": "ready",
+          "authRequired": false,
+          "installationRequired": false,
+          "reason": "Verified source is installed.",
+          "importCommand": null,
+          "downloadCommand": null,
+          "installCommand": null
+        },
+        "label": "N044",
+        "score": 286.4,
+        "reasons": [
+          "媒体与设备",
+          "原词命中：界面",
+          "原词命中：反馈",
+          "相近词：反馈、界面"
+        ],
+        "sameSceneType": false,
+        "productionUse": {
+          "useIds": [
+            "explain",
+            "images",
+            "video-entry",
+            "handoff"
+          ],
+          "sourceId": "fredtalk",
+          "inputObjects": [
+            "文字",
+            "信息结构",
+            "图片",
+            "作品",
+            "录屏",
+            "视频",
+            "窗口",
+            "前后内容",
+            "载体"
+          ],
+          "action": "商品大图压成附件，输入框被提到前景",
+          "segmentRole": "一段解释",
+          "nativeDurationSeconds": 3.4,
+          "adaptation": "按口播分成几步建立与阅读；15–20秒需重排具体cue和阅读窗口，原短片不是现成20秒模板。"
+        },
+        "resolveCommand": "references.py --id library-new10-n044 --full"
+      },
+      {
+        "id": "library-new10-n030",
+        "displayLabel": "N030",
+        "title": "搜索框缩成查询路标，两路结果展开",
+        "useWhen": "先提出检索条件，再并列展示不同来源的结果；适合资料搜集或多平台同题搜索。",
+        "sceneTypes": [
+          "summary"
+        ],
+        "editableParameters": [],
+        "knownLimitations": [
+          "用户对本批成片整体认可；不表示此组件已用新文案及素材完成通用参数视觉验收。"
+        ],
+        "nativeTiming": {},
+        "sourceAvailability": {
+          "available": true,
+          "status": "ready",
+          "authRequired": false,
+          "installationRequired": false,
+          "reason": "Verified source is installed.",
+          "importCommand": null,
+          "downloadCommand": null,
+          "installCommand": null
+        },
+        "label": "N030",
+        "score": 224,
+        "reasons": [
+          "原词命中：界面",
+          "原词命中：反馈",
+          "相近词：反馈、界面"
+        ],
+        "sameSceneType": false,
+        "productionUse": {
+          "useIds": [
+            "explain",
+            "handoff"
+          ],
+          "sourceId": "fredtalk",
+          "inputObjects": [
+            "文字",
+            "信息结构",
+            "前后内容",
+            "载体"
+          ],
+          "action": "搜索框缩成查询路标，两路结果展开",
+          "segmentRole": "一段解释",
+          "nativeDurationSeconds": 5.5,
+          "adaptation": "按口播分成几步建立与阅读；15–20秒需重排具体cue和阅读窗口，原短片不是现成20秒模板。"
+        },
+        "resolveCommand": "references.py --id library-new10-n030 --full"
+      }
+    ],
+    "availabilityRule": "Unavailable member candidates remain discoverable and require a reason; select only verified installed source or use the public fallback. componentPlan.access=public limits the comparison to public source.",
+    "narrationCandidates": [
+      {
+        "id": "fred-wave3-40-t15i",
+        "displayLabel": "T15i",
+        "title": "套餐对比",
+        "useWhen": "几个套餐并排 → 价格落定，推荐的那个抬起",
+        "sceneTypes": [
+          "metric-change"
+        ],
+        "collectionId": "fred-wave3-40-20261012",
+        "editableParameters": [
+          "enter",
+          "exit",
+          "exitAt",
+          "plans",
+          "recommend",
+          "tag",
+          "cues"
+        ],
+        "knownLimitations": [
+          "源码包保留真实实现、kit、字体与动作音效；人物素材、实际录屏与每期原片由使用者自备。",
+          "新文字、数量、媒体与口播时码需检查容量、可读性和动态。"
+        ],
+        "nativeTiming": {
+          "fps": 60,
+          "durationInFrames": 360,
+          "width": 1920,
+          "height": 1080
+        },
+        "sourceAvailability": {
+          "available": false,
+          "status": "needs-auth",
+          "authRequired": true,
+          "installationRequired": true,
+          "reason": "Source is not installed; log in to the website, download the official source ZIP and import it locally. Automatic token downloads are optional.",
+          "importCommand": "python3 scripts/assets.py import --zip <official-source-ZIP-path>",
+          "downloadCommand": "python3 scripts/assets.py download --members --collection fred-wave3-40-20261012",
+          "installCommand": "python3 scripts/assets.py materialize --members --collection fred-wave3-40-20261012"
+        },
+        "earlyAccess": {
+          "enabled": true,
+          "audience": "exclusive_group",
+          "requiredMembershipLevels": [
+            "exclusive_group"
+          ],
+          "durationDays": 14,
+          "startsAt": "2026-10-13T03:15:00.000Z",
+          "publicAt": "2026-10-27T03:15:00.000Z"
+        },
+        "label": "T15i",
+        "score": 89.7,
+        "reasons": [
+          "数值与图表",
+          "相近词：价格"
+        ],
+        "sameSceneType": false,
+        "productionUse": {
+          "useIds": [
+            "data",
+            "explain"
+          ],
+          "sourceId": "fred-wave3-40",
+          "inputObjects": [
+            "套餐列",
+            "价格",
+            "权益"
+          ],
+          "action": "几个套餐并排 → 价格落定，推荐的那个抬起",
+          "segmentRole": "新做参数化组件（Fred 认可入库）",
+          "nativeDurationSeconds": 6.0,
+          "adaptation": "只通过 props 换文字、素材、数量；新内容先出静帧检查容量与可读性。"
+        },
+        "resolveCommand": "references.py --id fred-wave3-40-t15i --full"
+      },
+      {
+        "id": "fred-wave2-fix5-t14b",
+        "displayLabel": "T14b",
+        "title": "单项参数落定",
+        "useWhen": "一个参数名 → 数值落定并标出含义",
+        "sceneTypes": [
+          "metric-change"
+        ],
+        "collectionId": "fred-wave2-fix5-20261012",
+        "editableParameters": [],
+        "knownLimitations": [
+          "源码包保留真实实现、kit、字体与动作音效；人物素材、实际录屏与每期原片由使用者自备。",
+          "新文字、数量、媒体与口播时码需检查容量、可读性和动态。"
+        ],
+        "nativeTiming": {
+          "fps": 60,
+          "durationInFrames": 240,
+          "width": 1920,
+          "height": 1080
+        },
+        "sourceAvailability": {
+          "available": false,
+          "status": "needs-auth",
+          "authRequired": true,
+          "installationRequired": true,
+          "reason": "Source is not installed; log in to the website, download the official source ZIP and import it locally. Automatic token downloads are optional.",
+          "importCommand": "python3 scripts/assets.py import --zip <official-source-ZIP-path>",
+          "downloadCommand": "python3 scripts/assets.py download --members --collection fred-wave2-fix5-20261012",
+          "installCommand": "python3 scripts/assets.py materialize --members --collection fred-wave2-fix5-20261012"
+        },
+        "earlyAccess": {
+          "enabled": true,
+          "audience": "exclusive_group",
+          "requiredMembershipLevels": [
+            "exclusive_group"
+          ],
+          "durationDays": 14,
+          "startsAt": "2026-10-13T03:15:00.000Z",
+          "publicAt": "2026-10-27T03:15:00.000Z"
+        },
+        "label": "T14b",
+        "score": 89.7,
+        "reasons": [
+          "数值与图表",
+          "相近词：价格"
+        ],
+        "sameSceneType": false,
+        "productionUse": {
+          "useIds": [
+            "data"
+          ],
+          "sourceId": "fred-wave2-fix5",
+          "inputObjects": [
+            "参数名",
+            "数值",
+            "含义"
+          ],
+          "action": "一个参数名 → 数值落定并标出含义",
+          "segmentRole": "新做参数化组件（Fred 认可入库）",
+          "nativeDurationSeconds": 4.0,
+          "adaptation": "只通过 props 换文字、素材、数量；新内容先出静帧检查容量与可读性。"
+        },
+        "resolveCommand": "references.py --id fred-wave2-fix5-t14b --full"
+      },
+      {
+        "id": "fred-native-t14c",
+        "displayLabel": "T14c",
+        "title": "价格落定：数字逐位滚动，旧价划掉，差额亮出",
+        "useWhen": "价格落定：数字逐位滚动，旧价划掉，差额亮出",
+        "sceneTypes": [
+          "metric-change"
+        ],
+        "collectionId": "fred-native-16-20261012",
+        "editableParameters": [
+          "label",
+          "value",
+          "decimals",
+          "prefix",
+          "unit",
+          "compareLabel",
+          "compareValue",
+          "deltaText",
+          "deltaKey",
+          "background"
+        ],
+        "knownLimitations": [
+          "源码包保留真实实现、kit、字体与动作音效；人物素材、实际录屏与每期原片由使用者自备。",
+          "新文字、数量、媒体与口播时码需检查容量、可读性和动态。"
+        ],
+        "nativeTiming": {
+          "fps": 60,
+          "durationInFrames": 300,
+          "width": 1920,
+          "height": 1080
+        },
+        "sourceAvailability": {
+          "available": false,
+          "status": "needs-auth",
+          "authRequired": true,
+          "installationRequired": true,
+          "reason": "Source is not installed; log in to the website, download the official source ZIP and import it locally. Automatic token downloads are optional.",
+          "importCommand": "python3 scripts/assets.py import --zip <official-source-ZIP-path>",
+          "downloadCommand": "python3 scripts/assets.py download --members --collection fred-native-16-20261012",
+          "installCommand": "python3 scripts/assets.py materialize --members --collection fred-native-16-20261012"
+        },
+        "earlyAccess": {
+          "enabled": true,
+          "audience": "exclusive_group",
+          "requiredMembershipLevels": [
+            "exclusive_group"
+          ],
+          "durationDays": 14,
+          "startsAt": "2026-10-13T03:15:00.000Z",
+          "publicAt": "2026-10-27T03:15:00.000Z"
+        },
+        "label": "T14c",
+        "score": 89.7,
+        "reasons": [
+          "数值与图表",
+          "相近词：价格"
+        ],
+        "sameSceneType": false,
+        "productionUse": {
+          "useIds": [
+            "data"
+          ],
+          "sourceId": "fred-native",
+          "inputObjects": [
+            "新旧价格",
+            "单位",
+            "结论"
+          ],
+          "action": "价格落定：数字逐位滚动，旧价划掉，差额亮出",
+          "segmentRole": "新做参数化组件（Fred 认可入库）",
+          "nativeDurationSeconds": 5.0,
+          "adaptation": "只通过 props 换文字、素材、数量；新内容先出静帧检查容量与可读性。"
+        },
+        "resolveCommand": "references.py --id fred-native-t14c --full"
+      },
+      {
+        "id": "fred-wave3-40-t15g",
+        "displayLabel": "T15g",
+        "title": "排行揭晓",
+        "useWhen": "名次从后往前一行行翻上来 → 第一名最后揭晓",
+        "sceneTypes": [
+          "metric-change"
+        ],
+        "collectionId": "fred-wave3-40-20261012",
+        "editableParameters": [
+          "enter",
+          "exit",
+          "exitAt",
+          "rows",
+          "decimals",
+          "prefix",
+          "suffix",
+          "caption",
+          "cues"
+        ],
+        "knownLimitations": [
+          "源码包保留真实实现、kit、字体与动作音效；人物素材、实际录屏与每期原片由使用者自备。",
+          "新文字、数量、媒体与口播时码需检查容量、可读性和动态。"
+        ],
+        "nativeTiming": {
+          "fps": 60,
+          "durationInFrames": 360,
+          "width": 1920,
+          "height": 1080
+        },
+        "sourceAvailability": {
+          "available": false,
+          "status": "needs-auth",
+          "authRequired": true,
+          "installationRequired": true,
+          "reason": "Source is not installed; log in to the website, download the official source ZIP and import it locally. Automatic token downloads are optional.",
+          "importCommand": "python3 scripts/assets.py import --zip <official-source-ZIP-path>",
+          "downloadCommand": "python3 scripts/assets.py download --members --collection fred-wave3-40-20261012",
+          "installCommand": "python3 scripts/assets.py materialize --members --collection fred-wave3-40-20261012"
+        },
+        "earlyAccess": {
+          "enabled": true,
+          "audience": "exclusive_group",
+          "requiredMembershipLevels": [
+            "exclusive_group"
+          ],
+          "durationDays": 14,
+          "startsAt": "2026-10-13T03:15:00.000Z",
+          "publicAt": "2026-10-27T03:15:00.000Z"
+        },
+        "label": "T15g",
+        "score": 77.7,
+        "reasons": [
+          "数值与图表",
+          "相近词：最后"
+        ],
+        "sameSceneType": false,
+        "productionUse": {
+          "useIds": [
+            "data",
+            "explain"
+          ],
+          "sourceId": "fred-wave3-40",
+          "inputObjects": [
+            "排行对象",
+            "排名",
+            "成绩"
+          ],
+          "action": "名次从后往前一行行翻上来 → 第一名最后揭晓",
+          "segmentRole": "新做参数化组件（Fred 认可入库）",
+          "nativeDurationSeconds": 6.0,
+          "adaptation": "只通过 props 换文字、素材、数量；新内容先出静帧检查容量与可读性。"
+        },
+        "resolveCommand": "references.py --id fred-wave3-40-t15g --full"
+      },
+      {
+        "id": "fred-wave3-40-t15h",
+        "displayLabel": "T15h",
+        "title": "多方测评表",
+        "useWhen": "一张多列测评表 → 逐格落下对错和数值，最后一行合计亮出赢家",
+        "sceneTypes": [
+          "metric-change"
+        ],
+        "collectionId": "fred-wave3-40-20261012",
+        "editableParameters": [
+          "enter",
+          "exit",
+          "exitAt",
+          "columns",
+          "rows",
+          "totalLabel",
+          "totals",
+          "winner",
+          "cues"
+        ],
+        "knownLimitations": [
+          "源码包保留真实实现、kit、字体与动作音效；人物素材、实际录屏与每期原片由使用者自备。",
+          "新文字、数量、媒体与口播时码需检查容量、可读性和动态。"
+        ],
+        "nativeTiming": {
+          "fps": 60,
+          "durationInFrames": 420,
+          "width": 1920,
+          "height": 1080
+        },
+        "sourceAvailability": {
+          "available": false,
+          "status": "needs-auth",
+          "authRequired": true,
+          "installationRequired": true,
+          "reason": "Source is not installed; log in to the website, download the official source ZIP and import it locally. Automatic token downloads are optional.",
+          "importCommand": "python3 scripts/assets.py import --zip <official-source-ZIP-path>",
+          "downloadCommand": "python3 scripts/assets.py download --members --collection fred-wave3-40-20261012",
+          "installCommand": "python3 scripts/assets.py materialize --members --collection fred-wave3-40-20261012"
+        },
+        "earlyAccess": {
+          "enabled": true,
+          "audience": "exclusive_group",
+          "requiredMembershipLevels": [
+            "exclusive_group"
+          ],
+          "durationDays": 14,
+          "startsAt": "2026-10-13T03:15:00.000Z",
+          "publicAt": "2026-10-27T03:15:00.000Z"
+        },
+        "label": "T15h",
+        "score": 77.7,
+        "reasons": [
+          "数值与图表",
+          "相近词：最后"
+        ],
+        "sameSceneType": false,
+        "productionUse": {
+          "useIds": [
+            "data",
+            "explain"
+          ],
+          "sourceId": "fred-wave3-40",
+          "inputObjects": [
+            "方案列",
+            "评测项",
+            "结果格",
+            "合计"
+          ],
+          "action": "一张多列测评表 → 逐格落下对错和数值，最后一行合计亮出赢家",
+          "segmentRole": "新做参数化组件（Fred 认可入库）",
+          "nativeDurationSeconds": 7.0,
+          "adaptation": "只通过 props 换文字、素材、数量；新内容先出静帧检查容量与可读性。"
+        },
+        "resolveCommand": "references.py --id fred-wave3-40-t15h --full"
+      }
+    ],
+    "narrationScope": "Matches from the spoken line only. Use them to widen the visual query, not as a selection."
+  },
+  "scene": {
+    "stableId": "reminder",
+    "oneQuestion": "同一商品如何变成按预算每天查价的提醒",
+    "sourceSpans": [
+      {
+        "text": "最后给这个价格的估算，而且还设置一个，每天查价的提醒"
+      }
+    ],
+    "implementationMode": "adapted",
+    "componentPlan": {
+      "query": "界面 点击 开关 反馈",
+      "candidates": [
+        {
+          "id": "library-new10-n026",
+          "decision": "rejected",
+          "reason": "媒体上传手机和键盘输入会增加本段没有发生的上传动作，核心帧已看，拒绝。"
+        },
+        {
+          "id": "fred-native-t09a",
+          "decision": "rejected",
+          "reason": "核心帧展示光标选入口；源码needs-auth且原录屏界面非本案，不选。"
+        },
+        {
+          "id": "library-new10-n044",
+          "decision": "selected",
+          "reason": "商品缩成附件、原输入载体提到前景；保留同一商品变小并进入提醒设置载体，适合承接。"
+        }
+      ],
+      "inspectedReferences": [
+        {
+          "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/references/library-new10-n044-0.jpg",
+          "sha256": "648cd169685bdc01f2addc714be994f9ec9273ede1bc8ea65d3541959b15c8f2",
+          "id": "library-new10-n044",
+          "observations": "商品缩成附件、原输入载体提到前景；保留同一商品变小并进入提醒设置载体，适合承接。"
+        },
+        {
+          "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/references/library-new10-n044-1.jpg",
+          "sha256": "ac2a8d5ae16ccb32d99b7a9aca7dd989e0fe99db1988818bda6ef17a966f05cf",
+          "id": "library-new10-n044",
+          "observations": "商品缩成附件、原输入载体提到前景；保留同一商品变小并进入提醒设置载体，适合承接。"
+        },
+        {
+          "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/references/library-new10-n044-2.jpg",
+          "sha256": "d20adde0f0664b06af435890c6b8a23d149d7729f3fb4b2fcf596d7ee2ff23ab",
+          "id": "library-new10-n044",
+          "observations": "商品缩成附件、原输入载体提到前景；保留同一商品变小并进入提醒设置载体，适合承接。"
+        }
+      ]
+    },
+    "referenceChoices": [
+      {
+        "id": "library-new10-n044",
+        "reason": "商品缩成附件、原输入载体提到前景；保留同一商品变小并进入提醒设置载体，适合承接。",
+        "preserve": "商品持续缩小成为同一前景设置载体的附件",
+        "change": "竖屏60fps；按真实口播重写费用/条件/开关图解，不用原品牌/媒体/数字",
+        "useScope": "8.8–9.8秒同商品与总价移入条件设置"
+      }
+    ]
+  },
+  "manifestPath": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/manifest.json",
+  "next": "Inspect each candidate video/core frames, then read the full packet without --candidates-only."
+}

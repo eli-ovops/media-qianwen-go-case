@@ -1,0 +1,18 @@
+{
+  "duration": 21.8,
+  "frames": 1308,
+  "fps": 60,
+  "width": 1080,
+  "height": 1920,
+  "decode_exit": 0,
+  "monotonic_pts": true,
+  "max_frame_gap": 0.01670000000000016,
+  "native_loudness_lufs": -19.74,
+  "native_true_peak_dbtp": -4.89,
+  "audio_decoded_pcm_identical_to_v1": true,
+  "audio_pcm_sha256": "605cef78eb3da66b45547363d8c94a9b016e958d1e55526f4e037c48bc466cae",
+  "sha256": "b2d3c21da67ec2284a21516be331b4319b99a59976a0a77609d126c4191250e0",
+  "bytes": 4583017,
+  "direct_audio_listening": false,
+  "continuous_realtime_av_review": false
+}

@@ -1,0 +1,525 @@
+{
+  "workflow": {
+    "profile": "fred-video-v2",
+    "componentMatching": "v1",
+    "authorization": {
+      "mode": "bounded-revision",
+      "source": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/Fred工作流费用提醒样片-v8任务.md",
+      "quote": "2026-10-14用户最新视觉纠正 + PMO样片v8审阅.md：独立v8.1，黑/近黑背景，增加承担语义动作的组件，内部自检后报PMO"
+    }
+  },
+  "timelineFps": 60,
+  "durationInFrames": 816,
+  "outputSpec": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 60
+  },
+  "clockContract": {
+    "mode": "global",
+    "sourceRule": "one persistent global clock, source audio offset 37.2966667"
+  },
+  "referenceCatalogRevision": "217ebeb42f5bfca098228f5eb8b29d5c3196c0a2a7b57a38eb8e7c8e07720c7e",
+  "audio": {
+    "source": "/Users/USER/Downloads/e404afe47f88fa4affadf7f5fa273814_raw.mp4",
+    "startSeconds": 37.29666666666667,
+    "endSeconds": 50.89666666666666,
+    "timeStretch": 1
+  },
+  "subtitles": {
+    "enabled": true,
+    "sourcePath": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/project/src/v8/captions.json",
+    "sourceSha256": "f3a46865afd2f5f6ee18bee0f54200b245e02ba8b79e645ff5cceeb6d4b5723b",
+    "cues": [
+      {
+        "startSeconds": 0.06329999999999991,
+        "endSeconds": 3.003300000000001,
+        "text": "把优惠和服务的费用"
+      },
+      {
+        "startSeconds": 3.003300000000001,
+        "endSeconds": 5.0633,
+        "text": "整体都理清楚"
+      },
+      {
+        "startSeconds": 5.0633,
+        "endSeconds": 6.663300000000001,
+        "text": "计算清楚"
+      },
+      {
+        "startSeconds": 6.663300000000001,
+        "endSeconds": 9.063300000000002,
+        "text": "最后给这个价格的估算"
+      },
+      {
+        "startSeconds": 9.063300000000002,
+        "endSeconds": 10.903300000000002,
+        "text": "而且还设置一个"
+      },
+      {
+        "startSeconds": 10.903300000000002,
+        "endSeconds": 13.4633,
+        "text": "每天查价的提醒"
+      }
+    ],
+    "edgeTrimNote": "Removed preceding id28 only, 0–0.0633s; other cue text and times unchanged from v7 minus8.2s."
+  },
+  "pages": [
+    {
+      "stableId": "fees",
+      "startFrame": 0,
+      "globalStartFrame": 0,
+      "durationInFrames": 528,
+      "implementationMode": "adapted",
+      "productionRoute": {
+        "selected": "remotion",
+        "source": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/Fred工作流费用提醒样片-v8任务.md"
+      },
+      "oneQuestion": "优惠和服务如何形成总价估算",
+      "sourceSpans": [
+        {
+          "text": "然后询问客服，把优惠和服务的费用，整体都理清楚，计算清楚，最后给这个价格的估算"
+        }
+      ],
+      "componentPlan": {
+        "query": "商品 优惠 费用 多项汇合 总价 计算",
+        "candidates": [
+          {
+            "id": "fred-wave2-42-t15d",
+            "decision": "rejected",
+            "reason": "费用逐项累计语义最接近，实际看3核心帧；源码needs-auth，当前无安装或付费授权，拒绝直接复用。"
+          },
+          {
+            "id": "library-new10-n008",
+            "decision": "rejected",
+            "reason": "商品旁问答转执行角色，已读3核心帧及RebuiltN008；问答和结果作品不对应优惠扣除，拒绝。"
+          },
+          {
+            "id": "library-new10-n044",
+            "decision": "rejected",
+            "reason": "商品缩成附件、原输入载体提到前景；保留同一商品变小并进入提醒设置载体，适合承接。"
+          },
+          {
+            "id": "new30-op09",
+            "decision": "selected",
+            "reason": "四个既有画面收束而主画面扩展；保留多个费用对象向同一估算载体收束，连续主对象接力。"
+          },
+          {
+            "id": "library-legacy81-c005",
+            "decision": "selected",
+            "reason": "真实3核心帧为有连线的输入分支→输出关系，源码已读；用于计算端口和总支出输出路径。"
+          },
+          {
+            "id": "library-legacy81-r006",
+            "decision": "rejected",
+            "reason": "真实3帧与源码呈多输入合成编码器并清掉输入；本次需保留费用依据，不选。"
+          }
+        ],
+        "inspectedReferences": [
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/references/new30-op09-0.png",
+            "sha256": "d6a9a0ae63c8ce256c07d40ac1e5140d9f6002fcb8aad37889b08b3da267359c",
+            "id": "new30-op09",
+            "observations": "四个既有画面收束而主画面扩展；保留多个费用对象向同一估算载体收束，连续主对象接力。"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/references/new30-op09-1.png",
+            "sha256": "31697556e3d8ba25932647b019d2672e341d79eb6353a638aff8d9f310e85ee8",
+            "id": "new30-op09",
+            "observations": "四个既有画面收束而主画面扩展；保留多个费用对象向同一估算载体收束，连续主对象接力。"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/references/new30-op09-2.png",
+            "sha256": "e327b795f3c180f6685a3718840b30d6350f9a548895d7229cb834dcf2e98d4f",
+            "id": "new30-op09",
+            "observations": "四个既有画面收束而主画面扩展；保留多个费用对象向同一估算载体收束，连续主对象接力。"
+          },
+          {
+            "id": "library-legacy81-c005",
+            "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/references/library-legacy81-c005-0.jpg",
+            "sha256": "f89adf0d5bec40307410d5b745c52aae0f4c8f13ce1df899575020a4f06d000f",
+            "observations": "上方根节点连接多个可读输入，随后收束成输入到输出连线；本片采用随操作数而变的端口与连接路径。"
+          },
+          {
+            "id": "library-legacy81-c005",
+            "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/references/library-legacy81-c005-1.jpg",
+            "sha256": "bef15e884c4d3e7e2ba7d999dd7bb6a28d66e93a236112449b481ac34fc5c6b9",
+            "observations": "上方根节点连接多个可读输入，随后收束成输入到输出连线；本片采用随操作数而变的端口与连接路径。"
+          },
+          {
+            "id": "library-legacy81-c005",
+            "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/references/library-legacy81-c005-2.jpg",
+            "sha256": "8348d3155e6427f0578e101c0c2845f494fe41b2e5ab3cb5988ca8fbaed6934e",
+            "observations": "上方根节点连接多个可读输入，随后收束成输入到输出连线；本片采用随操作数而变的端口与连接路径。"
+          }
+        ]
+      },
+      "referenceChoices": [
+        {
+          "id": "new30-op09",
+          "reason": "四个既有画面收束而主画面扩展；保留多个费用对象向同一估算载体收束，连续主对象接力。",
+          "preserve": "多对象位置收束到同一运算列，保留原对象内容；主商品节点持续存在",
+          "change": "保留三个操作数，不沿用末端缩小淡出；暗底，优惠减项/服务加项，逐级接入总支出",
+          "useScope": "3.0–6.4秒操作数入位并形成输出",
+          "useMode": "local",
+          "keyAction": "辅助对象接入同一计算关系，输入保留",
+          "source": {
+            "path": "/Users/USER/.codex/skill-repos/FredTalk/components/projects/expansion-selected-20261007/source-view/7ffd8e123f571e373a7012bed97ca238ce3ecc22631da6637ed284e3ec4451fe.txt",
+            "sha256": "7ffd8e123f571e373a7012bed97ca238ce3ecc22631da6637ed284e3ec4451fe",
+            "symbol": "OP09"
+          },
+          "implementation": {
+            "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/project/src/v81/CostReminder.tsx",
+            "sha256": "5ed3602c8def255baea37b7de1ad6f44debb982ddf00b89baeb24ce83031e0db",
+            "symbol": "CostGather"
+          },
+          "callSite": {
+            "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/project/src/v81/CostReminder.tsx",
+            "sha256": "5ed3602c8def255baea37b7de1ad6f44debb982ddf00b89baeb24ce83031e0db",
+            "symbol": "CostReminder",
+            "callee": "CostGather"
+          }
+        },
+        {
+          "id": "library-legacy81-c005",
+          "reason": "费用输入需要可追踪的连接关系，收束到总支出后继续到条件",
+          "preserve": "输入分支通过显性线条进入输出关系",
+          "change": "三项算术而非分类树；暗底竖屏；保留输入",
+          "useScope": "3.02–6.18秒计算端口/连线",
+          "useMode": "local",
+          "keyAction": "分支连接后显现输出路径",
+          "source": {
+            "path": "/Users/USER/.codex/skill-repos/FredTalk/components/projects/2c1373611323/groups/ctw/core/src/RebuiltC005.tsx",
+            "sha256": "d646c06d576dbee79966fa668633eadea7cc5534f84149b78b9fcbfcc7da83d2",
+            "symbol": "RebuiltC005"
+          },
+          "implementation": {
+            "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/project/src/v81/CostReminder.tsx",
+            "sha256": "5ed3602c8def255baea37b7de1ad6f44debb982ddf00b89baeb24ce83031e0db",
+            "symbol": "CalculationRails"
+          },
+          "callSite": {
+            "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/project/src/v81/CostReminder.tsx",
+            "sha256": "5ed3602c8def255baea37b7de1ad6f44debb982ddf00b89baeb24ce83031e0db",
+            "symbol": "CostGather",
+            "callee": "CalculationRails"
+          }
+        }
+      ],
+      "visualPlan": {
+        "enter": "同一收藏夹冰箱与报价",
+        "change": "优惠/服务原对象依次入运算位，三输入连线形成总支出",
+        "read": "文本与原字幕对应停留",
+        "exit": "保留全部操作数与总支出",
+        "handoff": "整个计算组上移缩小，总支出原节点接预算条件"
+      },
+      "motionEvents": [
+        {
+          "event": "费用归并",
+          "cueFrame": 306,
+          "spokenCue": "计算清楚"
+        }
+      ],
+      "componentAcceptance": {
+        "status": "passed",
+        "stage": "keyframes",
+        "reviewer": "assistant",
+        "checks": {
+          "semanticFit": "四个既有画面收束而主画面扩展；保留多个费用对象向同一估算载体收束，连续主对象接力。",
+          "corePreserved": "多对象位置收束到同一运算列，保留原对象内容；主商品节点持续存在",
+          "visualQuality": "最终MP4原尺寸帧：输入报价/优惠/服务在总支出显现前中后保持存在，无v8空档；黑底亮色、服务图标和字幕可读。"
+        },
+        "evidence": [
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/native-f111.png",
+            "sha256": "ac8de34eb6181bc0dff64677d9b2fe678d2de5530effdaf6e1466e332ef4a486",
+            "id": "final-f111",
+            "timeSeconds": 1.85
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/native-f354.png",
+            "sha256": "95af8a9788c35f2fdb3e7d45f4ee4e1da56156bcc9ee89b99a9b74ba375afa8b",
+            "id": "final-f354",
+            "timeSeconds": 5.9
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/native-f365.png",
+            "sha256": "5e82edc1e9db289e947b03f61d44c6d29317821d6b6a7240e626280f45e8610c",
+            "id": "final-f365",
+            "timeSeconds": 6.083333333333333
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/native-f390.png",
+            "sha256": "a0d8ec66ac11702dc5ae0aa1b56fb3330cb350da9bd4492495f80289b838f6f4",
+            "id": "final-f390",
+            "timeSeconds": 6.5
+          }
+        ],
+        "contextSha256": "8e442541d9b248c08907ae0b76ed7af9fd1cfcd323c072c19ee613517e0ce2f4"
+      },
+      "sceneGuide": {
+        "type": "custom",
+        "modifiers": [
+          "object-transition"
+        ]
+      },
+      "keyframeReview": {
+        "status": "assistant-inspected",
+        "userConfirmation": "PENDING_PMO_FIRST",
+        "frames": [
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/native-f111.png",
+            "sha256": "ac8de34eb6181bc0dff64677d9b2fe678d2de5530effdaf6e1466e332ef4a486",
+            "id": "final-f111",
+            "timeSeconds": 1.85
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/native-f354.png",
+            "sha256": "95af8a9788c35f2fdb3e7d45f4ee4e1da56156bcc9ee89b99a9b74ba375afa8b",
+            "id": "final-f354",
+            "timeSeconds": 5.9
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/native-f365.png",
+            "sha256": "5e82edc1e9db289e947b03f61d44c6d29317821d6b6a7240e626280f45e8610c",
+            "id": "final-f365",
+            "timeSeconds": 6.083333333333333
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/native-f390.png",
+            "sha256": "a0d8ec66ac11702dc5ae0aa1b56fb3330cb350da9bd4492495f80289b838f6f4",
+            "id": "final-f390",
+            "timeSeconds": 6.5
+          }
+        ],
+        "sourceFiles": [
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/project/src/v81/CostReminder.tsx",
+            "sha256": "5ed3602c8def255baea37b7de1ad6f44debb982ddf00b89baeb24ce83031e0db"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/project/src/v81/Entry.tsx",
+            "sha256": "08c3e975aa20845b0cc4c4369f06adb6bfccd1a6385570f1cb1a64414f5239bf"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/project/src/v8/theme.ts",
+            "sha256": "a235e95c652137b43c31a9c680dabfd8fce3bbb45fac8559cd0af70ce2e9b1a3"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/project/src/v8/CostReminder.tsx",
+            "sha256": "692d7365600036a7da7036f35381b097950e87f868280c1b3893da027a700007"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/project/src/v8/captions.json",
+            "sha256": "f3a46865afd2f5f6ee18bee0f54200b245e02ba8b79e645ff5cceeb6d4b5723b"
+          }
+        ],
+        "openIssues": [],
+        "scope": "Final MP4 full-interval 10fps samples plus 60fps dense docking/gather/handoff/toggle ranges and native keys; no direct listening or real-time continuous AV claim."
+      }
+    },
+    {
+      "stableId": "reminder",
+      "startFrame": 528,
+      "globalStartFrame": 528,
+      "durationInFrames": 288,
+      "implementationMode": "adapted",
+      "productionRoute": {
+        "selected": "remotion",
+        "source": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/Fred工作流费用提醒样片-v8任务.md"
+      },
+      "oneQuestion": "同一商品如何变成按预算每天查价的提醒",
+      "sourceSpans": [
+        {
+          "text": "最后给这个价格的估算，而且还设置一个，每天查价的提醒"
+        }
+      ],
+      "componentPlan": {
+        "query": "界面 点击 开关 反馈",
+        "candidates": [
+          {
+            "id": "fred-wave2-42-t19c",
+            "decision": "rejected",
+            "reason": "实际3核心帧是Fred动画人物对作品作惊叹短评；本段是设置提醒，人物反应不解释条件和开关，且源码needs-auth，不选。"
+          },
+          {
+            "id": "library-new10-n026",
+            "decision": "rejected",
+            "reason": "媒体上传手机和键盘输入会增加本段没有发生的上传动作，核心帧已看，拒绝。"
+          },
+          {
+            "id": "fred-native-t09a",
+            "decision": "rejected",
+            "reason": "核心帧展示光标选入口；源码needs-auth且原录屏界面非本案，不选。"
+          },
+          {
+            "id": "library-new10-n044",
+            "decision": "selected",
+            "reason": "商品缩成附件、原输入载体提到前景；保留同一商品变小并进入提醒设置载体，适合承接。"
+          }
+        ],
+        "inspectedReferences": [
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/references/library-new10-n044-0.jpg",
+            "sha256": "648cd169685bdc01f2addc714be994f9ec9273ede1bc8ea65d3541959b15c8f2",
+            "id": "library-new10-n044",
+            "observations": "商品缩成附件、原输入载体提到前景；保留同一商品变小并进入提醒设置载体，适合承接。"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/references/library-new10-n044-1.jpg",
+            "sha256": "ac2a8d5ae16ccb32d99b7a9aca7dd989e0fe99db1988818bda6ef17a966f05cf",
+            "id": "library-new10-n044",
+            "observations": "商品缩成附件、原输入载体提到前景；保留同一商品变小并进入提醒设置载体，适合承接。"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/references/library-new10-n044-2.jpg",
+            "sha256": "d20adde0f0664b06af435890c6b8a23d149d7729f3fb4b2fcf596d7ee2ff23ab",
+            "id": "library-new10-n044",
+            "observations": "商品缩成附件、原输入载体提到前景；保留同一商品变小并进入提醒设置载体，适合承接。"
+          }
+        ]
+      },
+      "referenceChoices": [
+        {
+          "id": "library-new10-n044",
+          "reason": "商品缩成附件、原输入载体提到前景；保留同一商品变小并进入提醒设置载体，适合承接。",
+          "preserve": "同一主对象组缩小成为提醒控制的输入附件",
+          "change": "从单商品改为包含所有费用与总支出的计算组；预算比较直接附着原结果节点",
+          "useScope": "8.8–9.72秒计算组变为提醒条件",
+          "useMode": "local",
+          "keyAction": "同一计算组等比收束，当前设置控件进入前景",
+          "source": {
+            "path": "/Users/USER/.codex/skill-repos/FredTalk/components/projects/30b3c05aa839/src/BatchB.tsx",
+            "sha256": "159a69df982c5184c08ef7d8a152ee80bf7e7a3d3128ef67fab3d51060dd8c03",
+            "symbol": "MediaScenesB"
+          },
+          "implementation": {
+            "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/project/src/v81/CostReminder.tsx",
+            "sha256": "5ed3602c8def255baea37b7de1ad6f44debb982ddf00b89baeb24ce83031e0db",
+            "symbol": "ProductToReminder"
+          },
+          "callSite": {
+            "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/project/src/v81/CostReminder.tsx",
+            "sha256": "5ed3602c8def255baea37b7de1ad6f44debb982ddf00b89baeb24ce83031e0db",
+            "symbol": "CostReminder",
+            "callee": "ProductToReminder"
+          }
+        }
+      ],
+      "visualPlan": {
+        "enter": "同一收藏夹冰箱与报价",
+        "change": "总支出原位置附加<4500元，整组等比让位于每天查价开关",
+        "read": "文本与原字幕对应停留",
+        "exit": "保留计算依据与已启用状态",
+        "handoff": "交给同一提醒设置面"
+      },
+      "motionEvents": [
+        {
+          "event": "条件展开及启用",
+          "cueFrame": 544,
+          "spokenCue": "设置一个"
+        }
+      ],
+      "componentAcceptance": {
+        "status": "passed",
+        "stage": "keyframes",
+        "reviewer": "assistant",
+        "checks": {
+          "semanticFit": "商品缩成附件、原输入载体提到前景；保留同一商品变小并进入提醒设置载体，适合承接。",
+          "corePreserved": "同一主对象组缩小成为提醒控制的输入附件",
+          "visualQuality": "最终MP4接缝+0.1/0.3s原帧：旧标题不压顶标；同一计算组等比上移，原结果接阈值，开关/反馈不盖字幕。"
+        },
+        "evidence": [
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/native-f546.png",
+            "sha256": "b901f5b77cf53c1a00aa9d43222667f10bd5096336f1a21ba5b37e073c619bea",
+            "id": "final-f546",
+            "timeSeconds": 9.1
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/native-f558.png",
+            "sha256": "de4991930756d4bab78348065853c3ef4d1cb3137cb959bd75769ad8ebebe7c9",
+            "id": "final-f558",
+            "timeSeconds": 9.3
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/native-f759.png",
+            "sha256": "0a81868c14ab2dd3220ed0abc2304253871d9d53914b950a7ff0d28e5cbcb369",
+            "id": "final-f759",
+            "timeSeconds": 12.65
+          }
+        ],
+        "contextSha256": "3126590b35dc0305feabad0a4029b43d7efb40de03a2aff9cf946d0c8fc9f7f0"
+      },
+      "sceneGuide": {
+        "type": "custom",
+        "modifiers": [
+          "object-transition"
+        ]
+      },
+      "keyframeReview": {
+        "status": "assistant-inspected",
+        "userConfirmation": "PENDING_PMO_FIRST",
+        "frames": [
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/native-f546.png",
+            "sha256": "b901f5b77cf53c1a00aa9d43222667f10bd5096336f1a21ba5b37e073c619bea",
+            "id": "final-f546",
+            "timeSeconds": 9.1
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/native-f558.png",
+            "sha256": "de4991930756d4bab78348065853c3ef4d1cb3137cb959bd75769ad8ebebe7c9",
+            "id": "final-f558",
+            "timeSeconds": 9.3
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/native-f759.png",
+            "sha256": "0a81868c14ab2dd3220ed0abc2304253871d9d53914b950a7ff0d28e5cbcb369",
+            "id": "final-f759",
+            "timeSeconds": 12.65
+          }
+        ],
+        "sourceFiles": [
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/project/src/v81/CostReminder.tsx",
+            "sha256": "5ed3602c8def255baea37b7de1ad6f44debb982ddf00b89baeb24ce83031e0db"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/project/src/v81/Entry.tsx",
+            "sha256": "08c3e975aa20845b0cc4c4369f06adb6bfccd1a6385570f1cb1a64414f5239bf"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/project/src/v8/theme.ts",
+            "sha256": "a235e95c652137b43c31a9c680dabfd8fce3bbb45fac8559cd0af70ce2e9b1a3"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/project/src/v8/CostReminder.tsx",
+            "sha256": "692d7365600036a7da7036f35381b097950e87f868280c1b3893da027a700007"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/project/src/v8/captions.json",
+            "sha256": "f3a46865afd2f5f6ee18bee0f54200b245e02ba8b79e645ff5cceeb6d4b5723b"
+          }
+        ],
+        "openIssues": [],
+        "scope": "Final MP4 full-interval 10fps samples plus 60fps dense docking/gather/handoff/toggle ranges and native keys; no direct listening or real-time continuous AV claim."
+      }
+    }
+  ],
+  "revision": "v8.1-dark",
+  "reviewInput": {
+    "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/PMO样片v8审阅.md",
+    "sha256": "38ada1aa27a3567a8816e5e0a39e0614e8ec4b968dbb1e8e651a56b0ed0c3161"
+  },
+  "updatedTask": {
+    "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/Fred工作流费用提醒样片-v8任务.md",
+    "sha256": "74ce4500639dbcdcff7a9b64e214896c199d791a7dc6cdb6102c67c0dc93c747"
+  },
+  "designContract": {
+    "background": "#090D11",
+    "contrast": "bright lime/cyan/amber semantic roles",
+    "continuity": "Persistent quote/discount/service operands, connected output then same output budget predicate; no disappear/rebuild sum",
+    "sourcePriority": "latest user black-background instruction overrides Fred white default"
+  }
+}

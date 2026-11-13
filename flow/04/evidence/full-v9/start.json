@@ -1,0 +1,26 @@
+{
+  "owner": "01a11a6f-49ef-7653-934a-4312979fd4e7",
+  "rule": "ROUTING-2026-10-13-v4",
+  "actualModel": "UNKNOWN",
+  "actualEffort": "UNKNOWN",
+  "task": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/完整成片制作-v9任务.md",
+  "inputs": [
+    {
+      "path": "/Users/USER/Downloads/7b14be666720ab35b4c9330ff5caf3bb_raw.mp4",
+      "sha256": "a9f103d1e866fb68374b67be565c788af7b5383b97d572fe5b6f6355538e6458"
+    },
+    {
+      "path": "/Users/USER/Downloads/8e45868cc8576735af4ec1a25b4d40f5_raw.mp4",
+      "sha256": "da7c29b71f6fa2dc9d6b83952760ad12ea35f08162d2d271a3416718b8f55a84"
+    },
+    {
+      "path": "/Users/USER/Downloads/e404afe47f88fa4affadf7f5fa273814_raw.mp4",
+      "sha256": "2c9bd9f9b79808695d068c891eed29425986282d766f41c8ae0b54051f1ed495"
+    },
+    {
+      "path": "/Users/USER/Downloads/70566362856e3aecc19310c1b2352f57_raw.mp4",
+      "sha256": "04bd489bb613273c39827d1aa19ff58ec7bd91727ef0f5e5d1048178c0a1ab79"
+    }
+  ],
+  "gateAllowed": true
+}

@@ -1,0 +1,44 @@
+{
+  "scope": "Time-map and input identity audit, not spoken word accuracy",
+  "subtitleCues": 43,
+  "firstCueStart": 0,
+  "lastCueEnd": 101.67,
+  "cueIssues": [],
+  "removedSpokenPhrases": [],
+  "internalSilenceRemovedSeconds": 0.9299999999999997,
+  "speed": 1,
+  "portraitGlobalFrameRoundingMaximumSeconds": 0.008333333333333333,
+  "visibleSourceIntervals": [
+    {
+      "name": "intro",
+      "source": 1,
+      "start": 0.05,
+      "end": 4.95,
+      "globalStart": 0
+    },
+    {
+      "name": "bridge-safe",
+      "source": 2,
+      "start": 19.48,
+      "end": 24.6,
+      "globalStart": 23.45
+    },
+    {
+      "name": "opinion-safe",
+      "source": 4,
+      "start": 0.1,
+      "end": 4.56,
+      "globalStart": 79.37
+    },
+    {
+      "name": "close-safe",
+      "source": 4,
+      "start": 17,
+      "end": 22.75,
+      "globalStart": 96.27
+    }
+  ],
+  "spokenName": "推出千问Go",
+  "nameEvidence": "03/用户核听确认-v3.json; not a new direct listening result",
+  "screenPolicy": "No public-case, price-disclaimer, ELI branding, or non-real-notification footers in active v9 source. Actual MP4 frames still require confirmation."
+}

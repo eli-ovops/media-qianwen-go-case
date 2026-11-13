@@ -1,0 +1,14 @@
+{
+  "content_id": "qianwen-go-case-20261013",
+  "stage": "03",
+  "date": "2026-10-13 Asia/Shanghai",
+  "source": "本PMO聊天直接用户异步问答回复",
+  "question_item": "call_07b59fbd0da841bea312ac71523e4578 / 0",
+  "question": "你实际说的是千问即将推出千问Go吗？",
+  "user_answer": "是，原声说的是推出千问Go",
+  "media": "/Users/USER/Downloads/8e45868cc8576735af4ec1a25b4d40f5_raw.mp4",
+  "range_sec": [14.3, 19.6],
+  "resolution": "FACT_SENTENCE_AUDIO_CHECK由本人确认清除，不需补录。字幕应写推出千问Go，不能沿ASR退出千问购。",
+  "evidence_level": "本人确认；PMO未直接听音",
+  "full_film_review": false
+}

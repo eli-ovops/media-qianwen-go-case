@@ -1,0 +1,43 @@
+{
+  "whole_film_sampling": {
+    "files": 52,
+    "filter": "select every120th frame",
+    "limits": "one exact decoded frame per2sec; inspect native exact requests separately"
+  },
+  "native_times": [
+    2.7,
+    17,
+    50.8,
+    56,
+    64.9,
+    70,
+    75.5,
+    78.5,
+    89.5,
+    100.5
+  ],
+  "dense_windows": [
+    {
+      "start": 35.95,
+      "frames": 108,
+      "fps": 60
+    },
+    {
+      "start": 65.45,
+      "frames": 90,
+      "fps": 60
+    },
+    {
+      "start": 79.0,
+      "frames": 90,
+      "fps": 60
+    },
+    {
+      "start": 94.25,
+      "frames": 90,
+      "fps": 60
+    }
+  ],
+  "viewed_by_assistant": false,
+  "remaining_frames": "outside378 dense frames and listed samples not individually viewed; no real-time full audiovisual viewing"
+}

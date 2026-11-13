@@ -1,0 +1,763 @@
+{
+  "catalogRevision": "217ebeb42f5bfca098228f5eb8b29d5c3196c0a2a7b57a38eb8e7c8e07720c7e",
+  "count": 25,
+  "returned": 3,
+  "entries": [
+    {
+      "id": "component:fred-wave2-42-t15d",
+      "referenceId": "fred-wave2-42-t15d",
+      "label": "T15d",
+      "title": "成本账单逐行累计",
+      "kind": "components",
+      "category": "数值与图表",
+      "categoryId": "data",
+      "origin": "第二轮组件 42 条",
+      "description": "一项项费用 → 累计成合计",
+      "tags": [
+        "新做组件",
+        "T15d",
+        "账单",
+        "成本",
+        "累计",
+        "合计",
+        "数值与图表",
+        "数值变化与落定"
+      ],
+      "selectionStatus": "keep",
+      "status": "keep",
+      "reviewKind": "registered",
+      "reviewStatus": "keep",
+      "visibleByDefault": true,
+      "defaultReuse": true,
+      "collectionId": "fred-wave2-42-20261012",
+      "addedAt": "2026-10-12T16:09:37+08:00",
+      "isNew": true,
+      "displayPriority": -176,
+      "libraryOrder": 0,
+      "sceneTypes": [
+        "metric-change"
+      ],
+      "mergedInto": [],
+      "hiddenReason": null,
+      "reusability": {
+        "level": "parameterized",
+        "label": "可编辑组件 · 自备媒体",
+        "parameters": [],
+        "limitations": [
+          "源码包保留真实实现、kit、字体与动作音效；人物素材、实际录屏与每期原片由使用者自备。",
+          "新文字、数量、媒体与口播时码需检查容量、可读性和动态。"
+        ]
+      },
+      "previews": [
+        {
+          "videoUrl": "https://www.fred-fu.com/visual-library-app/objects/eedf718532ba76bac197d62c633807760f7fb9098e1d28e62bc14c2e5809b0d7.mp4",
+          "posterUrl": "https://www.fred-fu.com/visual-library-app/objects/c2c109562bb2ddb0723e29ef7787efeadb88b76841a6ebdb9295b7cfffca9280.jpg",
+          "keyframes": [
+            {
+              "url": "https://www.fred-fu.com/visual-library-app/objects/c2c109562bb2ddb0723e29ef7787efeadb88b76841a6ebdb9295b7cfffca9280.jpg",
+              "frame": 90,
+              "timeSeconds": 1.5
+            },
+            {
+              "url": "https://www.fred-fu.com/visual-library-app/objects/8cd31a6b48d4cd4fbdf190f3fe079dab4490c6230f29e1912f5f6be105ba4945.jpg",
+              "frame": 180,
+              "timeSeconds": 3.0
+            },
+            {
+              "url": "https://www.fred-fu.com/visual-library-app/objects/b0ab9516d810c9e51a53957cb1a7bd7b84d637a3c34eb6ed032e641c20c2c464.jpg",
+              "frame": 294,
+              "timeSeconds": 4.9
+            }
+          ],
+          "available": true,
+          "status": "ready",
+          "start": 0,
+          "end": 5.0,
+          "fps": 60,
+          "width": 1280,
+          "height": 720,
+          "sha256": "eedf718532ba76bac197d62c633807760f7fb9098e1d28e62bc14c2e5809b0d7",
+          "label": "成本账单逐行累计",
+          "audioPolicy": "accepted-component-action-sfx-no-narration",
+          "previewIdentity": {
+            "kind": "public-720p-preview",
+            "derivedFromSha256": "73db7a8a9688abb96a7af9f1e5729c13713b0e8a7fc4ad4907c9ee002344ee3b",
+            "sourceWidth": 1920,
+            "sourceHeight": 1080,
+            "audioPolicy": "copied-original-compressed-audio"
+          },
+          "access": "public"
+        }
+      ],
+      "sources": [
+        {
+          "label": "T15d-CostLedger.tsx",
+          "path": "src/components/T15d-CostLedger.tsx",
+          "symbol": "CostLedger",
+          "url": "/api/visual-library/assets/323d3f722757cb490e999377af8c5d7447aafa2912e65abd216af63747023368.txt",
+          "sha256": "323d3f722757cb490e999377af8c5d7447aafa2912e65abd216af63747023368",
+          "available": false,
+          "status": "needs-auth",
+          "installPath": ".artifacts/member-components/fred-wave2-42-20261012/fred-wave2-42-20261012/src/components/T15d-CostLedger.tsx",
+          "access": "members"
+        },
+        {
+          "label": "theme.ts",
+          "path": "src/kit/theme.ts",
+          "symbol": "",
+          "url": "/api/visual-library/assets/a235e95c652137b43c31a9c680dabfd8fce3bbb45fac8559cd0af70ce2e9b1a3.txt",
+          "sha256": "a235e95c652137b43c31a9c680dabfd8fce3bbb45fac8559cd0af70ce2e9b1a3",
+          "available": false,
+          "status": "needs-auth",
+          "installPath": ".artifacts/member-components/fred-wave2-42-20261012/fred-wave2-42-20261012/src/kit/theme.ts",
+          "access": "members"
+        },
+        {
+          "label": "ui.tsx",
+          "path": "src/kit/ui.tsx",
+          "symbol": "",
+          "url": "/api/visual-library/assets/05ce402324f5e11521b15dacc30de3ee1f89adb0a1b5c20b220a29890d8e3ba9.txt",
+          "sha256": "05ce402324f5e11521b15dacc30de3ee1f89adb0a1b5c20b220a29890d8e3ba9",
+          "available": false,
+          "status": "needs-auth",
+          "installPath": ".artifacts/member-components/fred-wave2-42-20261012/fred-wave2-42-20261012/src/kit/ui.tsx",
+          "access": "members"
+        },
+        {
+          "label": "registry.ts",
+          "path": "src/registry.ts",
+          "symbol": "",
+          "url": "/api/visual-library/assets/658d1150913c15380146f67b79e9279f4d3bc589aa4fcaab697518b698f8caad.txt",
+          "sha256": "658d1150913c15380146f67b79e9279f4d3bc589aa4fcaab697518b698f8caad",
+          "available": false,
+          "status": "needs-auth",
+          "installPath": ".artifacts/member-components/fred-wave2-42-20261012/fred-wave2-42-20261012/src/registry.ts",
+          "access": "members"
+        }
+      ],
+      "projectDownload": {
+        "url": "/api/visual-library/assets/fa5ab7e784c6ed4245092ac0993d729b225e6078d96a287f042bd97d63ef13a6.zip",
+        "filename": "fred-wave2-42-20261012-source.zip",
+        "sha256": "fa5ab7e784c6ed4245092ac0993d729b225e6078d96a287f042bd97d63ef13a6",
+        "available": false,
+        "kind": "independent-source-user-supplied-media",
+        "size": 34144141,
+        "status": "needs-auth",
+        "access": "members"
+      },
+      "implementation": {
+        "compositionId": "T15d-CostLedger",
+        "fps": 60,
+        "width": 1920,
+        "height": 1080,
+        "durationInFrames": 300,
+        "runtimeVersions": {
+          "remotion": "4.0.515",
+          "react": "19.2.4"
+        },
+        "projects": [
+          ".artifacts/member-components/fred-wave2-42-20261012/fred-wave2-42-20261012"
+        ],
+        "reuseBoundary": "Member website source package; install verified files into the ignored member directory before adaptation. Previously distributed MIT copies retain their license."
+      },
+      "matching": {
+        "referenceId": "fred-wave2-42-t15d",
+        "primaryUse": "data",
+        "useIds": [
+          "data"
+        ],
+        "sourceId": "fred-wave2-42",
+        "conceptIds": [
+          "data",
+          "summary"
+        ],
+        "inputObjects": [
+          "2–7 项费用"
+        ],
+        "action": "一项项费用 → 累计成合计",
+        "segmentRole": "新做参数化组件（Fred 认可入库）",
+        "nativeDurationSeconds": 5.0,
+        "adaptation": "只通过 props 换文字、素材、数量；新内容先出静帧检查容量与可读性。",
+        "tags": [
+          "新做组件",
+          "T15d",
+          "账单",
+          "成本",
+          "累计",
+          "合计",
+          "数值与图表",
+          "数值变化与落定"
+        ],
+        "scenarioId": "number",
+        "addedAt": "2026-10-12T16:09:37+08:00",
+        "scenarioTitle": "数值变化与落定",
+        "label": "T15d",
+        "categoryId": "data",
+        "category": "数值与图表",
+        "sceneTypes": [
+          "metric-change"
+        ],
+        "title": "成本账单逐行累计",
+        "collectionId": "fred-wave2-42-20261012",
+        "kind": "components",
+        "score": 189.7,
+        "matchedConceptIds": [
+          "data"
+        ],
+        "matchedUseIds": [],
+        "matchedWords": [
+          "费用"
+        ],
+        "reasons": [
+          "数值与图表",
+          "原词命中：费用",
+          "相近词：费用"
+        ]
+      },
+      "earlyAccess": {
+        "enabled": true,
+        "audience": "exclusive_group",
+        "requiredMembershipLevels": [
+          "exclusive_group"
+        ],
+        "durationDays": 14,
+        "startsAt": "2026-10-13T03:15:00.000Z",
+        "publicAt": "2026-10-27T03:15:00.000Z"
+      },
+      "access": "members",
+      "originalDownload": {
+        "url": "/api/visual-library/assets/73db7a8a9688abb96a7af9f1e5729c13713b0e8a7fc4ad4907c9ee002344ee3b.mp4",
+        "available": true,
+        "filename": "T15d-original.mp4",
+        "sha256": "73db7a8a9688abb96a7af9f1e5729c13713b0e8a7fc4ad4907c9ee002344ee3b",
+        "size": 617789,
+        "width": 1920,
+        "height": 1080,
+        "fps": 60,
+        "identity": "accepted-original"
+      },
+      "sourceFiles": [
+        {
+          "path": ".artifacts/member-components/fred-wave2-42-20261012/fred-wave2-42-20261012/src/components/T15d-CostLedger.tsx",
+          "sha256": "323d3f722757cb490e999377af8c5d7447aafa2912e65abd216af63747023368",
+          "url": "/api/visual-library/assets/323d3f722757cb490e999377af8c5d7447aafa2912e65abd216af63747023368.txt",
+          "available": false,
+          "remoteAvailable": false,
+          "status": "missing",
+          "symbol": "CostLedger"
+        },
+        {
+          "path": ".artifacts/member-components/fred-wave2-42-20261012/fred-wave2-42-20261012/src/kit/theme.ts",
+          "sha256": "a235e95c652137b43c31a9c680dabfd8fce3bbb45fac8559cd0af70ce2e9b1a3",
+          "url": "/api/visual-library/assets/a235e95c652137b43c31a9c680dabfd8fce3bbb45fac8559cd0af70ce2e9b1a3.txt",
+          "available": false,
+          "remoteAvailable": false,
+          "status": "missing"
+        },
+        {
+          "path": ".artifacts/member-components/fred-wave2-42-20261012/fred-wave2-42-20261012/src/kit/ui.tsx",
+          "sha256": "05ce402324f5e11521b15dacc30de3ee1f89adb0a1b5c20b220a29890d8e3ba9",
+          "url": "/api/visual-library/assets/05ce402324f5e11521b15dacc30de3ee1f89adb0a1b5c20b220a29890d8e3ba9.txt",
+          "available": false,
+          "remoteAvailable": false,
+          "status": "missing"
+        },
+        {
+          "path": ".artifacts/member-components/fred-wave2-42-20261012/fred-wave2-42-20261012/src/registry.ts",
+          "sha256": "658d1150913c15380146f67b79e9279f4d3bc589aa4fcaab697518b698f8caad",
+          "url": "/api/visual-library/assets/658d1150913c15380146f67b79e9279f4d3bc589aa4fcaab697518b698f8caad.txt",
+          "available": false,
+          "remoteAvailable": false,
+          "status": "missing"
+        }
+      ],
+      "sourceAvailability": {
+        "available": false,
+        "status": "needs-auth",
+        "authRequired": true,
+        "installationRequired": true,
+        "reason": "Source is not installed; log in to the website, download the official source ZIP and import it locally. Automatic token downloads are optional.",
+        "importCommand": "python3 scripts/assets.py import --zip <official-source-ZIP-path>",
+        "downloadCommand": "python3 scripts/assets.py download --members --collection fred-wave2-42-20261012",
+        "installCommand": "python3 scripts/assets.py materialize --members --collection fred-wave2-42-20261012"
+      },
+      "sourcePackage": {
+        "collectionId": "fred-wave2-42-20261012",
+        "sha256": "fa5ab7e784c6ed4245092ac0993d729b225e6078d96a287f042bd97d63ef13a6",
+        "size": 34144141,
+        "installRoot": ".artifacts/member-components/fred-wave2-42-20261012",
+        "entryPoint": ".artifacts/member-components/fred-wave2-42-20261012/fred-wave2-42-20261012/src/index.tsx",
+        "publicDir": ".artifacts/member-components/fred-wave2-42-20261012/fred-wave2-42-20261012/public"
+      },
+      "projectRoot": ".artifacts/member-components/fred-wave2-42-20261012/fred-wave2-42-20261012",
+      "entryPoint": null,
+      "publicDir": null,
+      "candidateId": "fred-wave2-42-t15d"
+    },
+    {
+      "id": "component:library-new10-n008",
+      "label": "N008",
+      "title": "商品旁的三个问题转为执行角色和作品",
+      "kind": "components",
+      "category": "图片与作品",
+      "origin": "FredTalk 组件库",
+      "description": "同一对象的需求如何分配给团队并产出成果。",
+      "tags": [
+        "商品旁的三个问题转为执行角色和作品",
+        "逻辑与流程",
+        "关系与流程",
+        "图片与作品",
+        "讲解段落",
+        "内容交接",
+        "图片",
+        "作品",
+        "文字",
+        "信息结构",
+        "前后内容",
+        "载体",
+        "人物素材",
+        "素材展示舞台",
+        "提出问题与给出答案"
+      ],
+      "selectionStatus": "keep",
+      "reusability": {
+        "level": "snapshot",
+        "label": "当前场景源码",
+        "parameters": [],
+        "limitations": [
+          "当前展示沿用统一库的清理版本；按所展示的准确源码适配本期内容。",
+          "不把旧参考的参数接口或参考片段认可自动转移给当前适配。"
+        ]
+      },
+      "previews": [
+        {
+          "videoUrl": "/api/design-assets/17b37a41449a49b6b14e56af",
+          "posterUrl": "/api/design-assets/8bc0d5014fe01890583bc9de",
+          "keyframes": [
+            {
+              "url": "/api/design-assets/851c361935bd30fb239bac45",
+              "timeSeconds": 1.7666666666666666,
+              "frame": 106
+            },
+            {
+              "url": "/api/design-assets/f636bf6905a68d2b34217c3c",
+              "timeSeconds": 4.166666666666667,
+              "frame": 250
+            },
+            {
+              "url": "/api/design-assets/b38a4271547e28d5c697c121",
+              "timeSeconds": 6.233333333333333,
+              "frame": 374
+            }
+          ],
+          "available": true,
+          "status": "ready",
+          "start": 0,
+          "end": 8.0,
+          "fps": 60,
+          "audioPolicy": "no-audio-track",
+          "posterTimeSeconds": 4.0,
+          "posterSelection": "reviewed"
+        }
+      ],
+      "sources": [
+        {
+          "label": "RebuiltN008.tsx",
+          "symbol": "",
+          "url": "/api/design-source/5aa539901681dd88214b8466",
+          "available": true,
+          "status": "ready"
+        }
+      ],
+      "referenceId": "library-new10-n008",
+      "mergedInto": [],
+      "hiddenReason": null,
+      "visibleByDefault": true,
+      "categoryId": "images",
+      "libraryOrder": 999,
+      "matching": {
+        "referenceId": "library-new10-n008",
+        "primaryUse": "images",
+        "useIds": [
+          "images",
+          "explain",
+          "handoff"
+        ],
+        "sourceId": "fredtalk",
+        "conceptIds": [
+          "media",
+          "text",
+          "handoff",
+          "people"
+        ],
+        "inputObjects": [
+          "图片",
+          "作品",
+          "文字",
+          "信息结构",
+          "前后内容",
+          "载体",
+          "人物素材"
+        ],
+        "action": "商品旁的三个问题转为执行角色和作品",
+        "segmentRole": "素材展示舞台",
+        "nativeDurationSeconds": 8.0,
+        "adaptation": "替换本期真实图片，核对比例、裁切、重点和各张阅读时间。",
+        "tags": [
+          "图片与作品",
+          "讲解段落",
+          "内容交接",
+          "图片",
+          "作品",
+          "文字",
+          "信息结构",
+          "前后内容",
+          "载体",
+          "人物素材",
+          "素材展示舞台",
+          "提出问题与给出答案"
+        ],
+        "scenarioId": "question",
+        "scenarioTitle": "提出问题与给出答案",
+        "label": "N008",
+        "categoryId": "images",
+        "category": "图片与作品",
+        "sceneTypes": [
+          "relationship"
+        ],
+        "title": "商品旁的三个问题转为执行角色和作品",
+        "collectionId": null,
+        "kind": "components",
+        "score": 106,
+        "matchedConceptIds": [],
+        "matchedUseIds": [],
+        "matchedWords": [],
+        "reasons": [
+          "原词命中：商品",
+          "相近词：商品"
+        ]
+      },
+      "sceneTypes": [
+        "relationship"
+      ],
+      "projectDownload": {
+        "url": null,
+        "filename": "12fa3decfe7b8cdf.zip",
+        "available": true
+      },
+      "implementation": {
+        "projects": [
+          "components/projects/f8e6405a4d33"
+        ],
+        "compositionId": "N008",
+        "reuseBoundary": "Sanitized source snapshot; media dependencies are declared in library/media-manifest.json. Inspect the project entry for registration when compositionId is not recorded."
+      },
+      "assetAvailability": {
+        "quarantinedDependencyPaths": 2,
+        "note": "Full project snapshot may include unused branches; check the selected composition."
+      },
+      "sourceFiles": [
+        {
+          "path": "components/projects/f8e6405a4d33/src/RebuiltN008.tsx",
+          "sha256": "76287ced55b9ee67122fc1126e32b87130fc9dca6d73d4420c0127d45bb27343",
+          "url": "/api/design-source/5aa539901681dd88214b8466",
+          "available": true,
+          "remoteAvailable": false,
+          "status": "ready"
+        }
+      ],
+      "sourceAvailability": {
+        "available": true,
+        "status": "ready",
+        "authRequired": false,
+        "installationRequired": false,
+        "reason": "Verified source is installed.",
+        "importCommand": null,
+        "downloadCommand": null,
+        "installCommand": null
+      },
+      "candidateId": "library-new10-n008"
+    },
+    {
+      "id": "component:library-new10-n044",
+      "label": "N044",
+      "title": "商品大图压成附件，输入框被提到前景",
+      "kind": "components",
+      "category": "讲解段落",
+      "origin": "FredTalk 组件库",
+      "description": "多模态任务开始时先交代提交的东西，再讲输入方式。",
+      "tags": [
+        "商品大图压成附件，输入框被提到前景",
+        "窗口与设备",
+        "文档与操作演示",
+        "界面与交互",
+        "讲解段落",
+        "图片与作品",
+        "录屏与视频入场",
+        "内容交接",
+        "文字",
+        "信息结构",
+        "图片",
+        "作品",
+        "录屏",
+        "视频",
+        "窗口",
+        "前后内容",
+        "载体",
+        "一段解释",
+        "输入、聊天与反馈"
+      ],
+      "selectionStatus": "keep",
+      "reusability": {
+        "level": "snapshot",
+        "label": "准确场景参考",
+        "parameters": [],
+        "limitations": [
+          "用户对本批成片整体认可；不表示此组件已用新文案及素材完成通用参数视觉验收。"
+        ]
+      },
+      "previews": [
+        {
+          "videoUrl": "/api/design-assets/29e12a631e6389b440761e87",
+          "posterUrl": "/api/design-assets/4960fb1d4ea5ac7b92543579",
+          "keyframes": [
+            {
+              "url": "/api/design-assets/648cd169685bdc01f2addc71",
+              "timeSeconds": 0.75,
+              "frame": 45
+            },
+            {
+              "url": "/api/design-assets/ac2a8d5ae16ccb32d99b7a9a",
+              "timeSeconds": 1.767,
+              "frame": 106
+            },
+            {
+              "url": "/api/design-assets/d20adde0f0664b06af435890",
+              "timeSeconds": 2.65,
+              "frame": 159
+            }
+          ],
+          "available": true,
+          "status": "ready",
+          "start": 0,
+          "end": 3.4,
+          "fps": 60,
+          "audioPolicy": "no-audio-track",
+          "posterTimeSeconds": 2.9166666666666665,
+          "posterSelection": "reviewed",
+          "width": 1920,
+          "height": 1080
+        }
+      ],
+      "sources": [
+        {
+          "label": "BatchB.tsx",
+          "symbol": "BatchB",
+          "url": "/api/design-source/bc7bf6a9ecfcab1337823c63",
+          "available": true,
+          "status": "ready"
+        },
+        {
+          "label": "BatchB.tsx",
+          "symbol": "",
+          "url": "/api/design-source/bc7bf6a9ecfcab1337823c63",
+          "available": true,
+          "status": "ready"
+        },
+        {
+          "label": "index.tsx",
+          "symbol": "",
+          "url": "/api/design-source/9bd30027ac727e3097c8e526",
+          "available": true,
+          "status": "ready"
+        },
+        {
+          "label": "package-lock.json",
+          "symbol": "",
+          "url": "/api/design-source/5d02b542b76987fbac880994",
+          "available": true,
+          "status": "ready"
+        },
+        {
+          "label": "material-policy.tsx",
+          "symbol": "",
+          "url": "/api/design-source/496bf6ea78205c1e87f191e2",
+          "available": true,
+          "status": "ready"
+        },
+        {
+          "label": "material-bindings.json",
+          "symbol": "",
+          "url": "/api/design-source/7986dba0cc5039b1d159a2b1",
+          "available": true,
+          "status": "ready"
+        }
+      ],
+      "referenceId": "library-new10-n044",
+      "mergedInto": [],
+      "hiddenReason": null,
+      "visibleByDefault": true,
+      "categoryId": "explain",
+      "libraryOrder": 999,
+      "matching": {
+        "referenceId": "library-new10-n044",
+        "primaryUse": "explain",
+        "useIds": [
+          "explain",
+          "images",
+          "video-entry",
+          "handoff"
+        ],
+        "sourceId": "fredtalk",
+        "conceptIds": [
+          "text",
+          "media",
+          "handoff",
+          "input"
+        ],
+        "inputObjects": [
+          "文字",
+          "信息结构",
+          "图片",
+          "作品",
+          "录屏",
+          "视频",
+          "窗口",
+          "前后内容",
+          "载体"
+        ],
+        "action": "商品大图压成附件，输入框被提到前景",
+        "segmentRole": "一段解释",
+        "nativeDurationSeconds": 3.4,
+        "adaptation": "按口播分成几步建立与阅读；15–20秒需重排具体cue和阅读窗口，原短片不是现成20秒模板。",
+        "tags": [
+          "讲解段落",
+          "图片与作品",
+          "录屏与视频入场",
+          "内容交接",
+          "文字",
+          "信息结构",
+          "图片",
+          "作品",
+          "录屏",
+          "视频",
+          "窗口",
+          "前后内容",
+          "载体",
+          "一段解释",
+          "输入、聊天与反馈"
+        ],
+        "scenarioId": "input",
+        "scenarioTitle": "输入、聊天与反馈",
+        "label": "N044",
+        "categoryId": "explain",
+        "category": "讲解段落",
+        "sceneTypes": [
+          "device-demo",
+          "prompt-reading"
+        ],
+        "title": "商品大图压成附件，输入框被提到前景",
+        "collectionId": null,
+        "kind": "components",
+        "score": 106,
+        "matchedConceptIds": [],
+        "matchedUseIds": [],
+        "matchedWords": [],
+        "reasons": [
+          "原词命中：商品",
+          "相近词：商品"
+        ]
+      },
+      "sceneTypes": [
+        "device-demo",
+        "prompt-reading"
+      ],
+      "implementation": {
+        "projects": [
+          "components/projects/30b3c05aa839"
+        ],
+        "compositionId": "N044",
+        "reuseBoundary": "Sanitized source snapshot; media dependencies are declared in library/media-manifest.json. Inspect the project entry for registration when compositionId is not recorded.",
+        "entryPoint": "components/projects/30b3c05aa839/src/index.tsx",
+        "publicDir": "components/projects/30b3c05aa839/public",
+        "runtimeVersion": "4.0.473",
+        "renderInputProps": {
+          "includeNarration": false
+        }
+      },
+      "assetAvailability": {
+        "quarantinedDependencyPaths": 2,
+        "note": "Full project snapshot may include unused branches; check the selected composition."
+      },
+      "materialRevision": "20261004-material-replacements",
+      "previewMatchesImplementation": true,
+      "materialStatus": "rendered-and-reviewed",
+      "materialSources": [
+        "/api/design-source/496bf6ea78205c1e87f191e2",
+        "/api/design-source/7986dba0cc5039b1d159a2b1"
+      ],
+      "sourceFiles": [
+        {
+          "path": "components/projects/30b3c05aa839/src/BatchB.tsx",
+          "sha256": "159a69df982c5184c08ef7d8a152ee80bf7e7a3d3128ef67fab3d51060dd8c03",
+          "url": "/api/design-source/bc7bf6a9ecfcab1337823c63",
+          "available": true,
+          "remoteAvailable": false,
+          "status": "ready",
+          "symbol": "BatchB"
+        },
+        {
+          "path": "components/projects/30b3c05aa839/src/BatchB.tsx",
+          "sha256": "159a69df982c5184c08ef7d8a152ee80bf7e7a3d3128ef67fab3d51060dd8c03",
+          "url": "/api/design-source/bc7bf6a9ecfcab1337823c63",
+          "available": true,
+          "remoteAvailable": false,
+          "status": "ready"
+        },
+        {
+          "path": "components/projects/30b3c05aa839/src/index.tsx",
+          "sha256": "d1a1e8bbf7eb9cd45a4435ba7c2e049a5107a9a01e2e5561bcc65d7f2dbe9e7c",
+          "url": "/api/design-source/9bd30027ac727e3097c8e526",
+          "available": true,
+          "remoteAvailable": false,
+          "status": "ready"
+        },
+        {
+          "path": "components/projects/30b3c05aa839/package-lock.json",
+          "sha256": "8013de4fdd6d9017b924fe768bf820baadf9f4f3399818a803e0aef97d3ce924",
+          "url": "/api/design-source/5d02b542b76987fbac880994",
+          "available": true,
+          "remoteAvailable": false,
+          "status": "ready"
+        },
+        {
+          "path": "components/projects/30b3c05aa839/material-policy.tsx",
+          "sha256": "710ee99b3004369f66b996ea9988fdffb73d6e29d512adbe06adbe9f523da292",
+          "url": "/api/design-source/496bf6ea78205c1e87f191e2",
+          "available": true,
+          "remoteAvailable": false,
+          "status": "ready"
+        },
+        {
+          "path": "components/projects/30b3c05aa839/material-bindings.json",
+          "sha256": "98a954add10947863eebb1f02b305692dcebfdbc97f688140cf587859e83e989",
+          "url": "/api/design-source/7986dba0cc5039b1d159a2b1",
+          "available": true,
+          "remoteAvailable": false,
+          "status": "ready"
+        }
+      ],
+      "sourceAvailability": {
+        "available": true,
+        "status": "ready",
+        "authRequired": false,
+        "installationRequired": false,
+        "reason": "Verified source is installed.",
+        "importCommand": null,
+        "downloadCommand": null,
+        "installCommand": null
+      },
+      "candidateId": "library-new10-n044"
+    }
+  ]
+}

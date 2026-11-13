@@ -1,0 +1,80 @@
+{
+  "content_id": "qianwen-go-case-20261013",
+  "owner": "01a11a6f-49ef-7653-934a-4312979fd4e7",
+  "at": "2026-10-13T21:49:54.019201+08:00",
+  "routing": "ROUTING-2026-10-13-v4",
+  "target": "gpt-6-astra/high",
+  "actual_model": "UNKNOWN",
+  "actual_effort": "UNKNOWN",
+  "actual_speed": "UNKNOWN",
+  "gate": "04_RELEASED / V7_MOTION_POLISH_RELEASED",
+  "baseline_sha256": "3eed5b682f56f998230be7b4dd2a6f01540bc42c4f3bd80994ce9df2024703c2",
+  "reference": "candidate-free.mp4; not cloud v3 or verified Opus model",
+  "reference_read": {
+    "actual_images": [
+      "span-sheet-05.jpg",
+      "span-sheet-06.jpg",
+      "span-sheet-07.jpg",
+      "native-870.png"
+    ],
+    "range_seconds": [
+      10,
+      17.4167
+    ],
+    "sampling_fps": 12,
+    "native_time": 14.5,
+    "limits": "contact sheets resized by viewer; no continuous AV listening",
+    "source_code": [
+      "grok-opus/received-free-project/project/src/anim.ts",
+      "Main.tsx BalanceScene and Book"
+    ]
+  },
+  "owner_checks": [
+    "key trial",
+    "actual export frames",
+    "audio PCM identity",
+    "decode/PTS/specs",
+    "same-time v6 comparison"
+  ],
+  "acceptance": "PMO first; no Owner visual PASS",
+  "boundaries": [
+    "only21.8s",
+    "no full film",
+    "05 not released",
+    "no installs fees upload publishing deletion",
+    "no thread polling"
+  ],
+  "design": "Rounded shallow ceramic forms; directional gradient and soft contact/projection shadows; service arrival followed by causal group recoil, damped landing, staggered assembly; persistent object daily transition; finite bell decay.",
+  "frozen_caption_sha256": "82cea2fce3a507a49ee0641b42ecf1d7e70b939388c40b217e27d07f3d4c07fe",
+  "source_sha256": {
+    "project/src/CinematicV7.tsx": "e65e03de0d42334f0891d7bf72fa0429e8213d06d59fe297eff18c6b8377b9cf",
+    "project/src/SampleV7.tsx": "33ddcda2674f3f744fd468f3aad896c1bcd673634ae130a15c6492ae764e2699",
+    "project/render-sample-v7.cjs": "f9eceb7342a84606cbc8c2c77fc16b165f62f4f706ed18118b0682736f5e94f2"
+  },
+  "static_read_actual": {
+    "test": [
+      1.2,
+      5.2,
+      7.2,
+      8.6,
+      11.25,
+      14.8,
+      17.9,
+      21.6
+    ],
+    "test2": [],
+    "test3": [
+      1.2,
+      5.2,
+      7.2,
+      17.9,
+      9.3,
+      10.7,
+      12.3,
+      16.9,
+      19.55,
+      20.5
+    ],
+    "limits": "test3 precedes outward jaw fix; final export remains required"
+  }
+}

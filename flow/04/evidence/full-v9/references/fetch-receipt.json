@@ -1,0 +1,242 @@
+[
+  {
+    "id": "library-legacy81-c005",
+    "index": 0,
+    "url": "https://www.fred-fu.com/visual-library-app/objects/f89adf0d5bec40307410d5b745c52aae0f4c8f13ce1df899575020a4f06d000f.jpg",
+    "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/full-v9/references/library-legacy81-c005-0.jpg",
+    "expectedSha256": "f89adf0d5bec40307410d5b745c52aae0f4c8f13ce1df899575020a4f06d000f",
+    "status": "verified",
+    "sha256": "f89adf0d5bec40307410d5b745c52aae0f4c8f13ce1df899575020a4f06d000f",
+    "bytes": 78715
+  },
+  {
+    "id": "library-legacy81-c005",
+    "index": 1,
+    "url": "https://www.fred-fu.com/visual-library-app/objects/bef15e884c4d3e7e2ba7d999dd7bb6a28d66e93a236112449b481ac34fc5c6b9.jpg",
+    "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/full-v9/references/library-legacy81-c005-1.jpg",
+    "expectedSha256": "bef15e884c4d3e7e2ba7d999dd7bb6a28d66e93a236112449b481ac34fc5c6b9",
+    "status": "verified",
+    "sha256": "bef15e884c4d3e7e2ba7d999dd7bb6a28d66e93a236112449b481ac34fc5c6b9",
+    "bytes": 152182
+  },
+  {
+    "id": "library-legacy81-c005",
+    "index": 2,
+    "url": "https://www.fred-fu.com/visual-library-app/objects/8348d3155e6427f0578e101c0c2845f494fe41b2e5ab3cb5988ca8fbaed6934e.jpg",
+    "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/full-v9/references/library-legacy81-c005-2.jpg",
+    "expectedSha256": "8348d3155e6427f0578e101c0c2845f494fe41b2e5ab3cb5988ca8fbaed6934e",
+    "status": "verified",
+    "sha256": "8348d3155e6427f0578e101c0c2845f494fe41b2e5ab3cb5988ca8fbaed6934e",
+    "bytes": 41592
+  },
+  {
+    "id": "library-legacy81-r006",
+    "index": 0,
+    "url": "https://www.fred-fu.com/visual-library-app/objects/a5161340dac61104a2293c3fc2f5c9e486705ba496312e5310dd66c7e85eae86.jpg",
+    "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/full-v9/references/library-legacy81-r006-0.jpg",
+    "expectedSha256": "a5161340dac61104a2293c3fc2f5c9e486705ba496312e5310dd66c7e85eae86",
+    "status": "verified",
+    "sha256": "a5161340dac61104a2293c3fc2f5c9e486705ba496312e5310dd66c7e85eae86",
+    "bytes": 78178
+  },
+  {
+    "id": "library-legacy81-r006",
+    "index": 1,
+    "url": "https://www.fred-fu.com/visual-library-app/objects/227d62e23583653cb1a4e12dcdafaab21959bb21a42851a18477b4ee55ca0f26.jpg",
+    "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/full-v9/references/library-legacy81-r006-1.jpg",
+    "expectedSha256": "227d62e23583653cb1a4e12dcdafaab21959bb21a42851a18477b4ee55ca0f26",
+    "status": "verified",
+    "sha256": "227d62e23583653cb1a4e12dcdafaab21959bb21a42851a18477b4ee55ca0f26",
+    "bytes": 110920
+  },
+  {
+    "id": "library-legacy81-r006",
+    "index": 2,
+    "url": "https://www.fred-fu.com/visual-library-app/objects/e789efdecbba1dd76a288914974f9219b4a52d92ee91ed9dc17f912da8158f34.jpg",
+    "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/full-v9/references/library-legacy81-r006-2.jpg",
+    "expectedSha256": "e789efdecbba1dd76a288914974f9219b4a52d92ee91ed9dc17f912da8158f34",
+    "status": "verified",
+    "sha256": "e789efdecbba1dd76a288914974f9219b4a52d92ee91ed9dc17f912da8158f34",
+    "bytes": 35398
+  },
+  {
+    "id": "library-new10-n026",
+    "index": 0,
+    "url": "https://www.fred-fu.com/visual-library-app/objects/3c60e392c9610e268a0d3ca453833bb9ec4e21308e51b2f22dc58e8d09dd06ea.jpg",
+    "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/full-v9/references/library-new10-n026-0.jpg",
+    "expectedSha256": "3c60e392c9610e268a0d3ca453833bb9ec4e21308e51b2f22dc58e8d09dd06ea",
+    "status": "verified",
+    "sha256": "3c60e392c9610e268a0d3ca453833bb9ec4e21308e51b2f22dc58e8d09dd06ea",
+    "bytes": 205441
+  },
+  {
+    "id": "library-new10-n026",
+    "index": 1,
+    "url": "https://www.fred-fu.com/visual-library-app/objects/27e8d91bd66a43dba701ac80536d1d530d999ebd7eaab034b58901803e71e1aa.jpg",
+    "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/full-v9/references/library-new10-n026-1.jpg",
+    "expectedSha256": "27e8d91bd66a43dba701ac80536d1d530d999ebd7eaab034b58901803e71e1aa",
+    "status": "verified",
+    "sha256": "27e8d91bd66a43dba701ac80536d1d530d999ebd7eaab034b58901803e71e1aa",
+    "bytes": 168302
+  },
+  {
+    "id": "library-new10-n026",
+    "index": 2,
+    "url": "https://www.fred-fu.com/visual-library-app/objects/3ef19be579ab0d60c0c60ee10addbc8d3f0f3fc311be6d51fede359e10804823.jpg",
+    "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/full-v9/references/library-new10-n026-2.jpg",
+    "expectedSha256": "3ef19be579ab0d60c0c60ee10addbc8d3f0f3fc311be6d51fede359e10804823",
+    "status": "verified",
+    "sha256": "3ef19be579ab0d60c0c60ee10addbc8d3f0f3fc311be6d51fede359e10804823",
+    "bytes": 119166
+  },
+  {
+    "id": "ep102-selected-07",
+    "index": 0,
+    "url": "https://www.fred-fu.com/visual-library-app/objects/0ad57b5c2af1c7ae367c9d750af03f7947e77ca961f1a4d183afb67d9d789dc9.jpg",
+    "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/full-v9/references/ep102-selected-07-0.jpg",
+    "expectedSha256": "0ad57b5c2af1c7ae367c9d750af03f7947e77ca961f1a4d183afb67d9d789dc9",
+    "status": "verified",
+    "sha256": "0ad57b5c2af1c7ae367c9d750af03f7947e77ca961f1a4d183afb67d9d789dc9",
+    "bytes": 46553
+  },
+  {
+    "id": "ep102-selected-07",
+    "index": 1,
+    "url": "https://www.fred-fu.com/visual-library-app/objects/0c7175b4ef2d25bb0625a1af6a7fd7da490d05aa108e2126e31d739c4084c2db.jpg",
+    "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/full-v9/references/ep102-selected-07-1.jpg",
+    "expectedSha256": "0c7175b4ef2d25bb0625a1af6a7fd7da490d05aa108e2126e31d739c4084c2db",
+    "status": "verified",
+    "sha256": "0c7175b4ef2d25bb0625a1af6a7fd7da490d05aa108e2126e31d739c4084c2db",
+    "bytes": 51764
+  },
+  {
+    "id": "ep102-selected-07",
+    "index": 2,
+    "url": "https://www.fred-fu.com/visual-library-app/objects/33a189013f0f874afa4510cd0760161831fe91e363b2e480b80d1b3cb206475b.jpg",
+    "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/full-v9/references/ep102-selected-07-2.jpg",
+    "expectedSha256": "33a189013f0f874afa4510cd0760161831fe91e363b2e480b80d1b3cb206475b",
+    "status": "verified",
+    "sha256": "33a189013f0f874afa4510cd0760161831fe91e363b2e480b80d1b3cb206475b",
+    "bytes": 73186
+  },
+  {
+    "id": "library-selfpick24-sp011",
+    "index": 0,
+    "url": "https://www.fred-fu.com/visual-library-app/objects/703d19db61252a79c370aa4795a54b492f78ab03a54340bbb1b071c9c4c855c0.jpg",
+    "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/full-v9/references/library-selfpick24-sp011-0.jpg",
+    "expectedSha256": "703d19db61252a79c370aa4795a54b492f78ab03a54340bbb1b071c9c4c855c0",
+    "status": "verified",
+    "sha256": "703d19db61252a79c370aa4795a54b492f78ab03a54340bbb1b071c9c4c855c0",
+    "bytes": 202045
+  },
+  {
+    "id": "library-selfpick24-sp011",
+    "index": 1,
+    "url": "https://www.fred-fu.com/visual-library-app/objects/235d9c42df3f6db067458aefd823061539e5194adc8ee5f48e056c89684a9331.jpg",
+    "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/full-v9/references/library-selfpick24-sp011-1.jpg",
+    "expectedSha256": "235d9c42df3f6db067458aefd823061539e5194adc8ee5f48e056c89684a9331",
+    "status": "verified",
+    "sha256": "235d9c42df3f6db067458aefd823061539e5194adc8ee5f48e056c89684a9331",
+    "bytes": 153645
+  },
+  {
+    "id": "library-selfpick24-sp011",
+    "index": 2,
+    "url": "https://www.fred-fu.com/visual-library-app/objects/87fa61b6ce5ba4e1f6f834439372c039d12f6f64ba404dd636bc984c17342201.jpg",
+    "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/full-v9/references/library-selfpick24-sp011-2.jpg",
+    "expectedSha256": "87fa61b6ce5ba4e1f6f834439372c039d12f6f64ba404dd636bc984c17342201",
+    "status": "verified",
+    "sha256": "87fa61b6ce5ba4e1f6f834439372c039d12f6f64ba404dd636bc984c17342201",
+    "bytes": 158340
+  },
+  {
+    "id": "library-new10-x015",
+    "index": 0,
+    "url": "https://www.fred-fu.com/visual-library-app/objects/94c5b8d6d3ea878d866af3c6448571f9f1f9ac248b6cff64462e57e3ea3b003a.jpg",
+    "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/full-v9/references/library-new10-x015-0.jpg",
+    "expectedSha256": "94c5b8d6d3ea878d866af3c6448571f9f1f9ac248b6cff64462e57e3ea3b003a",
+    "status": "verified",
+    "sha256": "94c5b8d6d3ea878d866af3c6448571f9f1f9ac248b6cff64462e57e3ea3b003a",
+    "bytes": 232813
+  },
+  {
+    "id": "library-new10-x015",
+    "index": 1,
+    "url": "https://www.fred-fu.com/visual-library-app/objects/a6d381e4f86824a4b6e08ac08dbd0a054c3af2a35470e0df12189a00523dcfe0.jpg",
+    "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/full-v9/references/library-new10-x015-1.jpg",
+    "expectedSha256": "a6d381e4f86824a4b6e08ac08dbd0a054c3af2a35470e0df12189a00523dcfe0",
+    "status": "verified",
+    "sha256": "a6d381e4f86824a4b6e08ac08dbd0a054c3af2a35470e0df12189a00523dcfe0",
+    "bytes": 226158
+  },
+  {
+    "id": "library-new10-x015",
+    "index": 2,
+    "url": "https://www.fred-fu.com/visual-library-app/objects/b7a74bbba42829470ca9926f2f9f2333a99908c0e7c3243a40d96e8092fc5e67.jpg",
+    "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/full-v9/references/library-new10-x015-2.jpg",
+    "expectedSha256": "b7a74bbba42829470ca9926f2f9f2333a99908c0e7c3243a40d96e8092fc5e67",
+    "status": "verified",
+    "sha256": "b7a74bbba42829470ca9926f2f9f2333a99908c0e7c3243a40d96e8092fc5e67",
+    "bytes": 229650
+  },
+  {
+    "id": "library-legacy81-b062",
+    "index": 0,
+    "url": "https://www.fred-fu.com/visual-library-app/objects/c28cb27a90b8b7e20225a8c25fccc7c3bcc65b118be037d973ea9b598b49c0c0.jpg",
+    "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/full-v9/references/library-legacy81-b062-0.jpg",
+    "expectedSha256": "c28cb27a90b8b7e20225a8c25fccc7c3bcc65b118be037d973ea9b598b49c0c0",
+    "status": "verified",
+    "sha256": "c28cb27a90b8b7e20225a8c25fccc7c3bcc65b118be037d973ea9b598b49c0c0",
+    "bytes": 43839
+  },
+  {
+    "id": "library-legacy81-b062",
+    "index": 1,
+    "url": "https://www.fred-fu.com/visual-library-app/objects/8ceb611bbed602bcb3ae35bd8ca02298f0cb8e2a14590d7520fa43ae8b226a4c.jpg",
+    "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/full-v9/references/library-legacy81-b062-1.jpg",
+    "expectedSha256": "8ceb611bbed602bcb3ae35bd8ca02298f0cb8e2a14590d7520fa43ae8b226a4c",
+    "status": "verified",
+    "sha256": "8ceb611bbed602bcb3ae35bd8ca02298f0cb8e2a14590d7520fa43ae8b226a4c",
+    "bytes": 50647
+  },
+  {
+    "id": "library-legacy81-b062",
+    "index": 2,
+    "url": "https://www.fred-fu.com/visual-library-app/objects/ad37a0ef087d2bcdee1c6db27dd5c48b086fb8447dd2da52b7ff4d499f7df7dc.jpg",
+    "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/full-v9/references/library-legacy81-b062-2.jpg",
+    "expectedSha256": "ad37a0ef087d2bcdee1c6db27dd5c48b086fb8447dd2da52b7ff4d499f7df7dc",
+    "status": "verified",
+    "sha256": "ad37a0ef087d2bcdee1c6db27dd5c48b086fb8447dd2da52b7ff4d499f7df7dc",
+    "bytes": 50418
+  },
+  {
+    "id": "library-legacy81-b074",
+    "index": 0,
+    "url": "https://www.fred-fu.com/visual-library-app/objects/1b902a3167d5f74a83fe0721d355750bf4d3bb3057749636b42bba484cbc243b.jpg",
+    "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/full-v9/references/library-legacy81-b074-0.jpg",
+    "expectedSha256": "1b902a3167d5f74a83fe0721d355750bf4d3bb3057749636b42bba484cbc243b",
+    "status": "verified",
+    "sha256": "1b902a3167d5f74a83fe0721d355750bf4d3bb3057749636b42bba484cbc243b",
+    "bytes": 7776
+  },
+  {
+    "id": "library-legacy81-b074",
+    "index": 1,
+    "url": "https://www.fred-fu.com/visual-library-app/objects/fd789746959b850f4317a04f7bf0eb262cea36c807bb74f37a7dd8861c234b4c.jpg",
+    "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/full-v9/references/library-legacy81-b074-1.jpg",
+    "expectedSha256": "fd789746959b850f4317a04f7bf0eb262cea36c807bb74f37a7dd8861c234b4c",
+    "status": "verified",
+    "sha256": "fd789746959b850f4317a04f7bf0eb262cea36c807bb74f37a7dd8861c234b4c",
+    "bytes": 48084
+  },
+  {
+    "id": "library-legacy81-b074",
+    "index": 2,
+    "url": "https://www.fred-fu.com/visual-library-app/objects/ea30dbb7ec2484b8492f53efca89a4b686b887bf98638224b37a1b9de72d4625.jpg",
+    "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/full-v9/references/library-legacy81-b074-2.jpg",
+    "expectedSha256": "ea30dbb7ec2484b8492f53efca89a4b686b887bf98638224b37a1b9de72d4625",
+    "status": "verified",
+    "sha256": "ea30dbb7ec2484b8492f53efca89a4b686b887bf98638224b37a1b9de72d4625",
+    "bytes": 3885
+  }
+]

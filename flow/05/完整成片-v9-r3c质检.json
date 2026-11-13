@@ -1,0 +1,37 @@
+{
+  "content_id": "qianwen-go-case-20261013",
+  "version": "v9-r3c",
+  "owner_thread_id": "01a11a79-f636-7823-9350-3c5f7526e6c7",
+  "date": "2026-10-14",
+  "decision": "NO_MANDATORY_FIX_READY_FOR_PMO_USER_REVIEW",
+  "mandatory_fix_count": 0,
+  "video_path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/output/qianwen-go-full-v9-r3c.mp4",
+  "sha256": "797426b66fec27431ecf298b9df67f9869b2cddfaa456b1c851009dd6b84ab10",
+  "review_scope": {
+    "unique_frames_reviewed": 219,
+    "full_frame_count": 66,
+    "region_only_frames": 153,
+    "unreviewed_frames": 5903,
+    "caption_midpoints": 43,
+    "handoff_consecutive_region_frames": 66,
+    "glasses_consecutive_region_frames": 25,
+    "direct_audio_hearing": false,
+    "realtime_continuous_av": false
+  },
+  "checks": {
+    "technical_receipts": "REVIEWED",
+    "candidate_sha": "MATCH",
+    "subtitles_sample": "ACCEPTABLE",
+    "handoff_target_region": "ACCEPTABLE_WITH_BRIEF_OVERLAP",
+    "glasses_hands_target_region": "ACCEPTABLE",
+    "at_100_35": "CLEAN_AI_FRAME",
+    "cost_to_reminder_sample": "ACCEPTABLE",
+    "specified_disclaimer_branding_in_checked_scope": "NOT_OBSERVED"
+  },
+  "user_final_av": "PENDING",
+  "pmo_acceptance": "PENDING",
+  "downstream_release": "NOT_GRANTED_BY_05",
+  "report_delivery": "SEE_SEPARATE_RAW_RECEIPT",
+  "runtime_model_effort_speed": "UNKNOWN",
+  "evidence": "evidence-v9-r3c/read-coverage.json"
+}

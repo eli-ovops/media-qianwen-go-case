@@ -1,0 +1,172 @@
+{
+  "status": "PASS",
+  "scope": "local player load, seeks, frame stepping and brief muted-capable playback only; not continuous audiovisual review",
+  "errors": [],
+  "checks": [
+    {
+      "kind": "seek",
+      "requested": 0,
+      "time": 0,
+      "duration": 102.033333,
+      "width": 1080,
+      "height": 1920,
+      "rate": 1,
+      "paused": true,
+      "readyState": 4,
+      "error": null
+    },
+    {
+      "kind": "seek",
+      "requested": 4.9,
+      "time": 4.9,
+      "duration": 102.033333,
+      "width": 1080,
+      "height": 1920,
+      "rate": 1,
+      "paused": true,
+      "readyState": 4,
+      "error": null
+    },
+    {
+      "kind": "seek",
+      "requested": 23.45,
+      "time": 23.45,
+      "duration": 102.033333,
+      "width": 1080,
+      "height": 1920,
+      "rate": 1,
+      "paused": true,
+      "readyState": 4,
+      "error": null
+    },
+    {
+      "kind": "seek",
+      "requested": 28.57,
+      "time": 28.57,
+      "duration": 102.033333,
+      "width": 1080,
+      "height": 1920,
+      "rate": 1,
+      "paused": true,
+      "readyState": 4,
+      "error": null
+    },
+    {
+      "kind": "seek",
+      "requested": 57.47,
+      "time": 57.47,
+      "duration": 102.033333,
+      "width": 1080,
+      "height": 1920,
+      "rate": 1,
+      "paused": true,
+      "readyState": 4,
+      "error": null
+    },
+    {
+      "kind": "seek",
+      "requested": 65.76666666666667,
+      "time": 65.766666,
+      "duration": 102.033333,
+      "width": 1080,
+      "height": 1920,
+      "rate": 1,
+      "paused": true,
+      "readyState": 4,
+      "error": null
+    },
+    {
+      "kind": "seek",
+      "requested": 74.5667,
+      "time": 74.5667,
+      "duration": 102.033333,
+      "width": 1080,
+      "height": 1920,
+      "rate": 1,
+      "paused": true,
+      "readyState": 4,
+      "error": null
+    },
+    {
+      "kind": "seek",
+      "requested": 79.37,
+      "time": 79.37,
+      "duration": 102.033333,
+      "width": 1080,
+      "height": 1920,
+      "rate": 1,
+      "paused": true,
+      "readyState": 4,
+      "error": null
+    },
+    {
+      "kind": "seek",
+      "requested": 83.83,
+      "time": 83.83,
+      "duration": 102.033333,
+      "width": 1080,
+      "height": 1920,
+      "rate": 1,
+      "paused": true,
+      "readyState": 4,
+      "error": null
+    },
+    {
+      "kind": "seek",
+      "requested": 96.27,
+      "time": 96.27,
+      "duration": 102.033333,
+      "width": 1080,
+      "height": 1920,
+      "rate": 1,
+      "paused": true,
+      "readyState": 4,
+      "error": null
+    },
+    {
+      "kind": "seek",
+      "requested": 102,
+      "time": 102,
+      "duration": 102.033333,
+      "width": 1080,
+      "height": 1920,
+      "rate": 1,
+      "paused": true,
+      "readyState": 4,
+      "error": null
+    },
+    {
+      "kind": "next",
+      "time": 71.016666,
+      "duration": 102.033333,
+      "width": 1080,
+      "height": 1920,
+      "rate": 1,
+      "paused": true,
+      "readyState": 4,
+      "error": null
+    },
+    {
+      "kind": "back",
+      "time": 70.999999,
+      "duration": 102.033333,
+      "width": 1080,
+      "height": 1920,
+      "rate": 1,
+      "paused": true,
+      "readyState": 4,
+      "error": null
+    },
+    {
+      "kind": "play",
+      "time": 0.610194,
+      "duration": 102.033333,
+      "width": 1080,
+      "height": 1920,
+      "rate": 0.5,
+      "paused": true,
+      "readyState": 4,
+      "error": null
+    }
+  ]
+}

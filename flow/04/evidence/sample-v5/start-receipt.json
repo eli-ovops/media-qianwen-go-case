@@ -1,0 +1,14 @@
+{
+  "rule": "ROUTING-2026-10-13-v4",
+  "owner": "01a11a6f-49ef-7653-934a-4312979fd4e7",
+  "target_model": "gpt-6-astra",
+  "target_effort": "high",
+  "actual_model": "UNKNOWN",
+  "actual_effort": "UNKNOWN",
+  "actual_speed": "UNKNOWN",
+  "scope": "8.0-21.8s cinematic scene redesign from PMO v4 review; frozen voice and facts",
+  "at": "2026-10-13T20:09:14.027285+08:00",
+  "original": "PMO样片v4审阅.md",
+  "validation_owner": "04 local export checks; PMO independent visual acceptance",
+  "dependencies": "existing Remotion and SVG only; no install"
+}

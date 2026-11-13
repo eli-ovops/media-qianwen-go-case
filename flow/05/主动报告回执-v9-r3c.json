@@ -1,0 +1,19 @@
+{
+  "content_id": "qianwen-go-case-20261013",
+  "version": "v9-r3c",
+  "target_thread_id": "01a11194-c40d-7bf0-8396-5bb5d6449444",
+  "tool": "mcp__codex_app__send_message_to_thread",
+  "tool_accepted": true,
+  "pmo_actual_receipt": "UNCONFIRMED",
+  "pmo_acceptance": "PENDING",
+  "note": "工具返回目标 threadId 且 isError=false；未轮询 PMO，不能据此宣称 PMO 已阅读或验收。",
+  "raw_result": {
+    "content": [
+      {
+        "type": "text",
+        "text": "{\"threadId\":\"01a11194-c40d-7bf0-8396-5bb5d6449444\"}"
+      }
+    ],
+    "isError": false
+  }
+}

@@ -1,0 +1,46 @@
+[
+  {
+    "start_frame": 273,
+    "end_frame_exclusive": 318
+  },
+  {
+    "start_frame": 1113,
+    "end_frame_exclusive": 1155
+  },
+  {
+    "start_frame": 1695,
+    "end_frame_exclusive": 1737
+  },
+  {
+    "start_frame": 2163,
+    "end_frame_exclusive": 2283
+  },
+  {
+    "start_frame": 3429,
+    "end_frame_exclusive": 3471
+  },
+  {
+    "start_frame": 3696,
+    "end_frame_exclusive": 3738
+  },
+  {
+    "start_frame": 3930,
+    "end_frame_exclusive": 4014
+  },
+  {
+    "start_frame": 4470,
+    "end_frame_exclusive": 4513
+  },
+  {
+    "start_frame": 4743,
+    "end_frame_exclusive": 4827
+  },
+  {
+    "start_frame": 5652,
+    "end_frame_exclusive": 5697
+  },
+  {
+    "start_frame": 6114,
+    "end_frame_exclusive": 6122
+  }
+]

@@ -1,0 +1,48 @@
+{
+  "findings": [
+    {
+      "segment": "sample-motion-v8",
+      "kind": "hold-warn",
+      "start": 2.1,
+      "end": 5.0,
+      "meanStep": 0.036,
+      "netChange": 1.03,
+      "duration": 2.9,
+      "allowed": false
+    },
+    {
+      "segment": "sample-motion-v8",
+      "kind": "hold-warn",
+      "start": 6.3,
+      "end": 8.7,
+      "meanStep": 0.038,
+      "netChange": 0.87,
+      "duration": 2.4,
+      "allowed": false
+    },
+    {
+      "segment": "sample-motion-v8",
+      "kind": "hold-warn",
+      "start": 9.6,
+      "end": 12.0,
+      "meanStep": 0.12,
+      "netChange": 1.94,
+      "duration": 2.4,
+      "allowed": false
+    }
+  ],
+  "blocking": 0,
+  "params": {
+    "fps": 10.0,
+    "subtitle_band": 0.13,
+    "step_still": 0.12,
+    "step_slow": 0.9,
+    "max_hold": 2.0,
+    "max_hold_block": 3.0,
+    "max_slow": 1.2,
+    "max_move": 1.4,
+    "max_scroll": 2.0,
+    "cut_step": 80.0,
+    "allow": []
+  }
+}

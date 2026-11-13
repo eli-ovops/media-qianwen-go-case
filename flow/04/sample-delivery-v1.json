@@ -1,0 +1,169 @@
+{
+  "content_id": "qianwen-go-case-20261013",
+  "owner_thread_id": "01a11a6f-49ef-7653-934a-4312979fd4e7",
+  "pmo_thread_id": "01a11194-c40d-7bf0-8396-5bb5d6449444",
+  "updated_at": "2026-10-13T16:27:17.375456+08:00",
+  "status": "SAMPLE_READY_FOR_PMO_REVIEW",
+  "sample": {
+    "sample": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/output/sample-motion-v1.mp4",
+    "sha256": "cb08e8313ec48565d7a2bc6eba4c7d63f28e052c239a29063eade2f946e0ee9f",
+    "bytes": 2238256,
+    "source_intermediate": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/output/candidate-v1.mp4",
+    "source_sha256": "6d0043357a631301d6194c83b8b2c105662d049b35c5520b214b7a5176f6fdea",
+    "source_frames_inclusive": [
+      3454,
+      4761
+    ],
+    "source_seconds": [
+      57.56666666666667,
+      79.36666666666666
+    ],
+    "frames": 1308,
+    "duration_seconds": 21.8,
+    "raw_source": "/Users/USER/Downloads/e404afe47f88fa4affadf7f5fa273814_raw.mp4",
+    "raw_video_seconds": [
+      29.09666666666667,
+      50.89666666666666
+    ],
+    "selection": "确认型号→店铺比价→客服→费用整理→估算→每天查价设置，连续完整口播。略超20秒以保留开头完整案例句，不拼效果集锦。",
+    "first_phrase": "案例里面千问首先需要确认型号",
+    "last_phrase": "每天查价的一个提醒",
+    "boundary_energy": "source③28.8–29.3秒低能量，29.4秒进入下一句；起点源29.0967秒留约0.3秒余量",
+    "full_film_status": "PAUSED_PENDING_USER_SAMPLE_APPROVAL; existing intermediate preserved, not submitted for full QA",
+    "command": [
+      "/Users/USER/.local/bin/ffmpeg",
+      "-hide_banner",
+      "-i",
+      "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/output/candidate-v1.mp4",
+      "-filter_complex",
+      "[0:v]trim=start_frame=3454:end_frame=4762,setpts=PTS-STARTPTS[v];[0:a]atrim=start=57.56666666666667:end=79.36666666666666,asetpts=PTS-STARTPTS[a]",
+      "-map",
+      "[v]",
+      "-map",
+      "[a]",
+      "-c:v",
+      "libx264",
+      "-preset",
+      "fast",
+      "-crf",
+      "18",
+      "-threads",
+      "2",
+      "-pix_fmt",
+      "yuv420p",
+      "-r",
+      "60",
+      "-c:a",
+      "aac",
+      "-b:a",
+      "192k",
+      "-movflags",
+      "+faststart",
+      "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/output/sample-motion-v1.mp4"
+    ],
+    "raw_source_evidence_directory": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/e404afe47f88fa4affadf7f5fa273814_raw"
+  },
+  "checks": {
+    "frames": 1308,
+    "fps": 60,
+    "duration": 21.8,
+    "decode_exit": 0,
+    "monotonic_pts": true,
+    "pts_first_last": [
+      0.0,
+      21.7833
+    ],
+    "max_frame_gap": 0.01670000000000016,
+    "native_loudness_lufs": -19.74,
+    "native_true_peak_dbtp": -4.89,
+    "lra_lu": 4.9,
+    "one_second_audio_correlation": [
+      0.9998611086752716,
+      0.9998660380009645,
+      0.9999470281146949,
+      0.9998844214429654,
+      0.9999131562119405,
+      0.9999789380733775,
+      0.9997592740970477,
+      0.9999560399235057,
+      0.9989074985010531,
+      0.9999839693242524,
+      0.9999628496142003,
+      0.9999267058657487,
+      0.9998826419800548,
+      0.9998492416917834,
+      0.9999460377006268,
+      0.9998710165415353,
+      0.9996766199372076,
+      0.9999312614086304,
+      0.9996484043633129,
+      0.9999441861376016,
+      0.9999241752785216
+    ],
+    "minimum_correlation": 0.9989074985010531,
+    "mono_downmix_clipped_samples": 0,
+    "sha256": "cb08e8313ec48565d7a2bc6eba4c7d63f28e052c239a29063eade2f946e0ee9f",
+    "bytes": 2238256,
+    "direct_audio_listening": false,
+    "subtitle_sync": "43-group full-source mapping subset, ASR sentence timings/manual subdivisions; not word-perfect listening",
+    "no_source_video_pixels": true
+  },
+  "visual_scope": {
+    "whole_sample_frames": 22,
+    "sampling": "exact every60th frame;0–21s",
+    "native_times": [
+      0.1,
+      4.5,
+      8.6,
+      13,
+      17.8,
+      20.5,
+      21.75
+    ],
+    "dense_windows": [
+      {
+        "start_frame": 240,
+        "frames": 48,
+        "fps": 60
+      },
+      {
+        "start_frame": 474,
+        "frames": 90,
+        "fps": 60
+      },
+      {
+        "start_frame": 1014,
+        "frames": 48,
+        "fps": 60
+      }
+    ],
+    "dense_total": 186,
+    "assistant_viewed": true,
+    "limits": "sampled pixels and all186 dense frames, not real-time full audiovisual playback",
+    "reviewed_at": "2026-10-13T16:27:17.375456+08:00",
+    "findings": "已查看22张全段间隔帧、7张原尺寸帧、3窗口全部186帧及播放器20.5秒截图；该范围未见叠字、文字裁切、主体/字幕遮挡。非全1308帧逐帧读取，未直接听音或连续实时观看。"
+  },
+  "player_check": "evidence/sample-player-check.json",
+  "review": "sample-review-v1.md",
+  "full_film": "PAUSED_PENDING_USER_SAMPLE_APPROVAL",
+  "user_style_approval": "PENDING",
+  "stage05_release": "NOT_RELEASED",
+  "report": {
+    "tool_sent": "CONFIRMED_SUCCESS",
+    "receipt": "sample-report-send-receipt-v1.json",
+    "pmo_received": "UNKNOWN",
+    "pmo_acceptance": "PENDING"
+  },
+  "currentLocalAvailability": {
+    "at": "2026-10-15T11:15:56.225185+08:00",
+    "status": "POST_PUBLICATION_GENERATED_VIDEOS_CLEANED",
+    "latestLocalFinalExists": false,
+    "latestFinalHistoricalPath": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/output/qianwen-go-full-v9-r3c.mp4",
+    "latestFinalSHA256": "797426b66fec27431ecf298b9df67f9869b2cddfaa456b1c851009dd6b84ab10",
+    "deletedCount": 66,
+    "report": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/发布后视频清理-20261015报告.md",
+    "exactList": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/cleanup-20261015/准确路径清单.md",
+    "reproduce": "完整成片-v9复现.md#发布后重导出说明2026-10-15",
+    "historicalRecords": "Original paths/SHA and checks are historical; deleted video paths are no longer usable downloads."
+  }
+}

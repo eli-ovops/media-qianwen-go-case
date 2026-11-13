@@ -1,0 +1,208 @@
+{
+  "findings": [
+    {
+      "segment": "qianwen-go-full-v9",
+      "kind": "nonstop",
+      "start": 0.0,
+      "end": 5.2,
+      "meanStep": 1.544,
+      "netChange": 14.19,
+      "duration": 5.2,
+      "allowed": false
+    },
+    {
+      "segment": "qianwen-go-full-v9",
+      "kind": "hold",
+      "start": 5.2,
+      "end": 9.9,
+      "meanStep": 0.002,
+      "netChange": 0.08,
+      "duration": 4.7,
+      "allowed": false
+    },
+    {
+      "segment": "qianwen-go-full-v9",
+      "kind": "hold",
+      "start": 12.0,
+      "end": 16.5,
+      "meanStep": 0.014,
+      "netChange": 0.59,
+      "duration": 4.5,
+      "allowed": false
+    },
+    {
+      "segment": "qianwen-go-full-v9",
+      "kind": "hold-warn",
+      "start": 16.8,
+      "end": 18.8,
+      "meanStep": 0.007,
+      "netChange": 0.13,
+      "duration": 2.0,
+      "allowed": false
+    },
+    {
+      "segment": "qianwen-go-full-v9",
+      "kind": "hold",
+      "start": 20.0,
+      "end": 23.4,
+      "meanStep": 0.001,
+      "netChange": 0.03,
+      "duration": 3.4,
+      "allowed": false
+    },
+    {
+      "segment": "qianwen-go-full-v9",
+      "kind": "nonstop",
+      "start": 23.4,
+      "end": 28.6,
+      "meanStep": 2.411,
+      "netChange": 24.39,
+      "duration": 5.2,
+      "allowed": false
+    },
+    {
+      "segment": "qianwen-go-full-v9",
+      "kind": "hold",
+      "start": 28.6,
+      "end": 32.5,
+      "meanStep": 0.0,
+      "netChange": 0.0,
+      "duration": 3.9,
+      "allowed": false
+    },
+    {
+      "segment": "qianwen-go-full-v9",
+      "kind": "move",
+      "start": 34.4,
+      "end": 37.3,
+      "meanStep": 2.04,
+      "netChange": 28.38,
+      "duration": 2.9,
+      "allowed": false
+    },
+    {
+      "segment": "qianwen-go-full-v9",
+      "kind": "hold-warn",
+      "start": 37.3,
+      "end": 39.5,
+      "meanStep": 0.004,
+      "netChange": 0.08,
+      "duration": 2.2,
+      "allowed": false
+    },
+    {
+      "segment": "qianwen-go-full-v9",
+      "kind": "hold-warn",
+      "start": 45.6,
+      "end": 48.5,
+      "meanStep": 0.01,
+      "netChange": 0.2,
+      "duration": 2.9,
+      "allowed": false
+    },
+    {
+      "segment": "qianwen-go-full-v9",
+      "kind": "hold-warn",
+      "start": 49.5,
+      "end": 52.0,
+      "meanStep": 0.004,
+      "netChange": 0.11,
+      "duration": 2.5,
+      "allowed": false
+    },
+    {
+      "segment": "qianwen-go-full-v9",
+      "kind": "hold",
+      "start": 52.3,
+      "end": 55.6,
+      "meanStep": 0.007,
+      "netChange": 0.22,
+      "duration": 3.3,
+      "allowed": false
+    },
+    {
+      "segment": "qianwen-go-full-v9",
+      "kind": "move",
+      "start": 55.6,
+      "end": 57.5,
+      "meanStep": 2.159,
+      "netChange": 28.58,
+      "duration": 1.9,
+      "allowed": false
+    },
+    {
+      "segment": "qianwen-go-full-v9",
+      "kind": "hold",
+      "start": 57.5,
+      "end": 61.8,
+      "meanStep": 0.008,
+      "netChange": 0.33,
+      "duration": 4.3,
+      "allowed": false
+    },
+    {
+      "segment": "qianwen-go-full-v9",
+      "kind": "hold-warn",
+      "start": 72.1,
+      "end": 74.5,
+      "meanStep": 0.003,
+      "netChange": 0.06,
+      "duration": 2.4,
+      "allowed": false
+    },
+    {
+      "segment": "qianwen-go-full-v9",
+      "kind": "nonstop",
+      "start": 79.3,
+      "end": 84.1,
+      "meanStep": 2.544,
+      "netChange": 28.43,
+      "duration": 4.8,
+      "allowed": false
+    },
+    {
+      "segment": "qianwen-go-full-v9",
+      "kind": "hold",
+      "start": 84.1,
+      "end": 89.0,
+      "meanStep": 0.003,
+      "netChange": 0.13,
+      "duration": 4.9,
+      "allowed": false
+    },
+    {
+      "segment": "qianwen-go-full-v9",
+      "kind": "hold",
+      "start": 91.2,
+      "end": 94.5,
+      "meanStep": 0.001,
+      "netChange": 0.04,
+      "duration": 3.3,
+      "allowed": false
+    },
+    {
+      "segment": "qianwen-go-full-v9",
+      "kind": "nonstop",
+      "start": 96.2,
+      "end": 101.9,
+      "meanStep": 2.952,
+      "netChange": 16.01,
+      "duration": 5.7,
+      "allowed": false
+    }
+  ],
+  "blocking": 10,
+  "params": {
+    "fps": 10.0,
+    "subtitle_band": 0.2,
+    "step_still": 0.12,
+    "step_slow": 0.9,
+    "max_hold": 2.0,
+    "max_hold_block": 3.0,
+    "max_slow": 1.2,
+    "max_move": 1.4,
+    "max_scroll": 2.0,
+    "cut_step": 80.0,
+    "allow": []
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "mode": "bounded local portrait-media correction under direct-output authorization",
+  "baselineManifest": {
+    "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/full-v9-r2/manifest.json",
+    "sha256": "76e76c91a5134d0bc9b20fc08a02600d85c7e80dbdcd92eaa8b8985a57857ce9",
+    "bytes": 75603
+  },
+  "baselineVideo": {
+    "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/output/qianwen-go-full-v9-r2.mp4",
+    "sha256": "7ae629dc36fa7412755fb8f719fa9f8b428b35c588cbc139e958eaa53a8218d5",
+    "bytes": 12708298
+  },
+  "currentSource": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/project/src/v9r3b",
+  "currentPortraits": [
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/project/public/v9r3-final/opinion-safe.mp4",
+      "sha256": "b25bf901c9701f75c5f481752ce54258287917a2039f8373f76e86324a08b310",
+      "bytes": 2591906
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/project/public/v9r3-final/bridge-safe.mp4",
+      "sha256": "f001cc6a2392e1b87ed99102bb20704101c072d58d9b8d72bddf637704a100d0",
+      "bytes": 2492773
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/project/public/v9r3-final/close-safe.mp4",
+      "sha256": "1470d9d0848022fca001f755717e8d4fd3445206f40c8ae71c8c7b23357987d1",
+      "bytes": 3808952
+    }
+  ],
+  "unchangedSourceProof": "technical-qa.json/sourcePreservation",
+  "newSemanticComponents": false,
+  "historicalComponentGate": "v9-r2 keyframe/workflow receipts are historical baseline, not relabelled current formal PASS",
+  "currentScope": "three portrait media replacements only; inspect modified output and affected joins",
+  "originalAudio": "copy complete AAC payload and verify identical",
+  "deliveryGate": "04 technical/image checks; PMO and05 pending; continuous audiovisual review not performed"
+}

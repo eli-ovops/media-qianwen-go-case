@@ -1,0 +1,226 @@
+{
+  "entries": [
+    {
+      "id": "component:new30-op09",
+      "label": "OP09",
+      "title": "四个画面汇聚成主片",
+      "kind": "components",
+      "category": "录屏与视频入场",
+      "origin": "新增精选组件",
+      "description": "四个画面汇聚成主片",
+      "tags": [
+        "新增精选",
+        "OP09",
+        "录屏与视频入场",
+        "窗口与媒体交接"
+      ],
+      "selectionStatus": "keep",
+      "reusability": {
+        "level": "snapshot",
+        "label": "用户精选 · 独立场景源码",
+        "parameters": [
+          "src"
+        ],
+        "limitations": [
+          "认可范围为本轮14个准确示例；新文字、素材、ROI、clock和交接需适配检查。",
+          "本批为画面呈现、内容交接、讲解或录屏聚焦；用户没有认可为吸睛开头。",
+          "Auxiliary windows are fixed to media.videoA, media.videoC, media.works[2]; replace those in shared.tsx when adapting. imageSources is not consumed by OP09. Main src default media.videoB."
+        ]
+      },
+      "previews": [
+        {
+          "videoUrl": "/api/design-assets/245d10442ad9b1727265cf69",
+          "posterUrl": "/api/design-assets/31697556e3d8ba25932647b0",
+          "keyframes": [
+            {
+              "url": "/api/design-assets/d6a9a0ae63c8ce256c07d40a",
+              "frame": 9,
+              "timeSeconds": 0.15
+            },
+            {
+              "url": "/api/design-assets/31697556e3d8ba25932647b0",
+              "frame": 54,
+              "timeSeconds": 0.9
+            },
+            {
+              "url": "/api/design-assets/e327b795f3c180f6685a3718",
+              "frame": 138,
+              "timeSeconds": 2.3
+            }
+          ],
+          "available": true,
+          "status": "ready",
+          "start": 0,
+          "end": 4.0,
+          "fps": 60,
+          "width": 1920,
+          "height": 1080,
+          "sha256": "245d10442ad9b1727265cf698f3c82b8e2ec2251fadf561be350d380ec775bcc",
+          "audioPolicy": "no-audio-track",
+          "posterTimeSeconds": 0.9,
+          "posterSelection": "actual selected mechanism state"
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpeningScenes.tsx",
+          "path": "expansion-selected-20261007/src/OpeningScenes.tsx",
+          "symbol": "OP09",
+          "url": "/api/design-source/7ffd8e123f571e373a7012be",
+          "sha256": "7ffd8e123f571e373a7012bed97ca238ce3ecc22631da6637ed284e3ec4451fe",
+          "available": true,
+          "status": "ready"
+        },
+        {
+          "label": "shared.tsx",
+          "path": "expansion-selected-20261007/src/shared.tsx",
+          "symbol": "Frame / Media / Window / Fonts",
+          "url": "/api/design-source/b589565211dd4ceca0aab1fd",
+          "sha256": "b589565211dd4ceca0aab1fdd3bbe57b3db327bc393747fd72c98977d9ab362b",
+          "available": true,
+          "status": "ready"
+        },
+        {
+          "label": "component-interfaces.json",
+          "path": "expansion-selected-20261007/component-interfaces.json",
+          "symbol": "OP09",
+          "url": "/api/design-source/0b3090bced9692d75312b844",
+          "sha256": "0b3090bced9692d75312b8446ac8c1f9a746f1bd3402ec60c0d1b5932dd91af7",
+          "available": true,
+          "status": "ready"
+        }
+      ],
+      "referenceId": "new30-op09",
+      "mergedInto": [],
+      "hiddenReason": null,
+      "visibleByDefault": true,
+      "categoryId": "video-entry",
+      "libraryOrder": 3,
+      "addedAt": "2026-10-07T08:41:15+08:00",
+      "isNew": true,
+      "displayPriority": -29.997,
+      "matching": {
+        "referenceId": "new30-op09",
+        "primaryUse": "video-entry",
+        "useIds": [
+          "video-entry",
+          "handoff"
+        ],
+        "sourceId": "expansion-selected",
+        "conceptIds": [
+          "media",
+          "handoff"
+        ],
+        "inputObjects": [
+          "真实视频",
+          "既有画面"
+        ],
+        "action": "四个真实画面收束，当前主片保持时钟扩展",
+        "segmentRole": "用户已选完整示例组件",
+        "nativeDurationSeconds": 4,
+        "adaptation": "Fred认可本次具体示例及准确源码；新的文字、素材、ROI、数量、cue和组合仍需实际审看。",
+        "tags": [
+          "新增精选",
+          "OP09",
+          "录屏与视频入场",
+          "窗口与媒体交接"
+        ],
+        "scenarioId": "window",
+        "scenarioTitle": "窗口与媒体交接",
+        "addedAt": "2026-10-07T08:41:15+08:00",
+        "label": "OP09",
+        "categoryId": "video-entry",
+        "category": "录屏与视频入场",
+        "sceneTypes": [
+          "device-demo"
+        ],
+        "title": "四个画面汇聚成主片",
+        "collectionId": "expansion-selected-20261007",
+        "kind": "components",
+        "score": 118,
+        "matchedConceptIds": [],
+        "matchedUseIds": [],
+        "matchedWords": [
+          "汇聚"
+        ],
+        "reasons": [
+          "原词命中：汇聚",
+          "相近词：汇聚"
+        ]
+      },
+      "sceneTypes": [
+        "device-demo"
+      ],
+      "projectDownload": {
+        "url": "/api/design-assets/8654ff8e2342c4d39011c618",
+        "filename": "expansion-selected-20261007-source.zip",
+        "sha256": "8654ff8e2342c4d39011c6188c957d2bdc94583bc9ed4a34bd85c07b4ed5980b",
+        "available": true,
+        "kind": "independent-source-with-local-media",
+        "size": 158183616
+      },
+      "collectionId": "expansion-selected-20261007",
+      "defaultReuse": true,
+      "implementation": {
+        "compositionId": "OP09",
+        "fps": 60,
+        "width": 1920,
+        "height": 1080,
+        "durationInFrames": 240,
+        "sourceGeometry": "1920x1080 logical stage; one parent scale",
+        "sourcePackageSha256": "8654ff8e2342c4d39011c6188c957d2bdc94583bc9ed4a34bd85c07b4ed5980b",
+        "runtimeVersions": {
+          "remotion": "4.0.473",
+          "react": "19.2.4"
+        },
+        "projects": [
+          "components/projects/expansion-selected-20261007"
+        ],
+        "reuseBoundary": "Public independent source snapshot; materialize media declared in library/media-manifest.json."
+      },
+      "reviewKind": "registered",
+      "reviewStatus": "keep",
+      "status": "keep",
+      "sourceFiles": [
+        {
+          "path": "components/projects/expansion-selected-20261007/source-view/7ffd8e123f571e373a7012bed97ca238ce3ecc22631da6637ed284e3ec4451fe.txt",
+          "sha256": "7ffd8e123f571e373a7012bed97ca238ce3ecc22631da6637ed284e3ec4451fe",
+          "url": "/api/design-source/7ffd8e123f571e373a7012be",
+          "available": true,
+          "remoteAvailable": false,
+          "status": "ready",
+          "symbol": "OP09"
+        },
+        {
+          "path": "components/projects/expansion-selected-20261007/source-view/b589565211dd4ceca0aab1fdd3bbe57b3db327bc393747fd72c98977d9ab362b.txt",
+          "sha256": "b589565211dd4ceca0aab1fdd3bbe57b3db327bc393747fd72c98977d9ab362b",
+          "url": "/api/design-source/b589565211dd4ceca0aab1fd",
+          "available": true,
+          "remoteAvailable": false,
+          "status": "ready",
+          "symbol": "Frame / Media / Window / Fonts"
+        },
+        {
+          "path": "components/projects/expansion-selected-20261007/source-view/0b3090bced9692d75312b8446ac8c1f9a746f1bd3402ec60c0d1b5932dd91af7.txt",
+          "sha256": "0b3090bced9692d75312b8446ac8c1f9a746f1bd3402ec60c0d1b5932dd91af7",
+          "url": "/api/design-source/0b3090bced9692d75312b844",
+          "available": true,
+          "remoteAvailable": false,
+          "status": "ready",
+          "symbol": "OP09"
+        }
+      ],
+      "sourceAvailability": {
+        "available": true,
+        "status": "ready",
+        "authRequired": false,
+        "installationRequired": false,
+        "reason": "Verified source is installed.",
+        "importCommand": null,
+        "downloadCommand": null,
+        "installCommand": null
+      },
+      "candidateId": "new30-op09"
+    }
+  ]
+}

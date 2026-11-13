@@ -1,0 +1,19 @@
+{
+  "at": "2026-10-13T12:34:04.110Z",
+  "target_thread_id": "01a11194-c40d-7bf0-8396-5bb5d6449444",
+  "content_id": "qianwen-go-case-20261013",
+  "version": "sample-motion-v5-final",
+  "tool": "send_message_to_thread",
+  "result": {
+    "content": [
+      {
+        "type": "text",
+        "text": "{\"threadId\":\"01a11194-c40d-7bf0-8396-5bb5d6449444\"}"
+      }
+    ],
+    "isError": false
+  },
+  "tool_sent": "CONFIRMED",
+  "pmo_received": "UNKNOWN",
+  "pmo_acceptance": "PENDING"
+}

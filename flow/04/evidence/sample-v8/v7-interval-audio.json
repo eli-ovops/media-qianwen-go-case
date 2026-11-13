@@ -1,0 +1,15 @@
+{
+  "intervalV7": [
+    8.2,
+    21.8
+  ],
+  "rawInterval": [
+    37.29666666666667,
+    50.89666666666666
+  ],
+  "v7Sha256": "143e33da6d75e006cca780b9badcbdf2a59561a27374b6fb7aa3e3c64cbae837",
+  "sourceSamples": 652800,
+  "v7TrimSamples": 652800,
+  "zeroLagCorrelation": 0.9998221186580545,
+  "scope": "signal comparison only"
+}

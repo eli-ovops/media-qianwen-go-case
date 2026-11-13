@@ -1,0 +1,13 @@
+{
+  "scope": "process-local exact dependency resolution only; upstream AST checker unchanged",
+  "adapter": {
+    "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/qianwen-go-case-20261013/flow/04/evidence/sample-v8/resolve-existing-typescript.cjs",
+    "sha256": "254d0f7fe931b5d6f7993ba221d95d0e922f22445aa020286ba0fb2e2a39f23b"
+  },
+  "typescriptPackage": {
+    "path": "/Users/USER/.npm/_npx/6286e9339036798b/node_modules/typescript/package.json",
+    "sha256": "822ef7ca6452205657b6288b066481ecf508bfbf43455d715cf7d3ec457561e6"
+  },
+  "typescriptVersion": "5.9.3",
+  "nodeOptions": "--require=/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/qianwen-go-case-20261013/flow/04/evidence/sample-v8/resolve-existing-typescript.cjs"
+}

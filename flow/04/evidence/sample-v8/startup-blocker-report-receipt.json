@@ -1,0 +1,15 @@
+{
+  "source": "actual tool response retained from preceding turn context",
+  "targetThreadId": "01a11194-c40d-7bf0-8396-5bb5d6449444",
+  "tool": "send_message_to_thread",
+  "result": {
+    "content": [
+      {
+        "type": "text",
+        "text": "{\"threadId\":\"01a11194-c40d-7bf0-8396-5bb5d6449444\"}"
+      }
+    ],
+    "isError": false
+  },
+  "pmoReply": "04.status RELEASED; v8 scope only; continued after allowed true"
+}

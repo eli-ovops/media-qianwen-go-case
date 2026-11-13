@@ -1,0 +1,77 @@
+[
+  {
+    "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/qianwen-go-case-20261013/flow/04/project/src/v9r3/captions.json",
+    "sha256": "6d2aa4ab18666627af72164a3b13d7250dab3fd8bd92dce0de3d5e1c1cb76260",
+    "bytes": 9012
+  },
+  {
+    "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/qianwen-go-case-20261013/flow/04/project/src/v9r3/Entry.tsx",
+    "sha256": "cda194ae77f1d6517e4e030f528c87cfdcb915bdfdd606dffea935b517b6e5d1",
+    "bytes": 555
+  },
+  {
+    "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/qianwen-go-case-20261013/flow/04/project/src/v9r3/Film.tsx",
+    "sha256": "e92c3cef1c78e9696e884ee5f35cd39e94195828d5e09716224b43880804c028",
+    "bytes": 12502
+  },
+  {
+    "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/qianwen-go-case-20261013/flow/04/project/src/v9r3/CostScene.tsx",
+    "sha256": "8512cffd80d17c16fad1ef12f85f49a97c326afcb1ce23b1f954657621216715",
+    "bytes": 9952
+  },
+  {
+    "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/qianwen-go-case-20261013/flow/04/project/public/v9r3-fixed/opinion-safe.mp4",
+    "sha256": "b25bf901c9701f75c5f481752ce54258287917a2039f8373f76e86324a08b310",
+    "bytes": 2591906
+  },
+  {
+    "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/qianwen-go-case-20261013/flow/04/project/public/v9r3-fixed/bridge-safe.mp4",
+    "sha256": "736b09cee886211e20a6b4d440d0c7ab18cf6baf8d4579a6db3acf5a8a9683dd",
+    "bytes": 2481862
+  },
+  {
+    "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/qianwen-go-case-20261013/flow/04/project/public/v9r3-fixed/close-safe.mp4",
+    "sha256": "f9bd507aeb14d2d86bc9f5f6f93f981d2c4f0ad4baada4d6549bfe462329f47e",
+    "bytes": 3816876
+  },
+  {
+    "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/qianwen-go-case-20261013/flow/04/project/render-patches-v9-r3.cjs",
+    "sha256": "dd17321435ce9b5399f38591bb554ea64b2033860add90fee4f207eb87a13ce0",
+    "bytes": 1271
+  },
+  {
+    "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/qianwen-go-case-20261013/flow/04/evidence/full-v9-r3/person-matte-r3d.swift",
+    "sha256": "e40bd114471e14f017cd7888aa7a170b658e7cc085ee1a52d30ac9b8f3786a26",
+    "bytes": 4338
+  },
+  {
+    "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/qianwen-go-case-20261013/flow/04/evidence/full-v9-r3/person-matte-r3d",
+    "sha256": "1736bb2962924ac387870a83684c1c2430a79a85c2e7903cdbc6dafa5f364d59",
+    "bytes": 95648
+  },
+  {
+    "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/qianwen-go-case-20261013/flow/04/evidence/full-v9-r3/prepare-fixed-portraits.py",
+    "sha256": "b27fd6d6229ef52cb82351f278ec4a735ab79bb564d729474cc47d7640b7d0ac",
+    "bytes": 1905
+  },
+  {
+    "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/qianwen-go-case-20261013/flow/04/evidence/full-v9-r3/assemble.py",
+    "sha256": "42a9885c627128ad1ae28b44128cd05349ae405690b4bded3970be160e3eec4b",
+    "bytes": 1163
+  },
+  {
+    "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/qianwen-go-case-20261013/flow/04/project/public/voice.wav",
+    "sha256": "aba22d40e5b158c948184a8eaa259f45970261e06edcf295d0e6a86b09caf7a2",
+    "bytes": 14690982
+  },
+  {
+    "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/qianwen-go-case-20261013/flow/04/output/qianwen-go-full-v9-r2.mp4",
+    "sha256": "7ae629dc36fa7412755fb8f719fa9f8b428b35c588cbc139e958eaa53a8218d5",
+    "bytes": 12708298
+  },
+  {
+    "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/qianwen-go-case-20261013/flow/04/output/sample-motion-v8.1.mp4",
+    "sha256": "b82e98437d0018b47e9010346e4087887b1edaea1d1eeda6597880b72410c1a8",
+    "bytes": 1456919
+  }
+]

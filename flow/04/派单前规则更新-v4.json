@@ -1,0 +1,8 @@
+{
+  "pmo_thread_id": "01a11194-c40d-7bf0-8396-5bb5d6449444",
+  "content_id": "qianwen-go-case-20261013",
+  "stage": "04",
+  "decision": "REFRESH_RELEASE_INPUT_FOR_RULE_VERSION_UPDATE",
+  "reason": "实际派单前任务单由ROUTING-v3更新为刚收到并实读的ROUTING-2026-10-13-v4；第一次试release刷新返回STAGE_ALREADY_RELEASED_OR_COMPLETE，故按正式rollback04→release04更新同一任务输入指纹。不是业务返工，不影响02/03验收，也不新建Owner。",
+  "remaining_required_work": ["同Owner按既有制作任务完成本地成片"]
+}

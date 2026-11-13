@@ -1,0 +1,195 @@
+{
+  "status": "PASS",
+  "scope": "local media player controls and clock only; not continuous audiovisual review",
+  "errors": [],
+  "checks": [
+    {
+      "kind": "seek",
+      "requested": 0,
+      "running": false,
+      "time": 0,
+      "baselineTime": 0,
+      "baselineOffset": 0,
+      "offsetError": 0,
+      "rate": 1,
+      "media": [
+        {
+          "width": 1080,
+          "height": 1920,
+          "duration": 13.6,
+          "error": null
+        },
+        {
+          "width": 1080,
+          "height": 1920,
+          "duration": 13.6,
+          "error": null
+        }
+      ]
+    },
+    {
+      "kind": "seek",
+      "requested": 5.5,
+      "running": false,
+      "time": 5.5,
+      "baselineTime": 5.5,
+      "baselineOffset": 0,
+      "offsetError": 0,
+      "rate": 1,
+      "media": [
+        {
+          "width": 1080,
+          "height": 1920,
+          "duration": 13.6,
+          "error": null
+        },
+        {
+          "width": 1080,
+          "height": 1920,
+          "duration": 13.6,
+          "error": null
+        }
+      ]
+    },
+    {
+      "kind": "seek",
+      "requested": 9.1,
+      "running": false,
+      "time": 9.1,
+      "baselineTime": 9.1,
+      "baselineOffset": 0,
+      "offsetError": 0,
+      "rate": 1,
+      "media": [
+        {
+          "width": 1080,
+          "height": 1920,
+          "duration": 13.6,
+          "error": null
+        },
+        {
+          "width": 1080,
+          "height": 1920,
+          "duration": 13.6,
+          "error": null
+        }
+      ]
+    },
+    {
+      "kind": "seek",
+      "requested": 13.5833333333,
+      "running": false,
+      "time": 13.583333,
+      "baselineTime": 13.583333,
+      "baselineOffset": 0,
+      "offsetError": 0,
+      "rate": 1,
+      "media": [
+        {
+          "width": 1080,
+          "height": 1920,
+          "duration": 13.6,
+          "error": null
+        },
+        {
+          "width": 1080,
+          "height": 1920,
+          "duration": 13.6,
+          "error": null
+        }
+      ]
+    },
+    {
+      "kind": "nextFrame",
+      "running": false,
+      "time": 6.516666,
+      "baselineTime": 6.516666,
+      "baselineOffset": 0,
+      "offsetError": 0,
+      "rate": 1,
+      "media": [
+        {
+          "width": 1080,
+          "height": 1920,
+          "duration": 13.6,
+          "error": null
+        },
+        {
+          "width": 1080,
+          "height": 1920,
+          "duration": 13.6,
+          "error": null
+        }
+      ]
+    },
+    {
+      "kind": "previousFrame",
+      "running": false,
+      "time": 6.499999,
+      "baselineTime": 6.499999,
+      "baselineOffset": 0,
+      "offsetError": 0,
+      "rate": 1,
+      "media": [
+        {
+          "width": 1080,
+          "height": 1920,
+          "duration": 13.6,
+          "error": null
+        },
+        {
+          "width": 1080,
+          "height": 1920,
+          "duration": 13.6,
+          "error": null
+        }
+      ]
+    },
+    {
+      "kind": "playHalfSpeed",
+      "running": false,
+      "time": 0.629204,
+      "baselineTime": 0.637358,
+      "baselineOffset": 0,
+      "offsetError": 0.008153999999999995,
+      "rate": 0.5,
+      "media": [
+        {
+          "width": 1080,
+          "height": 1920,
+          "duration": 13.6,
+          "error": null
+        },
+        {
+          "width": 1080,
+          "height": 1920,
+          "duration": 13.6,
+          "error": null
+        }
+      ]
+    },
+    {
+      "kind": "v7-baseline",
+      "running": false,
+      "time": 9.35,
+      "baselineTime": 17.549999,
+      "baselineOffset": 8.2,
+      "offsetError": -9.999999992515995e-7,
+      "rate": 0.5,
+      "media": [
+        {
+          "width": 1080,
+          "height": 1920,
+          "duration": 21.8,
+          "error": null
+        },
+        {
+          "width": 1080,
+          "height": 1920,
+          "duration": 13.6,
+          "error": null
+        }
+      ]
+    }
+  ]
+}

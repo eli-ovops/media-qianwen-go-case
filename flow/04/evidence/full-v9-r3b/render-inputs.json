@@ -1,0 +1,77 @@
+[
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/project/src/v9r3b/captions.json",
+    "sha256": "6d2aa4ab18666627af72164a3b13d7250dab3fd8bd92dce0de3d5e1c1cb76260",
+    "bytes": 9012
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/project/src/v9r3b/Entry.tsx",
+    "sha256": "cda194ae77f1d6517e4e030f528c87cfdcb915bdfdd606dffea935b517b6e5d1",
+    "bytes": 555
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/project/src/v9r3b/Film.tsx",
+    "sha256": "6dcd5875fad9431c2df373a1808a0fb3c5083dc14c4d4b8c37c33e4208a2def0",
+    "bytes": 12502
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/project/src/v9r3b/CostScene.tsx",
+    "sha256": "8512cffd80d17c16fad1ef12f85f49a97c326afcb1ce23b1f954657621216715",
+    "bytes": 9952
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/project/public/v9r3-final/opinion-safe.mp4",
+    "sha256": "b25bf901c9701f75c5f481752ce54258287917a2039f8373f76e86324a08b310",
+    "bytes": 2591906
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/project/public/v9r3-final/bridge-safe.mp4",
+    "sha256": "f001cc6a2392e1b87ed99102bb20704101c072d58d9b8d72bddf637704a100d0",
+    "bytes": 2492773
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/project/public/v9r3-final/close-safe.mp4",
+    "sha256": "1470d9d0848022fca001f755717e8d4fd3445206f40c8ae71c8c7b23357987d1",
+    "bytes": 3808952
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/project/render-patches-v9-r3b.cjs",
+    "sha256": "1af7755ff51b2146334224e08df80eca7a9d8050d[REDACTED_PHONE]e4829d2634b3",
+    "bytes": 1251
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/full-v9-r3/person-matte-r3e.swift",
+    "sha256": "1df20a44d06e0e8e04c1398473fb59aa106b73f3d3e6a14fed1c74361b4bfc04",
+    "bytes": 4712
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/full-v9-r3/person-matte-r3e",
+    "sha256": "f36a955e2d24101e3bb8ba3c081e036a591b332c6711e36e77a316f7f91e5dc8",
+    "bytes": 96016
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/full-v9-r3/prepare-final-portraits.py",
+    "sha256": "d10457550754a9a5014a5d30c9d0ade00f934ffe9ccd7d4c3912df97aa4f9197",
+    "bytes": 1972
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/full-v9-r3b/assemble.py",
+    "sha256": "a44291e0161a2b2df6ed052e4dfa15626db22fd85d221c30b26c813cd7856419",
+    "bytes": 1212
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/project/public/voice.wav",
+    "sha256": "aba22d40e5b158c948184a8eaa259f45970261e06edcf295d0e6a86b09caf7a2",
+    "bytes": 14690982
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/output/qianwen-go-full-v9-r2.mp4",
+    "sha256": "7ae629dc36fa7412755fb8f719fa9f8b428b35c588cbc139e958eaa53a8218d5",
+    "bytes": 12708298
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/output/sample-motion-v8.1.mp4",
+    "sha256": "b82e98437d0018b47e9010346e4087887b1edaea1d1eeda6597880b72410c1a8",
+    "bytes": 1456919
+  }
+]

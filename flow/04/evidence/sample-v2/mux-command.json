@@ -1,0 +1,17 @@
+[
+  "/Users/USER/.local/bin/ffmpeg",
+  "-hide_banner",
+  "-i",
+  "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v2/sample-v2-video-only.mp4",
+  "-i",
+  "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/output/sample-motion-v1.mp4",
+  "-map",
+  "0:v:0",
+  "-map",
+  "1:a:0",
+  "-c",
+  "copy",
+  "-movflags",
+  "+faststart",
+  "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/output/sample-motion-v2.mp4"
+]

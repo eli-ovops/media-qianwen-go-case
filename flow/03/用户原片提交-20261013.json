@@ -1,0 +1,42 @@
+{
+  "content_id": "qianwen-go-case-20261013",
+  "date": "2026-10-13 Asia/Shanghai",
+  "submitted_in": "PMO chat",
+  "user_instruction": "来吧。给你 全部的视频",
+  "status": "FOUR_PATHS_EXISTS_SHA_VERIFIED_PENDING03_MEDIA_REVIEW",
+  "raw_media": [
+    {
+      "path": "/Users/USER/Downloads/7b14be666720ab35b4c9330ff5caf3bb_raw.mp4",
+      "bytes": 33518582,
+      "sha256": "a9f103d1e866fb68374b67be565c788af7b5383b97d572fe5b6f6355538e6458",
+      "segment": "UNKNOWN_PENDING03"
+    },
+    {
+      "path": "/Users/USER/Downloads/e404afe47f88fa4affadf7f5fa273814_raw.mp4",
+      "bytes": 310877122,
+      "sha256": "2c9bd9f9b79808695d068c891eed29425986282d766f41c8ae0b54051f1ed495",
+      "segment": "UNKNOWN_PENDING03"
+    },
+    {
+      "path": "/Users/USER/Downloads/8e45868cc8576735af4ec1a25b4d40f5_raw.mp4",
+      "bytes": 150867376,
+      "sha256": "da7c29b71f6fa2dc9d6b83952760ad12ea35f08162d2d271a3416718b8f55a84",
+      "segment": "UNKNOWN_PENDING03"
+    },
+    {
+      "path": "/Users/USER/Downloads/70566362856e3aecc19310c1b2352f57_raw.mp4",
+      "bytes": 144784682,
+      "sha256": "04bd489bb613273c39827d1aa19ff58ec7bd91727ef0f5e5d1048178c0a1ab79",
+      "segment": "UNKNOWN_PENDING03"
+    }
+  ],
+  "permission": "Read these exact local files for this production; preserve raw; no cloud upload or deletion",
+  "not_yet_checked": [
+    "recording order",
+    "actual spoken content",
+    "duration",
+    "voice/visual quality",
+    "missing lines"
+  ],
+  "copied_or_modified": false
+}

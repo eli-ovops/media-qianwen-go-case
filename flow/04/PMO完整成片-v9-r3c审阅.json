@@ -1,0 +1,27 @@
+{
+  "pmo_thread_id": "01a11194-c40d-7bf0-8396-5bb5d6449444",
+  "content_id": "qianwen-go-case-20261013",
+  "stage": "04",
+  "decision": "PASS",
+  "scope": "制作交付与指定局部修订通过，允许进入05独立质检；不代表最终声画、用户终审或发布通过",
+  "sha256": "797426b66fec27431ecf298b9df67f9869b2cddfaa456b1c851009dd6b84ab10",
+  "evidence_read": [
+    "完整成片-v9-r3c交付报告.md",
+    "evidence/full-v9-r3c/technical-qa.json",
+    "evidence/full-v9-r3c/native-keys-01.jpg",
+    "evidence/full-v9-r3c/context-seams-02.jpg",
+    "evidence/full-v9-r3c/glasses-bridge-contiguous-01.jpg",
+    "evidence/full-v9-r3c/final-frames/f6021.png"
+  ],
+  "findings": [
+    "100.35s原遮罩缺损窗口已用现有AI节点覆盖",
+    "桥接眼镜和手部恢复可见原像素，允许细微边缘痕迹进入独立审查",
+    "已读截图未见用户拒绝的角落声明，43条字幕及音轨保留"
+  ],
+  "remaining_required_work": [],
+  "downstream_required_work": [
+    "05独立整片内容字幕声画检查，重点96.27–97.35s真人与AI交接是否实际遮脸或闪烁",
+    "连续看听未完成，不以截图或解码代替；如工具不支持明确交用户终审"
+  ],
+  "continuous_av_review": false
+}

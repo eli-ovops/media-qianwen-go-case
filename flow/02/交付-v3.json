@@ -1,0 +1,152 @@
+{
+  "content_id": "qianwen-go-case-20261013",
+  "stage": "02",
+  "version": "v3",
+  "date": "2026-10-13 Asia/Shanghai",
+  "owner_thread_id": "01a11a70-35e6-7db1-86ac-80a7ce40a9cb",
+  "status": "FROZEN_TEXT_DELIVERED_PENDING_PMO_REVIEW",
+  "gate": {
+    "allowed": true,
+    "content": "qianwen-go-case-20261013",
+    "stage": "02",
+    "exit_code": 0,
+    "tool_chunk": "19e0d7"
+  },
+  "inputs": [
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/01/01会话初稿-已选题.md",
+      "sha256": "7e7a30d42d7f0a76e6d29a56edcb3c20154eb502fc07d481f243b0b2ca87785f"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/01/PMO验收.json",
+      "sha256": "6e9493a7ede4bc45ba6b0bbf70bf0387077f9237a064acb026add7cc3028a865"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/01/PMO原片全段复核-20261013.md",
+      "sha256": "8298c5ec72d09c8e884ebbd1a72752e15d0665826fef5532c28dba7631073724"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/02/用户录制参考稿-v3.md",
+      "sha256": "82a536bbe5b3f9f0e549a08f74dd659cdd15c5af244d2a8c9c3559a78bf81f26"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/02/录制后定稿任务-v3.md",
+      "sha256": "9ab53895c284702990fdfbcfe17b4bec1d528c560b562f8b7c7818188daea8db"
+    }
+  ],
+  "additional_evidence": [
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/用户原片提交-20261013.json",
+      "sha256": "82186faa2b02c8b808e923c993dc38bc14a281354ac2c1eeadd2e921f0caf126"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/01/PMO原片全段复核-20261013.md",
+      "sha256": "8298c5ec72d09c8e884ebbd1a72752e15d0665826fef5532c28dba7631073724"
+    }
+  ],
+  "outputs": [
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/02/正式口播-v3.md",
+      "sha256": "a2cbcca3e33d6b65a76df06e8d5e793506a70c6be215dc2c4896507a0bd58e7d",
+      "bytes": 1145
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/02/提词版-v3.md",
+      "sha256": "b7c19bd716e9e99943df8e6b788c45c65614e61a7d7a581aac0f79f430ea773a",
+      "bytes": 1142
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/02/分镜与素材清单-v3.md",
+      "sha256": "4ba296af942b497453ab601df8df90d70435b59782a58915ee9e90aee13a2c08",
+      "bytes": 4128
+    }
+  ],
+  "validation": {
+    "four_segments": true,
+    "script_equals_recording_reference_exact_body": true,
+    "prompt_equals_script_exact_body": true,
+    "hanzi": 275,
+    "ascii_letters": 21,
+    "digits": 4,
+    "actual_duration": "UNKNOWN_PENDING03",
+    "input_sha_intact": true,
+    "v1_v2_output_sha_unchanged": true
+  },
+  "user_media_status": "FOUR_RAW_FILES_SUBMITTED_PENDING03_REVIEW",
+  "raw_media_manifest": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/用户原片提交-20261013.json",
+  "raw_file_metadata_source": "PMO submitted JSON only;02 did not read, hash, copy or modify video bytes",
+  "raw_media_declared": [
+    {
+      "path": "/Users/USER/Downloads/7b14be666720ab35b4c9330ff5caf3bb_raw.mp4",
+      "sha256_from_pmo_manifest": "a9f103d1e866fb68374b67be565c788af7b5383b97d572fe5b6f6355538e6458",
+      "segment": "UNKNOWN_PENDING03"
+    },
+    {
+      "path": "/Users/USER/Downloads/e404afe47f88fa4affadf7f5fa273814_raw.mp4",
+      "sha256_from_pmo_manifest": "2c9bd9f9b79808695d068c891eed29425986282d766f41c8ae0b54051f1ed495",
+      "segment": "UNKNOWN_PENDING03"
+    },
+    {
+      "path": "/Users/USER/Downloads/8e45868cc8576735af4ec1a25b4d40f5_raw.mp4",
+      "sha256_from_pmo_manifest": "da7c29b71f6fa2dc9d6b83952760ad12ea35f08162d2d271a3416718b8f55a84",
+      "segment": "UNKNOWN_PENDING03"
+    },
+    {
+      "path": "/Users/USER/Downloads/70566362856e3aecc19310c1b2352f57_raw.mp4",
+      "sha256_from_pmo_manifest": "04bd489bb613273c39827d1aa19ff58ec7bd91727ef0f5e5d1048178c0a1ab79",
+      "segment": "UNKNOWN_PENDING03"
+    }
+  ],
+  "known_required_text_fixes": [],
+  "fact_boundaries": [
+    "4500 is case demand threshold, not actual transaction price",
+    "Case total is estimate, not verified full expense/payment receipt",
+    "Price monitoring is setup shown, not continuous run or delivered reminder",
+    "User did not personally claim using/purchasing through product",
+    "Media upcoming report is not official launch or universal entitlement",
+    "General ticket example in02 paragraph retained verbatim; no standalone comedy-ticket case restored"
+  ],
+  "source_review_limit": "PMO document describes69 ASR segments and1301fps images;02 read document only, no new media viewing or direct audio",
+  "handoff": "PMO verifies four-segment text then releases03 to examine exactly four submitted originals, map real narration to segments and check effective duration/quality/missing core lines. No repeat approval/recording request; natural variation does not require reshoot.",
+  "remaining": [
+    {
+      "item": "Actual narration, segment order, durations, missing or repeated core lines",
+      "owner": "03 after PMO release",
+      "action": "Read exact allowlisted originals; request only necessary minimal correction viaPMO"
+    },
+    {
+      "item": "Production, independent QA, user full-film review and publication",
+      "owner": "04-07 after preceding stages",
+      "action": "Sequential PMO release; final send by human"
+    }
+  ],
+  "conflicts_handled": [
+    "Shared run legacy human_latest_request/coordination still mention not recorded; current user_media_status, explicit v3 task and submission manifest govern current handoff; not changed by02"
+  ],
+  "routing": {
+    "rule": "ROUTING-2026-09-30-v3",
+    "requested_model": "gpt-6.1-sol",
+    "requested_effort": "medium",
+    "actual_model": "UNKNOWN",
+    "actual_effort": "UNKNOWN",
+    "actual_speed": "UNKNOWN"
+  },
+  "coordination_rule": "CONTENT-COORDINATION-NO-POLL-20261013-v2",
+  "communication_authorization": {
+    "turn": "01a133cb-599d-7630-99a5-0ac3524beba7",
+    "userMessage": "01a133d5-4256-7321-a6d0-b6116d2e02ce",
+    "verified": "Direct original verified in earlier reporting turn; persists"
+  },
+  "created_files": [
+    "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/02/正式口播-v3.md",
+    "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/02/提词版-v3.md",
+    "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/02/分镜与素材清单-v3.md",
+    "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/02/交付-v3.json"
+  ],
+  "temporary_files": [],
+  "cleanup": "No deletion. v1/v2 retained.",
+  "shared_state_modified": false,
+  "downstream_messaged": false,
+  "media_read_or_copied": false,
+  "subagents": false
+}

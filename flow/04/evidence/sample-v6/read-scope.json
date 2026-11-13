@@ -1,0 +1,103 @@
+{
+  "changed_interval": [
+    8,
+    21.8
+  ],
+  "tail_frames": 828,
+  "contact_sheets": 35,
+  "contact_tile_pixels": [
+    180,
+    320
+  ],
+  "native_times": [
+    8.1,
+    9.2,
+    9.8,
+    10.7,
+    11.5,
+    12.6,
+    13.2,
+    14.2,
+    15.4,
+    16.7,
+    17.3,
+    17.8,
+    18.4,
+    19.1,
+    19.6,
+    20.2,
+    20.7,
+    21.2
+  ],
+  "seam_interval": [
+    7.9,
+    8.0833333
+  ],
+  "seam_frames": 12,
+  "assistant_viewed": true,
+  "direct_listening": false,
+  "realtime_continuous_av_review": false,
+  "actually_viewed_contact_indices": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13
+  ],
+  "actually_viewed_tail_frames": 336,
+  "actually_viewed_tail_interval": [
+    8,
+    13.583333333333
+  ],
+  "native_times_actually_viewed": [],
+  "pre_render_still_times_viewed": [
+    8.1,
+    11.5,
+    15.4,
+    17.3,
+    19.6,
+    21.2
+  ],
+  "test2_still_times_viewed": [
+    8.1,
+    11.5,
+    12.6,
+    13.2,
+    21.2
+  ],
+  "daily_trial_contact_indices_viewed": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+  ],
+  "daily_trial_frames_viewed": 288,
+  "daily_trial_interval": [
+    17,
+    21.7833333333333
+  ],
+  "observations": [
+    "static test: jaws initially swung across bundle; corrected before trial",
+    "trial: duplicate estimate labels during transition and outgoing jaws retained at edges; fixed before full export",
+    "full export: service components travel through caption labels at 10.6–11.4s; fixed by moving those labels above object movement path"
+  ],
+  "limits": "Initial export partial contact review only; final corrected export reviewed separately in sample-v6-final/read-scope.json; no direct audio listening or realtime AV review",
+  "at": "2026-10-13T20:57:54.564871+08:00"
+}

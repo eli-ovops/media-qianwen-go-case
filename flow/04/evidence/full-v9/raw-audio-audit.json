@@ -1,0 +1,91 @@
+{
+  "scope": "Original source PCM compared with assembled voice at exact retained time ranges, excluding20ms per edge containing4ms fade. Signal identity and timing only; not direct listening/word transcription.",
+  "voiceSHA256": "aba22d40e5b158c948184a8eaa259f45970261e06edcf295d0e6a86b09caf7a2",
+  "checks": [
+    {
+      "source": 1,
+      "sourceRange": [
+        0.05,
+        4.95
+      ],
+      "outputRange": [
+        0,
+        4.9
+      ],
+      "comparedSamples": 233280,
+      "correlationAtMappedTime": 0.9999999999997607,
+      "normalizedRMSError": 1.6882040654309094e-06
+    },
+    {
+      "source": 2,
+      "sourceRange": [
+        0.0,
+        5.1
+      ],
+      "outputRange": [
+        4.9,
+        10.0
+      ],
+      "comparedSamples": 242880,
+      "correlationAtMappedTime": 0.9999999999997299,
+      "normalizedRMSError": 1.8042112515104236e-06
+    },
+    {
+      "source": 2,
+      "sourceRange": [
+        5.65,
+        19.1
+      ],
+      "outputRange": [
+        10.0,
+        23.45
+      ],
+      "comparedSamples": 643680,
+      "correlationAtMappedTime": 0.999999999999702,
+      "normalizedRMSError": 1.9346193766978104e-06
+    },
+    {
+      "source": 2,
+      "sourceRange": [
+        19.48,
+        24.6
+      ],
+      "outputRange": [
+        23.45,
+        28.57
+      ],
+      "comparedSamples": 243840,
+      "correlationAtMappedTime": 0.9999999999997962,
+      "normalizedRMSError": 1.5813280924703577e-06
+    },
+    {
+      "source": 3,
+      "sourceRange": [
+        0.1,
+        50.9
+      ],
+      "outputRange": [
+        28.57,
+        79.37
+      ],
+      "comparedSamples": 2436480,
+      "correlationAtMappedTime": 0.999999999999825,
+      "normalizedRMSError": 1.541625920253864e-06
+    },
+    {
+      "source": 4,
+      "sourceRange": [
+        0.1,
+        22.75
+      ],
+      "outputRange": [
+        79.37,
+        102.02
+      ],
+      "comparedSamples": 1085280,
+      "correlationAtMappedTime": 0.9999999999997997,
+      "normalizedRMSError": 1.5958673884597374e-06
+    }
+  ],
+  "status": "PASS"
+}

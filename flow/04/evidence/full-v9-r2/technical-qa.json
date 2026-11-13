@@ -1,0 +1,62 @@
+{
+  "video": {
+    "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/qianwen-go-case-20261013/flow/04/output/qianwen-go-full-v9-r2.mp4",
+    "sha256": "7ae629dc36fa7412755fb8f719fa9f8b428b35c588cbc139e958eaa53a8218d5",
+    "bytes": 12708298
+  },
+  "metadataProvider": "existing AVFoundation adapter; frame count and PTS independently decoded by FFmpeg",
+  "decodeExit": 0,
+  "decodedFrames": 6122,
+  "firstPTS": 0.0,
+  "lastPTS": 102.017,
+  "maxPTSErrorSeconds": 0.00033333333334439885,
+  "audio": {
+    "source": {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/qianwen-go-case-20261013/flow/04/project/public/voice.wav",
+      "sha256": "aba22d40e5b158c948184a8eaa259f45970261e06edcf295d0e6a86b09caf7a2",
+      "bytes": 14690982
+    },
+    "sourceSamples": 4896960,
+    "decodedSamples": 4897792,
+    "commonSamples": 4896960,
+    "correlationAtZeroLag": 0.999964247445445,
+    "samplePeakDBFS": -1.5085336466210317,
+    "sections": [
+      {
+        "start": 0,
+        "end": 4.9,
+        "correlation": 0.9998926427590651,
+        "bestLagWithinOneMsSamples": 0,
+        "integratedLUFS": -19.32,
+        "truePeakDBTP": -1.51
+      },
+      {
+        "start": 4.9,
+        "end": 28.57,
+        "correlation": 0.9999882510771276,
+        "bestLagWithinOneMsSamples": 0,
+        "integratedLUFS": -19.9,
+        "truePeakDBTP": -1.5
+      },
+      {
+        "start": 28.57,
+        "end": 79.37,
+        "correlation": 0.9999595884784089,
+        "bestLagWithinOneMsSamples": 0,
+        "integratedLUFS": -19.89,
+        "truePeakDBTP": -1.51
+      },
+      {
+        "start": 79.37,
+        "end": 102.02,
+        "correlation": 0.9999710419286943,
+        "bestLagWithinOneMsSamples": 0,
+        "integratedLUFS": -20.9,
+        "truePeakDBTP": -1.51
+      }
+    ],
+    "loudnessRangeAcrossSectionsLU": 1.5799999999999983,
+    "directListening": false
+  },
+  "scope": "machine metadata/decode/audio-signal verification only"
+}

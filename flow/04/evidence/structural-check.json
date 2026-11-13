@@ -1,0 +1,15 @@
+{
+  "caption_groups": 43,
+  "timing_errors": [],
+  "max_zh_chars": 17,
+  "source_video_frames_in_composition": 0,
+  "audio_only_source_use": true,
+  "semantics": {
+    "budget": "threshold only",
+    "prices": "no invented values",
+    "monitor": "setup only; no delivery",
+    "purchase": "not shown"
+  },
+  "line_alignment": "approximate ASR sentence/subsentence windows; user audition pending",
+  "render_entry": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/project/src/index.ts"
+}

@@ -1,0 +1,58 @@
+[
+  {
+    "name": "intro",
+    "source": "/Users/USER/Downloads/7b14be666720ab35b4c9330ff5caf3bb_raw.mp4",
+    "sourceStart": 0.05,
+    "duration": 4.9,
+    "globalStart": 0,
+    "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/project/public/v9/intro.mp4",
+    "processExit": [
+      0,
+      0,
+      0
+    ],
+    "method": "Apple Vision accurate person matte every decoded 60fps frame; same source frame composited over #090D11, then crop top 220 from540x960; no face synthesis"
+  },
+  {
+    "name": "bridge",
+    "source": "/Users/USER/Downloads/8e45868cc8576735af4ec1a25b4d40f5_raw.mp4",
+    "sourceStart": 19.48,
+    "duration": 5.12,
+    "globalStart": 23.45,
+    "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/project/public/v9/bridge.mp4",
+    "processExit": [
+      0,
+      0,
+      0
+    ],
+    "method": "Apple Vision accurate person matte every decoded 60fps frame; same source frame composited over #090D11, then crop top 220 from540x960; no face synthesis"
+  },
+  {
+    "name": "opinion",
+    "source": "/Users/USER/Downloads/70566362856e3aecc19310c1b2352f57_raw.mp4",
+    "sourceStart": 0.1,
+    "duration": 4.46,
+    "globalStart": 79.37,
+    "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/project/public/v9/opinion.mp4",
+    "processExit": [
+      0,
+      0,
+      0
+    ],
+    "method": "Apple Vision accurate person matte every decoded 60fps frame; same source frame composited over #090D11, then crop top 220 from540x960; no face synthesis"
+  },
+  {
+    "name": "close",
+    "source": "/Users/USER/Downloads/70566362856e3aecc19310c1b2352f57_raw.mp4",
+    "sourceStart": 17,
+    "duration": 5.75,
+    "globalStart": 96.27,
+    "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/project/public/v9/close.mp4",
+    "processExit": [
+      0,
+      0,
+      0
+    ],
+    "method": "Apple Vision accurate person matte every decoded 60fps frame; same source frame composited over #090D11, then crop top 220 from540x960; no face synthesis"
+  }
+]

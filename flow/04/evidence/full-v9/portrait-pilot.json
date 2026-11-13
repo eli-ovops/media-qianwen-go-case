@@ -1,0 +1,16 @@
+[
+  {
+    "name": "pilot",
+    "source": "/Users/USER/Downloads/7b14be666720ab35b4c9330ff5caf3bb_raw.mp4",
+    "sourceStart": 1.6,
+    "duration": 0.016666666666666666,
+    "globalStart": 0,
+    "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/full-v9/pilot-v2.png",
+    "processExit": [
+      0,
+      0,
+      0
+    ],
+    "method": "Apple Vision accurate person matte every decoded 60fps frame; same source frame composited over #090D11, then crop top 220 from540x960; no face synthesis"
+  }
+]

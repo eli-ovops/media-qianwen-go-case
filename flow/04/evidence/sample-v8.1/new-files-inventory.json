@@ -1,0 +1,2914 @@
+{
+  "at": "2026-10-14T10:23:16.509354+08:00",
+  "scope": "Only exact v8.1 paths; no broad project scan; excludes self hash to avoid recursion",
+  "count": 479,
+  "bytes": 41341378,
+  "files": [
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/avfoundation-metadata.json",
+      "bytes": 379,
+      "sha256": "fb0809fc8aca0deafaaf531bedf80cbefbe2bea965277aa6ce2db951f63b3fb1",
+      "sourcePurpose": "Task-local QA evidence, log, gate manifest, resource measurement or delivery receipt"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/clock-lint.json",
+      "bytes": 57,
+      "sha256": "24fceead78851cc6b93574053be956a5370a5c3c5668bc8bb078aee609fc79be",
+      "sourcePurpose": "Task-local QA evidence, log, gate manifest, resource measurement or delivery receipt"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/comparison-player.png",
+      "bytes": 163558,
+      "sha256": "8dc4ee16734b91782f24197bc76678a41e7fff1839c725a9322d4aaff7685f4d",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/decode-showinfo.log",
+      "bytes": 324663,
+      "sha256": "451cb54bfef707f22da8b52fd72626ed9309bdabc8781b1a59711f4f872bafb2",
+      "sourcePurpose": "Task-local QA evidence, log, gate manifest, resource measurement or delivery receipt"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/df-end.txt",
+      "bytes": 290,
+      "sha256": "6555efc00f3979a541f10d331c5d0d0f79e3f99edcd6cd142e7e0fda23a243d2",
+      "sourcePurpose": "Task-local QA evidence, log, gate manifest, resource measurement or delivery receipt"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/df-start.txt",
+      "bytes": 290,
+      "sha256": "92c73ddc90976843bf2b97f51ae3e3b9568fd6060cadd94fe23c06cc64bd9161",
+      "sourcePurpose": "Task-local QA evidence, log, gate manifest, resource measurement or delivery receipt"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/disk-summary.json",
+      "bytes": 448,
+      "sha256": "e156df747a4bab963504a247976e46cb654cb24aa8ce8cf5a02294b9777c9ca6",
+      "sourcePurpose": "Task-local QA evidence, log, gate manifest, resource measurement or delivery receipt"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/dock-dense-01.jpg",
+      "bytes": 408083,
+      "sha256": "63c7a06152e5b6e07573d79acec20723602abf1e71b8d479d42c8a5d63e74a4f",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/dock-dense-02.jpg",
+      "bytes": 292939,
+      "sha256": "2e2fe499494cc5cf536f16d1e6a8f3af7a3750c174d7f0e803fb4812c650a798",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/native-f000.png",
+      "bytes": 146606,
+      "sha256": "8735b1a634ae976dba1170d723628ba8c0813686988886480f02fdeec80fc375",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/native-f111.png",
+      "bytes": 277240,
+      "sha256": "ac8de34eb6181bc0dff64677d9b2fe678d2de5530effdaf6e1466e332ef4a486",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/native-f234.png",
+      "bytes": 279458,
+      "sha256": "e0368aeb1f8ac9709652c5539a9000162501309904694560e7ad225ed895b0a7",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/native-f330.png",
+      "bytes": 262753,
+      "sha256": "2acd2706697d401fa76daf015604e0898d6cf0c40a0f11478a056c12f0bc9b60",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/native-f342.png",
+      "bytes": 277103,
+      "sha256": "ce97367df57421dd4dc95265f87a80fb70aacd5d2a53af77ecfd82341edf941b",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/native-f354.png",
+      "bytes": 288128,
+      "sha256": "95af8a9788c35f2fdb3e7d45f4ee4e1da56156bcc9ee89b99a9b74ba375afa8b",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/native-f360.png",
+      "bytes": 286276,
+      "sha256": "80251f55fe02fbf76de7e472ab357732175378fc5a5554898c47b372dd06b665",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/native-f365.png",
+      "bytes": 288039,
+      "sha256": "5e82edc1e9db289e947b03f61d44c6d29317821d6b6a7240e626280f45e8610c",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/native-f366.png",
+      "bytes": 286635,
+      "sha256": "b686d09a500cf7d4915154eaaca2933f0910d4010d8a8d0125f90d7b912e079d",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/native-f378.png",
+      "bytes": 288297,
+      "sha256": "8d14e911468545e411b8969a799ecb3dd505ec4b824794a2bbf684e7f09ee099",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/native-f390.png",
+      "bytes": 287504,
+      "sha256": "a0d8ec66ac11702dc5ae0aa1b56fb3330cb350da9bd4492495f80289b838f6f4",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/native-f528.png",
+      "bytes": 275144,
+      "sha256": "19c8ae3bba8f65571ecbda7d35e23f032538f31d12e58da7566d42914e0e4835",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/native-f534.png",
+      "bytes": 285916,
+      "sha256": "e6d456311dbf878c095935a0d0b85c3db5b9263cc5190c0221be5605b58f837c",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/native-f540.png",
+      "bytes": 279116,
+      "sha256": "89dba1361dcfd357b5802a433b6310497713f5f171696252ee06214c7831cac0",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/native-f546.png",
+      "bytes": 283144,
+      "sha256": "b901f5b77cf53c1a00aa9d43222667f10bd5096336f1a21ba5b37e073c619bea",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/native-f552.png",
+      "bytes": 293208,
+      "sha256": "01e8e256bae3ec52c5a84a0304dd34786c7655b5a2403483efcff20d5fec937f",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/native-f558.png",
+      "bytes": 292097,
+      "sha256": "de4991930756d4bab78348065853c3ef4d1cb3137cb959bd75769ad8ebebe7c9",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/native-f561.png",
+      "bytes": 304150,
+      "sha256": "e5bd5a3d4051194296e8c3706be110ba236dee67b40e13de772bddd84d7536fc",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/native-f579.png",
+      "bytes": 291489,
+      "sha256": "75711490d61b532833b018dafe9d781549e19f00c4c3d05fc8c6a4232bdfd682",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/native-f708.png",
+      "bytes": 339553,
+      "sha256": "4807192e7e938581ac43a5f514efcd58d83808326386bafc23b80d69af6c1f4e",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/native-f723.png",
+      "bytes": 359736,
+      "sha256": "39467782f2d310303371cbbfe61e5fb2fa5c1e549ebe5326bf92d01b5594eae5",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/native-f744.png",
+      "bytes": 366698,
+      "sha256": "6f18ddabd0b89b1dcedd166157ac4447d6342edfed03062ce0628bd97bf7f64f",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/native-f759.png",
+      "bytes": 312078,
+      "sha256": "0a81868c14ab2dd3220ed0abc2304253871d9d53914b950a7ff0d28e5cbcb369",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/native-f815.png",
+      "bytes": 287566,
+      "sha256": "742ffb28862a38d4927052efab491e7010983d5ca2145f6353c1269438765932",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0001.jpg",
+      "bytes": 8566,
+      "sha256": "55aee3dd9437af207b2788f0a69a89dea5eebd05c87436b470670b801db5d4d4",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0002.jpg",
+      "bytes": 10568,
+      "sha256": "c449b0bd47cafd32b0d5fa65d64ab3841bb8ee934e7a2298370282c13a9ad772",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0003.jpg",
+      "bytes": 11349,
+      "sha256": "32cc0825b85be826095910d29c2d44ce31e2ffabc8140d22fbee6963c33f4a12",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0004.jpg",
+      "bytes": 11995,
+      "sha256": "7836dd147837465ccc4f92ba493f64a3e042d371ca67c0a78113db9290d7fa06",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0005.jpg",
+      "bytes": 11907,
+      "sha256": "fe23d3b55e71290d1843eb6cb6d31a866e6004720cb4718c01a0a4bae614468e",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0006.jpg",
+      "bytes": 11984,
+      "sha256": "fd52251303873a4c41dadfff23046c83d6a58f5dea5d1ab35d4192a1a1278d7d",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0007.jpg",
+      "bytes": 11919,
+      "sha256": "db971db053d0c79386222abc8a3db2a71eb269be6107ded385c19c550ccfb87f",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0008.jpg",
+      "bytes": 11916,
+      "sha256": "8fbd07c6b7daacfaaf56465f85badd598443fff35f41691b7496edfe97a1b391",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0009.jpg",
+      "bytes": 11917,
+      "sha256": "08c6f2ba242837da05f9e1a45eea268264b0faaaf6f2230dd28f55bbd75c0158",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0010.jpg",
+      "bytes": 11917,
+      "sha256": "08c6f2ba242837da05f9e1a45eea268264b0faaaf6f2230dd28f55bbd75c0158",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0011.jpg",
+      "bytes": 11914,
+      "sha256": "0f23b9a12fb33a4cde72961e06e7b3f53e45550f83651cf5b7cc0e48abee4ee2",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0012.jpg",
+      "bytes": 11914,
+      "sha256": "0f23b9a12fb33a4cde72961e06e7b3f53e45550f83651cf5b7cc0e48abee4ee2",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0013.jpg",
+      "bytes": 11917,
+      "sha256": "42c5cf71746f1cf7ee6888945700426621546f05e806fa2c93a96015121434e3",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0014.jpg",
+      "bytes": 11917,
+      "sha256": "42c5cf71746f1cf7ee6888945700426621546f05e806fa2c93a96015121434e3",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0015.jpg",
+      "bytes": 11908,
+      "sha256": "b5a89ac440fbc567ce00d53df9dad790243b450e0a94ec6851246c9f8d366477",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0016.jpg",
+      "bytes": 13433,
+      "sha256": "a8753f7e5735d902e5d4b8f29096e49a5a6f8fee29110801b9218a054612a9a8",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0017.jpg",
+      "bytes": 15016,
+      "sha256": "6f859972087a0d4243f64e9ecbe02b892d5b8006d09745590e74d953476cbfc2",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0018.jpg",
+      "bytes": 15570,
+      "sha256": "7b5107afeee4e08df9c551a8091081f122792100bad93875af8726bfd1a89472",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0019.jpg",
+      "bytes": 15386,
+      "sha256": "0174e9987922e481dd1db0887b0052786da15424f648a2048ce9170219ed4503",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0020.jpg",
+      "bytes": 15660,
+      "sha256": "fd5f01fa423e3f57fde48e3a68b4c943243ad9e6eac47ece24886c95191fdf4e",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0021.jpg",
+      "bytes": 15607,
+      "sha256": "18b22d181451db32db1fa77c498eff3fdfe8a966f0f758248afd9238959b541a",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0022.jpg",
+      "bytes": 15625,
+      "sha256": "b3a899fca3b3878a673db88a330c718a1debcf343625415ca58601783494b8f8",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0023.jpg",
+      "bytes": 15637,
+      "sha256": "6807174f2f40f7439b51a338476bdcb2cd652ccc2e5c5239d23a08b5dcef3277",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0024.jpg",
+      "bytes": 15638,
+      "sha256": "10a9552fe065d4ef3a836b40a98d3f73e9c1186ee0809b4033d2173faa060fb9",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0025.jpg",
+      "bytes": 15628,
+      "sha256": "b75d9285a4c7200550fece8f66d06d35218f6fc48d6b0b556dbbd90db7c4ddde",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0026.jpg",
+      "bytes": 15639,
+      "sha256": "72f6cafa70d9214297800b3ffe8b3f4dd38dce2c982bc8b2ac486963a48e40d9",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0027.jpg",
+      "bytes": 15634,
+      "sha256": "03904918f1159046b957b4c4435d5d410df77cca594c748c5e84e703ab6dbf65",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0028.jpg",
+      "bytes": 15632,
+      "sha256": "b88d424788c1437c532d00b737c61473aa7d0d4806127261be0ab97f70cac034",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0029.jpg",
+      "bytes": 15730,
+      "sha256": "a4702bdddfe10ecc9b67d34f7435903318b7107d87c048f20acb9c67b01c1ae0",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0030.jpg",
+      "bytes": 16036,
+      "sha256": "d03058901a6fabf19b5e52b4ecf3b4b2090f2ba5702136e6e37c938c2bcce249",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0031.jpg",
+      "bytes": 15793,
+      "sha256": "657e76121db11a48d3b05fc36664a3d3aea24a602989ffda0e347ff2fe3abbc0",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0032.jpg",
+      "bytes": 14560,
+      "sha256": "307215ba602437c8cfcc84d0543ef92379d7dd5802c2be7f94865b2430f92c28",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0033.jpg",
+      "bytes": 14938,
+      "sha256": "cb47a40eac679b4d546d2bda34ccbe5cfed0555c7d0e275089b07ca44af48a61",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0034.jpg",
+      "bytes": 14966,
+      "sha256": "27e0e48c9997bc6153c12b39c6feb3f67545bb3d8c019a394c67a497bd400e0b",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0035.jpg",
+      "bytes": 15202,
+      "sha256": "761ac064cc30665c8b570f63731ab9675dc961400f8fedcc60ee7055e432f01a",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0036.jpg",
+      "bytes": 14949,
+      "sha256": "c67afdc29f3278b76c7670f968efddb08d4ab52287f7a12dc217876294265fbe",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0037.jpg",
+      "bytes": 14780,
+      "sha256": "8b8ff00afdc4b11aa5bb2fa33f73cb913d5696e1ebab51f07eb362d4f7d2cc4a",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0038.jpg",
+      "bytes": 14649,
+      "sha256": "afbec966d8f864884cdeb087dd462341fc8eb3323c36144f74124ac2f7a9aef1",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0039.jpg",
+      "bytes": 14559,
+      "sha256": "c594e0c88a572f370f98a7b4b5e653ad173dd74ee5d6fc4d06146218c657855d",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0040.jpg",
+      "bytes": 14628,
+      "sha256": "2f5c2872fd74b692b4c8d02c280f42b2aa4d193a6607c1deffd6c94ec492a043",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0041.jpg",
+      "bytes": 14720,
+      "sha256": "f7d48535fd0718cf790d482cbd221a45f8195707aff419dbd50ce0eef6ee94e8",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0042.jpg",
+      "bytes": 14729,
+      "sha256": "831a908886c6bcab0616ff76e70bcab2d873019b4d0f20819de2a30f2bda50c0",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0043.jpg",
+      "bytes": 14903,
+      "sha256": "558652ae9399319aaabf4a0a1f664907fd28dbc51080cf1506ab24ac4790646d",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0044.jpg",
+      "bytes": 14930,
+      "sha256": "a69042111d47663182de5b3a99f897fe6687cd20eeabc0221acdaeea6838184b",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0045.jpg",
+      "bytes": 14847,
+      "sha256": "4cf750086aaf905dbf793b5064ada9009d3e3cba6cf5a56d2c2aa4569068711f",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0046.jpg",
+      "bytes": 14892,
+      "sha256": "3648fc9b97638a35f3ad4e7de0a66c730859e65e30835f0a4dfdfda4971ad80b",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0047.jpg",
+      "bytes": 14904,
+      "sha256": "7738566be85bc1078ff38b0db35a9d91a5327bd416a33e690658e5b7077a334d",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0048.jpg",
+      "bytes": 14907,
+      "sha256": "d756abe6b352f29f1e7782649973c6e325ce64ba073adbd8767558c5c1ccdede",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0049.jpg",
+      "bytes": 14954,
+      "sha256": "caa67506a5c0b6075bd5e311fd6175849d2a8dbad38563daab6bc5165469ef37",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0050.jpg",
+      "bytes": 14978,
+      "sha256": "2822b2b995df5e9b086d4a013831bf0ce6b54aee5342ae1d43db50694b5e5ae1",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0051.jpg",
+      "bytes": 14956,
+      "sha256": "49b0e2a457e51228ca6a1bfaf3c088fdaa7985e0e43b7117ffaa2e52568ebb56",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0052.jpg",
+      "bytes": 14963,
+      "sha256": "34842901abdef45a1c32cc8446de9e3c8229da2ce0c21f13e9203c1d9a17860c",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0053.jpg",
+      "bytes": 14970,
+      "sha256": "c0f15a23e25ba8247739fe0f18e6542bac6a7a04927ef9b5f4288b5458a3744a",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0054.jpg",
+      "bytes": 14984,
+      "sha256": "66222848d898df7104e71cdac730b70ea0ffd9e6ff871739ef45222105d106f3",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0055.jpg",
+      "bytes": 14975,
+      "sha256": "2939b6e91b5f1a7b0b7d2edc445d1b69ff04b2106f009fd07fcd642d36e504cf",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0056.jpg",
+      "bytes": 14970,
+      "sha256": "329fe7bbec8af2db4de82db9425986b541b7553dd9f8d9c67430f5c19208cb54",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0057.jpg",
+      "bytes": 14917,
+      "sha256": "76a4d3ea284339754c72728090c8ad5419cb04de4d8845e7e59f9bd25ec6faee",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0058.jpg",
+      "bytes": 14891,
+      "sha256": "8bfca2c776dc0b6daa3c29673737f91ef0bf9bfe8bae1652f746c9ef3726415f",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0059.jpg",
+      "bytes": 14771,
+      "sha256": "dbfebde59a11490f8f6a7321980e55b729dca2422a71fa22000280569b20c1bc",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0060.jpg",
+      "bytes": 14769,
+      "sha256": "abc09d36ef06fe48950b548f675ce7011f62b1bc8ec11e44d72c7bd7a8127d88",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0061.jpg",
+      "bytes": 14737,
+      "sha256": "e670dac8020ea8d2326e8e3fb04720d1d80ed0fc298f78851f76903b6f5987ac",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0062.jpg",
+      "bytes": 14676,
+      "sha256": "26357ee8b1e80bcb7eb4f536759f51e5e20be22e27a84394e9b91119ebe043ce",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0063.jpg",
+      "bytes": 14771,
+      "sha256": "cb611806d2128e0b55d05628c78ae029ce24121b9ba19cef577def410b553944",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0064.jpg",
+      "bytes": 14849,
+      "sha256": "15e87ad5c06b6213b3cceffe90d46b39e05da80556a9960a528b9a806f26ff77",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0065.jpg",
+      "bytes": 15083,
+      "sha256": "965a45a376198d5d09b74338b68185a1acfacf4db5cff37ea139a2ca7cab2617",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0066.jpg",
+      "bytes": 15058,
+      "sha256": "b0faa004af85bbad80958a331ff60b0adaf57204f982180617840a12e3d34b2c",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0067.jpg",
+      "bytes": 14948,
+      "sha256": "d85334a44b46852ddb88a3da3679433d2c33d31d6cca4f58223b86bfeaf67dbd",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0068.jpg",
+      "bytes": 14808,
+      "sha256": "49ab7f11070cf27b237f19f3c56ee352e260b11c431dc06fffd8511b027d1dca",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0069.jpg",
+      "bytes": 14879,
+      "sha256": "69a868e44b04c2770a024af2f1d129c5320848f68a63a6ed57113856d718508a",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0070.jpg",
+      "bytes": 15092,
+      "sha256": "962b6004eb1da5e1ff6d9a05206fdce5d7dd2a5b4af3f68e9ac2be5b9f798179",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0071.jpg",
+      "bytes": 15148,
+      "sha256": "2f4867b6996816c8db16be15085759eaac272489b647550445f72408d8bfd243",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0072.jpg",
+      "bytes": 14828,
+      "sha256": "95dbea51af5036a38241b7550a583155a9fd2d704477ac05388463b0c5241fc2",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0073.jpg",
+      "bytes": 14805,
+      "sha256": "384f60ece1ba592e6c7e3cba7fa67577902f535a1d21be6e1db02615056dbcbe",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0074.jpg",
+      "bytes": 14909,
+      "sha256": "d9f495c08b5a5152aeab27a61d1b209832c80e77b5e734d7d46fa105485ad6b7",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0075.jpg",
+      "bytes": 15106,
+      "sha256": "67171ca966efd1ddea728e26890797c079af55835b5c399e9cd29bf027647458",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0076.jpg",
+      "bytes": 14979,
+      "sha256": "2f0324dd8960a97cf51b5ebe84871db84c595a9c84fbdf9acd746cb95b9c106f",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0077.jpg",
+      "bytes": 14940,
+      "sha256": "9ce37ca3c5fa371ea358b66656a2fbb61edf9a4e15c515071a11c7352d7a343a",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0078.jpg",
+      "bytes": 15141,
+      "sha256": "14c9717d74c71bc8ce200ac472ce76587aa5f6f9f0e140699850e79aa30cacac",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0079.jpg",
+      "bytes": 15215,
+      "sha256": "f83721c6ae6d0bedda36b3327f0deedfa0d6553b01285be14bcb65c6dc3ce10c",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0080.jpg",
+      "bytes": 14972,
+      "sha256": "ba6f2e6002dbae5171f28d84dcac09e7a3e664cdfac4d8015f5afc191bc72693",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0081.jpg",
+      "bytes": 15425,
+      "sha256": "4368138fa3ed35c664f2096fa7332511a6bb4596489e8692d70b9212b64dd231",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0082.jpg",
+      "bytes": 15124,
+      "sha256": "3bf278192e8838deb8ed95dc8c5e8d4d593957ee0875b0f83d60f31041f23309",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0083.jpg",
+      "bytes": 15130,
+      "sha256": "ea94041c5163f56e5d45badaeb2f3da95e1e6b2363c1dba28efcd959bab60f6b",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0084.jpg",
+      "bytes": 15117,
+      "sha256": "ac888f35904a934873126da2794a610acbd5f3b3a28e18e8d94a10db3f3ec372",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0085.jpg",
+      "bytes": 14939,
+      "sha256": "ad801705eacda747aa8ca32accc353cab22345d22691b68da5bc17ff5a367a9a",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0086.jpg",
+      "bytes": 15081,
+      "sha256": "9ecb4c6dcc3ee208c6d7c43c9c991b8649489a32fe9ba96f1fe3818828905d3b",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0087.jpg",
+      "bytes": 15218,
+      "sha256": "60f328d8c3058e3d593aaf54e11dcfa2e2da0601ee19d612683f60e2dd20d3e8",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0088.jpg",
+      "bytes": 16043,
+      "sha256": "87d6376122ed3a3ea16ea9c8439fde602e0b727e6d71e52ed6056a2fee714eb7",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0089.jpg",
+      "bytes": 16434,
+      "sha256": "22a4195ce9916cd12b060c439aadb7750d0230ec7f56005d1c356146a0bea966",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0090.jpg",
+      "bytes": 17185,
+      "sha256": "b3daf8ab399349fb6a6e5432d658fe61fb1bc2231c8873a364ccce492dc341c4",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0091.jpg",
+      "bytes": 17237,
+      "sha256": "e7fd5a99f528d34ea93e14dc242f8b589cd22b7a15e550df4b26c7c20463648d",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0092.jpg",
+      "bytes": 17186,
+      "sha256": "cc86a68ff312c780ab51458ba4410ad92c4fb4f3d731ccc3ef0c2d3b5d6d3941",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0093.jpg",
+      "bytes": 17402,
+      "sha256": "334d86ab33ad5cb2cdb7f630d7a077b355c3aeebfc5fd1569a42cb82b696b363",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0094.jpg",
+      "bytes": 17389,
+      "sha256": "b66ffb288e5c284fae51ea994766fcfb1f7eaec1eab2aa7b559979f4a1f4fde2",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0095.jpg",
+      "bytes": 17423,
+      "sha256": "a8d6a75fef4cb4a447ef7d706b8349bfacad5db7d85471f8e19ca9a7fa307423",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0096.jpg",
+      "bytes": 17437,
+      "sha256": "175d781c65d1989ad1bcccbdd4ba8e1aaaa7473896911490a8278725330519d2",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0097.jpg",
+      "bytes": 17409,
+      "sha256": "79b22ba46bdd6eee5a4da86ddeb71d0d83457b3226c2174b4cf3da53150dfe51",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0098.jpg",
+      "bytes": 17366,
+      "sha256": "d62d18c487d399a40121ff9fd92a3ab0259226b0060c9931f30760c3de6806da",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0099.jpg",
+      "bytes": 17460,
+      "sha256": "81b74429aa6df95901bdb51ef3bb0eab3a8847b75ae325edd9a52b24f4b6460c",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0100.jpg",
+      "bytes": 17297,
+      "sha256": "920754d198cd8140188505a980623f65f8ab1e5a331d2a304d0cb6ee44be57ce",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0101.jpg",
+      "bytes": 17534,
+      "sha256": "9ee63054da9cff2c959cb5a58b70c0d2b380303d81f774b03633c6317acf0f3c",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0102.jpg",
+      "bytes": 17429,
+      "sha256": "576d4672646bcdc0a06ad52818dc9a97b70330d44d812c87c4444816b7de25ec",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0103.jpg",
+      "bytes": 17494,
+      "sha256": "0ac91de63701744ad292d79605c7252f3eb7a0671a6e908d1976e074e2829333",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0104.jpg",
+      "bytes": 17553,
+      "sha256": "c219fd4cf48c63394ed258084ea8f4f14551aac3c9ab00990a3248c7f8df221a",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0105.jpg",
+      "bytes": 17605,
+      "sha256": "6730e99fb64890081068741bf7589f3bd510108df9b22a33746c032229bb40a7",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0106.jpg",
+      "bytes": 17538,
+      "sha256": "3ead77204de5ead75b63700c90e5e3b85494094176d556d5c1924e3cc6478599",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0107.jpg",
+      "bytes": 17509,
+      "sha256": "0f8e44ceb5155b6ec66e84e761145c2956f088ae123ef6869eedefac32c4fbe6",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0108.jpg",
+      "bytes": 17668,
+      "sha256": "58b5bd191383297e867526f26eab8940a6ef12b570e0ba99b4346fc50f541083",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0109.jpg",
+      "bytes": 17702,
+      "sha256": "ea7f388baa6c613e8eb9bb4b11e7a2cc9e8b260036f3eea3966d31158dc8970b",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0110.jpg",
+      "bytes": 17764,
+      "sha256": "27da054b8c38fa0324ed08362799057003a03f89ba378d1552b3712b13a712ea",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0111.jpg",
+      "bytes": 17731,
+      "sha256": "13e3bf168ee2c4fb7924e5b533125a28f1c2bfa96f24671626a1ba0149c8e81a",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0112.jpg",
+      "bytes": 17732,
+      "sha256": "f0df03d4b84eb13ec5539e9378c06c32770d34d5bfecefeb26afb067213ba173",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0113.jpg",
+      "bytes": 17756,
+      "sha256": "e7cd176cdd3a20922cda6139a85b148a7e6e783a1c5b386bf161153ee6caeadd",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0114.jpg",
+      "bytes": 17765,
+      "sha256": "bcb8edba49fd4aadf63be9ed1d63f84ea8ee0de82d2b231bf04f89c61cb9016e",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0115.jpg",
+      "bytes": 17738,
+      "sha256": "2f05e374a2852f65e772b875842d07400cea2a4c7ea86eb0d5e27fca814a4f9a",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0116.jpg",
+      "bytes": 17654,
+      "sha256": "fbb110188e4aae2d32d21bb99e8e5599ca8cf6f7829e64899f9f7b69b185f698",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0117.jpg",
+      "bytes": 17668,
+      "sha256": "88cd846ed3330d1f58a5355049ae907f1af1efd15e6e002e6d9c4bb330c20ec3",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0118.jpg",
+      "bytes": 17645,
+      "sha256": "25cbf9122a190376418f3fec3e9e5722fe8aa8e9c32b2b8c7aea9468e1aa5bb6",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0119.jpg",
+      "bytes": 17652,
+      "sha256": "70f4e2cfb1afee1d61726a5095a65cf6db53ee63abf44f98611c742ab3bfe7bd",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0120.jpg",
+      "bytes": 17642,
+      "sha256": "8bc4cecc9119aa157c8a1641addea732927d99dbbfb9b5f990e10e05e42d400f",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0121.jpg",
+      "bytes": 17666,
+      "sha256": "7cb1462d795c11d8b46ea2c956300703293ba9c188bf3fa2ab5bd5a5fba9652e",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0122.jpg",
+      "bytes": 17733,
+      "sha256": "8c053ac2b77523a2aab8d3563788d4f6313e7166a1d1cdc2b68eee35c9820999",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0123.jpg",
+      "bytes": 17832,
+      "sha256": "810081ae06b553c06cba9417690d2f548aba04f94a194be13db066f3ff20fbe5",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0124.jpg",
+      "bytes": 17826,
+      "sha256": "3c4ae73247f2f06fb67557743bb54022e23d7ac2e6c0695d027054b191f039cb",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0125.jpg",
+      "bytes": 17828,
+      "sha256": "805b919e5760c300b7ec228cc06ae19b32bb05bf37171ab5a1353775c1559f44",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0126.jpg",
+      "bytes": 17807,
+      "sha256": "2a8c037e601252f791afccee54f54e65853e7cb0a008504d4746dfc1a2934e99",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0127.jpg",
+      "bytes": 17878,
+      "sha256": "c1d2e1608a3fceac4697035ece2e4b610c6c2eb81af3c5c29c10e4b0dc04d12b",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0128.jpg",
+      "bytes": 17880,
+      "sha256": "18ce762942e8ecfb888399740a0029deb0a0babda8b353c7d3908d0785a5c09f",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0129.jpg",
+      "bytes": 17896,
+      "sha256": "383d27be5dee38ffe58a4830a332dced60d8047c7e3491dcf2576b3a9afed20b",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0130.jpg",
+      "bytes": 17892,
+      "sha256": "c9187b[REDACTED_PHONE]af8ad2e4731f29909ed2a5ca144998618146e06d96f8474",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0131.jpg",
+      "bytes": 17885,
+      "sha256": "2d3d34454e93fa71199a384b649da4fd824d6bc1f6c59f787b7c7ebb727309ee",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0132.jpg",
+      "bytes": 17898,
+      "sha256": "dab5a3ba6b00d74a2aefd49a3362aedb1f25d6c44f92a8fcd0ff1b29f2ae820b",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0133.jpg",
+      "bytes": 17883,
+      "sha256": "1f5d071719c0e1e4915e17546943feb741782b3c29d61be0ef28c9dd05c68b68",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0134.jpg",
+      "bytes": 17890,
+      "sha256": "ace864d24981c207eb98b681b9682f5f6727fe56f048fe2637993dc3b6ac260d",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0135.jpg",
+      "bytes": 17884,
+      "sha256": "e566a4865ad16e47a6980e3af00a81a14efb709618d29ded1cf245e98682aa73",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0136.jpg",
+      "bytes": 17891,
+      "sha256": "0b38781d7f3ffa7311014998047ead476dd82bf20c6f3087808b404c38330a53",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0137.jpg",
+      "bytes": 17891,
+      "sha256": "26b5b7315a5667d3d8ad76b0a9dfa0cd721dfefb43e29335931ec9c3839ba05e",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0138.jpg",
+      "bytes": 17891,
+      "sha256": "0b38781d7f3ffa7311014998047ead476dd82bf20c6f3087808b404c38330a53",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0139.jpg",
+      "bytes": 17892,
+      "sha256": "18f77522480be0d92952210191bc00ddcc0d81c683e7924fa435d124d783776f",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0140.jpg",
+      "bytes": 17889,
+      "sha256": "c0fab2d1cfd31cadc7bfc4a3ff99cd8054c070d2e0b4641fd4b6f54e956b9e99",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0141.jpg",
+      "bytes": 18946,
+      "sha256": "920bb2cbbe63e58fe0387832838eacd59dd05ffa9f900fcabddf0b0856f1061d",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0142.jpg",
+      "bytes": 18947,
+      "sha256": "412aa1529ebfeb4ea2bed82152a1897b639349f2e4fbc2d57f5d2ecd8ea7c756",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0143.jpg",
+      "bytes": 18938,
+      "sha256": "aaee81cde668f5261258ba3414a90209835eb343173a4960b19ac0927e5cfcd1",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0144.jpg",
+      "bytes": 18947,
+      "sha256": "6c83409d27edae4f0cb92338e7418ebcad49bf8d402af8e5a8ca6dff6d7fd216",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0145.jpg",
+      "bytes": 18946,
+      "sha256": "c55e1e7db86219751aae1f88c17f179089d53fc5d85c64efd0db7c34f4311772",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0146.jpg",
+      "bytes": 18947,
+      "sha256": "6c83409d27edae4f0cb92338e7418ebcad49bf8d402af8e5a8ca6dff6d7fd216",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0147.jpg",
+      "bytes": 18938,
+      "sha256": "aaee81cde668f5261258ba3414a90209835eb343173a4960b19ac0927e5cfcd1",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0148.jpg",
+      "bytes": 18947,
+      "sha256": "6c83409d27edae4f0cb92338e7418ebcad49bf8d402af8e5a8ca6dff6d7fd216",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0149.jpg",
+      "bytes": 18946,
+      "sha256": "c55e1e7db86219751aae1f88c17f179089d53fc5d85c64efd0db7c34f4311772",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0150.jpg",
+      "bytes": 18947,
+      "sha256": "6c83409d27edae4f0cb92338e7418ebcad49bf8d402af8e5a8ca6dff6d7fd216",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0151.jpg",
+      "bytes": 18938,
+      "sha256": "aaee81cde668f5261258ba3414a90209835eb343173a4960b19ac0927e5cfcd1",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0152.jpg",
+      "bytes": 18947,
+      "sha256": "6c83409d27edae4f0cb92338e7418ebcad49bf8d402af8e5a8ca6dff6d7fd216",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0153.jpg",
+      "bytes": 18946,
+      "sha256": "c55e1e7db86219751aae1f88c17f179089d53fc5d85c64efd0db7c34f4311772",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0154.jpg",
+      "bytes": 18947,
+      "sha256": "6c83409d27edae4f0cb92338e7418ebcad49bf8d402af8e5a8ca6dff6d7fd216",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0155.jpg",
+      "bytes": 18938,
+      "sha256": "aaee81cde668f5261258ba3414a90209835eb343173a4960b19ac0927e5cfcd1",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0156.jpg",
+      "bytes": 18947,
+      "sha256": "22fa69bf59e9101e09583f3f79d8c20ae9b22e2a845b19f7fd7730588b3434c7",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0157.jpg",
+      "bytes": 18944,
+      "sha256": "4aa8dbcbe085c6c5eed06348adc64488f917eed9b54705943ea06767c9a873ce",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0158.jpg",
+      "bytes": 18916,
+      "sha256": "a72e64cf7123afe0b6b4f1978b7184c724b804b3de766222dbc18e951a8abdbd",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0159.jpg",
+      "bytes": 18914,
+      "sha256": "31cc04ac7b34cdbdcc1a1d7ef366af1d044cea689c8f3cdfc7945c95dd11b6f1",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0160.jpg",
+      "bytes": 18915,
+      "sha256": "16662653f446ecb3a3403791a12e820fe63c25d925a5d2a78311935309700c70",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0161.jpg",
+      "bytes": 18915,
+      "sha256": "2bfa69f8bb81cf858462fac4c48a16f1be8350410f9ccbd1ea4bb24d5efd166a",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0162.jpg",
+      "bytes": 18916,
+      "sha256": "a2bc1e8e3ae2f3c2f787433cbb3b7f8b655468e77fc149f56cb7d88e1548b882",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0163.jpg",
+      "bytes": 18533,
+      "sha256": "a2ca7175a06b6ffe7ef31cc224bf5f5112c66b6f33ca5fefb7459303e300d97d",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0164.jpg",
+      "bytes": 18207,
+      "sha256": "2f161464cfc6644c96f78240c3e7bc8f2ae4e35f3a14c1d7e9907a67b420f590",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0165.jpg",
+      "bytes": 17747,
+      "sha256": "f9bf4a14b603314b18f5341dd6b4dfd2ba5fea735e81d8f386fa11441699e844",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0166.jpg",
+      "bytes": 17153,
+      "sha256": "68258c8086e6edf39a00d75738ba9703fefc1a3cf6b1beb66475a8762f9fb515",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0167.jpg",
+      "bytes": 16952,
+      "sha256": "5d8a9308fad7ba17c4d1e12c8c7488dada32e452af42cd55f660e41db23dc5f2",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0168.jpg",
+      "bytes": 16741,
+      "sha256": "9ce99c91f0c933bcf04d349b59b8ac7c34e7b26254d0a0ae05d53064bc7b2ed4",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0169.jpg",
+      "bytes": 16635,
+      "sha256": "809ee40193fed43752ee7e2151632ae63527f3482ec38822c507f58a49d053fb",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0170.jpg",
+      "bytes": 17024,
+      "sha256": "3631b83f99858678bb20c1bd5839d7261c85183193f9ebcddcb4b84815c0e84a",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0171.jpg",
+      "bytes": 17102,
+      "sha256": "72633edd4cb245bd6c5c89ff615fa249a9d79d3742a5bbdd359c3f118f2e4203",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0172.jpg",
+      "bytes": 17081,
+      "sha256": "39cd179c9d17c44a9fe5131eb584557af0376142292b50775fe244070a3524a5",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0173.jpg",
+      "bytes": 16978,
+      "sha256": "d869c7b57bc9cf9338104eea76520bbb19dd3e1e14fbb6c66efa823fbbab69e0",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0174.jpg",
+      "bytes": 16745,
+      "sha256": "18d22b4d0e9dd389426103de1d6a5660495b240701340a27baad59afc0caa3ac",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0175.jpg",
+      "bytes": 16472,
+      "sha256": "fd95620cde9eb48d8dfe444d798858321f9979ff9a54c95152b4b1ef4d64c453",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0176.jpg",
+      "bytes": 16168,
+      "sha256": "a654e288b62d96773728829ce46d4ad14109d8f30c881e216e76256675026aba",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0177.jpg",
+      "bytes": 16066,
+      "sha256": "d5056a92cdf0607902f9de9a75a28a5e122e36c65683fb410a188e1410fc00cd",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0178.jpg",
+      "bytes": 15238,
+      "sha256": "9d065744f1eb642c7d8cf976cb7bf6e919ccccf3bb94a47b3b7a8e1dd9a240b2",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0179.jpg",
+      "bytes": 15340,
+      "sha256": "0f9e7429751ebe704f93ab52e7c6814542139649a01258f74e1bb5df7c70d687",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0180.jpg",
+      "bytes": 15477,
+      "sha256": "f6b55a1edaa760bb804df7b1f14d95bf9b7fa2ae38b8c903f34f565ae56ced6b",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0181.jpg",
+      "bytes": 15078,
+      "sha256": "0209890d2233ca0345d5c146b85e6bd56bc4a9f8a02e7d71329829c88be44e6a",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0182.jpg",
+      "bytes": 15228,
+      "sha256": "0c6cb6ffd2fa437f3d973d19367e0b5ccc94686eb7e8a0439b8d771cfaeb5520",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0183.jpg",
+      "bytes": 15233,
+      "sha256": "f9c12692170678ff514dc49d8fcb50aad66c8e0daeef3b86825705b42db19e61",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0184.jpg",
+      "bytes": 16082,
+      "sha256": "4d79df181e08fd216eadcd8b76fcefdafdf063a7eb87bff791bd307b50e591e7",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0185.jpg",
+      "bytes": 16274,
+      "sha256": "d37b0d1ea92ca2ef8e2317da9cc82d6dbf574914b5b8a03f5a63aabf0bc421aa",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0186.jpg",
+      "bytes": 16467,
+      "sha256": "37ac7592b9324fff15629de249cf36d2befbc0543570a2299060852ced1ddfb2",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0187.jpg",
+      "bytes": 16772,
+      "sha256": "9dc31c417a835f2b447984d562308eccd67ea2238a134f1efd55b23e60c510ed",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0188.jpg",
+      "bytes": 16420,
+      "sha256": "f80c00843ce154eafbfa2da11c1cab320a9e9dd648916336a35719b9a3730166",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0189.jpg",
+      "bytes": 16229,
+      "sha256": "142b66d28b45b6ab5b0e53790914474dd38cb35c21bd79af50c4c0765f17ee92",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0190.jpg",
+      "bytes": 16513,
+      "sha256": "974f1c65e86d5971a545feeb9d843829d311525a1b8827f77bd3524e964b2a79",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0191.jpg",
+      "bytes": 16719,
+      "sha256": "0dc99d0110391b4ff3fbc38b6b966e50df7c02cb1b200324b950587582cdea9c",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0192.jpg",
+      "bytes": 16694,
+      "sha256": "a4a5d475a54bddfecb9bea8d2f1862e3c0c1aa47ae55499a86be9048fe9938eb",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0193.jpg",
+      "bytes": 16295,
+      "sha256": "671146ede6a9128504a7a2751d6bdfb1fa8a2701542fcf70196cb9dc1b153044",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0194.jpg",
+      "bytes": 16460,
+      "sha256": "16b68b456fb0a57d18c335160961bdd6905ac96207e5195a9b34c33200c5ea38",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0195.jpg",
+      "bytes": 16745,
+      "sha256": "d0c4f65f29524511bb08597e3a0d3e3322af81c291b4daa63875fa00ba87108c",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0196.jpg",
+      "bytes": 16510,
+      "sha256": "5b8f3e7a01461cf0629e4c0d6b801e9f0aae83b9b9b0c8c852cfc4d59f172650",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0197.jpg",
+      "bytes": 16634,
+      "sha256": "6746534a2a26263f4ec85859367be0bd5a6c3d4ea8579d8335971e7524cbe321",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0198.jpg",
+      "bytes": 16415,
+      "sha256": "e3c509bcce6e87d886cf1083ea2181b7dcccbc57e34bab55bdb8a6d39ba54cc3",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0199.jpg",
+      "bytes": 16291,
+      "sha256": "d56d27a02fc4f85518130ddd4083d7baac528020d55a321175e99ada0f2e2a4f",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0200.jpg",
+      "bytes": 16805,
+      "sha256": "cd07d8138daa5d95d9cba11270955f5cc2c2076d408cfb72bc00bc9516260690",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0201.jpg",
+      "bytes": 16641,
+      "sha256": "fc206ee57e348c97594aaae1be2e75755c8903da5d509d8cf57ba8609558bbcd",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0202.jpg",
+      "bytes": 16623,
+      "sha256": "2e790368852f140b7421e1b344278ea1ca6d58c5c932cc13e9f521a4c6c11f98",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0203.jpg",
+      "bytes": 16363,
+      "sha256": "eab4aa929dd386c179a62f073df3112deca3aa23ff8d6212b326c101243b10b6",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0204.jpg",
+      "bytes": 16303,
+      "sha256": "7ffb74e8fb2f19a351997462fe3ca818801a6c65515404db8b7d22a9eb39d8a8",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0205.jpg",
+      "bytes": 15938,
+      "sha256": "303a529853c61fed40ed3372ec709ab241d1ec25b461aca2dc51c2cca8b4078e",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0206.jpg",
+      "bytes": 15894,
+      "sha256": "f79e8cf31c6d176fdc8e6ba520fcd41164b549552e957bf114b15e4d22e6208d",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0207.jpg",
+      "bytes": 16086,
+      "sha256": "1de33dbbd45c4a63e510c461881a1647ea63bbd34920b6219ba62acb35ee5692",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0208.jpg",
+      "bytes": 16200,
+      "sha256": "e32a05fb8771e6aab77e7e7561e3081b3c32b33ab54d95eb4fc7eeb0a90d2160",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0209.jpg",
+      "bytes": 16019,
+      "sha256": "112a1d30e4b2772032e815601dc88dd262939d4b5e886d3310627913f5f017dc",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0210.jpg",
+      "bytes": 15726,
+      "sha256": "77dec31d72cc16b5ffe65aad642a42b019d3dc6aa0550c26d55e7482f6ac95a2",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0211.jpg",
+      "bytes": 15706,
+      "sha256": "e5fad04f45441ddc980bfba128bb44c069589b5164081dfc62e096eadc21729a",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0212.jpg",
+      "bytes": 15632,
+      "sha256": "143f19d1eb75e9b3636b350c59b7d2683a3a545b69c8cc88df58d511df7a7882",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0213.jpg",
+      "bytes": 15489,
+      "sha256": "c62430891ed5331b907b0f4b68aee92b1c2520388d4709c2cba88e5c053972be",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0214.jpg",
+      "bytes": 15428,
+      "sha256": "4941e87c26d6063f0836a273b0206d56a45d6e124f86c2389bcc80733033186e",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0215.jpg",
+      "bytes": 15353,
+      "sha256": "5cac6380e3bb680b0fed03d1874cf113e2f0a25265ca479bbc7f56c5285a6786",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0216.jpg",
+      "bytes": 15418,
+      "sha256": "da47783dc63a56cec10606ee29225cf6298263a85d5feb731ef402c65768fb20",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0217.jpg",
+      "bytes": 15390,
+      "sha256": "a1bbeca29d2f4d9badef26e62ec7472c04294d06eae4de90ff70e9c94b790b29",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0218.jpg",
+      "bytes": 15394,
+      "sha256": "5192edaf91eea985545ef0ff02ca6cb9b36289a509062fb471aa2fadfe7a8927",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0219.jpg",
+      "bytes": 15400,
+      "sha256": "d9ad878551d5287b2b07c9895ced5bb8fd2350984b138828117e70205aef7e07",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0220.jpg",
+      "bytes": 15399,
+      "sha256": "1292035245fafd10d6075931dd8b9dfd962ae742a584ba1be4be2733b0d555e5",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0221.jpg",
+      "bytes": 15393,
+      "sha256": "ae7f56ac6a640fb095b1529d5b63fe8010137f0102f17d9aedffce8dd5af109d",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0222.jpg",
+      "bytes": 15398,
+      "sha256": "d09c87e021f28494b941f93128945dee058157c96199db4f7433051721174775",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0223.jpg",
+      "bytes": 15400,
+      "sha256": "9f4abe8d4c845820c4761d6b3949c0a17a1cfc9d3d39ccc3886969d04760a9d6",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0224.jpg",
+      "bytes": 15392,
+      "sha256": "f849dc1f5c580f9820fab238c396d65dc2042e2ae883a31d6b2c4450a19bb16a",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0225.jpg",
+      "bytes": 15394,
+      "sha256": "d81799d91a44eecc46960f59ffc874970c502e710ce78bf4182fa08f31b18843",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0226.jpg",
+      "bytes": 15398,
+      "sha256": "3df0e079f1b6cca15a3a3b40e2277941b18dd9264c62f5538aa11708eb2b9eec",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0227.jpg",
+      "bytes": 15396,
+      "sha256": "bc8899ec33435efe7afbe4112e6e5ad8e27eccceb3612edc533e87ec0a0cd17a",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0228.jpg",
+      "bytes": 15643,
+      "sha256": "60cd10b97fd7b76ad609b7fa0eaf72b0174de74c24e631697fe0435ced795cce",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0229.jpg",
+      "bytes": 17647,
+      "sha256": "8feb00cdbdea7e43658503008579bd391749b6de9fb940b1d0066d4d56897124",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0230.jpg",
+      "bytes": 17760,
+      "sha256": "5380fe6994de31fed8febe24e186281ab58ea8202b194c996b5244ec01f504ab",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0231.jpg",
+      "bytes": 17760,
+      "sha256": "a0b3092ee24878a390a80ab0fa6a03296d2168fad152b17628c947c698cd4e06",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0232.jpg",
+      "bytes": 17761,
+      "sha256": "194301149770e30b84f8593caa50e8c739b5125deabb8877bc165005dd731ef4",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0233.jpg",
+      "bytes": 17762,
+      "sha256": "60944539bf953ce79922d395f8d86d0e6739ba1c13981fa4cefd3ea334e96b28",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0234.jpg",
+      "bytes": 17755,
+      "sha256": "3827d4f7bf4581c84409d3f178fa60adcb4fbfbc15b2644121e10812b24419e5",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0235.jpg",
+      "bytes": 17762,
+      "sha256": "60944539bf953ce79922d395f8d86d0e6739ba1c13981fa4cefd3ea334e96b28",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0236.jpg",
+      "bytes": 17767,
+      "sha256": "8d5eb0882188420c6beb29a52efdd6bc4122d14e5f2009b68030eee72fe220c1",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0237.jpg",
+      "bytes": 17757,
+      "sha256": "41930dc77dbc9ed347dfca507701cf99c6ab641bd98b920eb4e69305220faf73",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0238.jpg",
+      "bytes": 17762,
+      "sha256": "06ab1e8376b0b594eb809fcc5e3a51ab93200be4deebdd52c1ea32c253ac7bed",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0239.jpg",
+      "bytes": 18285,
+      "sha256": "1387eff44349cb9662e92c826317aa58fb8c33edc5e8a5080bfd7fea2d2e2efc",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0240.jpg",
+      "bytes": 18327,
+      "sha256": "f736bbdc864e1b02cadc325c56a7387b811ec7050c14980248589297ee600d7f",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0241.jpg",
+      "bytes": 18337,
+      "sha256": "84bd9b5f0894c5d0f14ae9b8edc230579766fe9f826f43707769a56e30dedd76",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0242.jpg",
+      "bytes": 18354,
+      "sha256": "4c2412a42beb61183a4c585257390eed3649bb60381da7e99e48487e2e56733e",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0243.jpg",
+      "bytes": 18321,
+      "sha256": "e3b649b5ad6e5dd16526c6d209f63932e9f75813ef478c240bf5d86bc08cd479",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0244.jpg",
+      "bytes": 18314,
+      "sha256": "191fde7621776da6d1be10bb63ac64d5471b58dab760ecbe1b00de39a4990e6b",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0245.jpg",
+      "bytes": 18256,
+      "sha256": "e97bde6e51e585f01c4c6d435b971c1404ceb851c7bdeab2dce0648cbb4c1ca8",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0246.jpg",
+      "bytes": 18496,
+      "sha256": "271f7c376236ac0572a07b41ee62962a939e800da993fe2079bc1b5a141e33ea",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0247.jpg",
+      "bytes": 18477,
+      "sha256": "3f5cad7815bad9d64bcc037eaec921134c9ec2d3cacc0ce4373fee35b3aa0366",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0248.jpg",
+      "bytes": 18477,
+      "sha256": "487a81ccc40be077987fed210d576c48970ce3ca23b34223f98da9911875749d",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0249.jpg",
+      "bytes": 18466,
+      "sha256": "28c865e5aff441aecebce659859c4032244329a329934edea6a91b36b41db175",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0250.jpg",
+      "bytes": 18445,
+      "sha256": "75c5ee936ebc5875827d4570566623050dc05034306474e9f85aa26d40234f5a",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0251.jpg",
+      "bytes": 18469,
+      "sha256": "e48e05a208b6e953ba0c5b083a76372c341dcc036c0c9d3a9a96c9b5355778df",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0252.jpg",
+      "bytes": 18471,
+      "sha256": "905ba8b79caf4324cf1ac6d0fdf3a809ed4d641d57f6355e74ee88c855ac4380",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0253.jpg",
+      "bytes": 18469,
+      "sha256": "9ff587b21d1066bbb96dafe41c3ecab0b57c91e61423bf755c8fe43eadc52546",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0254.jpg",
+      "bytes": 18461,
+      "sha256": "6b6ed8d4e028b255554b1acb4fde728ec00968be408d624ff5146146972c4a70",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0255.jpg",
+      "bytes": 18464,
+      "sha256": "596b20370a5a42b26831b9d0c839d173a0790592ba6453efbf91faf4ccbe1100",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0256.jpg",
+      "bytes": 18479,
+      "sha256": "0c5d71917f13f5811f2e35741a4871dbbae97c2e746c8e1655bda3dc59b64168",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0257.jpg",
+      "bytes": 18471,
+      "sha256": "b0d8e859e8bb9853adf36c304a7ffe041f9cc95d364353ce6d75121052cef300",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0258.jpg",
+      "bytes": 18467,
+      "sha256": "d0907b91b74d504aac0a2ec23d8644efdba57894e9aa35b178cec4c37e5d4687",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0259.jpg",
+      "bytes": 18462,
+      "sha256": "e9e5b1e9cf96efbc7d07036e535765092d7b1c0e7919179768e4d49de34b25f4",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0260.jpg",
+      "bytes": 18468,
+      "sha256": "cf92e3d875f92892e8c1d198b708bf389ce97869fe689649714d8f86417b2baa",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0261.jpg",
+      "bytes": 18472,
+      "sha256": "5193c738eb3623b1905281da7502832ca8bfbed53963bd67b62be30250676287",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0262.jpg",
+      "bytes": 18467,
+      "sha256": "590076ceb32146fcccf9e3cffe8ed2818fc732e920958e3fa23b68635664f8c5",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0263.jpg",
+      "bytes": 18470,
+      "sha256": "91d2044c19dd095e6b4cd5f21b3e952d6123bb6a41774e4591d8e1fb9d6a2bd9",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0264.jpg",
+      "bytes": 18473,
+      "sha256": "08b4523b34a0b7d43334c4c6544f3d9a530c63521996a35fdd7ac496415df8b6",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0265.jpg",
+      "bytes": 18464,
+      "sha256": "3dadb1387fa813d2734f9155adf891c541a9adc757d394ae5107d5e104a37b31",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0266.jpg",
+      "bytes": 18464,
+      "sha256": "68edd938904e17e9e3882fc3061d67457df87a4d0201ed50d9be5ab1a7576ed2",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0267.jpg",
+      "bytes": 18464,
+      "sha256": "bd42cdc5b290fba477a31ae52c81b1aa7dc40e4ec232647115b6f87dcf771007",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0268.jpg",
+      "bytes": 18469,
+      "sha256": "b84f637fbcd75742bf4ecb2edabf9041e73c2030be35d16710e87ebdc6a200b8",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0269.jpg",
+      "bytes": 18475,
+      "sha256": "2245399fd7660f4da13e7db275e991c96da3de428b12e45cc2943e3223b72262",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0270.jpg",
+      "bytes": 18925,
+      "sha256": "678df3189aeb616b1b2f98ee2108029d370c817e501d77cbe0dd24ea85c8b997",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0271.jpg",
+      "bytes": 19874,
+      "sha256": "4932423d72091c48e1afb4a4356c93c9635af405e79e00c0a1f6f0b4b6b8ef08",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0272.jpg",
+      "bytes": 20057,
+      "sha256": "28c2239e35cbe17dc87dd62b4dd9accf2c569946a4cb4d0ee98e00eed874cdd6",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0273.jpg",
+      "bytes": 20202,
+      "sha256": "c60c7409e84a151d0ba77b7e05aa18abe57fad97eb05542e6ba66e83ca5bb402",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0274.jpg",
+      "bytes": 20270,
+      "sha256": "066852e0fbf1b28d10368f4fbc4e3ad3c234580f20b0250bbf429f543cefa63a",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0275.jpg",
+      "bytes": 20283,
+      "sha256": "1fdf60f0c6fe9b35f332a5278fc7a0953184371811d9dc1498e4a2590b88fbf9",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0276.jpg",
+      "bytes": 20276,
+      "sha256": "8113fbfe56556562533839448c704c24ba3cda239f7e9b86d23b949f2215ad5a",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0277.jpg",
+      "bytes": 20260,
+      "sha256": "947b1d4af43019112b3282c941d86738e7911baac6f45ad2c7a80dd0031bc31c",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0278.jpg",
+      "bytes": 20240,
+      "sha256": "c4ba1acd68dd74f6fc79b792a9d9ede8eb95f5c10058e889e64cac10e47688fe",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0279.jpg",
+      "bytes": 20236,
+      "sha256": "655e0f5a990054bd2b48959633600316299f57932459ac16f7cf78d7a938b89e",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0280.jpg",
+      "bytes": 20240,
+      "sha256": "4232e3743e353f4aaad49338fe5ad33499ce073ce76f98b6ceed37ca748a0f9d",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0281.jpg",
+      "bytes": 20240,
+      "sha256": "92aaa6bb1b211caa034d28a3a0bf1261650d21aee1561028fbad56886c7bfaaf",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0282.jpg",
+      "bytes": 20230,
+      "sha256": "3c870f8bf384f02db45ef76eb2f7bb551fe824b708731de7ac8b7a82414a2cb4",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0283.jpg",
+      "bytes": 20235,
+      "sha256": "648bf0799a3e8d98c642abd5010dea5ba38e3d88dd3b494aa1405fc33a6ae20c",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0284.jpg",
+      "bytes": 20231,
+      "sha256": "a2a1a01cdd7c2e0e8572f6dc1d11350f7bf0756e1ab533a19ae77b23bb8f7ed1",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0285.jpg",
+      "bytes": 20231,
+      "sha256": "2d08baa711993b869e701c74c285ca51ad27aa605d10bffa14995c4289377c09",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0286.jpg",
+      "bytes": 20215,
+      "sha256": "642d1594d280fdf10a2d9a5a7431bec15a9908aa0b0322d3a4bacf443b86bb84",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0287.jpg",
+      "bytes": 20234,
+      "sha256": "07baef3ec2711b6d0b30536c72bfc7362d8ce62a183e2029d91118496f9fe62e",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0288.jpg",
+      "bytes": 20228,
+      "sha256": "e9db70bbd6a54221b48d61deafcc0c00a50c5581bfdea82425027c11273f30db",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0289.jpg",
+      "bytes": 20234,
+      "sha256": "07baef3ec2711b6d0b30536c72bfc7362d8ce62a183e2029d91118496f9fe62e",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0290.jpg",
+      "bytes": 20225,
+      "sha256": "281867fc860afd338c09b4f163f8b11eda7953c024ef830f37a782d94cf9ab37",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0291.jpg",
+      "bytes": 20232,
+      "sha256": "c4438094c77b2cfb3314d32be88bccd23188d2d685e9ef4f1050f828e9e0cbcc",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0292.jpg",
+      "bytes": 20232,
+      "sha256": "36e6421bc5eaf4bdc2e99cbab7aab581be2e271ecd039950d7839a219334eac0",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0293.jpg",
+      "bytes": 20232,
+      "sha256": "c4438094c77b2cfb3314d32be88bccd23188d2d685e9ef4f1050f828e9e0cbcc",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0294.jpg",
+      "bytes": 20214,
+      "sha256": "07925a098d02d9565deda4db89132eb785bd8e75ee40f92b587478d0726519ca",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0295.jpg",
+      "bytes": 20232,
+      "sha256": "c4438094c77b2cfb3314d32be88bccd23188d2d685e9ef4f1050f828e9e0cbcc",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0296.jpg",
+      "bytes": 20232,
+      "sha256": "36e6421bc5eaf4bdc2e99cbab7aab581be2e271ecd039950d7839a219334eac0",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0297.jpg",
+      "bytes": 20232,
+      "sha256": "c4438094c77b2cfb3314d32be88bccd23188d2d685e9ef4f1050f828e9e0cbcc",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0298.jpg",
+      "bytes": 20225,
+      "sha256": "281867fc860afd338c09b4f163f8b11eda7953c024ef830f37a782d94cf9ab37",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0299.jpg",
+      "bytes": 20312,
+      "sha256": "cb1691d2c8a79a136e929efd0b9cd6145d323d312fe4a7500ed94a8d02df65c3",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0300.jpg",
+      "bytes": 20298,
+      "sha256": "14740ddb08ca8f6849f37b8ee315efe046735f60598fc18abf0d4b3f23f1bb55",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0301.jpg",
+      "bytes": 20298,
+      "sha256": "f1b8333cc71a8e696d604a2692e98f43f76f78d055f14b7f10505b872f310de2",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0302.jpg",
+      "bytes": 20287,
+      "sha256": "6154a59587b7dce71298da6b50eaa5cac65d3c02713ac53f5623f50da15bfe08",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0303.jpg",
+      "bytes": 20295,
+      "sha256": "e1a9629e2efd83e5ed1180d81f73897bd08632e3a78bc0418d80e045823375df",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0304.jpg",
+      "bytes": 20289,
+      "sha256": "4e440e40d2157a7acafa9a793f1397ceb46afba2e7094d77d977903f3a64b333",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0305.jpg",
+      "bytes": 20302,
+      "sha256": "9460825f001a934d8d0f1e75e4ef10bfa1ec9b39a933d33b76da25c2d83e3b97",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0306.jpg",
+      "bytes": 20296,
+      "sha256": "d36a2c73a4902b925c2bd7538cab2eaeb824a7be5b0074d4a99aa6bd9c0d5133",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0307.jpg",
+      "bytes": 20298,
+      "sha256": "39270561f2a19e458d6b5745bffb27ec1a9f39f92f95fe40627813775fbbd7ba",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0308.jpg",
+      "bytes": 20306,
+      "sha256": "8cd1b162c539cc8b6bda3efaf572bf5bac0be37b20a74b6a7ccde6709dfff07c",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0309.jpg",
+      "bytes": 20306,
+      "sha256": "8cd1b162c539cc8b6bda3efaf572bf5bac0be37b20a74b6a7ccde6709dfff07c",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0310.jpg",
+      "bytes": 20306,
+      "sha256": "8cd1b162c539cc8b6bda3efaf572bf5bac0be37b20a74b6a7ccde6709dfff07c",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0311.jpg",
+      "bytes": 20304,
+      "sha256": "0d65bcfa9d45e694d94422e3351f5077c1e2984c9d07b22010eb60868d99cab3",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0312.jpg",
+      "bytes": 20306,
+      "sha256": "8cd1b162c539cc8b6bda3efaf572bf5bac0be37b20a74b6a7ccde6709dfff07c",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0313.jpg",
+      "bytes": 20304,
+      "sha256": "0d65bcfa9d45e694d94422e3351f5077c1e2984c9d07b22010eb60868d99cab3",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0314.jpg",
+      "bytes": 20306,
+      "sha256": "8cd1b162c539cc8b6bda3efaf572bf5bac0be37b20a74b6a7ccde6709dfff07c",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0315.jpg",
+      "bytes": 20300,
+      "sha256": "49d8cb34fc442cce5206f20eddbfdfb39fe05cdb877de3d918c43d2e2b901715",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0316.jpg",
+      "bytes": 20310,
+      "sha256": "68a3ef3c68752a00e617132f0f70af19f0190a567fc19b38f736db926662ea18",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0317.jpg",
+      "bytes": 20302,
+      "sha256": "eac8f89bbd0470b8c4066d0dccbe0c740a58299ef949e2e5f13ee03164f51219",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0318.jpg",
+      "bytes": 20294,
+      "sha256": "83aafa06227825d819ceab5ee0d2f0a20aca6ab8baaf00272569ed4c75536423",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0319.jpg",
+      "bytes": 18736,
+      "sha256": "4c1f44fd99cdf4726c1662570c19dd25a48ae45535705c0d99102c708c3d9d85",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-frames/small-0320.jpg",
+      "bytes": 18736,
+      "sha256": "4c1f44fd99cdf4726c1662570c19dd25a48ae45535705c0d99102c708c3d9d85",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/final-qa.py",
+      "bytes": 3656,
+      "sha256": "a5602972ead0329578fa1bbd42318edcd39682d4a57bb5983376d18d3581b481",
+      "sourcePurpose": "Task-local reproducible QA/gate/inventory utility"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/finalize-delivery.py",
+      "bytes": 7162,
+      "sha256": "ce9ea3464566ead0d73f6750449a1d09a999c6742d12be536b2be2427c889f9b",
+      "sourcePurpose": "Task-local reproducible QA/gate/inventory utility"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/frame-index.json",
+      "bytes": 67918,
+      "sha256": "7022406f41edf27080fa3338463d474d5478071f0a9b7b942df8079eab9f134a",
+      "sourcePurpose": "Task-local QA evidence, log, gate manifest, resource measurement or delivery receipt"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/full-muted.mp4",
+      "bytes": 1167340,
+      "sha256": "7bfa5dee67afda06c9ecf84d089aebbae036cc45880066f6b10e4b3432263860",
+      "sourcePurpose": "Task-local trial/full render or audio decode for original-voice alignment; not an input original"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/gate-keyframes.json",
+      "bytes": 150,
+      "sha256": "df31ce66a443bb4453e783f7bff4f312c50139dcea82cb26d4de7859ae62141f",
+      "sourcePurpose": "Task-local QA evidence, log, gate manifest, resource measurement or delivery receipt"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/gate-keyframes.stderr.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "sourcePurpose": "Task-local QA evidence, log, gate manifest, resource measurement or delivery receipt"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/gate-keyframes.stdout.json",
+      "bytes": 151,
+      "sha256": "21ae296ec1764068c05c334d405acd3eded8bec29ccdb512f4bcac2fbef16dcb",
+      "sourcePurpose": "Task-local QA evidence, log, gate manifest, resource measurement or delivery receipt"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/gate-suggestion.json",
+      "bytes": 151,
+      "sha256": "e0ebe7c0beb5c6e5cc68fc1eddcecc33b87b0779be36fa94386916bd37a90d46",
+      "sourcePurpose": "Task-local QA evidence, log, gate manifest, resource measurement or delivery receipt"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/gather-dense-01.jpg",
+      "bytes": 475107,
+      "sha256": "b4e385b7ec00dcf446adcfd29c2e598631f717c9eacfabbc5eca1f6f61d57b73",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/gather-dense-02.jpg",
+      "bytes": 484859,
+      "sha256": "79152d2e33f0090cfa619527680c9a15a037917bc8eef0313b738fced22c4ea6",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/gather-dense-03.jpg",
+      "bytes": 70737,
+      "sha256": "d581dd0e539b80b741b924ee90a50d5d853ecc9e87215cba7e23180fc7ebe48c",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/handoff-dense-01.jpg",
+      "bytes": 449949,
+      "sha256": "6c837f72e09da78fc4154fa48cedf4e226e41161303344268aac50f93b6aba15",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/handoff-dense-02.jpg",
+      "bytes": 445101,
+      "sha256": "1bf9da660a8b6e064ad71d54b4dbc6e7715f75926051d6e332ac835fdaadf109",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/handoff-dense-03.jpg",
+      "bytes": 350880,
+      "sha256": "d02e3af2d140434828c0dd6d2df105ec62a4452a28a719bdebfe46589b981ee7",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/inventory.py",
+      "bytes": 2257,
+      "sha256": "443f4e0a69eeb89fd63d5823bbf7442efcf5f0f784ccf14eed91922d245c9dbd",
+      "sourcePurpose": "Task-local reproducible QA/gate/inventory utility"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/join-fixed-8.7to9.7.mp4",
+      "bytes": 399036,
+      "sha256": "a57212add72f956fd732a3530a42e78eaba79acd112324d4d1bd43cd6dd19eea",
+      "sourcePurpose": "Task-local trial/full render or audio decode for original-voice alignment; not an input original"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/join-fixed-8.8.png",
+      "bytes": 286640,
+      "sha256": "c55a5e8e6ac206ad8c0b93c47e564f6b8fefa1f9740d9c13b8cfaffa448abbbb",
+      "sourcePurpose": "Task-local QA evidence, log, gate manifest, resource measurement or delivery receipt"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/join-fixed-8.9.png",
+      "bytes": 283583,
+      "sha256": "5ee713e41db7789eb2e2c46062fa3a42151c8ecd546e2baed229f164ce7c2b0a",
+      "sourcePurpose": "Task-local QA evidence, log, gate manifest, resource measurement or delivery receipt"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/join-fixed-9.1.png",
+      "bytes": 283263,
+      "sha256": "f9c24ea69e6fc4d3d531d4bb51c29e3b2a837c80b8328f6fbcef158414fb617b",
+      "sourcePurpose": "Task-local QA evidence, log, gate manifest, resource measurement or delivery receipt"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/join-fixed-9.2.png",
+      "bytes": 291497,
+      "sha256": "afaf78c2f9092a7bdf570eb8b9e381db4f57db1fde55c399d56d05c9650536fb",
+      "sourcePurpose": "Task-local QA evidence, log, gate manifest, resource measurement or delivery receipt"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/join-fixed-9.3.png",
+      "bytes": 290979,
+      "sha256": "cf930de612b6c7d94b94af6c93b221071fe48556fdd93aa02191b87b0631cb79",
+      "sourcePurpose": "Task-local QA evidence, log, gate manifest, resource measurement or delivery receipt"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/join-fixed-9.4.png",
+      "bytes": 303560,
+      "sha256": "deba314f1d71963df809ee93b45f913262f263937fabe5674021877b7396c5f7",
+      "sourcePurpose": "Task-local QA evidence, log, gate manifest, resource measurement or delivery receipt"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/join-fixed-9.6.png",
+      "bytes": 292116,
+      "sha256": "08e03d7aa50b122644c75ac17e2d89832c720a7bd410e7e0de94127526472d65",
+      "sourcePurpose": "Task-local QA evidence, log, gate manifest, resource measurement or delivery receipt"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/join-fixed-9.png",
+      "bytes": 276009,
+      "sha256": "475b9911793889da8680a3066a9eb494bee95e8a97ca831c936b9f70e52abccd",
+      "sourcePurpose": "Task-local QA evidence, log, gate manifest, resource measurement or delivery receipt"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/join-fixed-board.jpg",
+      "bytes": 199103,
+      "sha256": "e00b452dd918aebe55a2191ff0cf1eb3ae7a358d1f53d0b064fefe5f4c1728cd",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/manifest-suggestion-snapshot.json",
+      "bytes": 19554,
+      "sha256": "8e643bd37ea344f6c94c55edd5bcf7bb6e62b7f58c0f9d094509d7632c5b3869",
+      "sourcePurpose": "Task-local QA evidence, log, gate manifest, resource measurement or delivery receipt"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/manifest.json",
+      "bytes": 25553,
+      "sha256": "8a83d4ad44cd8f23b4808ed8f6e21b0478ea1eb4091d70d38d8848877888e571",
+      "sourcePurpose": "Task-local QA evidence, log, gate manifest, resource measurement or delivery receipt"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/motion-audit.json",
+      "bytes": 723,
+      "sha256": "f37f6ab508512fb9459c8fb27ad37e21ccdfd0c11f8b48da83896ba15c0bb4de",
+      "sourcePurpose": "Task-local QA evidence, log, gate manifest, resource measurement or delivery receipt"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/overview-01.jpg",
+      "bytes": 371799,
+      "sha256": "cd1216e1835ab0187fe2456600acd292245c35e9c13e0a0544b1ddf04f214a65",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/overview-02.jpg",
+      "bytes": 414730,
+      "sha256": "bad5d3ffc88213be8aa377f29f2faade14552d0f691d4589fdd1eb34be333da9",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/overview-03.jpg",
+      "bytes": 467538,
+      "sha256": "5a790a60e6ba2031db23375fd7370e8763fc4fb35383913041f4f360be00f7eb",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/overview-04.jpg",
+      "bytes": 489433,
+      "sha256": "8db549e6cc24ae444e6484114f89f5c6e6d839e360cc642200456f6732d0920b",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/overview-05.jpg",
+      "bytes": 487899,
+      "sha256": "2e6ddd25bde8b77eee3d9cf0a7f0d91c113e7df68c61a83cd5067bbe0cde5d8c",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/overview-06.jpg",
+      "bytes": 399875,
+      "sha256": "883a6bb08c40f826a6adce8f0c51512a2d45d17466e1df8ed4a6b9a8ec84525d",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/player-check.cjs",
+      "bytes": 2952,
+      "sha256": "66842119cb2c360a61db92f0037e050ff70475d32bf3f558c44b511caf48dda9",
+      "sourcePurpose": "Task-local reproducible QA/gate/inventory utility"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/player-check.json",
+      "bytes": 3932,
+      "sha256": "7c77085e178762674e003627f41b3292cca4df1e7ccd278dc62d0c7bb0429926",
+      "sourcePurpose": "Task-local QA evidence, log, gate manifest, resource measurement or delivery receipt"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/pmo-report-receipt.json",
+      "bytes": 417,
+      "sha256": "520dff5bdb94d598ef6a4a67dc9c609c6122004d6e2d15cc8c56accf2f530eaf",
+      "sourcePurpose": "Task-local QA evidence, log, gate manifest, resource measurement or delivery receipt"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/prepare-manifest.py",
+      "bytes": 4460,
+      "sha256": "4cd74230b310ecbca715b07927eae87be6338aa3da27a4f567d7f0d84f3fb0c8",
+      "sourcePurpose": "Task-local reproducible QA/gate/inventory utility"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/record-final-gates.py",
+      "bytes": 2519,
+      "sha256": "930d7e9565957933ffd93820e0bd232202dd2ddf93e5ea8e1ab0f0eb0e28a360",
+      "sourcePurpose": "Task-local reproducible QA/gate/inventory utility"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/references/library-legacy81-c005-0.jpg",
+      "bytes": 78715,
+      "sha256": "f89adf0d5bec40307410d5b745c52aae0f4c8f13ce1df899575020a4f06d000f",
+      "sourcePurpose": "Top3 public component previews, preserved source receipts and reviewed contact sheet; copied N026 identified in receipt"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/references/library-legacy81-c005-1.jpg",
+      "bytes": 152182,
+      "sha256": "bef15e884c4d3e7e2ba7d999dd7bb6a28d66e93a236112449b481ac34fc5c6b9",
+      "sourcePurpose": "Top3 public component previews, preserved source receipts and reviewed contact sheet; copied N026 identified in receipt"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/references/library-legacy81-c005-2.jpg",
+      "bytes": 41592,
+      "sha256": "8348d3155e6427f0578e101c0c2845f494fe41b2e5ab3cb5988ca8fbaed6934e",
+      "sourcePurpose": "Top3 public component previews, preserved source receipts and reviewed contact sheet; copied N026 identified in receipt"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/references/library-legacy81-r006-0.jpg",
+      "bytes": 78178,
+      "sha256": "a5161340dac61104a2293c3fc2f5c9e486705ba496312e5310dd66c7e85eae86",
+      "sourcePurpose": "Top3 public component previews, preserved source receipts and reviewed contact sheet; copied N026 identified in receipt"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/references/library-legacy81-r006-1.jpg",
+      "bytes": 110920,
+      "sha256": "227d62e23583653cb1a4e12dcdafaab21959bb21a42851a18477b4ee55ca0f26",
+      "sourcePurpose": "Top3 public component previews, preserved source receipts and reviewed contact sheet; copied N026 identified in receipt"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/references/library-legacy81-r006-2.jpg",
+      "bytes": 35398,
+      "sha256": "e789efdecbba1dd76a288914974f9219b4a52d92ee91ed9dc17f912da8158f34",
+      "sourcePurpose": "Top3 public component previews, preserved source receipts and reviewed contact sheet; copied N026 identified in receipt"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/references/library-new10-n026-0.jpg",
+      "bytes": 205441,
+      "sha256": "3c60e392c9610e268a0d3ca453833bb9ec4e21308e51b2f22dc58e8d09dd06ea",
+      "sourcePurpose": "Top3 public component previews, preserved source receipts and reviewed contact sheet; copied N026 identified in receipt"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/references/library-new10-n026-1.jpg",
+      "bytes": 168302,
+      "sha256": "27e8d91bd66a43dba701ac80536d1d530d999ebd7eaab034b58901803e71e1aa",
+      "sourcePurpose": "Top3 public component previews, preserved source receipts and reviewed contact sheet; copied N026 identified in receipt"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/references/library-new10-n026-2.jpg",
+      "bytes": 119166,
+      "sha256": "3ef19be579ab0d60c0c60ee10addbc8d3f0f3fc311be6d51fede359e10804823",
+      "sourcePurpose": "Top3 public component previews, preserved source receipts and reviewed contact sheet; copied N026 identified in receipt"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/references/receipt.json",
+      "bytes": 3593,
+      "sha256": "8f1f6ccec8b1ffdd1c69c2a9dc29584e2cbca74de3c806b0106cdf2d8f93cfc8",
+      "sourcePurpose": "Top3 public component previews, preserved source receipts and reviewed contact sheet; copied N026 identified in receipt"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/references/top3.jpg",
+      "bytes": 191035,
+      "sha256": "b2df1f4cefd563944463febc47968de87373e9d29f4dc357b5ea42cf18113099",
+      "sourcePurpose": "Top3 public component previews, preserved source receipts and reviewed contact sheet; copied N026 identified in receipt"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/scoped-du-end.txt",
+      "bytes": 255,
+      "sha256": "d7f082df3283e0b77b00af8c63defe1fb90b67036c84d1aa1b5b00b10b393a8c",
+      "sourcePurpose": "Task-local QA evidence, log, gate manifest, resource measurement or delivery receipt"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/semantic-components-top3.json",
+      "bytes": 19955,
+      "sha256": "56ae598a989568bca621de50f0fc410ef33f526db6941d66d4aefa548e07c46e",
+      "sourcePurpose": "Task-local QA evidence, log, gate manifest, resource measurement or delivery receipt"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/start-receipt.json",
+      "bytes": 1902,
+      "sha256": "cc797d8aedb44f9ec5b752c1c907672fd0350410a766795e73e55817c49d551d",
+      "sourcePurpose": "Task-local QA evidence, log, gate manifest, resource measurement or delivery receipt"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/technical-qa.json",
+      "bytes": 799,
+      "sha256": "f22ac4411728fe1727b72232957bce2dd2799ef6581a0252280aad90158996b9",
+      "sourcePurpose": "Task-local QA evidence, log, gate manifest, resource measurement or delivery receipt"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/test-0.png",
+      "bytes": 129027,
+      "sha256": "76f06da00d1a9c932ab913c00bd8f140ab3f1f2135cf4b872c33908a7c915f6c",
+      "sourcePurpose": "Task-local QA evidence, log, gate manifest, resource measurement or delivery receipt"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/test-1.85.png",
+      "bytes": 182043,
+      "sha256": "6a2033aa0982e7cb1a438d8d52c91e6d1ff3a40af71b6f3b89a0e73bf38a7238",
+      "sourcePurpose": "Task-local QA evidence, log, gate manifest, resource measurement or delivery receipt"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/test-12.65.png",
+      "bytes": 198156,
+      "sha256": "aa81ca2cf6e6beaaf36075d5df338d8159f378db717eff2318549cf7a054d037",
+      "sourcePurpose": "Task-local QA evidence, log, gate manifest, resource measurement or delivery receipt"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/test-3.2.png",
+      "bytes": 177626,
+      "sha256": "3be574abed83963d215137d2ac98104d82262538a0936e6849c4669c0f2761bb",
+      "sourcePurpose": "Task-local QA evidence, log, gate manifest, resource measurement or delivery receipt"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/test-4.7.png",
+      "bytes": 173521,
+      "sha256": "1061485d55f234bc3a400f2d03ddc6446c028a591f78167f746c566a1e46a195",
+      "sourcePurpose": "Task-local QA evidence, log, gate manifest, resource measurement or delivery receipt"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/test-5.7.png",
+      "bytes": 171957,
+      "sha256": "45c00f49d7738ea973c7a16331e21fb1d4e0e12b23b264db1f4a53e5c918008a",
+      "sourcePurpose": "Task-local QA evidence, log, gate manifest, resource measurement or delivery receipt"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/test-5.9.png",
+      "bytes": 176179,
+      "sha256": "2422eb17b84bcb730e92a4ddea254f3fbf212ffdfe02810d5baec5025dda31a8",
+      "sourcePurpose": "Task-local QA evidence, log, gate manifest, resource measurement or delivery receipt"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/test-6.03.png",
+      "bytes": 176862,
+      "sha256": "69521c984def5404605f4692dc60b0a2af6e59eb68ab6ab173cf1622ad8df45b",
+      "sourcePurpose": "Task-local QA evidence, log, gate manifest, resource measurement or delivery receipt"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/test-6.1.png",
+      "bytes": 176984,
+      "sha256": "69aa1136923b77c5edeb83b9bb77e4ebc572a3737ef5f6056effcd5e3d019339",
+      "sourcePurpose": "Task-local QA evidence, log, gate manifest, resource measurement or delivery receipt"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/test-6.4.png",
+      "bytes": 177244,
+      "sha256": "0599d470237566498e4ffdfe89f7866381e532c806cc0c94dbb38eead929dfb3",
+      "sourcePurpose": "Task-local QA evidence, log, gate manifest, resource measurement or delivery receipt"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/test-8.8.png",
+      "bytes": 184770,
+      "sha256": "d495d5fdeaba0edc8583b01b1c3e4deac6fcc745c358ee3cf2095aed42abebbe",
+      "sourcePurpose": "Task-local QA evidence, log, gate manifest, resource measurement or delivery receipt"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/test-9.1.png",
+      "bytes": 177063,
+      "sha256": "e019153bb6e2f3772711102e646e82b14447181b56caff0e6544f725103fba1a",
+      "sourcePurpose": "Task-local QA evidence, log, gate manifest, resource measurement or delivery receipt"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/test-9.3.png",
+      "bytes": 172504,
+      "sha256": "69631f99131c42630df3ca74cd0313ffea12de64a868537d791929d5df95e9f3",
+      "sourcePurpose": "Task-local QA evidence, log, gate manifest, resource measurement or delivery receipt"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/test-9.8.png",
+      "bytes": 158464,
+      "sha256": "d6cffffb0b2f6bc12eb378f593b9938d2a3748aa523df3276685164389a03704",
+      "sourcePurpose": "Task-local QA evidence, log, gate manifest, resource measurement or delivery receipt"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/test-9.png",
+      "bytes": 191154,
+      "sha256": "3e7c01b709c3d6dce64f71aaeaffa5330076875d8ff909d8c05473522b6dad05",
+      "sourcePurpose": "Task-local QA evidence, log, gate manifest, resource measurement or delivery receipt"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/test-dark-0.png",
+      "bytes": 173935,
+      "sha256": "163c42e43732a1670909a0eb7db4c506eba1bbf9437a735cbd1885bc218ba0f0",
+      "sourcePurpose": "Task-local QA evidence, log, gate manifest, resource measurement or delivery receipt"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/test-dark-1.85.png",
+      "bytes": 231003,
+      "sha256": "53332fd7aa69b0c1b97b5ee84666c7e66a2c5bfdb5621545bbf3b1a0bdfc6477",
+      "sourcePurpose": "Task-local QA evidence, log, gate manifest, resource measurement or delivery receipt"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/test-dark-12.65.png",
+      "bytes": 240255,
+      "sha256": "c494181c7521e820d845483cbe46db1fef094016f61822ece2d69365dba453fe",
+      "sourcePurpose": "Task-local QA evidence, log, gate manifest, resource measurement or delivery receipt"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/test-dark-3.2.png",
+      "bytes": 221505,
+      "sha256": "3551408dd446a69363484244aae5932b26c942149f8ece3161515b9c7c2bdd5b",
+      "sourcePurpose": "Task-local QA evidence, log, gate manifest, resource measurement or delivery receipt"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/test-dark-4.7.png",
+      "bytes": 220568,
+      "sha256": "5b38070025c03b4a8cabc8d8a6a3faa365417ccb3c5b50a14b184445ea108c8f",
+      "sourcePurpose": "Task-local QA evidence, log, gate manifest, resource measurement or delivery receipt"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/test-dark-5.7.png",
+      "bytes": 223952,
+      "sha256": "ba8eab60e5373cd37a474a0bb4f51d8634e3a9401d3c9dc85e17a9bca0e5528b",
+      "sourcePurpose": "Task-local QA evidence, log, gate manifest, resource measurement or delivery receipt"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/test-dark-5.9.png",
+      "bytes": 227528,
+      "sha256": "e83a2e48a43c9e32dc631e25d293306996d52b75a65452ef107b4f0ecf1ea446",
+      "sourcePurpose": "Task-local QA evidence, log, gate manifest, resource measurement or delivery receipt"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/test-dark-6.03.png",
+      "bytes": 228638,
+      "sha256": "69fb0f61471f4773d1a4d04e18af84dfdfc6a1c4b8c3ad19c6aa7c9d6f4a22eb",
+      "sourcePurpose": "Task-local QA evidence, log, gate manifest, resource measurement or delivery receipt"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/test-dark-6.1.png",
+      "bytes": 228409,
+      "sha256": "fcd37e2b31171f4f70dd18b6fafb163c876cb34fc3289d89163e0e8c79efe2a6",
+      "sourcePurpose": "Task-local QA evidence, log, gate manifest, resource measurement or delivery receipt"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/test-dark-6.4.png",
+      "bytes": 228700,
+      "sha256": "125e880f89a8c8b794a4ca817f56bbeefcbab2894c7e0071e8e40da0fbf0bcb9",
+      "sourcePurpose": "Task-local QA evidence, log, gate manifest, resource measurement or delivery receipt"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/test-dark-8.8.png",
+      "bytes": 236136,
+      "sha256": "fbdd24ed1cc1d4400fbd4e8bfe64cf52d9e8eb04bcbbc3ecc6f43f2e99eac6dc",
+      "sourcePurpose": "Task-local QA evidence, log, gate manifest, resource measurement or delivery receipt"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/test-dark-9.1.png",
+      "bytes": 226786,
+      "sha256": "69eb9c510ef11adb83adc700956eaf220b17c00a65c441881d2210b0e0d208c2",
+      "sourcePurpose": "Task-local QA evidence, log, gate manifest, resource measurement or delivery receipt"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/test-dark-9.3.png",
+      "bytes": 214945,
+      "sha256": "6231bb9cfe8ba3f3f92df448cc6945f597c283cfdc64ce23be2f9f65c6f19b46",
+      "sourcePurpose": "Task-local QA evidence, log, gate manifest, resource measurement or delivery receipt"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/test-dark-9.8.png",
+      "bytes": 195847,
+      "sha256": "c37de2a3335ecb911a4a4bf0d27ae21683f843a02c197ffeecf656aba196854f",
+      "sourcePurpose": "Task-local QA evidence, log, gate manifest, resource measurement or delivery receipt"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/test-dark-9.png",
+      "bytes": 242948,
+      "sha256": "f2d0fbebc60f638586e6e1d5e77f61d050750e96fdec32b481c2bc2812a83658",
+      "sourcePurpose": "Task-local QA evidence, log, gate manifest, resource measurement or delivery receipt"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/toggle-dense-01.jpg",
+      "bytes": 506822,
+      "sha256": "72c29d32b712b5e74d91c4f680e2fd1aa5e5f5803ef698d8ae0a8c63df432124",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/toggle-dense-02.jpg",
+      "bytes": 543425,
+      "sha256": "c1c414aff547aa43aef0baeb20349b408640ac8989013e5a6663561b739f20b9",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/toggle-dense-03.jpg",
+      "bytes": 444313,
+      "sha256": "0500787ad29e69ad6970282e5b4318d2503d8d6cf03e5e69ecadc1a3e5ec5946",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/trial-dark-2.7.png",
+      "bytes": 256325,
+      "sha256": "1fa49b2fa48bf3a37696a3ed7e4c92c724d92c118dd3a5a7be4ceb0b0e1287c4",
+      "sourcePurpose": "Task-local QA evidence, log, gate manifest, resource measurement or delivery receipt"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/trial-dark-2.7to10.0.mp4",
+      "bytes": 915631,
+      "sha256": "14c872f5909c6937827f6f9001a7f68f9ede57183abd568d937ee1242044d9a8",
+      "sourcePurpose": "Task-local trial/full render or audio decode for original-voice alignment; not an input original"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/trial-dark-3.3.png",
+      "bytes": 268695,
+      "sha256": "785e6eb23d92aea7fd85604affce5e3996c101d96746f621b557ae6e3b7b398a",
+      "sourcePurpose": "Task-local QA evidence, log, gate manifest, resource measurement or delivery receipt"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/trial-dark-3.6.png",
+      "bytes": 266868,
+      "sha256": "49210a93b5389907cb7c215a35c791bd6063e4205bd0346d85fbda872c711db6",
+      "sourcePurpose": "Task-local QA evidence, log, gate manifest, resource measurement or delivery receipt"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/trial-dark-3.9.png",
+      "bytes": 267769,
+      "sha256": "e6a7d7d3bdae5b14398c706220bbe27960d1899191c20cf67e80dbc2c07cdf68",
+      "sourcePurpose": "Task-local QA evidence, log, gate manifest, resource measurement or delivery receipt"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/trial-dark-3.png",
+      "bytes": 262127,
+      "sha256": "f70925209a1e20cc539b5e6dd6e0fbc0965b5e499ba0a834fa099143ec36099f",
+      "sourcePurpose": "Task-local QA evidence, log, gate manifest, resource measurement or delivery receipt"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/trial-dark-4.2.png",
+      "bytes": 278355,
+      "sha256": "c472b177089345af28b613ef967bb4446d945d71703d7e52f5bef9e43ab2624c",
+      "sourcePurpose": "Task-local QA evidence, log, gate manifest, resource measurement or delivery receipt"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/trial-dark-4.5.png",
+      "bytes": 283327,
+      "sha256": "f5ea0b981cb27dfcea1610d4293304437e722dd33dd0a8efc1fc58e1e20cfc88",
+      "sourcePurpose": "Task-local QA evidence, log, gate manifest, resource measurement or delivery receipt"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/trial-dark-4.8.png",
+      "bytes": 279452,
+      "sha256": "fa12132a62d0fa588327a8a4618d0378bd999a38848b7416b9145dedd26b3a08",
+      "sourcePurpose": "Task-local QA evidence, log, gate manifest, resource measurement or delivery receipt"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/trial-dark-5.1.png",
+      "bytes": 275954,
+      "sha256": "0347ba964e3132a48bc98c64b3d198328ad69e473cc913726bcf0435a7bf5feb",
+      "sourcePurpose": "Task-local QA evidence, log, gate manifest, resource measurement or delivery receipt"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/trial-dark-5.4.png",
+      "bytes": 279301,
+      "sha256": "d835d87f84c60802bc070e4a5b623a68e8bdc8f3301ffd228851addd258f6bdd",
+      "sourcePurpose": "Task-local QA evidence, log, gate manifest, resource measurement or delivery receipt"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/trial-dark-5.7.png",
+      "bytes": 298637,
+      "sha256": "25ec1d538725053c5b919ab5fcae52705e3c8337de0fd82b7dc3c7fd6e60fc5f",
+      "sourcePurpose": "Task-local QA evidence, log, gate manifest, resource measurement or delivery receipt"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/trial-dark-5.8.png",
+      "bytes": 298019,
+      "sha256": "4cbb3811f92d356748de5f6d8875db40921420c3b6adf37b5f65717cac570630",
+      "sourcePurpose": "Task-local QA evidence, log, gate manifest, resource measurement or delivery receipt"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/trial-dark-5.9.png",
+      "bytes": 309150,
+      "sha256": "5b55af4a0d1ae6af4e33ac2c4c08faca7570f524092301241e57f095218b95df",
+      "sourcePurpose": "Task-local QA evidence, log, gate manifest, resource measurement or delivery receipt"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/trial-dark-6.083333.png",
+      "bytes": 308763,
+      "sha256": "0ccd9923075c298329c587eefbbfeb7a5a80fb8ccbc5903b4e42a96d27b66a69",
+      "sourcePurpose": "Task-local QA evidence, log, gate manifest, resource measurement or delivery receipt"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/trial-dark-6.2.png",
+      "bytes": 309108,
+      "sha256": "b7f6fde844f5375c7b9dbd0a8680fd0eca9b8dcbeb09c71570f58312aad2839c",
+      "sourcePurpose": "Task-local QA evidence, log, gate manifest, resource measurement or delivery receipt"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/trial-dark-6.4.png",
+      "bytes": 308683,
+      "sha256": "13768ea7e6ebc70816ef940912e5bfef55e5417aa55d74f9d91cf8e1c7d09990",
+      "sourcePurpose": "Task-local QA evidence, log, gate manifest, resource measurement or delivery receipt"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/trial-dark-6.png",
+      "bytes": 309298,
+      "sha256": "a5ec9a3b2722fada218757722b31dc9b5ee21f920c6ae35506a3cc4e18fc4cb0",
+      "sourcePurpose": "Task-local QA evidence, log, gate manifest, resource measurement or delivery receipt"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/trial-dark-8.8.png",
+      "bytes": 274972,
+      "sha256": "95e65b51fb648abc0a8e9833ecff4811b11b7c9f9a7d30b7dff6d5a8cda1b4dd",
+      "sourcePurpose": "Task-local QA evidence, log, gate manifest, resource measurement or delivery receipt"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/trial-dark-8.9.png",
+      "bytes": 320391,
+      "sha256": "63a4f41c4b4e0347e52bf31e1faabf4267711f7a930eda8d2b97a5fb6a843235",
+      "sourcePurpose": "Task-local QA evidence, log, gate manifest, resource measurement or delivery receipt"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/trial-dark-9.1.png",
+      "bytes": 327293,
+      "sha256": "e828883ccbcffcc1098e0aaae3fd0f4d5d35dbe696abb697b7153b160127e333",
+      "sourcePurpose": "Task-local QA evidence, log, gate manifest, resource measurement or delivery receipt"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/trial-dark-9.2.png",
+      "bytes": 329860,
+      "sha256": "0b3bb7c420af04cff0b0fbb2be558b56c19a14a0472a1881b7dd1544af428df7",
+      "sourcePurpose": "Task-local QA evidence, log, gate manifest, resource measurement or delivery receipt"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/trial-dark-9.3.png",
+      "bytes": 316218,
+      "sha256": "5adf8c0efecf41791f944c3d0a621c6f2aa15ba5004a2d7f0b83117e6ff46342",
+      "sourcePurpose": "Task-local QA evidence, log, gate manifest, resource measurement or delivery receipt"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/trial-dark-9.7.png",
+      "bytes": 289847,
+      "sha256": "dbb9ba3b4491faf74e77058ba20d7a404c2be6dcb80778c4463d2114e3c9e17b",
+      "sourcePurpose": "Task-local QA evidence, log, gate manifest, resource measurement or delivery receipt"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/trial-dark-9.png",
+      "bytes": 331078,
+      "sha256": "36cd5873ab86e108124ff705409dd7dff2fd4f7cad7375bc2d412fca588bb86d",
+      "sourcePurpose": "Task-local QA evidence, log, gate manifest, resource measurement or delivery receipt"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/trial-dark-board-1.jpg",
+      "bytes": 236910,
+      "sha256": "c6b119f809ab2a22de04ae4a2bef466c456a1559ae3d194e00beed18149a22dd",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/trial-dark-board-2.jpg",
+      "bytes": 264389,
+      "sha256": "725861bbeea9f27d2b27ced4d5032875402a526d96752ac4e460cf61cb083f4f",
+      "sourcePurpose": "Final export frame extraction/contact sheet or local trial/player visual QA; exact generation in QA scripts and frame-index"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/visual-review.json",
+      "bytes": 14309,
+      "sha256": "43581533da39cf2d2f740ece2445e997bedd8c5bc185c1b13eb84d1a8700a6fc",
+      "sourcePurpose": "Task-local QA evidence, log, gate manifest, resource measurement or delivery receipt"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/workflow-planning.stderr.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "sourcePurpose": "Task-local QA evidence, log, gate manifest, resource measurement or delivery receipt"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/workflow-planning.stdout.json",
+      "bytes": 39,
+      "sha256": "b6ea3bda40f5075e0ba746878a397cc03ed84df2743a5c15f891a63f1c3cb0c8",
+      "sourcePurpose": "Task-local QA evidence, log, gate manifest, resource measurement or delivery receipt"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/workflow-representative.stderr.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "sourcePurpose": "Task-local QA evidence, log, gate manifest, resource measurement or delivery receipt"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/workflow-representative.stdout.json",
+      "bytes": 39,
+      "sha256": "b6ea3bda40f5075e0ba746878a397cc03ed84df2743a5c15f891a63f1c3cb0c8",
+      "sourcePurpose": "Task-local QA evidence, log, gate manifest, resource measurement or delivery receipt"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/output/sample-motion-v8.1.mp4",
+      "bytes": 1456919,
+      "sha256": "b82e98437d0018b47e9010346e4087887b1edaea1d1eeda6597880b72410c1a8",
+      "sourcePurpose": "v8.1 rendering, final output or review/delivery artifact"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/project/render-sample-v81.cjs",
+      "bytes": 1718,
+      "sha256": "979a505941233212edfeed968c24303947b1e2ad206dd8b10c7027fefbc71cf2",
+      "sourcePurpose": "v8.1 rendering, final output or review/delivery artifact"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/project/src/v81/CostReminder.tsx",
+      "bytes": 10883,
+      "sha256": "5ed3602c8def255baea37b7de1ad6f44debb982ddf00b89baeb24ce83031e0db",
+      "sourcePurpose": "v8.1 new Remotion entry and scene source"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/project/src/v81/Entry.tsx",
+      "bytes": 496,
+      "sha256": "08c3e975aa20845b0cc4c4369f06adb6bfccd1a6385570f1cb1a64414f5239bf",
+      "sourcePurpose": "v8.1 new Remotion entry and scene source"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/sample-delivery-v8.1.json",
+      "bytes": 6812,
+      "sha256": "b68568f9a2143d88b5e868313a185361dc1c7d14a6fde41ce08b8adec908d3b0",
+      "sourcePurpose": "v8.1 rendering, final output or review/delivery artifact"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/sample-review-v8.1.html",
+      "bytes": 5027,
+      "sha256": "4eab9285983ce3935fa3d32d7458fdc60d4ea01be7d4edd62a0be9c0d71c18c0",
+      "sourcePurpose": "v8.1 rendering, final output or review/delivery artifact"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/sample-review-v8.1.md",
+      "bytes": 8789,
+      "sha256": "f3ac981f4f25d6338be7df702e9c1ef3248c780694c78e55aa67f0be6c200bce",
+      "sourcePurpose": "v8.1 rendering, final output or review/delivery artifact"
+    }
+  ],
+  "reusedDependenciesNotNew": [
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/project/src/v8/theme.ts",
+      "bytes": 3786,
+      "sha256": "a235e95c652137b43c31a9c680dabfd8fce3bbb45fac8559cd0af70ce2e9b1a3",
+      "sourcePurpose": "Reused existing v8 dependency, unchanged by v8.1"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/project/src/v8/CostReminder.tsx",
+      "bytes": 9840,
+      "sha256": "692d7365600036a7da7036f35381b097950e87f868280c1b3893da027a700007",
+      "sourcePurpose": "Reused existing v8 dependency, unchanged by v8.1"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/project/src/v8/captions.json",
+      "bytes": 1635,
+      "sha256": "f3a46865afd2f5f6ee18bee0f54200b245e02ba8b79e645ff5cceeb6d4b5723b",
+      "sourcePurpose": "Reused existing v8 dependency, unchanged by v8.1"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/source-voice.wav",
+      "bytes": 1305678,
+      "sha256": "c37a187bba95cde336830cd541e7619bdea3457eb98070197bc9add454f85db2",
+      "sourcePurpose": "Reused existing v8 dependency, unchanged by v8.1"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/resolve-existing-typescript.cjs",
+      "bytes": 514,
+      "sha256": "254d0f7fe931b5d6f7993ba221d95d0e922f22445aa020286ba0fb2e2a39f23b",
+      "sourcePurpose": "Reused existing v8 dependency, unchanged by v8.1"
+    }
+  ]
+}

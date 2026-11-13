@@ -1,0 +1,789 @@
+{
+  "catalogRevision": "217ebeb42f5bfca098228f5eb8b29d5c3196c0a2a7b57a38eb8e7c8e07720c7e",
+  "count": 10,
+  "returned": 3,
+  "entries": [
+    {
+      "id": "component:ep102-selected-07",
+      "label": "102-07",
+      "title": "画布四列逐一提起并汇总",
+      "kind": "components",
+      "category": "图片与作品",
+      "origin": "第102期精选",
+      "description": "从画布按分类提起四列素材并汇总",
+      "tags": [
+        "第102期",
+        "102",
+        "102-07",
+        "画布四列",
+        "前景卡片",
+        "汇总结果",
+        "用户精选",
+        "图片与作品",
+        "多图与作品墙"
+      ],
+      "selectionStatus": "keep",
+      "reusability": {
+        "level": "snapshot",
+        "label": "准确场景参考",
+        "parameters": [],
+        "limitations": [
+          "认可范围是Fred指定的最终成片区间；新增内容的适配仍需检查。",
+          "预览为最终4K60成片的独立摘录；便携源码与已核验素材安装器随独立工程分发。"
+        ]
+      },
+      "previews": [
+        {
+          "videoUrl": "/api/design-assets/b34b7a1aa2076c560fadd363",
+          "posterUrl": "/api/design-assets/33a189013f0f874afa4510cd",
+          "keyframes": [
+            {
+              "url": "/api/design-assets/0ad57b5c2af1c7ae367c9d75",
+              "timeSeconds": 1.1333333333333333,
+              "frame": 68
+            },
+            {
+              "url": "/api/design-assets/0c7175b4ef2d25bb0625a1af",
+              "timeSeconds": 4.566666666666666,
+              "frame": 274
+            },
+            {
+              "url": "/api/design-assets/33a189013f0f874afa4510cd",
+              "timeSeconds": 7.983333333333333,
+              "frame": 479
+            }
+          ],
+          "available": true,
+          "status": "ready",
+          "start": 0,
+          "end": 8,
+          "fps": 60,
+          "audioPolicy": "no-audio-track",
+          "posterTimeSeconds": 7.983333333333333,
+          "posterSelection": "reviewed"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Independent component",
+          "path": "components/projects/ep102-selected-20261005/source/SelectedComponents.tsx",
+          "url": "/api/design-source/977550b9d3d51fdd7abb3d66",
+          "symbol": "EP102Selected07",
+          "sha256": "6b8c1002c7be22636b4ca9cf5b45be6b3e178fb8ddcc137fdab3f63eb09fc472",
+          "available": true,
+          "status": "ready"
+        },
+        {
+          "label": "Adopted scene source",
+          "path": "components/projects/ep102-selected-20261005/source/versions/canvas-v17/adapters/CanvasRevisionV14.tsx",
+          "url": "/api/design-source/727b93fa553ff03053b6486e",
+          "symbol": "CanvasRevisionV14",
+          "sha256": "8dd30ff25dd157e8fd3f8e22b233a46f3b3d9cdbfa94f6fad19f0a6e2c69b060",
+          "available": true,
+          "status": "ready"
+        },
+        {
+          "label": "Native scene clock",
+          "path": "components/projects/ep102-selected-20261005/source/NativeSceneClock.tsx",
+          "url": "/api/design-source/04654ab383c9cb9f8895bce6",
+          "symbol": "NativeSceneClock",
+          "sha256": "981f4634d69343e28e68def65fe40d49357ecf88b9b6072b54c3ab391997c062",
+          "available": true,
+          "status": "ready"
+        }
+      ],
+      "referenceId": "ep102-selected-07",
+      "mergedInto": [],
+      "hiddenReason": null,
+      "visibleByDefault": true,
+      "categoryId": "images",
+      "libraryOrder": 6,
+      "matching": {
+        "referenceId": "ep102-selected-07",
+        "primaryUse": "images",
+        "useIds": [
+          "images",
+          "handoff",
+          "explain"
+        ],
+        "sourceId": "ep102",
+        "conceptIds": [
+          "media",
+          "cards",
+          "handoff",
+          "summary"
+        ],
+        "inputObjects": [
+          "画布四列",
+          "前景卡片",
+          "汇总结果"
+        ],
+        "action": "四张完整高清分类图依次提起，已出现组向左让位，最终并排保持",
+        "segmentRole": "完整场景",
+        "nativeDurationSeconds": 8,
+        "adaptation": "保留源动作与媒体时钟，替换本期对象、素材和cue后检查实际输出。",
+        "tags": [
+          "画布四列",
+          "前景卡片",
+          "汇总结果",
+          "第102期",
+          "用户精选",
+          "图片与作品",
+          "多图与作品墙"
+        ],
+        "scenarioId": "wall",
+        "scenarioTitle": "多图与作品墙",
+        "addedAt": "2026-10-05T11:47:11+08:00",
+        "label": "102-07",
+        "categoryId": "images",
+        "category": "图片与作品",
+        "sceneTypes": [
+          "image-comparison",
+          "summary"
+        ],
+        "collectionId": "ep102-selected-20261005",
+        "sourceRangeSeconds": [
+          395,
+          403
+        ],
+        "title": "画布四列逐一提起并汇总",
+        "kind": "components",
+        "score": 155.9,
+        "matchedConceptIds": [
+          "summary"
+        ],
+        "matchedUseIds": [],
+        "matchedWords": [
+          "总结"
+        ],
+        "reasons": [
+          "结论与收束",
+          "原词命中：总结",
+          "相近词：总结"
+        ]
+      },
+      "sceneTypes": [
+        "image-comparison",
+        "summary"
+      ],
+      "isNew": true,
+      "addedAt": "2026-10-05T11:47:11+08:00",
+      "displayPriority": -1,
+      "collectionId": "ep102-selected-20261005",
+      "projectDownload": {
+        "url": "https://github.com/njrhts2kvv-star/FredTalk/releases/download/ep102-selected-20261005/ep102-selected-20261005-source.zip",
+        "filename": "ep102-selected-20261005-source.zip",
+        "available": true,
+        "kind": "source-with-verified-asset-installer",
+        "sha256": "68a445ab6bb42cc2300a1e35f653ff9e797e8ef28fbc6979acd18692418b77c6",
+        "size": 13967356
+      },
+      "implementation": {
+        "projects": [
+          "components/projects/ep102-selected-20261005/source"
+        ],
+        "compositionId": "EP102-Selected-07",
+        "reuseBoundary": "Exact scene snapshot. Adapt copy, assets and cues in a separate project and inspect rendered output."
+      },
+      "sourceFiles": [
+        {
+          "path": "components/projects/ep102-selected-20261005/source/SelectedComponents.tsx",
+          "sha256": "6b8c1002c7be22636b4ca9cf5b45be6b3e178fb8ddcc137fdab3f63eb09fc472",
+          "url": "/api/design-source/977550b9d3d51fdd7abb3d66",
+          "available": true,
+          "remoteAvailable": false,
+          "status": "ready",
+          "symbol": "EP102Selected07"
+        },
+        {
+          "path": "components/projects/ep102-selected-20261005/source/versions/canvas-v17/adapters/CanvasRevisionV14.tsx",
+          "sha256": "8dd30ff25dd157e8fd3f8e22b233a46f3b3d9cdbfa94f6fad19f0a6e2c69b060",
+          "url": "/api/design-source/727b93fa553ff03053b6486e",
+          "available": true,
+          "remoteAvailable": false,
+          "status": "ready",
+          "symbol": "CanvasRevisionV14"
+        },
+        {
+          "path": "components/projects/ep102-selected-20261005/source/NativeSceneClock.tsx",
+          "sha256": "981f4634d69343e28e68def65fe40d49357ecf88b9b6072b54c3ab391997c062",
+          "url": "/api/design-source/04654ab383c9cb9f8895bce6",
+          "available": true,
+          "remoteAvailable": false,
+          "status": "ready",
+          "symbol": "NativeSceneClock"
+        }
+      ],
+      "sourceAvailability": {
+        "available": true,
+        "status": "ready",
+        "authRequired": false,
+        "installationRequired": false,
+        "reason": "Verified source is installed.",
+        "importCommand": null,
+        "downloadCommand": null,
+        "installCommand": null
+      },
+      "candidateId": "ep102-selected-07"
+    },
+    {
+      "id": "combined-remake:SP011",
+      "referenceId": "library-selfpick24-sp011",
+      "label": "SP011",
+      "title": "30+ 能力四格分类展示",
+      "kind": "remakes",
+      "category": "讲解段落",
+      "categoryId": "explain",
+      "origin": "FredTalk 组件库",
+      "description": "四类能力组成四格，再用30+数字突出能力总量。",
+      "tags": [
+        "SP011",
+        "Library",
+        "Library24",
+        "自选24",
+        "revision04",
+        "图片与媒体对照",
+        "第95期",
+        "讲解段落",
+        "数值与图表",
+        "文字",
+        "信息结构",
+        "数值",
+        "图表",
+        "一段解释",
+        "列举要点与能力"
+      ],
+      "selectionStatus": "keep",
+      "hiddenReason": null,
+      "mergedInto": [],
+      "visibleByDefault": true,
+      "libraryOrder": 10,
+      "reusability": {
+        "level": "snapshot",
+        "label": "已认可 · 场景源码",
+        "parameters": [],
+        "limitations": [
+          "固定内容场景；不提供已验证任意文案、数量或画幅的通用参数API。",
+          "素材含真实录屏、人物及原生帧图层，换内容时需准备相应实体媒体。",
+          "用户认可用于复用，不等于与Library参考片段逐像素一致或修后内部全帧动态验收。",
+          "局部圆角标题牌仍覆盖源烧录文字区域；第122帧后冻结卡片媒体到121帧，避免再次叠入烘入文档。修后完整交接尚需复核。"
+        ]
+      },
+      "previews": [
+        {
+          "videoUrl": "/api/design-assets/ea3a80782c4732d7d90e896c",
+          "posterUrl": "/api/design-assets/5e8f6dffd0c507226902e285",
+          "keyframes": [
+            {
+              "url": "/api/design-assets/703d19db61252a79c370aa47",
+              "timeSeconds": 1.1,
+              "frame": 33
+            },
+            {
+              "url": "/api/design-assets/235d9c42df3f6db067458aef",
+              "timeSeconds": 2.566666666666667,
+              "frame": 77
+            },
+            {
+              "url": "/api/design-assets/87fa61b6ce5ba4e1f6f83443",
+              "timeSeconds": 3.8333333333333335,
+              "frame": 115
+            }
+          ],
+          "available": true,
+          "status": "ready",
+          "start": 0,
+          "end": 4.966666666666667,
+          "fps": 30,
+          "audioPolicy": "no-audio-track",
+          "posterTimeSeconds": 1.8,
+          "posterSelection": "reviewed",
+          "width": 1920,
+          "height": 1080
+        }
+      ],
+      "sources": [
+        {
+          "label": "comparison-scenes.tsx",
+          "symbol": "SP011",
+          "url": "/api/design-source/154adb46336c2e4103327ed6",
+          "available": true,
+          "status": "ready"
+        },
+        {
+          "label": "README.md",
+          "symbol": "",
+          "url": "/api/design-source/0f6b7cf25a3adc7e2a89da72",
+          "available": true,
+          "status": "ready"
+        },
+        {
+          "label": "compositions.json",
+          "symbol": "",
+          "url": "/api/design-source/31e353577489da5cfc8e0e55",
+          "available": true,
+          "status": "ready"
+        },
+        {
+          "label": "dependency-manifest.json",
+          "symbol": "",
+          "url": "/api/design-source/69f810b0bde35eb6f259118a",
+          "available": true,
+          "status": "ready"
+        },
+        {
+          "label": "manifest.json",
+          "symbol": "",
+          "url": "/api/design-source/54a00e980c2656b255d535cd",
+          "available": true,
+          "status": "ready"
+        },
+        {
+          "label": "package-lock.json",
+          "symbol": "",
+          "url": "/api/design-source/24ee41b80a9c75326e093b57",
+          "available": true,
+          "status": "ready"
+        },
+        {
+          "label": "package.json",
+          "symbol": "",
+          "url": "/api/design-source/8b2783cecbddee08046f7fd6",
+          "available": true,
+          "status": "ready"
+        },
+        {
+          "label": "render.cjs",
+          "symbol": "",
+          "url": "/api/design-source/f24a482e53cc95963ffaee20",
+          "available": true,
+          "status": "ready"
+        },
+        {
+          "label": "comparison-scenes.tsx",
+          "symbol": "",
+          "url": "/api/design-source/154adb46336c2e4103327ed6",
+          "available": true,
+          "status": "ready"
+        },
+        {
+          "label": "fred-scene.tsx",
+          "symbol": "",
+          "url": "/api/design-source/76a36ff182c1a56423a39190",
+          "available": true,
+          "status": "ready"
+        },
+        {
+          "label": "library-entry.tsx",
+          "symbol": "",
+          "url": "/api/design-source/e978d272356b5934dd26c94e",
+          "available": true,
+          "status": "ready"
+        },
+        {
+          "label": "sp014-extra-native.json",
+          "symbol": "",
+          "url": "/api/design-source/bd8989c0728eba9b12b9e615",
+          "available": true,
+          "status": "ready"
+        },
+        {
+          "label": "material-policy.tsx",
+          "symbol": "",
+          "url": "/api/design-source/87b796235d6e010db3957310",
+          "available": true,
+          "status": "ready"
+        },
+        {
+          "label": "material-bindings.json",
+          "symbol": "",
+          "url": "/api/design-source/07b67307c0357e8b0f2f6562",
+          "available": true,
+          "status": "ready"
+        }
+      ],
+      "matching": {
+        "referenceId": "library-selfpick24-sp011",
+        "primaryUse": "explain",
+        "useIds": [
+          "explain",
+          "data"
+        ],
+        "sourceId": "fredtalk",
+        "conceptIds": [
+          "text",
+          "data",
+          "process"
+        ],
+        "inputObjects": [
+          "文字",
+          "信息结构",
+          "数值",
+          "图表"
+        ],
+        "action": "30+ 能力四格分类展示",
+        "segmentRole": "一段解释",
+        "nativeDurationSeconds": 4.967,
+        "adaptation": "按口播分成几步建立与阅读；15–20秒需重排具体cue和阅读窗口，原短片不是现成20秒模板。",
+        "tags": [
+          "讲解段落",
+          "数值与图表",
+          "文字",
+          "信息结构",
+          "数值",
+          "图表",
+          "一段解释",
+          "列举要点与能力"
+        ],
+        "scenarioId": "list",
+        "scenarioTitle": "列举要点与能力",
+        "label": "SP011",
+        "categoryId": "explain",
+        "category": "讲解段落",
+        "sceneTypes": [
+          "image-comparison"
+        ],
+        "title": "30+ 能力四格分类展示",
+        "collectionId": null,
+        "kind": "remakes",
+        "score": 39.1,
+        "matchedConceptIds": [
+          "data"
+        ],
+        "matchedUseIds": [],
+        "matchedWords": [],
+        "reasons": [
+          "数值与图表"
+        ]
+      },
+      "sceneTypes": [
+        "image-comparison"
+      ],
+      "implementation": {
+        "projects": [
+          "components/projects/46d3ccc7f02f"
+        ],
+        "compositionId": "SP011",
+        "reuseBoundary": "Sanitized source snapshot; media dependencies are declared in library/media-manifest.json. Inspect the project entry for registration when compositionId is not recorded.",
+        "entryPoint": "components/projects/46d3ccc7f02f/src/library-entry.tsx",
+        "publicDir": "components/projects/46d3ccc7f02f/public",
+        "runtimeVersion": "4.0.515",
+        "renderInputProps": {
+          "includeNarration": false
+        }
+      },
+      "assetAvailability": {
+        "quarantinedDependencyPaths": 8,
+        "note": "Full project snapshot may include unused branches; check the selected composition."
+      },
+      "materialRevision": "20261004-material-replacements",
+      "previewMatchesImplementation": true,
+      "materialStatus": "rendered-and-reviewed",
+      "materialSources": [
+        "/api/design-source/87b796235d6e010db3957310",
+        "/api/design-source/07b67307c0357e8b0f2f6562"
+      ],
+      "sourceFiles": [
+        {
+          "path": "components/projects/46d3ccc7f02f/src/comparison-scenes.tsx",
+          "sha256": "01f332ccd73cba11d0b82115e1604cd005ba393b27224e2e26fbd2ff42ff13f7",
+          "url": "/api/design-source/154adb46336c2e4103327ed6",
+          "available": true,
+          "remoteAvailable": false,
+          "status": "ready",
+          "symbol": "SP011"
+        },
+        {
+          "path": "components/projects/46d3ccc7f02f/README.md",
+          "sha256": "7d0ed68aae961578356d04a068af60e99a3a7d2a144116812f125ff8e4ad3325",
+          "url": "/api/design-source/0f6b7cf25a3adc7e2a89da72",
+          "available": true,
+          "remoteAvailable": false,
+          "status": "ready"
+        },
+        {
+          "path": "components/projects/46d3ccc7f02f/compositions.json",
+          "sha256": "0a84f353a0c4abef72030b810056c2d620c51afb77b49f410d40f9e150dc933b",
+          "url": "/api/design-source/31e353577489da5cfc8e0e55",
+          "available": true,
+          "remoteAvailable": false,
+          "status": "ready"
+        },
+        {
+          "path": "components/projects/46d3ccc7f02f/dependency-manifest.json",
+          "sha256": "0caa48da8b440857c3e3e7bd945e97dcdd904e66a3f86bc2029d74158781c62e",
+          "url": "/api/design-source/69f810b0bde35eb6f259118a",
+          "available": true,
+          "remoteAvailable": false,
+          "status": "ready"
+        },
+        {
+          "path": "components/projects/46d3ccc7f02f/manifest.json",
+          "sha256": "b5a91ae59062eb58cf4370bc9b40d18c0d31a526fb42369ac88c128e371baada",
+          "url": "/api/design-source/54a00e980c2656b255d535cd",
+          "available": true,
+          "remoteAvailable": false,
+          "status": "ready"
+        },
+        {
+          "path": "components/projects/46d3ccc7f02f/package-lock.json",
+          "sha256": "56f19b8278f17737362b61831cc381962d3274f5c358e3221ebc013390f26a25",
+          "url": "/api/design-source/24ee41b80a9c75326e093b57",
+          "available": true,
+          "remoteAvailable": false,
+          "status": "ready"
+        },
+        {
+          "path": "components/projects/46d3ccc7f02f/package.json",
+          "sha256": "7c755f42564b942f52213292aa88756b81a47f23e917cda1ea4d69a8b56901b5",
+          "url": "/api/design-source/8b2783cecbddee08046f7fd6",
+          "available": true,
+          "remoteAvailable": false,
+          "status": "ready"
+        },
+        {
+          "path": "components/projects/46d3ccc7f02f/render.cjs",
+          "sha256": "9ebb6e4cea8947a489a968f280cc4ba9de994b507d05f55cd3f61efca961557b",
+          "url": "/api/design-source/f24a482e53cc95963ffaee20",
+          "available": true,
+          "remoteAvailable": false,
+          "status": "ready"
+        },
+        {
+          "path": "components/projects/46d3ccc7f02f/src/comparison-scenes.tsx",
+          "sha256": "01f332ccd73cba11d0b82115e1604cd005ba393b27224e2e26fbd2ff42ff13f7",
+          "url": "/api/design-source/154adb46336c2e4103327ed6",
+          "available": true,
+          "remoteAvailable": false,
+          "status": "ready"
+        },
+        {
+          "path": "components/projects/46d3ccc7f02f/src/fred-scene.tsx",
+          "sha256": "eff50f037d1bed44df1a0b2854cd643a83a3fb9c6f5d703c3a64b78da2090028",
+          "url": "/api/design-source/76a36ff182c1a56423a39190",
+          "available": true,
+          "remoteAvailable": false,
+          "status": "ready"
+        },
+        {
+          "path": "components/projects/46d3ccc7f02f/src/library-entry.tsx",
+          "sha256": "16d09b0b589e6a14624452a201a31c97a682ee78e42e0803ee4c4ae1b4e99864",
+          "url": "/api/design-source/e978d272356b5934dd26c94e",
+          "available": true,
+          "remoteAvailable": false,
+          "status": "ready"
+        },
+        {
+          "path": "components/projects/46d3ccc7f02f/src/sp014-extra-native.json",
+          "sha256": "990af69101871e308c92461d168bf3bc38dd7dc90eb994a607ad89869031bed9",
+          "url": "/api/design-source/bd8989c0728eba9b12b9e615",
+          "available": true,
+          "remoteAvailable": false,
+          "status": "ready"
+        },
+        {
+          "path": "components/projects/46d3ccc7f02f/material-policy.tsx",
+          "sha256": "0a272e37e1b1fbc828fb49b52ced539663a8f4352b436907f235b7667bc39434",
+          "url": "/api/design-source/87b796235d6e010db3957310",
+          "available": true,
+          "remoteAvailable": false,
+          "status": "ready"
+        },
+        {
+          "path": "components/projects/46d3ccc7f02f/material-bindings.json",
+          "sha256": "8a75449b87e1b1e58d6e63fd8215f3067cb928b61439628022648ead2d1bddc3",
+          "url": "/api/design-source/07b67307c0357e8b0f2f6562",
+          "available": true,
+          "remoteAvailable": false,
+          "status": "ready"
+        }
+      ],
+      "sourceAvailability": {
+        "available": true,
+        "status": "ready",
+        "authRequired": false,
+        "installationRequired": false,
+        "reason": "Verified source is installed.",
+        "importCommand": null,
+        "downloadCommand": null,
+        "installCommand": null
+      },
+      "candidateId": "library-selfpick24-sp011"
+    },
+    {
+      "id": "component:library-legacy81-b062",
+      "label": "L81-B062",
+      "segments": [
+        {
+          "start": 0,
+          "end": 9.0,
+          "fps": 60.0,
+          "url": "/api/design-assets/86fecbca956bd3b9128e3dec"
+        }
+      ],
+      "referenceId": "library-legacy81-b062",
+      "title": "人物与AI柱状图数值对照",
+      "kind": "components",
+      "category": "数值与图表",
+      "origin": "FredTalk 组件库",
+      "description": "人物与AI柱状图数值对照",
+      "tags": [
+        "数值与图表",
+        "数值",
+        "图表",
+        "人物素材",
+        "数据证据",
+        "表格与图表对比"
+      ],
+      "selectionStatus": "keep",
+      "reusability": {
+        "level": "snapshot",
+        "label": "当前场景源码",
+        "parameters": [],
+        "limitations": [
+          "当前展示沿用统一库的清理版本；按所展示的准确源码适配本期内容。",
+          "不把旧参考的参数接口或参考片段认可自动转移给当前适配。"
+        ]
+      },
+      "previews": [
+        {
+          "videoUrl": "/api/design-assets/6d25e139944791fbb5d613f5",
+          "posterUrl": "/api/design-assets/fd3dee662b1bd172d63bb913",
+          "keyframes": [
+            {
+              "url": "/api/design-assets/2096af4648782451f222b1cb",
+              "timeSeconds": 1.9833333333333334,
+              "frame": 119
+            },
+            {
+              "url": "/api/design-assets/d1a7776787438aef82d2b83c",
+              "timeSeconds": 4.683333333333334,
+              "frame": 281
+            },
+            {
+              "url": "/api/design-assets/efaede560e609c4ecdf25695",
+              "timeSeconds": 7.016666666666667,
+              "frame": 421
+            }
+          ],
+          "available": true,
+          "status": "ready",
+          "start": 0,
+          "end": 9.0,
+          "fps": 60,
+          "audioPolicy": "no-audio-track",
+          "posterTimeSeconds": 7.733333333333333,
+          "posterSelection": "reviewed"
+        }
+      ],
+      "sources": [
+        {
+          "label": "RebuiltB062.tsx",
+          "symbol": "",
+          "url": "/api/design-source/ec2b8327ec94b1712fcde170",
+          "available": true,
+          "status": "ready"
+        }
+      ],
+      "mergedInto": [],
+      "hiddenReason": null,
+      "visibleByDefault": true,
+      "categoryId": "data",
+      "libraryOrder": 999,
+      "matching": {
+        "referenceId": "library-legacy81-b062",
+        "primaryUse": "data",
+        "useIds": [
+          "data"
+        ],
+        "sourceId": "fredtalk",
+        "conceptIds": [
+          "data",
+          "comparison",
+          "people"
+        ],
+        "inputObjects": [
+          "数值",
+          "图表",
+          "人物素材"
+        ],
+        "action": "人物与AI柱状图数值对照",
+        "segmentRole": "数据证据",
+        "nativeDurationSeconds": 9.0,
+        "adaptation": "使用真实数值、单位和比较关系；仅在数据承担解释职责时选用。",
+        "tags": [
+          "数值与图表",
+          "数值",
+          "图表",
+          "人物素材",
+          "数据证据",
+          "表格与图表对比"
+        ],
+        "variantFamily": "b062",
+        "variantRepresentative": "L81-B062",
+        "scenarioId": "data",
+        "scenarioTitle": "表格与图表对比",
+        "label": "L81-B062",
+        "categoryId": "data",
+        "category": "数值与图表",
+        "sceneTypes": [
+          "summary",
+          "metric-change"
+        ],
+        "title": "人物与AI柱状图数值对照",
+        "collectionId": null,
+        "kind": "components",
+        "score": 39.1,
+        "matchedConceptIds": [
+          "data"
+        ],
+        "matchedUseIds": [],
+        "matchedWords": [],
+        "reasons": [
+          "数值与图表"
+        ]
+      },
+      "sceneTypes": [
+        "summary",
+        "metric-change"
+      ],
+      "projectDownload": {
+        "url": null,
+        "filename": "db23334ffbe7af4b.zip",
+        "available": true
+      },
+      "implementation": {
+        "projects": [
+          "components/projects/65b6174940b2"
+        ],
+        "compositionId": "FredMotion-062",
+        "reuseBoundary": "Sanitized source snapshot; media dependencies are declared in library/media-manifest.json. Inspect the project entry for registration when compositionId is not recorded."
+      },
+      "assetAvailability": {
+        "quarantinedDependencyPaths": 0,
+        "note": "Full project snapshot may include unused branches; check the selected composition."
+      },
+      "sourceFiles": [
+        {
+          "path": "components/projects/65b6174940b2/groups/b/src/RebuiltB062.tsx",
+          "sha256": "53934c0f7753620db1275b210de8b1c48cdb89b71e570e8e8538d5646aa8f08c",
+          "url": "/api/design-source/ec2b8327ec94b1712fcde170",
+          "available": true,
+          "remoteAvailable": false,
+          "status": "ready"
+        }
+      ],
+      "sourceAvailability": {
+        "available": true,
+        "status": "ready",
+        "authRequired": false,
+        "installationRequired": false,
+        "reason": "Verified source is installed.",
+        "importCommand": null,
+        "downloadCommand": null,
+        "installCommand": null
+      },
+      "candidateId": "library-legacy81-b062"
+    }
+  ]
+}

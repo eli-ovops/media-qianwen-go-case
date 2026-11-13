@@ -1,0 +1,17 @@
+{
+  "content_id": "qianwen-go-case-20261013",
+  "version": "v9-r3c",
+  "decision": "ACCEPT_INTERNAL_QA_WAIT_USER_FINAL_AV",
+  "pmo_thread_id": "01a11194-c40d-7bf0-8396-5bb5d6449444",
+  "sha256": "797426b66fec27431ecf298b9df67f9869b2cddfaa456b1c851009dd6b84ab10",
+  "evidence_read": [
+    "完整成片-v9-r3c质检报告.md",
+    "完整成片-v9-r3c质检.json",
+    "evidence-v9-r3c/handoff-contact-1.jpg",
+    "evidence-v9-r3c/caption-contact-3.jpg"
+  ],
+  "mandatory_fixes": 0,
+  "limits": "实际截图及原件复核，非连续视听；结尾短暂叠化仍需正常速度用户确认",
+  "human_final_review": "PENDING",
+  "06_released": false
+}

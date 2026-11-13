@@ -1,0 +1,341 @@
+{
+  "video_sha256": "797426b66fec27431ecf298b9df67f9869b2cddfaa456b1c851009dd6b84ab10",
+  "frames": [
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/qianwen-go-case-20261013/flow/05/evidence-v9-r3c/handoff-001.jpg",
+      "frame": 5776,
+      "seconds": 96.26666666666667
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/qianwen-go-case-20261013/flow/05/evidence-v9-r3c/handoff-002.jpg",
+      "frame": 5777,
+      "seconds": 96.28333333333333
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/qianwen-go-case-20261013/flow/05/evidence-v9-r3c/handoff-003.jpg",
+      "frame": 5778,
+      "seconds": 96.3
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/qianwen-go-case-20261013/flow/05/evidence-v9-r3c/handoff-004.jpg",
+      "frame": 5779,
+      "seconds": 96.31666666666666
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/qianwen-go-case-20261013/flow/05/evidence-v9-r3c/handoff-005.jpg",
+      "frame": 5780,
+      "seconds": 96.33333333333333
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/qianwen-go-case-20261013/flow/05/evidence-v9-r3c/handoff-006.jpg",
+      "frame": 5781,
+      "seconds": 96.35
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/qianwen-go-case-20261013/flow/05/evidence-v9-r3c/handoff-007.jpg",
+      "frame": 5782,
+      "seconds": 96.36666666666666
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/qianwen-go-case-20261013/flow/05/evidence-v9-r3c/handoff-008.jpg",
+      "frame": 5783,
+      "seconds": 96.38333333333334
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/qianwen-go-case-20261013/flow/05/evidence-v9-r3c/handoff-009.jpg",
+      "frame": 5784,
+      "seconds": 96.4
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/qianwen-go-case-20261013/flow/05/evidence-v9-r3c/handoff-010.jpg",
+      "frame": 5785,
+      "seconds": 96.41666666666667
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/qianwen-go-case-20261013/flow/05/evidence-v9-r3c/handoff-011.jpg",
+      "frame": 5786,
+      "seconds": 96.43333333333334
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/qianwen-go-case-20261013/flow/05/evidence-v9-r3c/handoff-012.jpg",
+      "frame": 5787,
+      "seconds": 96.45
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/qianwen-go-case-20261013/flow/05/evidence-v9-r3c/handoff-013.jpg",
+      "frame": 5788,
+      "seconds": 96.46666666666667
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/qianwen-go-case-20261013/flow/05/evidence-v9-r3c/handoff-014.jpg",
+      "frame": 5789,
+      "seconds": 96.48333333333333
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/qianwen-go-case-20261013/flow/05/evidence-v9-r3c/handoff-015.jpg",
+      "frame": 5790,
+      "seconds": 96.5
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/qianwen-go-case-20261013/flow/05/evidence-v9-r3c/handoff-016.jpg",
+      "frame": 5791,
+      "seconds": 96.51666666666667
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/qianwen-go-case-20261013/flow/05/evidence-v9-r3c/handoff-017.jpg",
+      "frame": 5792,
+      "seconds": 96.53333333333333
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/qianwen-go-case-20261013/flow/05/evidence-v9-r3c/handoff-018.jpg",
+      "frame": 5793,
+      "seconds": 96.55
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/qianwen-go-case-20261013/flow/05/evidence-v9-r3c/handoff-019.jpg",
+      "frame": 5794,
+      "seconds": 96.56666666666666
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/qianwen-go-case-20261013/flow/05/evidence-v9-r3c/handoff-020.jpg",
+      "frame": 5795,
+      "seconds": 96.58333333333333
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/qianwen-go-case-20261013/flow/05/evidence-v9-r3c/handoff-021.jpg",
+      "frame": 5796,
+      "seconds": 96.6
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/qianwen-go-case-20261013/flow/05/evidence-v9-r3c/handoff-022.jpg",
+      "frame": 5797,
+      "seconds": 96.61666666666666
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/qianwen-go-case-20261013/flow/05/evidence-v9-r3c/handoff-023.jpg",
+      "frame": 5798,
+      "seconds": 96.63333333333334
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/qianwen-go-case-20261013/flow/05/evidence-v9-r3c/handoff-024.jpg",
+      "frame": 5799,
+      "seconds": 96.65
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/qianwen-go-case-20261013/flow/05/evidence-v9-r3c/handoff-025.jpg",
+      "frame": 5800,
+      "seconds": 96.66666666666667
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/qianwen-go-case-20261013/flow/05/evidence-v9-r3c/handoff-026.jpg",
+      "frame": 5801,
+      "seconds": 96.68333333333334
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/qianwen-go-case-20261013/flow/05/evidence-v9-r3c/handoff-027.jpg",
+      "frame": 5802,
+      "seconds": 96.7
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/qianwen-go-case-20261013/flow/05/evidence-v9-r3c/handoff-028.jpg",
+      "frame": 5803,
+      "seconds": 96.71666666666667
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/qianwen-go-case-20261013/flow/05/evidence-v9-r3c/handoff-029.jpg",
+      "frame": 5804,
+      "seconds": 96.73333333333333
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/qianwen-go-case-20261013/flow/05/evidence-v9-r3c/handoff-030.jpg",
+      "frame": 5805,
+      "seconds": 96.75
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/qianwen-go-case-20261013/flow/05/evidence-v9-r3c/handoff-031.jpg",
+      "frame": 5806,
+      "seconds": 96.76666666666667
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/qianwen-go-case-20261013/flow/05/evidence-v9-r3c/handoff-032.jpg",
+      "frame": 5807,
+      "seconds": 96.78333333333333
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/qianwen-go-case-20261013/flow/05/evidence-v9-r3c/handoff-033.jpg",
+      "frame": 5808,
+      "seconds": 96.8
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/qianwen-go-case-20261013/flow/05/evidence-v9-r3c/handoff-034.jpg",
+      "frame": 5809,
+      "seconds": 96.81666666666666
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/qianwen-go-case-20261013/flow/05/evidence-v9-r3c/handoff-035.jpg",
+      "frame": 5810,
+      "seconds": 96.83333333333333
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/qianwen-go-case-20261013/flow/05/evidence-v9-r3c/handoff-036.jpg",
+      "frame": 5811,
+      "seconds": 96.85
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/qianwen-go-case-20261013/flow/05/evidence-v9-r3c/handoff-037.jpg",
+      "frame": 5812,
+      "seconds": 96.86666666666666
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/qianwen-go-case-20261013/flow/05/evidence-v9-r3c/handoff-038.jpg",
+      "frame": 5813,
+      "seconds": 96.88333333333334
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/qianwen-go-case-20261013/flow/05/evidence-v9-r3c/handoff-039.jpg",
+      "frame": 5814,
+      "seconds": 96.9
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/qianwen-go-case-20261013/flow/05/evidence-v9-r3c/handoff-040.jpg",
+      "frame": 5815,
+      "seconds": 96.91666666666667
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/qianwen-go-case-20261013/flow/05/evidence-v9-r3c/handoff-041.jpg",
+      "frame": 5816,
+      "seconds": 96.93333333333334
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/qianwen-go-case-20261013/flow/05/evidence-v9-r3c/handoff-042.jpg",
+      "frame": 5817,
+      "seconds": 96.95
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/qianwen-go-case-20261013/flow/05/evidence-v9-r3c/handoff-043.jpg",
+      "frame": 5818,
+      "seconds": 96.96666666666667
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/qianwen-go-case-20261013/flow/05/evidence-v9-r3c/handoff-044.jpg",
+      "frame": 5819,
+      "seconds": 96.98333333333333
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/qianwen-go-case-20261013/flow/05/evidence-v9-r3c/handoff-045.jpg",
+      "frame": 5820,
+      "seconds": 97.0
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/qianwen-go-case-20261013/flow/05/evidence-v9-r3c/handoff-046.jpg",
+      "frame": 5821,
+      "seconds": 97.01666666666667
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/qianwen-go-case-20261013/flow/05/evidence-v9-r3c/handoff-047.jpg",
+      "frame": 5822,
+      "seconds": 97.03333333333333
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/qianwen-go-case-20261013/flow/05/evidence-v9-r3c/handoff-048.jpg",
+      "frame": 5823,
+      "seconds": 97.05
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/qianwen-go-case-20261013/flow/05/evidence-v9-r3c/handoff-049.jpg",
+      "frame": 5824,
+      "seconds": 97.06666666666666
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/qianwen-go-case-20261013/flow/05/evidence-v9-r3c/handoff-050.jpg",
+      "frame": 5825,
+      "seconds": 97.08333333333333
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/qianwen-go-case-20261013/flow/05/evidence-v9-r3c/handoff-051.jpg",
+      "frame": 5826,
+      "seconds": 97.1
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/qianwen-go-case-20261013/flow/05/evidence-v9-r3c/handoff-052.jpg",
+      "frame": 5827,
+      "seconds": 97.11666666666666
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/qianwen-go-case-20261013/flow/05/evidence-v9-r3c/handoff-053.jpg",
+      "frame": 5828,
+      "seconds": 97.13333333333334
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/qianwen-go-case-20261013/flow/05/evidence-v9-r3c/handoff-054.jpg",
+      "frame": 5829,
+      "seconds": 97.15
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/qianwen-go-case-20261013/flow/05/evidence-v9-r3c/handoff-055.jpg",
+      "frame": 5830,
+      "seconds": 97.16666666666667
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/qianwen-go-case-20261013/flow/05/evidence-v9-r3c/handoff-056.jpg",
+      "frame": 5831,
+      "seconds": 97.18333333333334
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/qianwen-go-case-20261013/flow/05/evidence-v9-r3c/handoff-057.jpg",
+      "frame": 5832,
+      "seconds": 97.2
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/qianwen-go-case-20261013/flow/05/evidence-v9-r3c/handoff-058.jpg",
+      "frame": 5833,
+      "seconds": 97.21666666666667
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/qianwen-go-case-20261013/flow/05/evidence-v9-r3c/handoff-059.jpg",
+      "frame": 5834,
+      "seconds": 97.23333333333333
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/qianwen-go-case-20261013/flow/05/evidence-v9-r3c/handoff-060.jpg",
+      "frame": 5835,
+      "seconds": 97.25
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/qianwen-go-case-20261013/flow/05/evidence-v9-r3c/handoff-061.jpg",
+      "frame": 5836,
+      "seconds": 97.26666666666667
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/qianwen-go-case-20261013/flow/05/evidence-v9-r3c/handoff-062.jpg",
+      "frame": 5837,
+      "seconds": 97.28333333333333
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/qianwen-go-case-20261013/flow/05/evidence-v9-r3c/handoff-063.jpg",
+      "frame": 5838,
+      "seconds": 97.3
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/qianwen-go-case-20261013/flow/05/evidence-v9-r3c/handoff-064.jpg",
+      "frame": 5839,
+      "seconds": 97.31666666666666
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/qianwen-go-case-20261013/flow/05/evidence-v9-r3c/handoff-065.jpg",
+      "frame": 5840,
+      "seconds": 97.33333333333333
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/qianwen-go-case-20261013/flow/05/evidence-v9-r3c/handoff-066.jpg",
+      "frame": 5841,
+      "seconds": 97.35
+    }
+  ],
+  "crop_box": [
+    300,
+    440,
+    820,
+    1330
+  ]
+}

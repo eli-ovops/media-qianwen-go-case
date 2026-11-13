@@ -1,0 +1,51 @@
+{
+  "whole_sample_frames": 22,
+  "native_times": [
+    0,
+    2.3,
+    4.8,
+    6.9,
+    9.8,
+    11.5,
+    13.9,
+    15.8,
+    17.9,
+    20.5,
+    21.75
+  ],
+  "dense_windows": [
+    {
+      "start": 144,
+      "frames": 30,
+      "fps": 60
+    },
+    {
+      "start": 384,
+      "frames": 42,
+      "fps": 60
+    },
+    {
+      "start": 474,
+      "frames": 42,
+      "fps": 60
+    },
+    {
+      "start": 792,
+      "frames": 54,
+      "fps": 60
+    },
+    {
+      "start": 864,
+      "frames": 72,
+      "fps": 60
+    },
+    {
+      "start": 1026,
+      "frames": 54,
+      "fps": 60
+    }
+  ],
+  "dense_total": 294,
+  "assistant_viewed": false,
+  "limits": "sampled and window frames, not all1308 final frames or realtime AV review"
+}

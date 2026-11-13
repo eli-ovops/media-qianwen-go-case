@@ -1,0 +1,35 @@
+{
+  "video": {
+    "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/output/qianwen-go-full-v9-r3c.mp4",
+    "bytes": 9693641,
+    "sha256": "797426b66fec27431ecf298b9df67f9869b2cddfaa456b1c851009dd6b84ab10"
+  },
+  "decodedFrames": 6122,
+  "firstPTS": 0.0,
+  "lastPTS": 102.017,
+  "maxPrintedPTSError": 0.00033333333334439885,
+  "ptsTickDelta": [
+    256
+  ],
+  "decodeExit": 0,
+  "audioAACPayloadIdentical": true,
+  "audioAACSHA256": "3a6508908ff69a78ade981ba84bc7a6693d0aacc510a4009005eb2f40516ac54",
+  "sourcePreservation": {
+    "CostScene.tsx": true,
+    "Entry.tsx": true,
+    "captions.json": true,
+    "Film.tsx_only_portrait_path_and_authorized_closing_cover": true
+  },
+  "oldVersion": {
+    "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/output/qianwen-go-full-v9-r2.mp4",
+    "bytes": 12708298,
+    "sha256": "7ae629dc36fa7412755fb8f719fa9f8b428b35c588cbc139e958eaa53a8218d5"
+  },
+  "rawVoice": {
+    "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/project/public/voice.wav",
+    "bytes": 14690982,
+    "sha256": "aba22d40e5b158c948184a8eaa259f45970261e06edcf295d0e6a86b09caf7a2"
+  },
+  "scope": "technical checks only, no direct listening or continuous audiovisual review",
+  "audioDecodeExit": 0
+}

@@ -1,0 +1,405 @@
+[
+  {
+    "path": "/Users/USER/Downloads/7b14be666720ab35b4c9330ff5caf3bb_raw.mp4",
+    "directory": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/7b14be666720ab35b4c9330ff5caf3bb_raw",
+    "bytes": 33518582,
+    "sha256": "a9f103d1e866fb68374b67be565c788af7b5383b97d572fe5b6f6355538e6458",
+    "metadata": {
+      "format": {
+        "bit_rate": "49810895",
+        "duration": "5.383333333333334",
+        "format_name": "mov,mp4 (AVFoundation adapter)",
+        "size": "33518582"
+      },
+      "streams": [
+        {
+          "avg_frame_rate": "60.0/1",
+          "codec_name": "hevc",
+          "codec_type": "video",
+          "height": 3840,
+          "width": 2160
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        }
+      ]
+    },
+    "audio": {
+      "duration": 5.396,
+      "rms_dbfs": -25.521350704581373,
+      "peak_dbfs": -7.703610223086955,
+      "clipped_samples": 0,
+      "samples": 86336,
+      "rate": 16000,
+      "seconds_rms_dbfs": [
+        -22.01,
+        -25.05,
+        -25.92,
+        -25.93,
+        -32.28,
+        -58.57
+      ]
+    },
+    "samples": [
+      {
+        "requested_seconds": 0.108,
+        "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/7b14be666720ab35b4c9330ff5caf3bb_raw/frame-0000.108.jpg",
+        "read": false
+      },
+      {
+        "requested_seconds": 0.809,
+        "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/7b14be666720ab35b4c9330ff5caf3bb_raw/frame-0000.809.jpg",
+        "read": false
+      },
+      {
+        "requested_seconds": 1.619,
+        "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/7b14be666720ab35b4c9330ff5caf3bb_raw/frame-0001.619.jpg",
+        "read": false
+      },
+      {
+        "requested_seconds": 2.698,
+        "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/7b14be666720ab35b4c9330ff5caf3bb_raw/frame-0002.698.jpg",
+        "read": false
+      },
+      {
+        "requested_seconds": 3.777,
+        "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/7b14be666720ab35b4c9330ff5caf3bb_raw/frame-0003.777.jpg",
+        "read": false
+      },
+      {
+        "requested_seconds": 4.587,
+        "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/7b14be666720ab35b4c9330ff5caf3bb_raw/frame-0004.587.jpg",
+        "read": false
+      },
+      {
+        "requested_seconds": 5.234,
+        "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/7b14be666720ab35b4c9330ff5caf3bb_raw/frame-0005.234.jpg",
+        "read": false
+      }
+    ]
+  },
+  {
+    "path": "/Users/USER/Downloads/e404afe47f88fa4affadf7f5fa273814_raw.mp4",
+    "directory": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/e404afe47f88fa4affadf7f5fa273814_raw",
+    "bytes": 310877122,
+    "sha256": "2c9bd9f9b79808695d068c891eed29425986282d766f41c8ae0b54051f1ed495",
+    "metadata": {
+      "format": {
+        "bit_rate": "48531895",
+        "duration": "51.245",
+        "format_name": "mov,mp4 (AVFoundation adapter)",
+        "size": "310877122"
+      },
+      "streams": [
+        {
+          "avg_frame_rate": "59.98634/1",
+          "codec_name": "hevc",
+          "codec_type": "video",
+          "height": 3840,
+          "width": 2160
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        }
+      ]
+    },
+    "audio": {
+      "duration": 51.2626875,
+      "rms_dbfs": -23.36458846345007,
+      "peak_dbfs": -4.924812720415652,
+      "clipped_samples": 0,
+      "samples": 820203,
+      "rate": 16000,
+      "seconds_rms_dbfs": [
+        -21.38,
+        -22.24,
+        -21.16,
+        -24.3,
+        -23.59,
+        -27.07,
+        -25.53,
+        -25.78,
+        -20.18,
+        -24.2,
+        -28.73,
+        -23.48,
+        -23.62,
+        -25.03,
+        -26.71,
+        -22.54,
+        -26.42,
+        -26.34,
+        -27.71,
+        -21.77,
+        -24.54,
+        -21.27,
+        -24.36,
+        -24.7,
+        -22.37,
+        -20.1,
+        -24.31,
+        -23.68,
+        -28.74,
+        -19.42,
+        -21.68,
+        -21.05,
+        -22.71,
+        -23.89,
+        -20.73,
+        -23.93,
+        -23.13,
+        -23.1,
+        -21.15,
+        -20.73,
+        -22.17,
+        -30.35,
+        -26.68,
+        -26.74,
+        -22.69,
+        -23.15,
+        -26.02,
+        -22.89,
+        -24.63,
+        -25.44,
+        -36.03,
+        -60.47
+      ]
+    },
+    "samples": [
+      {
+        "requested_seconds": 1.025,
+        "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/e404afe47f88fa4affadf7f5fa273814_raw/frame-0001.025.jpg",
+        "read": false
+      },
+      {
+        "requested_seconds": 7.689,
+        "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/e404afe47f88fa4affadf7f5fa273814_raw/frame-0007.689.jpg",
+        "read": false
+      },
+      {
+        "requested_seconds": 15.379,
+        "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/e404afe47f88fa4affadf7f5fa273814_raw/frame-0015.379.jpg",
+        "read": false
+      },
+      {
+        "requested_seconds": 25.631,
+        "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/e404afe47f88fa4affadf7f5fa273814_raw/frame-0025.631.jpg",
+        "read": false
+      },
+      {
+        "requested_seconds": 35.884,
+        "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/e404afe47f88fa4affadf7f5fa273814_raw/frame-0035.884.jpg",
+        "read": false
+      },
+      {
+        "requested_seconds": 43.573,
+        "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/e404afe47f88fa4affadf7f5fa273814_raw/frame-0043.573.jpg",
+        "read": false
+      },
+      {
+        "requested_seconds": 49.725,
+        "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/e404afe47f88fa4affadf7f5fa273814_raw/frame-0049.725.jpg",
+        "read": false
+      }
+    ]
+  },
+  {
+    "path": "/Users/USER/Downloads/8e45868cc8576735af4ec1a25b4d40f5_raw.mp4",
+    "directory": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/8e45868cc8576735af4ec1a25b4d40f5_raw",
+    "bytes": 150867376,
+    "sha256": "da7c29b71f6fa2dc9d6b83952760ad12ea35f08162d2d271a3416718b8f55a84",
+    "metadata": {
+      "format": {
+        "bit_rate": "48854037",
+        "duration": "24.705",
+        "format_name": "mov,mp4 (AVFoundation adapter)",
+        "size": "150867376"
+      },
+      "streams": [
+        {
+          "avg_frame_rate": "59.987858/1",
+          "codec_name": "hevc",
+          "codec_type": "video",
+          "height": 3840,
+          "width": 2160
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        }
+      ]
+    },
+    "audio": {
+      "duration": 24.724,
+      "rms_dbfs": -25.63543892539768,
+      "peak_dbfs": -7.011833759943259,
+      "clipped_samples": 0,
+      "samples": 395584,
+      "rate": 16000,
+      "seconds_rms_dbfs": [
+        -21.88,
+        -28.0,
+        -23.44,
+        -28.08,
+        -32.96,
+        -34.26,
+        -25.63,
+        -27.81,
+        -30.86,
+        -23.71,
+        -28.73,
+        -25.7,
+        -25.28,
+        -25.8,
+        -28.95,
+        -25.74,
+        -25.19,
+        -23.11,
+        -25.86,
+        -26.83,
+        -21.9,
+        -23.54,
+        -24.82,
+        -26.08,
+        -34.76
+      ]
+    },
+    "samples": [
+      {
+        "requested_seconds": 0.494,
+        "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/8e45868cc8576735af4ec1a25b4d40f5_raw/frame-0000.494.jpg",
+        "read": false
+      },
+      {
+        "requested_seconds": 3.709,
+        "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/8e45868cc8576735af4ec1a25b4d40f5_raw/frame-0003.709.jpg",
+        "read": false
+      },
+      {
+        "requested_seconds": 7.417,
+        "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/8e45868cc8576735af4ec1a25b4d40f5_raw/frame-0007.417.jpg",
+        "read": false
+      },
+      {
+        "requested_seconds": 12.362,
+        "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/8e45868cc8576735af4ec1a25b4d40f5_raw/frame-0012.362.jpg",
+        "read": false
+      },
+      {
+        "requested_seconds": 17.307,
+        "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/8e45868cc8576735af4ec1a25b4d40f5_raw/frame-0017.307.jpg",
+        "read": false
+      },
+      {
+        "requested_seconds": 21.015,
+        "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/8e45868cc8576735af4ec1a25b4d40f5_raw/frame-0021.015.jpg",
+        "read": false
+      },
+      {
+        "requested_seconds": 23.982,
+        "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/8e45868cc8576735af4ec1a25b4d40f5_raw/frame-0023.982.jpg",
+        "read": false
+      }
+    ]
+  },
+  {
+    "path": "/Users/USER/Downloads/70566362856e3aecc19310c1b2352f57_raw.mp4",
+    "directory": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/70566362856e3aecc19310c1b2352f57_raw",
+    "bytes": 144784682,
+    "sha256": "04bd489bb613273c39827d1aa19ff58ec7bd91727ef0f5e5d1048178c0a1ab79",
+    "metadata": {
+      "format": {
+        "bit_rate": "49629827",
+        "duration": "23.338333333333335",
+        "format_name": "mov,mp4 (AVFoundation adapter)",
+        "size": "144784682"
+      },
+      "streams": [
+        {
+          "avg_frame_rate": "59.987144/1",
+          "codec_name": "hevc",
+          "codec_type": "video",
+          "height": 3840,
+          "width": 2160
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        }
+      ]
+    },
+    "audio": {
+      "duration": 23.3373125,
+      "rms_dbfs": -23.2665005325175,
+      "peak_dbfs": -3.710876231190153,
+      "clipped_samples": 0,
+      "samples": 373397,
+      "rate": 16000,
+      "seconds_rms_dbfs": [
+        -21.91,
+        -19.71,
+        -21.02,
+        -21.19,
+        -24.61,
+        -20.6,
+        -20.05,
+        -28.23,
+        -26.43,
+        -21.42,
+        -22.56,
+        -21.91,
+        -25.61,
+        -25.8,
+        -23.96,
+        -26.6,
+        -23.61,
+        -27.95,
+        -23.91,
+        -26.13,
+        -23.56,
+        -24.43,
+        -35.51,
+        -64.3
+      ]
+    },
+    "samples": [
+      {
+        "requested_seconds": 0.467,
+        "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/70566362856e3aecc19310c1b2352f57_raw/frame-0000.467.jpg",
+        "read": false
+      },
+      {
+        "requested_seconds": 3.501,
+        "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/70566362856e3aecc19310c1b2352f57_raw/frame-0003.501.jpg",
+        "read": false
+      },
+      {
+        "requested_seconds": 7.001,
+        "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/70566362856e3aecc19310c1b2352f57_raw/frame-0007.001.jpg",
+        "read": false
+      },
+      {
+        "requested_seconds": 11.669,
+        "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/70566362856e3aecc19310c1b2352f57_raw/frame-0011.669.jpg",
+        "read": false
+      },
+      {
+        "requested_seconds": 16.336,
+        "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/70566362856e3aecc19310c1b2352f57_raw/frame-0016.336.jpg",
+        "read": false
+      },
+      {
+        "requested_seconds": 19.837,
+        "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/70566362856e3aecc19310c1b2352f57_raw/frame-0019.837.jpg",
+        "read": false
+      },
+      {
+        "requested_seconds": 22.637,
+        "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/70566362856e3aecc19310c1b2352f57_raw/frame-0022.637.jpg",
+        "read": false
+      }
+    ]
+  }
+]

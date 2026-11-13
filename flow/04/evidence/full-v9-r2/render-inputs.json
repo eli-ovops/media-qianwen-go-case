@@ -1,0 +1,85 @@
+{
+  "recordedAt": "2026-10-14T11:07:51.682117+08:00",
+  "files": [
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/qianwen-go-case-20261013/flow/04/project/render-full-v9-r2.cjs",
+      "bytes": 1777,
+      "sha256": "06ce565f446a75cd10e2577f2b952552ddd0a6dd289b49d853d8dce221f5ff58"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/qianwen-go-case-20261013/flow/04/project/src/v9r2/CostScene.tsx",
+      "bytes": 9952,
+      "sha256": "8512cffd80d17c16fad1ef12f85f49a97c326afcb1ce23b1f954657621216715"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/qianwen-go-case-20261013/flow/04/project/src/v9r2/Entry.tsx",
+      "bytes": 555,
+      "sha256": "cda194ae77f1d6517e4e030f528c87cfdcb915bdfdd606dffea935b517b6e5d1"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/qianwen-go-case-20261013/flow/04/project/src/v9r2/Film.tsx",
+      "bytes": 12469,
+      "sha256": "216c22f74b11ed7fae9f836c26d14c68385f26ebc7e7797db1c4f3e8a9781730"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/qianwen-go-case-20261013/flow/04/project/src/v9r2/captions.json",
+      "bytes": 9012,
+      "sha256": "6d2aa4ab18666627af72164a3b13d7250dab3fd8bd92dce0de3d5e1c1cb76260"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/qianwen-go-case-20261013/flow/04/project/src/v8/theme.ts",
+      "bytes": 3786,
+      "sha256": "a235e95c652137b43c31a9c680dabfd8fce3bbb45fac8559cd0af70ce2e9b1a3"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/qianwen-go-case-20261013/flow/04/project/src/v8/CostReminder.tsx",
+      "bytes": 9840,
+      "sha256": "692d7365600036a7da7036f35381b097950e87f868280c1b3893da027a700007"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/qianwen-go-case-20261013/flow/04/project/src/v8/captions.json",
+      "bytes": 1635,
+      "sha256": "f3a46865afd2f5f6ee18bee0f54200b245e02ba8b79e645ff5cceeb6d4b5723b"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/qianwen-go-case-20261013/flow/04/project/public/voice.wav",
+      "bytes": 14690982,
+      "sha256": "aba22d40e5b158c948184a8eaa259f45970261e06edcf295d0e6a86b09caf7a2"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/qianwen-go-case-20261013/flow/04/project/public/v9/intro.mp4",
+      "bytes": 1741996,
+      "sha256": "5efd8edcac57d7b62954d4e7d3ac0b2eac3419a66f297027aef415bd68dc69fd"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/qianwen-go-case-20261013/flow/04/project/public/v9/bridge-safe.mp4",
+      "bytes": 2220862,
+      "sha256": "6720c84c4478ac972aa3c7706aca9f29d0fa7de666c55bf11df02c28aacbe2a9"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/qianwen-go-case-20261013/flow/04/project/public/v9/opinion-safe.mp4",
+      "bytes": 2367395,
+      "sha256": "8a331f5d04d6548312d8c2161ba036104742443e162f5456712462d366c3884f"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/qianwen-go-case-20261013/flow/04/project/public/v9/close-safe.mp4",
+      "bytes": 3492085,
+      "sha256": "abe4314a9f453ece6be86992693e55e2871dc55668075b7391fdc5e43069ee22"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/qianwen-go-case-20261013/flow/04/project/public/v8/MiSans-Heavy.otf",
+      "bytes": 6677020,
+      "sha256": "6be4fe9fd5fcfbf766e90b0936b44b731893a3836376a77d964673f398b7131c"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/qianwen-go-case-20261013/flow/04/project/public/v8/MiSans-Medium.otf",
+      "bytes": 6550784,
+      "sha256": "f9239c75fa0a661b788916250c6d4ad0d52d8a643f1ce2a9142f6588d4d2cb64"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/qianwen-go-case-20261013/flow/04/project/public/v8/MiSans-Semibold.otf",
+      "bytes": 6530232,
+      "sha256": "8a194c3e7f6813f73a2c68988bf77483296268416fb0c1d0870338a0b23b8c9a"
+    }
+  ]
+}

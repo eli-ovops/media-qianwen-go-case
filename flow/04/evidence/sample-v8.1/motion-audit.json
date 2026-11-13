@@ -1,0 +1,38 @@
+{
+  "findings": [
+    {
+      "segment": "sample-motion-v8.1",
+      "kind": "nonstop",
+      "start": 2.6,
+      "end": 6.3,
+      "meanStep": 1.732,
+      "netChange": 29.7,
+      "duration": 3.7,
+      "allowed": false
+    },
+    {
+      "segment": "sample-motion-v8.1",
+      "kind": "hold-warn",
+      "start": 6.3,
+      "end": 8.7,
+      "meanStep": 0.042,
+      "netChange": 0.97,
+      "duration": 2.4,
+      "allowed": false
+    }
+  ],
+  "blocking": 0,
+  "params": {
+    "fps": 10.0,
+    "subtitle_band": 0.13,
+    "step_still": 0.12,
+    "step_slow": 0.9,
+    "max_hold": 2.0,
+    "max_hold_block": 3.0,
+    "max_slow": 1.2,
+    "max_move": 1.4,
+    "max_scroll": 2.0,
+    "cut_step": 80.0,
+    "allow": []
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "changed_interval": [
+    8,
+    21.8
+  ],
+  "tail_frames": 828,
+  "contact_sheets": 35,
+  "contact_tile_pixels": [
+    180,
+    320
+  ],
+  "native_times": [
+    8.1,
+    9.2,
+    9.8,
+    10.7,
+    11.5,
+    12.6,
+    13.2,
+    14.2,
+    15.4,
+    16.7,
+    17.3,
+    17.8,
+    18.4,
+    19.1,
+    19.6,
+    20.2,
+    20.7,
+    21.2
+  ],
+  "seam_interval": [
+    7.9,
+    8.0833333
+  ],
+  "seam_frames": 12,
+  "assistant_viewed": true,
+  "direct_listening": false,
+  "realtime_continuous_av_review": false,
+  "at": "2026-10-13T21:06:58.157524+08:00",
+  "actually_viewed": {
+    "tail_contact_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "tail_interval": [
+      8,
+      10.7833333333
+    ],
+    "tail_frames": 168,
+    "native_times": [
+      8.1,
+      9.2,
+      9.8
+    ],
+    "whole_sample_times": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21
+    ],
+    "seam_frames": 12,
+    "seam_interval": [
+      7.9,
+      8.0833333333
+    ],
+    "player_screenshot": 21.2
+  },
+  "unchanged_segment_prior_review": {
+    "scope_file": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v6-final/read-scope.json",
+    "tail_frames": 828,
+    "native_frames": 18,
+    "latest_change": "Remove redundant discount label only in frames480..623; remaining content reused and reencoded"
+  },
+  "limits": "Generated all828 frames and18 native screenshots; final2 actually read only specified subset. No direct audio listening or realtime continuous AV review. PMO visual acceptance pending."
+}

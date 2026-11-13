@@ -1,0 +1,709 @@
+{
+  "content_id": "qianwen-go-case-20261013",
+  "scope": "本flow/03本次v3新增，旧文件/用户提交/02冻结输入不修改",
+  "files": [
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/70566362856e3aecc19310c1b2352f57_raw/audio-energy.json",
+      "bytes": 9619,
+      "sha256": "f422eb150e7b39348bd79d0e87f9d1b2108400993621b1e453e002a12abbb6e1",
+      "purpose": "本地接收脚本/完整音轨ASR/实际采样/窄窗核验/验收交接",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/70566362856e3aecc19310c1b2352f57_raw/audio.wav",
+      "bytes": 746872,
+      "sha256": "fd7d307cabf19115f5e9a8d08ffa3adc9430c1b375e0f92678129d088a15fc52",
+      "purpose": "本地接收脚本/完整音轨ASR/实际采样/窄窗核验/验收交接",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/70566362856e3aecc19310c1b2352f57_raw/contact-sheet.jpg",
+      "bytes": 249965,
+      "sha256": "39626669768a4360f54e655ec7c90f7f0d045e50df26aab64bb5e6fe6252d6af",
+      "purpose": "本地接收脚本/完整音轨ASR/实际采样/窄窗核验/验收交接",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/70566362856e3aecc19310c1b2352f57_raw/detail-contact-sheet.jpg",
+      "bytes": 176554,
+      "sha256": "5c7b7710e9dd4b1460adf87b64a9e0a8d1898de72dfcca2582553ca4255678b4",
+      "purpose": "本地接收脚本/完整音轨ASR/实际采样/窄窗核验/验收交接",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/70566362856e3aecc19310c1b2352f57_raw/detail-frame-10.500.jpg",
+      "bytes": 59563,
+      "sha256": "5558cd64a86a5d4c0643d2c1218b9853cd23e6460fbd2fe2c67644434b0a4c24",
+      "purpose": "本地接收脚本/完整音轨ASR/实际采样/窄窗核验/验收交接",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/70566362856e3aecc19310c1b2352f57_raw/detail-frame-6.500.jpg",
+      "bytes": 65594,
+      "sha256": "a6c96210839b59d16b547c77c07a96aeafc296f5b5391bf0cbdad20f0562a86c",
+      "purpose": "本地接收脚本/完整音轨ASR/实际采样/窄窗核验/验收交接",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/70566362856e3aecc19310c1b2352f57_raw/detail-frame-7.500.jpg",
+      "bytes": 72969,
+      "sha256": "9e63fef5681cb20f8c8acbe21e621f3fbf00a7eef641dd73c87bce1b31c5a3b5",
+      "purpose": "本地接收脚本/完整音轨ASR/实际采样/窄窗核验/验收交接",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/70566362856e3aecc19310c1b2352f57_raw/detail-frame-8.500.jpg",
+      "bytes": 61560,
+      "sha256": "e903388600cbfffa86e59e5cd4a22726bfe79bd20a218ea736c4244921b1fe61",
+      "purpose": "本地接收脚本/完整音轨ASR/实际采样/窄窗核验/验收交接",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/70566362856e3aecc19310c1b2352f57_raw/detail-frame-9.500.jpg",
+      "bytes": 61444,
+      "sha256": "a77aa8982358854cfc761d09fecbf43425a8c3051ebf0d4d5c2589b6481ba121",
+      "purpose": "本地接收脚本/完整音轨ASR/实际采样/窄窗核验/验收交接",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/70566362856e3aecc19310c1b2352f57_raw/detail-range.json",
+      "bytes": 126,
+      "sha256": "cf83fc9b6482ec2c9112e429c07035b521ca8038345c117905d04b718c433959",
+      "purpose": "本地接收脚本/完整音轨ASR/实际采样/窄窗核验/验收交接",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/70566362856e3aecc19310c1b2352f57_raw/detail-transcript.json",
+      "bytes": 1076,
+      "sha256": "86806e2a82d11c5923c85390959e30d5d94120c3c150e756bb3701669254da32",
+      "purpose": "本地接收脚本/完整音轨ASR/实际采样/窄窗核验/验收交接",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/70566362856e3aecc19310c1b2352f57_raw/detail-transcript.srt",
+      "bytes": 192,
+      "sha256": "a829f08adf700dfc599119e51050c923ed6bdadc6750bbc46e031e7a2112d257",
+      "purpose": "本地接收脚本/完整音轨ASR/实际采样/窄窗核验/验收交接",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/70566362856e3aecc19310c1b2352f57_raw/detail-transcript.txt",
+      "bytes": 126,
+      "sha256": "5c72443a5e10e821e926b78a5bc38c79b7ffc65968288e5b2fc19d5b65809230",
+      "purpose": "本地接收脚本/完整音轨ASR/实际采样/窄窗核验/验收交接",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/70566362856e3aecc19310c1b2352f57_raw/detail-whisper.log",
+      "bytes": 3588,
+      "sha256": "7ed4bbc4e589938d5e969b9ff2090ac740bae3c2b9ce5710bf955023b89e6b81",
+      "purpose": "本地接收脚本/完整音轨ASR/实际采样/窄窗核验/验收交接",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/70566362856e3aecc19310c1b2352f57_raw/detail.wav",
+      "bytes": 377678,
+      "sha256": "1c27254121df08630de0aefb7ff80e1dcdff63d90680d71bce5543ef109972ac",
+      "purpose": "本地接收脚本/完整音轨ASR/实际采样/窄窗核验/验收交接",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/70566362856e3aecc19310c1b2352f57_raw/frame-0000.467.jpg",
+      "bytes": 63746,
+      "sha256": "e3d9b51935d73e175509d93ef3dc76744fa3dfe56b99aa71046aa04ce16dd9cd",
+      "purpose": "本地接收脚本/完整音轨ASR/实际采样/窄窗核验/验收交接",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/70566362856e3aecc19310c1b2352f57_raw/frame-0003.501.jpg",
+      "bytes": 64365,
+      "sha256": "35e9a622807d18e53e18ded77c87dce5be56f72a0b9afe6b3a4e30d1f39eb56d",
+      "purpose": "本地接收脚本/完整音轨ASR/实际采样/窄窗核验/验收交接",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/70566362856e3aecc19310c1b2352f57_raw/frame-0007.001.jpg",
+      "bytes": 73886,
+      "sha256": "ac60be85bc2af5978264f6f50a7f67ce00dbf302e2677b91f42d7457eeb1acec",
+      "purpose": "本地接收脚本/完整音轨ASR/实际采样/窄窗核验/验收交接",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/70566362856e3aecc19310c1b2352f57_raw/frame-0011.669.jpg",
+      "bytes": 58344,
+      "sha256": "81061ff10fafeb09dbc78d907e4306575e4765608bf0c5f9e56bedfb9e48905c",
+      "purpose": "本地接收脚本/完整音轨ASR/实际采样/窄窗核验/验收交接",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/70566362856e3aecc19310c1b2352f57_raw/frame-0016.336.jpg",
+      "bytes": 60273,
+      "sha256": "da021612f5953010564fafa9cae979ac951a808af12195bae624280ac4cadb70",
+      "purpose": "本地接收脚本/完整音轨ASR/实际采样/窄窗核验/验收交接",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/70566362856e3aecc19310c1b2352f57_raw/frame-0019.837.jpg",
+      "bytes": 70922,
+      "sha256": "97c7f728086afb267ae3d877fc709ec39e0a086595aeb853ec229ed645f36947",
+      "purpose": "本地接收脚本/完整音轨ASR/实际采样/窄窗核验/验收交接",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/70566362856e3aecc19310c1b2352f57_raw/frame-0022.637.jpg",
+      "bytes": 70427,
+      "sha256": "b2060d45665203670716d893fb2c1b9010402479be5ba7511233c69ef8355d4e",
+      "purpose": "本地接收脚本/完整音轨ASR/实际采样/窄窗核验/验收交接",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/70566362856e3aecc19310c1b2352f57_raw/metadata.json",
+      "bytes": 289,
+      "sha256": "af7c3010acd6c105bcd823fb8fa9b54d14b1da0aa1b5602124c98a32ffd15ba2",
+      "purpose": "本地接收脚本/完整音轨ASR/实际采样/窄窗核验/验收交接",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/70566362856e3aecc19310c1b2352f57_raw/transcript.json",
+      "bytes": 1707,
+      "sha256": "c2cf9ad8a3bc93c016bea693e40c6e0d7b78f0880ce9c2b05f7ad3ee43e45618",
+      "purpose": "本地接收脚本/完整音轨ASR/实际采样/窄窗核验/验收交接",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/70566362856e3aecc19310c1b2352f57_raw/transcript.srt",
+      "bytes": 453,
+      "sha256": "a4136c121871df6e13f4766e95dfcca618af2a84ea36897d752b005d967b710c",
+      "purpose": "本地接收脚本/完整音轨ASR/实际采样/窄窗核验/验收交接",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/70566362856e3aecc19310c1b2352f57_raw/transcript.txt",
+      "bytes": 288,
+      "sha256": "b3436ad85169e6617fde98899c1110da7e1e44e62c551b84e68477ae86f8e77e",
+      "purpose": "本地接收脚本/完整音轨ASR/实际采样/窄窗核验/验收交接",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/70566362856e3aecc19310c1b2352f57_raw/transcript.vtt",
+      "bytes": 451,
+      "sha256": "d4178adaec0f5c8eff3dbf374e0c4273ed474db2108c8a31a12facb2d06d1b74",
+      "purpose": "本地接收脚本/完整音轨ASR/实际采样/窄窗核验/验收交接",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/70566362856e3aecc19310c1b2352f57_raw/whisper.log",
+      "bytes": 4104,
+      "sha256": "4ba025a1e6c8ead641ea8341f71b44db90f4632cd56fbc31ab38a5cc8c77614a",
+      "purpose": "本地接收脚本/完整音轨ASR/实际采样/窄窗核验/验收交接",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/7b14be666720ab35b4c9330ff5caf3bb_raw/audio-energy.json",
+      "bytes": 2364,
+      "sha256": "bb0a55048575459fc7a0a054af7f4fd48816998d7c50730ed085fa82b7c0a6a9",
+      "purpose": "本地接收脚本/完整音轨ASR/实际采样/窄窗核验/验收交接",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/7b14be666720ab35b4c9330ff5caf3bb_raw/audio.wav",
+      "bytes": 172750,
+      "sha256": "eb3fa67193382aea00e37344f98a9cb36fe92e47f9955c4be5cb07cf7a5121b5",
+      "purpose": "本地接收脚本/完整音轨ASR/实际采样/窄窗核验/验收交接",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/7b14be666720ab35b4c9330ff5caf3bb_raw/contact-sheet.jpg",
+      "bytes": 250126,
+      "sha256": "da5579083abd2ed529041f66db25093bc876da83c38ac22f77256ca7ba6cf657",
+      "purpose": "本地接收脚本/完整音轨ASR/实际采样/窄窗核验/验收交接",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/7b14be666720ab35b4c9330ff5caf3bb_raw/frame-0000.108.jpg",
+      "bytes": 68215,
+      "sha256": "7f9ddc7cc09e4f2a15508b7fc1f0fbd40f2b95c99c2c3e2654e5c53be201f135",
+      "purpose": "本地接收脚本/完整音轨ASR/实际采样/窄窗核验/验收交接",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/7b14be666720ab35b4c9330ff5caf3bb_raw/frame-0000.809.jpg",
+      "bytes": 60437,
+      "sha256": "55abe3b400b5897eebb66c1b5e1db0286fa3e093ff3bdccabf0d0cbd59dbd6b2",
+      "purpose": "本地接收脚本/完整音轨ASR/实际采样/窄窗核验/验收交接",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/7b14be666720ab35b4c9330ff5caf3bb_raw/frame-0001.619.jpg",
+      "bytes": 64066,
+      "sha256": "ad710b1aae41066820f4f72c586891fa37fb0af531b8db6bc99c154d304913a7",
+      "purpose": "本地接收脚本/完整音轨ASR/实际采样/窄窗核验/验收交接",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/7b14be666720ab35b4c9330ff5caf3bb_raw/frame-0002.698.jpg",
+      "bytes": 57861,
+      "sha256": "59efd263ad61463bc470e70f44fe0836ee29e08457d6e2778fa9b239c71f06d4",
+      "purpose": "本地接收脚本/完整音轨ASR/实际采样/窄窗核验/验收交接",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/7b14be666720ab35b4c9330ff5caf3bb_raw/frame-0003.777.jpg",
+      "bytes": 69848,
+      "sha256": "c48bbe159cea2701f81c9d6d55630d0c117ae56ac312960046d8eb3736bdbdf3",
+      "purpose": "本地接收脚本/完整音轨ASR/实际采样/窄窗核验/验收交接",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/7b14be666720ab35b4c9330ff5caf3bb_raw/frame-0004.587.jpg",
+      "bytes": 73264,
+      "sha256": "9888b665de26467fad300df7fbe03382ec1894b8aaa00b98a6029a571ae054a5",
+      "purpose": "本地接收脚本/完整音轨ASR/实际采样/窄窗核验/验收交接",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/7b14be666720ab35b4c9330ff5caf3bb_raw/frame-0005.234.jpg",
+      "bytes": 60341,
+      "sha256": "a9b9ecf5c4af782df0b2dbca23b58ffa7530a72c2df19b37b49f03063285387b",
+      "purpose": "本地接收脚本/完整音轨ASR/实际采样/窄窗核验/验收交接",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/7b14be666720ab35b4c9330ff5caf3bb_raw/metadata.json",
+      "bytes": 282,
+      "sha256": "ff99e4d115b963512fc5956b323f6fae763728e50fb6c9e11fc20691a1011b68",
+      "purpose": "本地接收脚本/完整音轨ASR/实际采样/窄窗核验/验收交接",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/7b14be666720ab35b4c9330ff5caf3bb_raw/transcript.json",
+      "bytes": 875,
+      "sha256": "58b298405110e3060487f8e502d95af744ca6590697be096146fbc3692bfe7c7",
+      "purpose": "本地接收脚本/完整音轨ASR/实际采样/窄窗核验/验收交接",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/7b14be666720ab35b4c9330ff5caf3bb_raw/transcript.srt",
+      "bytes": 114,
+      "sha256": "6dc8a6801e7953b5d8dcf60d7af0e92361f5fc841d93a9bccdf35f341c03a621",
+      "purpose": "本地接收脚本/完整音轨ASR/实际采样/窄窗核验/验收交接",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/7b14be666720ab35b4c9330ff5caf3bb_raw/transcript.txt",
+      "bytes": 81,
+      "sha256": "9afd5e97b7395bad253cfb48b2fad7f3cf0b813696577628f9f0e0179e21889b",
+      "purpose": "本地接收脚本/完整音轨ASR/实际采样/窄窗核验/验收交接",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/7b14be666720ab35b4c9330ff5caf3bb_raw/transcript.vtt",
+      "bytes": 120,
+      "sha256": "10f85aae894bfdb7b668e247c69a7f5adda8d44a95d95960481bb928c3944a08",
+      "purpose": "本地接收脚本/完整音轨ASR/实际采样/窄窗核验/验收交接",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/7b14be666720ab35b4c9330ff5caf3bb_raw/whisper.log",
+      "bytes": 3763,
+      "sha256": "62c8938827097b5148b5d5bd9f882588daa67feda3a05e1542da561b3b53b0cd",
+      "purpose": "本地接收脚本/完整音轨ASR/实际采样/窄窗核验/验收交接",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/8e45868cc8576735af4ec1a25b4d40f5_raw/audio-energy.json",
+      "bytes": 10196,
+      "sha256": "48df0966a82c1ac44ccd964e908f502acb52b8b785ec29a6c0dffc814e817e63",
+      "purpose": "本地接收脚本/完整音轨ASR/实际采样/窄窗核验/验收交接",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/8e45868cc8576735af4ec1a25b4d40f5_raw/audio.wav",
+      "bytes": 791246,
+      "sha256": "719ddde64cb3d772bd00fa797b163f57a45703b77a946eed695219da9ba70a32",
+      "purpose": "本地接收脚本/完整音轨ASR/实际采样/窄窗核验/验收交接",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/8e45868cc8576735af4ec1a25b4d40f5_raw/contact-sheet.jpg",
+      "bytes": 254736,
+      "sha256": "1d770765cad64552cf2b88cdbe0022e8920e0ecf4f35a2a0adada1c49e8dfca1",
+      "purpose": "本地接收脚本/完整音轨ASR/实际采样/窄窗核验/验收交接",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/8e45868cc8576735af4ec1a25b4d40f5_raw/detail-range.json",
+      "bytes": 127,
+      "sha256": "132bebc49bb7663896619b5a8d7818f288cb368cce94ca7e17c540eb7366288d",
+      "purpose": "本地接收脚本/完整音轨ASR/实际采样/窄窗核验/验收交接",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/8e45868cc8576735af4ec1a25b4d40f5_raw/detail-transcript.json",
+      "bytes": 841,
+      "sha256": "c5d0e9bd322ecb56806f22b5650eca77b19dd583984b6b65dd97c6d28f7bff01",
+      "purpose": "本地接收脚本/完整音轨ASR/实际采样/窄窗核验/验收交接",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/8e45868cc8576735af4ec1a25b4d40f5_raw/detail-transcript.srt",
+      "bytes": 80,
+      "sha256": "75be3f23933df505c38c993ccbad78c25ac5df5369ee6d462ef8155933b186d9",
+      "purpose": "本地接收脚本/完整音轨ASR/实际采样/窄窗核验/验收交接",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/8e45868cc8576735af4ec1a25b4d40f5_raw/detail-transcript.txt",
+      "bytes": 47,
+      "sha256": "62f2e64cce7c3249e9ef0db6412fae596015b27310df7080f053f3aa13268d54",
+      "purpose": "本地接收脚本/完整音轨ASR/实际采样/窄窗核验/验收交接",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/8e45868cc8576735af4ec1a25b4d40f5_raw/detail-whisper.log",
+      "bytes": 3474,
+      "sha256": "512bee70d306d2ac7aa49f04013e6fa84b2f52810522f47b7da74c48e5f6b691",
+      "purpose": "本地接收脚本/完整音轨ASR/实际采样/窄窗核验/验收交接",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/8e45868cc8576735af4ec1a25b4d40f5_raw/detail.wav",
+      "bytes": 169678,
+      "sha256": "9478fed2d2374c5d7a3f3cb2d000464263dd5f86976754721e99da7bd9b82d84",
+      "purpose": "本地接收脚本/完整音轨ASR/实际采样/窄窗核验/验收交接",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/8e45868cc8576735af4ec1a25b4d40f5_raw/frame-0000.494.jpg",
+      "bytes": 65825,
+      "sha256": "63bf283d8e5fd03c88fceaad947cac5a338dc4dcaeee486b3e7d0abb0db67d03",
+      "purpose": "本地接收脚本/完整音轨ASR/实际采样/窄窗核验/验收交接",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/8e45868cc8576735af4ec1a25b4d40f5_raw/frame-0003.709.jpg",
+      "bytes": 72024,
+      "sha256": "d09e889e48cea8b4695b49e7e232e277c8cd35b29de64cc5683d039f9a9dc945",
+      "purpose": "本地接收脚本/完整音轨ASR/实际采样/窄窗核验/验收交接",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/8e45868cc8576735af4ec1a25b4d40f5_raw/frame-0007.417.jpg",
+      "bytes": 67551,
+      "sha256": "0e7f3823ad04fb33a6ca20effbaed3e99ce5e388614c5fff7e261dafb33168ca",
+      "purpose": "本地接收脚本/完整音轨ASR/实际采样/窄窗核验/验收交接",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/8e45868cc8576735af4ec1a25b4d40f5_raw/frame-0012.362.jpg",
+      "bytes": 58952,
+      "sha256": "3e7c25c3ba24f3a52335ecbcbc481b07e8bd3638445e5f0318ae7e7cd18f40d2",
+      "purpose": "本地接收脚本/完整音轨ASR/实际采样/窄窗核验/验收交接",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/8e45868cc8576735af4ec1a25b4d40f5_raw/frame-0017.307.jpg",
+      "bytes": 67050,
+      "sha256": "0cee36bb9314b47ba201732f48789a87cba547bd867d15986d708534946fece3",
+      "purpose": "本地接收脚本/完整音轨ASR/实际采样/窄窗核验/验收交接",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/8e45868cc8576735af4ec1a25b4d40f5_raw/frame-0021.015.jpg",
+      "bytes": 61129,
+      "sha256": "52630c069fbe83d11edba588f3b2286d8ef737c1c32ebf6cf3e1f052201ed963",
+      "purpose": "本地接收脚本/完整音轨ASR/实际采样/窄窗核验/验收交接",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/8e45868cc8576735af4ec1a25b4d40f5_raw/frame-0023.982.jpg",
+      "bytes": 67785,
+      "sha256": "3f963f7ac56199c5e52fb2f45090afc5f3346aa1a701d6761490b56f38a64b13",
+      "purpose": "本地接收脚本/完整音轨ASR/实际采样/窄窗核验/验收交接",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/8e45868cc8576735af4ec1a25b4d40f5_raw/metadata.json",
+      "bytes": 277,
+      "sha256": "97a1bb0f0c78ec36bec5e2056f7935d088c8496559d7b03052fffcc5f1869497",
+      "purpose": "本地接收脚本/完整音轨ASR/实际采样/窄窗核验/验收交接",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/8e45868cc8576735af4ec1a25b4d40f5_raw/transcript.json",
+      "bytes": 2501,
+      "sha256": "49fa288472fc4439b10829d504f6ade65c851f3dcc9e90a2bf6b11f37c6c73c8",
+      "purpose": "本地接收脚本/完整音轨ASR/实际采样/窄窗核验/验收交接",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/8e45868cc8576735af4ec1a25b4d40f5_raw/transcript.srt",
+      "bytes": 630,
+      "sha256": "f311931e16811061d013f22152982d9a4f17f0ffa2254a9b75e5ff931e8724ee",
+      "purpose": "本地接收脚本/完整音轨ASR/实际采样/窄窗核验/验收交接",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/8e45868cc8576735af4ec1a25b4d40f5_raw/transcript.txt",
+      "bytes": 299,
+      "sha256": "dbe75c67dd76fa[REDACTED_PHONE]b68241d503980f0dbb9d5be44ea01b47476eb75",
+      "purpose": "本地接收脚本/完整音轨ASR/实际采样/窄窗核验/验收交接",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/8e45868cc8576735af4ec1a25b4d40f5_raw/transcript.vtt",
+      "bytes": 617,
+      "sha256": "47212f3b787965b5471f8db612d9e80645328abb71a81dab957a70efa9462806",
+      "purpose": "本地接收脚本/完整音轨ASR/实际采样/窄窗核验/验收交接",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/8e45868cc8576735af4ec1a25b4d40f5_raw/whisper.log",
+      "bytes": 4280,
+      "sha256": "c7b8a926810bc83960e1489e6433c2e8b5746023d3f81ceb8fc2eee57cd0689a",
+      "purpose": "本地接收脚本/完整音轨ASR/实际采样/窄窗核验/验收交接",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/e404afe47f88fa4affadf7f5fa273814_raw/audio-energy.json",
+      "bytes": 20821,
+      "sha256": "22652011b1cdcba2ce93eb3f56545adb7502e78641cd1d734727b507f9dc82d9",
+      "purpose": "本地接收脚本/完整音轨ASR/实际采样/窄窗核验/验收交接",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/e404afe47f88fa4affadf7f5fa273814_raw/audio.wav",
+      "bytes": 1640484,
+      "sha256": "dd8937d8f8aa5e20b0bc1736a061d3aff4a17c4131f87268efb2caab4cf2c55f",
+      "purpose": "本地接收脚本/完整音轨ASR/实际采样/窄窗核验/验收交接",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/e404afe47f88fa4affadf7f5fa273814_raw/contact-sheet.jpg",
+      "bytes": 250524,
+      "sha256": "2d7bb5c4e9ec24e565da4efe883efce0d3170490dfd2c90da46a06b9cc4d34b3",
+      "purpose": "本地接收脚本/完整音轨ASR/实际采样/窄窗核验/验收交接",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/e404afe47f88fa4affadf7f5fa273814_raw/detail-contact-sheet.jpg",
+      "bytes": 183365,
+      "sha256": "a775f1a48ba35342ecef952b39ed8622b974da0c97b6ef299f856ab3d906abe3",
+      "purpose": "本地接收脚本/完整音轨ASR/实际采样/窄窗核验/验收交接",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/e404afe47f88fa4affadf7f5fa273814_raw/detail-frame-37.300.jpg",
+      "bytes": 72652,
+      "sha256": "23a5d96cae7f5d95f98ed96527d8cd8b667809933c4caf442b643c6543c978b1",
+      "purpose": "本地接收脚本/完整音轨ASR/实际采样/窄窗核验/验收交接",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/e404afe47f88fa4affadf7f5fa273814_raw/detail-frame-39.200.jpg",
+      "bytes": 67881,
+      "sha256": "3ccd8a958b75a65002430baa098550d18a3b2993b803f0b9eb0d0ed0cdef6580",
+      "purpose": "本地接收脚本/完整音轨ASR/实际采样/窄窗核验/验收交接",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/e404afe47f88fa4affadf7f5fa273814_raw/detail-frame-41.200.jpg",
+      "bytes": 72543,
+      "sha256": "dfa4f9700d0c823e8a34f76305ccae62e285666ee6a794ef0eda239bc2973f7b",
+      "purpose": "本地接收脚本/完整音轨ASR/实际采样/窄窗核验/验收交接",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/e404afe47f88fa4affadf7f5fa273814_raw/detail-frame-42.500.jpg",
+      "bytes": 69450,
+      "sha256": "806747997e939c1391edc55526725d5bf872186e56fa75ef5c3d526452a5ba06",
+      "purpose": "本地接收脚本/完整音轨ASR/实际采样/窄窗核验/验收交接",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/e404afe47f88fa4affadf7f5fa273814_raw/detail-frame-43.700.jpg",
+      "bytes": 74454,
+      "sha256": "145a2860ef2e5b01c142103ccc3f7301caeeddd0ce8bb4f44d28d104ac03dcd1",
+      "purpose": "本地接收脚本/完整音轨ASR/实际采样/窄窗核验/验收交接",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/e404afe47f88fa4affadf7f5fa273814_raw/detail-range.json",
+      "bytes": 127,
+      "sha256": "ec475a3c82220320711264dfb29d33dce82e347caf877ce35bf545b092cbc9e8",
+      "purpose": "本地接收脚本/完整音轨ASR/实际采样/窄窗核验/验收交接",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/e404afe47f88fa4affadf7f5fa273814_raw/detail-transcript.json",
+      "bytes": 1201,
+      "sha256": "e332e6b8859304f74127ba656320d6f3fe752c7f75a7003a8836753a8573e8bd",
+      "purpose": "本地接收脚本/完整音轨ASR/实际采样/窄窗核验/验收交接",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/e404afe47f88fa4affadf7f5fa273814_raw/detail-transcript.srt",
+      "bytes": 195,
+      "sha256": "97c87c4c93058c266d82372957efec3f1444fde7c6ee5271ba27f22f365cc336",
+      "purpose": "本地接收脚本/完整音轨ASR/实际采样/窄窗核验/验收交接",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/e404afe47f88fa4affadf7f5fa273814_raw/detail-transcript.txt",
+      "bytes": 96,
+      "sha256": "e8bc4b9dcdc6b1bbcc1f98b050a23c3aa10e2590ba7441a17b6649f8df7cbec4",
+      "purpose": "本地接收脚本/完整音轨ASR/实际采样/窄窗核验/验收交接",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/e404afe47f88fa4affadf7f5fa273814_raw/detail-whisper.log",
+      "bytes": 3590,
+      "sha256": "63326c9c7a20ec1e335fdf6b2896b4cf9e08f329240574d63aa6148eeba87f28",
+      "purpose": "本地接收脚本/完整音轨ASR/实际采样/窄窗核验/验收交接",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/e404afe47f88fa4affadf7f5fa273814_raw/detail.wav",
+      "bytes": 316878,
+      "sha256": "91847e8a885695683737e1207d3448cb2e521321447445d4b037ab10dac00942",
+      "purpose": "本地接收脚本/完整音轨ASR/实际采样/窄窗核验/验收交接",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/e404afe47f88fa4affadf7f5fa273814_raw/frame-0001.025.jpg",
+      "bytes": 56704,
+      "sha256": "19f22ad33b33513763674390dc7bfcd081bd4d7cc8ccccf42a44c611e84553aa",
+      "purpose": "本地接收脚本/完整音轨ASR/实际采样/窄窗核验/验收交接",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/e404afe47f88fa4affadf7f5fa273814_raw/frame-0007.689.jpg",
+      "bytes": 65032,
+      "sha256": "676eb2d3ae0263540efb392946866304547728d33dc8c3d80fed93be3b002823",
+      "purpose": "本地接收脚本/完整音轨ASR/实际采样/窄窗核验/验收交接",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/e404afe47f88fa4affadf7f5fa273814_raw/frame-0015.379.jpg",
+      "bytes": 61989,
+      "sha256": "79c69834342bd7d158bc77b8a780ad06afb8bc99fcec5bbd0b0eca8e2982b2f2",
+      "purpose": "本地接收脚本/完整音轨ASR/实际采样/窄窗核验/验收交接",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/e404afe47f88fa4affadf7f5fa273814_raw/frame-0025.631.jpg",
+      "bytes": 66522,
+      "sha256": "d1c8e071b6ff833bf0cbd6f9d0710360ba037e61d1474229cb7b6844c347c5b5",
+      "purpose": "本地接收脚本/完整音轨ASR/实际采样/窄窗核验/验收交接",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/e404afe47f88fa4affadf7f5fa273814_raw/frame-0035.884.jpg",
+      "bytes": 65891,
+      "sha256": "0baa89a2dfc5c5ec1ebc18fd44bb7fa41e35268124ea92b4650e767c1b985bfe",
+      "purpose": "本地接收脚本/完整音轨ASR/实际采样/窄窗核验/验收交接",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/e404afe47f88fa4affadf7f5fa273814_raw/frame-0043.573.jpg",
+      "bytes": 71358,
+      "sha256": "c51ffc6068d4e5fea4ff2be3cbba24b7c013fd9eac3d9b5c8c55318548a3b52a",
+      "purpose": "本地接收脚本/完整音轨ASR/实际采样/窄窗核验/验收交接",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/e404afe47f88fa4affadf7f5fa273814_raw/frame-0049.725.jpg",
+      "bytes": 58310,
+      "sha256": "5dd88d548e42a98fc476d3f63c4de080c4da653360f62feb8b31580f54334799",
+      "purpose": "本地接收脚本/完整音轨ASR/实际采样/窄窗核验/验收交接",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/e404afe47f88fa4affadf7f5fa273814_raw/metadata.json",
+      "bytes": 276,
+      "sha256": "6e224fe196333eca7dc14fb5354e8620710bd5454a1caaa1b8fea086b0535983",
+      "purpose": "本地接收脚本/完整音轨ASR/实际采样/窄窗核验/验收交接",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/e404afe47f88fa4affadf7f5fa273814_raw/transcript.json",
+      "bytes": 4233,
+      "sha256": "f839d11450e5cd31de545e965595137471e216387c4f7d1943faf2cd54053b81",
+      "purpose": "本地接收脚本/完整音轨ASR/实际采样/窄窗核验/验收交接",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/e404afe47f88fa4affadf7f5fa273814_raw/transcript.srt",
+      "bytes": 1257,
+      "sha256": "fb7c132d745f8cd496a233c62d4ccc91f9b7cfa856a75c2bb1bef2d3f3aa40b0",
+      "purpose": "本地接收脚本/完整音轨ASR/实际采样/窄窗核验/验收交接",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/e404afe47f88fa4affadf7f5fa273814_raw/transcript.txt",
+      "bytes": 620,
+      "sha256": "5d63029bc2f84c9fb23646bf1e1101e3a6ed41a9724958fd7696102457b2c524",
+      "purpose": "本地接收脚本/完整音轨ASR/实际采样/窄窗核验/验收交接",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/e404afe47f88fa4affadf7f5fa273814_raw/transcript.vtt",
+      "bytes": 1217,
+      "sha256": "52bae19166242aebc8d8c6d042447d37d480bab21ae8b8c8058a50a6ea6bc53c",
+      "purpose": "本地接收脚本/完整音轨ASR/实际采样/窄窗核验/验收交接",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/e404afe47f88fa4affadf7f5fa273814_raw/whisper.log",
+      "bytes": 4898,
+      "sha256": "61b5f673177670a5173f478f737fcac9a8fa9ca1071aa1d8ea0909cdff599fa9",
+      "purpose": "本地接收脚本/完整音轨ASR/实际采样/窄窗核验/验收交接",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/metadata-and-audio.json",
+      "bytes": 12155,
+      "sha256": "75965ba861b8dbd56cdbde52e7f85e54138db49483f005762611ebbc93fd69cb",
+      "purpose": "本地接收脚本/完整音轨ASR/实际采样/窄窗核验/验收交接",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/finalize-receipt-v3.py",
+      "bytes": 14407,
+      "sha256": "1dcc0a34f63f70ed69b3e43387fa349f529b2b36f9be0b421877643b5f635366",
+      "purpose": "本地接收脚本/完整音轨ASR/实际采样/窄窗核验/验收交接",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/inspect-v3.py",
+      "bytes": 2486,
+      "sha256": "d7a6bace462bebe2632253bf3b71071ce7f079be81c41257ccaa8933b957813c",
+      "purpose": "本地接收脚本/完整音轨ASR/实际采样/窄窗核验/验收交接",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/回报回执-v3.json",
+      "bytes": 4228,
+      "sha256": "70400f1f855be36f268713a8401a8645766e50402e25f9260f87f9becc20abdf",
+      "purpose": "本地接收脚本/完整音轨ASR/实际采样/窄窗核验/验收交接",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/录音与剪辑交接-v3.md",
+      "bytes": 5373,
+      "sha256": "4c4dda7d72eafabcc1bd470e86c331e03dd31078b1f6cc66caa36a052cc247a2",
+      "purpose": "本地接收脚本/完整音轨ASR/实际采样/窄窗核验/验收交接",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/素材接收-v3.json",
+      "bytes": 31321,
+      "sha256": "619d44aed195c9c38fd075f8499fac251d7ab9e933b235163b8bfe4b41984764",
+      "purpose": "本地接收脚本/完整音轨ASR/实际采样/窄窗核验/验收交接",
+      "retained": true
+    }
+  ],
+  "new_bytes": 8184756,
+  "new_media_under100MiB": true,
+  "no_deletion": true
+}

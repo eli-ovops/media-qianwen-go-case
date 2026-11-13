@@ -1,0 +1,22 @@
+{
+  "content_id": "qianwen-go-case-20261013",
+  "stage": "02",
+  "version": "v3",
+  "date": "2026-10-13 Asia/Shanghai",
+  "target_thread_id": "01a11194-c40d-7bf0-8396-5bb5d6449444",
+  "human_authorization_message": "01a133d5-4256-7321-a6d0-b6116d2e02ce",
+  "rule": "CONTENT-COORDINATION-NO-POLL-20261013-v2",
+  "report_count_this_revision": 1,
+  "tool_result": {
+    "content": [
+      {
+        "type": "text",
+        "text": "{\"threadId\":\"01a11194-c40d-7bf0-8396-5bb5d6449444\"}"
+      }
+    ],
+    "isError": false
+  },
+  "status": "REPORT_TOOL_ACCEPTED",
+  "pmo_actual_received_and_review": "PENDING_PMO_EVIDENCE",
+  "delivery_sha256": "4d6d0d7e6a6b81b96a4e6eee9ac920835a864b1f84e062e86ab3d7e7a52aaec2"
+}

@@ -1,0 +1,77 @@
+{
+  "at": "2026-10-14T09:34:10.603537+08:00",
+  "gate": {
+    "allowed": true,
+    "stage": "04"
+  },
+  "prior_block": "STAGE_NOT_RELEASED; PMO corrected release by actual tool message",
+  "scope": "v8 fees to reminder sample only",
+  "inputs": [
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/Fred工作流费用提醒样片-v8任务.md",
+      "sha256": "428651a2204e2ae72d232e5efd76ad3ba345623a96f611ce1d1386e2bd767037"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/02/正式口播-v3.md",
+      "sha256": "a2cbcca3e33d6b65a76df06e8d5e793506a70c6be215dc2c4896507a0bd58e7d"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/素材接收-v3.json",
+      "sha256": "619d44aed195c9c38fd075f8499fac251d7ab9e933b235163b8bfe4b41984764"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/录音与剪辑交接-v3.md",
+      "sha256": "4c4dda7d72eafabcc1bd470e86c331e03dd31078b1f6cc66caa36a052cc247a2"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/PMO样片v7审阅.md",
+      "sha256": "d4543fdb1d9f4c9498556426dbe4e63509c5b170646fc9ae94830f1ed86cef27"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/project/src/sample-captions-v2.json",
+      "sha256": "82cea2fce3a507a49ee0641b42ecf1d7e70b939388c40b217e27d07f3d4c07fe"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/output/sample-motion-v7.mp4",
+      "sha256": "143e33da6d75e006cca780b9badcbdf2a59561a27374b6fb7aa3e3c64cbae837"
+    }
+  ],
+  "raw": {
+    "path": "/Users/USER/Downloads/e404afe47f88fa4affadf7f5fa273814_raw.mp4",
+    "sha256": "2c9bd9f9b79808695d068c891eed29425986282d766f41c8ae0b54051f1ed495"
+  },
+  "rawSeconds": [
+    37.29666666666667,
+    50.89666666666666
+  ],
+  "v7Seconds": [
+    8.2,
+    21.8
+  ],
+  "frames": 816,
+  "fps": 60,
+  "runtime": {
+    "node": "22.16.0",
+    "python": "3.12.14",
+    "remotion": "4.0.535",
+    "freeExternal": "1.5TiB",
+    "freeInternal": "16GiB"
+  },
+  "routing": {
+    "rule": "ROUTING-2026-10-13-v4",
+    "target": "gpt-6-astra/high",
+    "actual_model": "UNKNOWN",
+    "actual_effort": "UNKNOWN",
+    "actual_speed": "UNKNOWN"
+  },
+  "creationScope": [
+    "project/src/v8",
+    "project/public/v8",
+    "evidence/sample-v8",
+    "output/sample-motion-v8.mp4",
+    "sample-review-v8.html",
+    "sample-review-v8.md",
+    "sample-delivery-v8.json"
+  ],
+  "delete": false
+}

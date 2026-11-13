@@ -1,0 +1,98 @@
+{
+  "content_id": "qianwen-go-case-20261013",
+  "stage": "03",
+  "version": "v3",
+  "date": "2026-10-13",
+  "result": "MEDIA_REVIEW_DELIVERED_DIRECT_FACT_SENTENCE_CHECK_PENDING",
+  "gate": {
+    "allowed": true,
+    "content": "qianwen-go-case-20261013",
+    "stage": "03"
+  },
+  "rule_versions": [
+    "ROUTING-2026-09-30-v3",
+    "HANDOFF-2026-10-10-v2",
+    "BLOCKERS-2026-09-23-v1",
+    "CONTENT-COORDINATION-NO-POLL-20261013-v2"
+  ],
+  "human_authorization": {
+    "thread": "01a11194-c40d-7bf0-8396-5bb5d6449444",
+    "turn": "01a133cb-599d-7630-99a5-0ac3524beba7",
+    "userMessage": "01a133d5-4256-7321-a6d0-b6116d2e02ce",
+    "verified": "前次本会话已read_thread核直接用户原话，授权持续；本次读流程README新硬规则。"
+  },
+  "routing": {
+    "target_model": "gpt-6.1-sol",
+    "target_effort": "medium",
+    "actual_model": "UNKNOWN",
+    "actual_effort": "UNKNOWN",
+    "actual_speed": "UNKNOWN"
+  },
+  "read_files": [
+    "AGENTS.md（用户最新完整规则及磁盘入口）",
+    "README.md当前导航",
+    "流程协作/README.md完整报告规则与恢复入口",
+    "流程协作/流程状态.json（门禁读取）",
+    "流程协作/会话登记.json（门禁读取）",
+    "flow/03/素材接收任务-v3.md",
+    "flow/03/用户原片提交-20261013.json",
+    "flow/02/正式口播-v3.md",
+    "flow/02/提词版-v3.md",
+    "flow/02/分镜与素材清单-v3.md",
+    "flow/02/交付-v3.json",
+    "flow/02/PMO验收-v3.json",
+    "/Users/USER/.codex/AGENTS.details.md 当前规则版本（§2/§3/§4已读未变）",
+    "/Users/USER/.codex/LOCAL_BLOCKERS.md ffprobe/AVFoundation/Whisper相关条目",
+    "/Volumes/EXTERNAL/Tools/Whisper/README.md与transcribe.py",
+    "工具验证/video-mcp-20261007/README.md及avprobe.swift",
+    "/Users/USER/.agents/skills/video-understand/SKILL.md"
+  ],
+  "outputs": [
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/素材接收-v3.json",
+      "sha256": "619d44aed195c9c38fd075f8499fac251d7ab9e933b235163b8bfe4b41984764"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/录音与剪辑交接-v3.md",
+      "sha256": "4c4dda7d72eafabcc1bd470e86c331e03dd31078b1f6cc66caa36a052cc247a2"
+    }
+  ],
+  "required_remaining": [
+    {
+      "id": "FACT_SENTENCE_AUDIO_CHECK",
+      "status": "NEEDS_DIRECT_SHORT_AUDITION_NOT_RETAKE_REQUEST",
+      "path": "/Users/USER/Downloads/8e45868cc8576735af4ec1a25b4d40f5_raw.mp4",
+      "start": 14.3,
+      "end": 19.6,
+      "replay_audio": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/8e45868cc8576735af4ec1a25b4d40f5_raw/detail.wav",
+      "evidence": "整段及无prompt短窗ASR均写退出/购，推出与退出的音调差异不能靠ASR字面确定；千问Go名字也为音译识别。",
+      "owner": "PMO集中安排自己或用户短区间核听；04在获放行后按原声校字幕。",
+      "action": "确认实际讲的是即将推出千问Go即可清除此项；如实际说成退出且不能靠已有原声剪接修正，仅报补这句话，不能字幕掩盖反义。"
+    },
+    {
+      "id": "BACKGROUND_EXCLUSION",
+      "status": "REQUIRED04_VISUAL_FIX",
+      "source": "四个原片采样",
+      "action": "源屏幕及顶部相框不进入公开输出；05核成片实际背景，不以缩小人物保证隐私。"
+    },
+    {
+      "id": "ORIGINAL_AUDIO_AUDITION",
+      "status": "REQUIRED04_05_SOURCE_AND_OUTPUT_CHECK",
+      "action": "04核专名、上门/上楼、精力等错词和全部句尾听感；不把03机器测量当直接听音通过。"
+    }
+  ],
+  "can_supply04": true,
+  "may_self_release04": false,
+  "temporary_files": "仅本任务WAV与截图，保留为核听、验收与剪辑恢复证据；无无用途一次性中间文件，无删除。",
+  "shared_state_modified": false,
+  "raw_files_copied": false,
+  "raw_sha_unchanged": true,
+  "report_status": "SENT_ONCE_TOOL_SUCCESS",
+  "report_receipt": {
+    "tool": "send_message_to_thread",
+    "returned_thread_id": "01a11194-c40d-7bf0-8396-5bb5d6449444",
+    "isError": false,
+    "count": 1,
+    "limit": "发送工具成功，不冒称PMO已读原件、验收通过或已放行04。"
+  }
+}

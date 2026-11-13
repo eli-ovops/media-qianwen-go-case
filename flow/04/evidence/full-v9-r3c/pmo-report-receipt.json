@@ -1,0 +1,12 @@
+{
+  "prompt": "04局部收尾回报｜千问Go v9-r3c（2026-10-14）\n完成本轮有限修订，供PMO审原件；未派05、未改共享状态、未发布。\n\n当前完整成片：/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/output/qianwen-go-full-v9-r3c.mp4\nSHA256：797426b66fec27431ecf298b9df67f9869b2cddfaa456b1c851009dd6b84ab10\n1080×1920/60fps，6122帧，视频102.033333秒，9,693,641字节。\n报告：/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/完整成片-v9-r3c交付报告.md\n当前索引：/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/完整成片-v9交付索引.json\n审片页：/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/full-review-v9-r3c.html\n\n修订：保留风格/原声/43条字幕；补回保留真人段的外镜框与手部原像素、清除桥接处椅背碎片。试导r3b仍在98.27s附近残留，因此按你明确允许的“现有内容画面自然覆盖”收尾：结尾保留96.27–97.3s真人，97.05–97.35s交接至既有AI节点，覆盖后续手部/椅背问题窗口（含100.35s）。并非宣称原片人物遮罩全部无损修复。开场、桥接、观点真人仍在，没有新增免责声明或换词塞回。旧版/原片均保留。\n\n当前证据目录：/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/full-v9-r3c/\ntechnical-qa.json：全视频/音频解码通过、PTS恒定；AAC payload与v9-r2逐字节一致；费用组件、字幕与入口源码不变，Film仅人物资产路径和上述结尾覆盖变化。\nvisual-review.json + frame-index.json：实际核196个不同帧（106完整画面、90人像裁条），其余5926帧未视觉读。连续帧24.7833–25.1833s/25帧、97.5–98.2s/43帧、100.05–100.65s/37帧；后两段现为内容覆盖。原尺寸当前f6021.png即100.35s；f1499.png核桥接眼镜/手指。\ngate-keyframes.json：当前源码和关键帧PASS。播放器加载、seek与短播放通过。\n\n限制：没有完整连续视听或直接听音；细镜框/发丝仍有分割痕迹，不称无损抠像。PMO/05/用户观感验收均未代判。请PMO审当前原件后按既定顺序处理；04不轮询、不派下游。",
+  "result": {
+    "content": [
+      {
+        "type": "text",
+        "text": "{\"threadId\":\"01a11194-c40d-7bf0-8396-5bb5d6449444\"}"
+      }
+    ],
+    "isError": false
+  }
+}

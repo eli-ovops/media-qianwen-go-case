@@ -1,0 +1,173 @@
+{
+  "content_id": "qianwen-go-case-20261013",
+  "version": "sample-motion-v6",
+  "at": "2026-10-13T21:06:58.231219+08:00",
+  "owner_thread_id": "01a11a6f-49ef-7653-934a-4312979fd4e7",
+  "pmo_thread_id": "01a11194-c40d-7bf0-8396-5bb5d6449444",
+  "status": "INTERNAL_PMO_VISUAL_REVIEW_PENDING",
+  "user_preview": "WITHHELD_PENDING_PMO_VISUAL_ACCEPTANCE",
+  "sample": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/output/sample-motion-v6-final2.mp4",
+  "review": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/sample-review-v6.md",
+  "frame_review": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/tail-frame-review-v6.html",
+  "changed_interval_seconds": [
+    8,
+    21.8
+  ],
+  "first8_seconds": "v4 reused; current export sampled and seam checked",
+  "raw_source": "/Users/USER/Downloads/e404afe47f88fa4affadf7f5fa273814_raw.mp4",
+  "raw_video_seconds": [
+    29.09666666666667,
+    50.89666666666666
+  ],
+  "qa": {
+    "duration": 21.8,
+    "frames": 1308,
+    "fps": 60,
+    "width": 1080,
+    "height": 1920,
+    "decode_exit": 0,
+    "monotonic_pts": true,
+    "max_frame_gap": 0.01670000000000016,
+    "native_loudness_lufs": -19.74,
+    "native_true_peak_dbtp": -4.89,
+    "audio_decoded_pcm_identical_to_v1": true,
+    "audio_pcm_sha256": "605cef78eb3da66b45547363d8c94a9b016e958d1e55526f4e037c48bc466cae",
+    "sha256": "3eed5b682f56f998230be7b4dd2a6f01540bc42c4f3bd80994ce9df2024703c2",
+    "bytes": 4577797,
+    "direct_audio_listening": false,
+    "continuous_realtime_av_review": false
+  },
+  "visual_scope": {
+    "changed_interval": [
+      8,
+      21.8
+    ],
+    "tail_frames": 828,
+    "contact_sheets": 35,
+    "contact_tile_pixels": [
+      180,
+      320
+    ],
+    "native_times": [
+      8.1,
+      9.2,
+      9.8,
+      10.7,
+      11.5,
+      12.6,
+      13.2,
+      14.2,
+      15.4,
+      16.7,
+      17.3,
+      17.8,
+      18.4,
+      19.1,
+      19.6,
+      20.2,
+      20.7,
+      21.2
+    ],
+    "seam_interval": [
+      7.9,
+      8.0833333
+    ],
+    "seam_frames": 12,
+    "assistant_viewed": true,
+    "direct_listening": false,
+    "realtime_continuous_av_review": false,
+    "at": "2026-10-13T21:06:58.157524+08:00",
+    "actually_viewed": {
+      "tail_contact_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "tail_interval": [
+        8,
+        10.7833333333
+      ],
+      "tail_frames": 168,
+      "native_times": [
+        8.1,
+        9.2,
+        9.8
+      ],
+      "whole_sample_times": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21
+      ],
+      "seam_frames": 12,
+      "seam_interval": [
+        7.9,
+        8.0833333333
+      ],
+      "player_screenshot": 21.2
+    },
+    "unchanged_segment_prior_review": {
+      "scope_file": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v6-final/read-scope.json",
+      "tail_frames": 828,
+      "native_frames": 18,
+      "latest_change": "Remove redundant discount label only in frames480..623; remaining content reused and reencoded"
+    },
+    "limits": "Generated all828 frames and18 native screenshots; final2 actually read only specified subset. No direct audio listening or realtime continuous AV review. PMO visual acceptance pending."
+  },
+  "routing": {
+    "at": "2026-10-13T20:43:11.461386+08:00",
+    "rule": "ROUTING-2026-10-13-v4",
+    "actual_model": "UNKNOWN",
+    "actual_effort": "UNKNOWN",
+    "actual_speed": "UNKNOWN",
+    "target_model": "gpt-6-astra",
+    "target_effort": "high",
+    "source": "PMO样片v5审阅.md",
+    "scope": "v6 sample only 8–21.8 seconds; frozen voice/facts",
+    "validation_owner": "04 export and visual selfcheck; PMO independent acceptance",
+    "no_installs": true
+  },
+  "full_film": "PAUSED",
+  "stage05": "NOT_RELEASED",
+  "report": {
+    "tool_sent": "CONFIRMED",
+    "pmo_received": "UNKNOWN",
+    "pmo_acceptance": "PENDING",
+    "sent_at": "2026-10-13T21:07:56.364639+08:00",
+    "receipt": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v6-final2/pmo-report-receipt.json"
+  },
+  "currentLocalAvailability": {
+    "at": "2026-10-15T11:15:56.225185+08:00",
+    "status": "POST_PUBLICATION_GENERATED_VIDEOS_CLEANED",
+    "latestLocalFinalExists": false,
+    "latestFinalHistoricalPath": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/output/qianwen-go-full-v9-r3c.mp4",
+    "latestFinalSHA256": "797426b66fec27431ecf298b9df67f9869b2cddfaa456b1c851009dd6b84ab10",
+    "deletedCount": 66,
+    "report": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/发布后视频清理-20261015报告.md",
+    "exactList": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/cleanup-20261015/准确路径清单.md",
+    "reproduce": "完整成片-v9复现.md#发布后重导出说明2026-10-15",
+    "historicalRecords": "Original paths/SHA and checks are historical; deleted video paths are no longer usable downloads."
+  }
+}

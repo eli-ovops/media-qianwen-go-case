@@ -1,0 +1,27 @@
+{
+  "inputs": [
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/project/src/SampleV2.tsx",
+      "sha256": "0eff17e5158665f456f2113a1eeb70a61860215adbd4b4996d6a876a75036a88"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/project/src/sample-captions-v2.json",
+      "sha256": "82cea2fce3a507a49ee0641b42ecf1d7e70b939388c40b217e27d07f3d4c07fe"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/project/public/heiti-sc-v2.ttf",
+      "sha256": "212997b8c8fff6e8d044b8aa78ae6f69775687225e3fa4fc4659b9878b6a5636"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/project/render-sample-v2.cjs",
+      "sha256": "c1581739fca5d60131a6963e2b4973a0637744e9215656aaa25c759c3bfce588"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/output/sample-motion-v1.mp4",
+      "sha256": "cb08e8313ec48565d7a2bc6eba4c7d63f28e052c239a29063eade2f946e0ee9f"
+    }
+  ],
+  "audio_plan": "Copy v1 AAC stream without re-encoding; compare decoded PCM exactly.",
+  "scope": "21.8s sample only",
+  "full_film_rendered": false
+}

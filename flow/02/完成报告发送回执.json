@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-13 Asia/Shanghai",
+  "content_id": "qianwen-go-case-20261013",
+  "stage": "02",
+  "report_target": "01a11194-c40d-7bf0-8396-5bb5d6449444",
+  "human_authorization": {
+    "thread": "01a11194-c40d-7bf0-8396-5bb5d6449444",
+    "turn": "01a133cb-599d-7630-99a5-0ac3524beba7",
+    "userMessage": "01a133d5-4256-7321-a6d0-b6116d2e02ce",
+    "verified_by": "read_thread direct userMessage in current turn"
+  },
+  "report_count": 1,
+  "delivery_sha256": "aac5fce6db99f3b9aa858520f90c786d7d4c36dfc2f2dc41c9fac0b2b6e80d85",
+  "tool_result": {
+    "content": [
+      {
+        "type": "text",
+        "text": "{\"threadId\":\"01a11194-c40d-7bf0-8396-5bb5d6449444\"}"
+      }
+    ],
+    "isError": false
+  },
+  "status": "REPORT_TOOL_ACCEPTED_PMO_REVIEW_PENDING",
+  "scope": "Existing four deliverables unchanged; no downstream messaging, polling, or shared state writes."
+}

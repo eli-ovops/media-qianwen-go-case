@@ -1,0 +1,662 @@
+{
+  "catalogRevision": "217ebeb42f5bfca098228f5eb8b29d5c3196c0a2a7b57a38eb8e7c8e07720c7e",
+  "count": 13,
+  "returned": 3,
+  "entries": [
+    {
+      "id": "component:library-legacy81-b062",
+      "label": "L81-B062",
+      "segments": [
+        {
+          "start": 0,
+          "end": 9.0,
+          "fps": 60.0,
+          "url": "/api/design-assets/86fecbca956bd3b9128e3dec"
+        }
+      ],
+      "referenceId": "library-legacy81-b062",
+      "title": "人物与AI柱状图数值对照",
+      "kind": "components",
+      "category": "数值与图表",
+      "origin": "FredTalk 组件库",
+      "description": "人物与AI柱状图数值对照",
+      "tags": [
+        "数值与图表",
+        "数值",
+        "图表",
+        "人物素材",
+        "数据证据",
+        "表格与图表对比"
+      ],
+      "selectionStatus": "keep",
+      "reusability": {
+        "level": "snapshot",
+        "label": "当前场景源码",
+        "parameters": [],
+        "limitations": [
+          "当前展示沿用统一库的清理版本；按所展示的准确源码适配本期内容。",
+          "不把旧参考的参数接口或参考片段认可自动转移给当前适配。"
+        ]
+      },
+      "previews": [
+        {
+          "videoUrl": "/api/design-assets/6d25e139944791fbb5d613f5",
+          "posterUrl": "/api/design-assets/fd3dee662b1bd172d63bb913",
+          "keyframes": [
+            {
+              "url": "/api/design-assets/2096af4648782451f222b1cb",
+              "timeSeconds": 1.9833333333333334,
+              "frame": 119
+            },
+            {
+              "url": "/api/design-assets/d1a7776787438aef82d2b83c",
+              "timeSeconds": 4.683333333333334,
+              "frame": 281
+            },
+            {
+              "url": "/api/design-assets/efaede560e609c4ecdf25695",
+              "timeSeconds": 7.016666666666667,
+              "frame": 421
+            }
+          ],
+          "available": true,
+          "status": "ready",
+          "start": 0,
+          "end": 9.0,
+          "fps": 60,
+          "audioPolicy": "no-audio-track",
+          "posterTimeSeconds": 7.733333333333333,
+          "posterSelection": "reviewed"
+        }
+      ],
+      "sources": [
+        {
+          "label": "RebuiltB062.tsx",
+          "symbol": "",
+          "url": "/api/design-source/ec2b8327ec94b1712fcde170",
+          "available": true,
+          "status": "ready"
+        }
+      ],
+      "mergedInto": [],
+      "hiddenReason": null,
+      "visibleByDefault": true,
+      "categoryId": "data",
+      "libraryOrder": 999,
+      "matching": {
+        "referenceId": "library-legacy81-b062",
+        "primaryUse": "data",
+        "useIds": [
+          "data"
+        ],
+        "sourceId": "fredtalk",
+        "conceptIds": [
+          "data",
+          "comparison",
+          "people"
+        ],
+        "inputObjects": [
+          "数值",
+          "图表",
+          "人物素材"
+        ],
+        "action": "人物与AI柱状图数值对照",
+        "segmentRole": "数据证据",
+        "nativeDurationSeconds": 9.0,
+        "adaptation": "使用真实数值、单位和比较关系；仅在数据承担解释职责时选用。",
+        "tags": [
+          "数值与图表",
+          "数值",
+          "图表",
+          "人物素材",
+          "数据证据",
+          "表格与图表对比"
+        ],
+        "variantFamily": "b062",
+        "variantRepresentative": "L81-B062",
+        "scenarioId": "data",
+        "scenarioTitle": "表格与图表对比",
+        "label": "L81-B062",
+        "categoryId": "data",
+        "category": "数值与图表",
+        "sceneTypes": [
+          "summary",
+          "metric-change"
+        ],
+        "title": "人物与AI柱状图数值对照",
+        "collectionId": null,
+        "kind": "components",
+        "score": 190.0,
+        "matchedConceptIds": [
+          "comparison"
+        ],
+        "matchedUseIds": [],
+        "matchedWords": [
+          "对比"
+        ],
+        "reasons": [
+          "比较与对照",
+          "原词命中：对比",
+          "相近词：对比"
+        ]
+      },
+      "sceneTypes": [
+        "summary",
+        "metric-change"
+      ],
+      "projectDownload": {
+        "url": null,
+        "filename": "db23334ffbe7af4b.zip",
+        "available": true
+      },
+      "implementation": {
+        "projects": [
+          "components/projects/65b6174940b2"
+        ],
+        "compositionId": "FredMotion-062",
+        "reuseBoundary": "Sanitized source snapshot; media dependencies are declared in library/media-manifest.json. Inspect the project entry for registration when compositionId is not recorded."
+      },
+      "assetAvailability": {
+        "quarantinedDependencyPaths": 0,
+        "note": "Full project snapshot may include unused branches; check the selected composition."
+      },
+      "sourceFiles": [
+        {
+          "path": "components/projects/65b6174940b2/groups/b/src/RebuiltB062.tsx",
+          "sha256": "53934c0f7753620db1275b210de8b1c48cdb89b71e570e8e8538d5646aa8f08c",
+          "url": "/api/design-source/ec2b8327ec94b1712fcde170",
+          "available": true,
+          "remoteAvailable": false,
+          "status": "ready"
+        }
+      ],
+      "sourceAvailability": {
+        "available": true,
+        "status": "ready",
+        "authRequired": false,
+        "installationRequired": false,
+        "reason": "Verified source is installed.",
+        "importCommand": null,
+        "downloadCommand": null,
+        "installCommand": null
+      },
+      "candidateId": "library-legacy81-b062"
+    },
+    {
+      "id": "component:library-legacy81-b074",
+      "label": "L81-B074",
+      "segments": [
+        {
+          "start": 0,
+          "end": 8.0,
+          "fps": 60.0,
+          "url": "/api/design-assets/aebd31e7b697d29c9f8c6117"
+        }
+      ],
+      "referenceId": "library-legacy81-b074",
+      "title": "失败现象用三种图片状态对比",
+      "kind": "components",
+      "category": "图片与作品",
+      "origin": "FredTalk 组件库",
+      "description": "失败现象用三种图片状态对比",
+      "tags": [
+        "图片与作品",
+        "图片",
+        "作品",
+        "素材展示舞台",
+        "并排比较结果"
+      ],
+      "selectionStatus": "keep",
+      "reusability": {
+        "level": "snapshot",
+        "label": "准确场景参考",
+        "parameters": [],
+        "limitations": [
+          "Fred 对本批当前成片作整体认可；新内容适配尚未验收。"
+        ]
+      },
+      "previews": [
+        {
+          "videoUrl": "/api/design-assets/75bde2d9575fea22182f806e",
+          "posterUrl": "/api/design-assets/ece1c9f716230f02ae21dc25",
+          "keyframes": [
+            {
+              "url": "/api/design-assets/1bead3a030d70aff6e9e863c",
+              "timeSeconds": 1.75,
+              "frame": 105
+            },
+            {
+              "url": "/api/design-assets/39bbd7785f5c9eb4011bac0f",
+              "timeSeconds": 4.15,
+              "frame": 249
+            },
+            {
+              "url": "/api/design-assets/e2c691c14830d95821fb45c9",
+              "timeSeconds": 6.233,
+              "frame": 374
+            }
+          ],
+          "available": true,
+          "status": "ready",
+          "start": 0,
+          "end": 8.0,
+          "fps": 60.0,
+          "audioPolicy": "no-audio-track",
+          "posterTimeSeconds": 4.0,
+          "posterSelection": "reviewed"
+        }
+      ],
+      "sources": [
+        {
+          "label": "RebuiltBTypeFailure.tsx",
+          "symbol": "B074",
+          "url": "/api/design-source/e3dac05851cdb56d61e2ffcb",
+          "available": true,
+          "status": "ready"
+        },
+        {
+          "label": "RebuiltBTypeFailure.tsx",
+          "symbol": "",
+          "url": "/api/design-source/e3dac05851cdb56d61e2ffcb",
+          "available": true,
+          "status": "ready"
+        },
+        {
+          "label": "index.tsx",
+          "symbol": "",
+          "url": "/api/design-source/dd081ddff85f30d01f278028",
+          "available": true,
+          "status": "ready"
+        },
+        {
+          "label": "package-lock.json",
+          "symbol": "",
+          "url": "/api/design-source/3840ee3838d24f42d63cfb4f",
+          "available": true,
+          "status": "ready"
+        }
+      ],
+      "mergedInto": [],
+      "hiddenReason": null,
+      "visibleByDefault": true,
+      "categoryId": "images",
+      "libraryOrder": 999,
+      "matching": {
+        "referenceId": "library-legacy81-b074",
+        "primaryUse": "images",
+        "useIds": [
+          "images"
+        ],
+        "sourceId": "fredtalk",
+        "conceptIds": [
+          "media",
+          "comparison"
+        ],
+        "inputObjects": [
+          "图片",
+          "作品"
+        ],
+        "action": "失败现象用三种图片状态对比",
+        "segmentRole": "素材展示舞台",
+        "nativeDurationSeconds": 8.0,
+        "adaptation": "替换本期真实图片，核对比例、裁切、重点和各张阅读时间。",
+        "tags": [
+          "图片与作品",
+          "图片",
+          "作品",
+          "素材展示舞台",
+          "并排比较结果"
+        ],
+        "scenarioId": "compare",
+        "scenarioTitle": "并排比较结果",
+        "label": "L81-B074",
+        "categoryId": "images",
+        "category": "图片与作品",
+        "sceneTypes": [
+          "summary",
+          "image-comparison"
+        ],
+        "title": "失败现象用三种图片状态对比",
+        "collectionId": null,
+        "kind": "components",
+        "score": 190.0,
+        "matchedConceptIds": [
+          "comparison"
+        ],
+        "matchedUseIds": [],
+        "matchedWords": [
+          "对比"
+        ],
+        "reasons": [
+          "比较与对照",
+          "原词命中：对比",
+          "相近词：对比"
+        ]
+      },
+      "sceneTypes": [
+        "summary",
+        "image-comparison"
+      ],
+      "implementation": {
+        "projects": [
+          "components/projects/344dbac0fb0f"
+        ],
+        "compositionId": null,
+        "reuseBoundary": "Sanitized source snapshot; media dependencies are declared in library/media-manifest.json. Inspect the project entry for registration when compositionId is not recorded."
+      },
+      "assetAvailability": {
+        "quarantinedDependencyPaths": 0,
+        "note": "Full project snapshot may include unused branches; check the selected composition."
+      },
+      "sourceFiles": [
+        {
+          "path": "components/projects/344dbac0fb0f/src/RebuiltBTypeFailure.tsx",
+          "sha256": "c873084cc53b2a440142e1726ae1bdcd1b289d01ad2b03a6bcd001be2a75b3af",
+          "url": "/api/design-source/e3dac05851cdb56d61e2ffcb",
+          "available": true,
+          "remoteAvailable": false,
+          "status": "ready",
+          "symbol": "B074"
+        },
+        {
+          "path": "components/projects/344dbac0fb0f/src/RebuiltBTypeFailure.tsx",
+          "sha256": "c873084cc53b2a440142e1726ae1bdcd1b289d01ad2b03a6bcd001be2a75b3af",
+          "url": "/api/design-source/e3dac05851cdb56d61e2ffcb",
+          "available": true,
+          "remoteAvailable": false,
+          "status": "ready"
+        },
+        {
+          "path": "components/projects/344dbac0fb0f/src/index.tsx",
+          "sha256": "c983e0afd5f2bc02b13d5b842bc373707d25a2646436aae8a8a80d54f90e4e4b",
+          "url": "/api/design-source/dd081ddff85f30d01f278028",
+          "available": true,
+          "remoteAvailable": false,
+          "status": "ready"
+        },
+        {
+          "path": "components/projects/344dbac0fb0f/package-lock.json",
+          "sha256": "a19055fdbaa0964330b2d213aa2c9ac41f23bc41831bdaee3f6e5131a8f37bd6",
+          "url": "/api/design-source/3840ee3838d24f42d63cfb4f",
+          "available": true,
+          "remoteAvailable": false,
+          "status": "ready"
+        }
+      ],
+      "sourceAvailability": {
+        "available": true,
+        "status": "ready",
+        "authRequired": false,
+        "installationRequired": false,
+        "reason": "Verified source is installed.",
+        "importCommand": null,
+        "downloadCommand": null,
+        "installCommand": null
+      },
+      "candidateId": "library-legacy81-b074"
+    },
+    {
+      "id": "clip:4b5b8eb5-14b8-4fe9-86fe-e9bee5d02751",
+      "label": "E14",
+      "title": "多组图片对比、局部特写与完整提示词",
+      "kind": "clips",
+      "category": "图片与作品",
+      "origin": "FredTalk 组件库",
+      "description": "整图对比后沿真实 ROI 看细节；提示词先完整呈现，再靠近并逐短语刷紫色；各案例按图片选择构图。",
+      "tags": [
+        "图片与作品",
+        "录屏聚焦",
+        "内容交接",
+        "图片",
+        "作品",
+        "真实界面",
+        "前景重点",
+        "前后内容",
+        "载体",
+        "文档内容",
+        "素材展示舞台",
+        "并排比较结果"
+      ],
+      "selectionStatus": "keep",
+      "reusability": {
+        "level": "snapshot",
+        "label": "准确场景参考",
+        "parameters": [],
+        "limitations": [
+          "保留动作关系，复制后适配本期文案、数量、尺寸、cue 与相邻交接。",
+          "参考片段取舍不代表新组合或新适配已获视觉认可。"
+        ]
+      },
+      "previews": [
+        {
+          "videoUrl": "/api/design-assets/fd759b2d772b68b79b02d7f7",
+          "posterUrl": "/api/design-assets/4157c49fad01537dbc187a74",
+          "keyframes": [],
+          "available": true,
+          "status": "ready",
+          "start": 0,
+          "end": 20.0,
+          "fps": 60,
+          "audioPolicy": "no-audio-track",
+          "posterTimeSeconds": 15.2,
+          "posterSelection": "reviewed",
+          "width": 1920,
+          "height": 1080
+        }
+      ],
+      "sources": [
+        {
+          "label": "Comparison.tsx",
+          "symbol": "Comparison",
+          "url": "/api/design-source/a4c3c69e0af868c297e73a80",
+          "available": true,
+          "status": "ready"
+        },
+        {
+          "label": "Comparison.tsx",
+          "symbol": "Detail",
+          "url": "/api/design-source/a4c3c69e0af868c297e73a80",
+          "available": true,
+          "status": "ready"
+        },
+        {
+          "label": "CityPrompt.tsx",
+          "symbol": "GlassPrompt",
+          "url": "/api/design-source/dfce7fffce5d62655a6d111f",
+          "available": true,
+          "status": "ready"
+        },
+        {
+          "label": "FullPrompt.tsx",
+          "symbol": "FullPrompt",
+          "url": "/api/design-source/bb19dbb5319b10ee50da5029",
+          "available": true,
+          "status": "ready"
+        },
+        {
+          "label": "material-policy.tsx",
+          "symbol": "",
+          "url": "/api/design-source/c7ee5f3817f5bd3a6c4e6487",
+          "available": true,
+          "status": "ready"
+        },
+        {
+          "label": "material-bindings.json",
+          "symbol": "",
+          "url": "/api/design-source/d57cf4e8c3d11feef33baba7",
+          "available": true,
+          "status": "ready"
+        }
+      ],
+      "referenceId": "4b5b8eb5-14b8-4fe9-86fe-e9bee5d02751",
+      "mergedInto": [],
+      "hiddenReason": null,
+      "visibleByDefault": true,
+      "categoryId": "images",
+      "libraryOrder": 22,
+      "matching": {
+        "referenceId": "4b5b8eb5-14b8-4fe9-86fe-e9bee5d02751",
+        "primaryUse": "images",
+        "useIds": [
+          "images",
+          "recording-focus",
+          "handoff"
+        ],
+        "sourceId": "fredtalk",
+        "conceptIds": [
+          "media",
+          "focus",
+          "handoff",
+          "input",
+          "comparison",
+          "document"
+        ],
+        "inputObjects": [
+          "图片",
+          "作品",
+          "真实界面",
+          "前景重点",
+          "前后内容",
+          "载体",
+          "文档内容"
+        ],
+        "action": "多组图片对比、局部特写与完整提示词",
+        "segmentRole": "素材展示舞台",
+        "nativeDurationSeconds": 20.0,
+        "adaptation": "替换本期真实图片，核对比例、裁切、重点和各张阅读时间。",
+        "tags": [
+          "图片与作品",
+          "录屏聚焦",
+          "内容交接",
+          "图片",
+          "作品",
+          "真实界面",
+          "前景重点",
+          "前后内容",
+          "载体",
+          "文档内容",
+          "素材展示舞台",
+          "并排比较结果"
+        ],
+        "scenarioId": "compare",
+        "scenarioTitle": "并排比较结果",
+        "label": "E14",
+        "categoryId": "images",
+        "category": "图片与作品",
+        "sceneTypes": [
+          "image-comparison",
+          "prompt-reading"
+        ],
+        "title": "多组图片对比、局部特写与完整提示词",
+        "collectionId": null,
+        "kind": "clips",
+        "score": 190.0,
+        "matchedConceptIds": [
+          "comparison"
+        ],
+        "matchedUseIds": [],
+        "matchedWords": [
+          "对比"
+        ],
+        "reasons": [
+          "比较与对照",
+          "原词命中：对比",
+          "相近词：对比"
+        ]
+      },
+      "sceneTypes": [
+        "image-comparison",
+        "prompt-reading"
+      ],
+      "implementation": {
+        "projects": [
+          "components/projects/0924c67d9d78"
+        ],
+        "compositionId": "E14",
+        "reuseBoundary": "Sanitized source snapshot; media dependencies are declared in library/media-manifest.json. Inspect the project entry for registration when compositionId is not recorded.",
+        "entryPoint": "components/projects/0924c67d9d78/src/library-material-entry.tsx",
+        "publicDir": "components/projects/0924c67d9d78/public",
+        "runtimeVersion": "4.0.473",
+        "renderInputProps": {
+          "includeNarration": false
+        }
+      },
+      "assetAvailability": {
+        "quarantinedDependencyPaths": 0,
+        "note": "Full project snapshot may include unused branches; check the selected composition."
+      },
+      "materialRevision": "20261004-material-replacements",
+      "previewMatchesImplementation": true,
+      "materialStatus": "rendered-and-reviewed",
+      "materialSources": [
+        "/api/design-source/c7ee5f3817f5bd3a6c4e6487",
+        "/api/design-source/d57cf4e8c3d11feef33baba7"
+      ],
+      "sourceFiles": [
+        {
+          "path": "components/projects/0924c67d9d78/src/Comparison.tsx",
+          "sha256": "3d1c5be9deafa3c230c620ef449f21ccda457d8cca440209c67dac0d7f415496",
+          "url": "/api/design-source/a4c3c69e0af868c297e73a80",
+          "available": true,
+          "remoteAvailable": false,
+          "status": "ready",
+          "symbol": "Comparison"
+        },
+        {
+          "path": "components/projects/0924c67d9d78/src/Comparison.tsx",
+          "sha256": "3d1c5be9deafa3c230c620ef449f21ccda457d8cca440209c67dac0d7f415496",
+          "url": "/api/design-source/a4c3c69e0af868c297e73a80",
+          "available": true,
+          "remoteAvailable": false,
+          "status": "ready",
+          "symbol": "Detail"
+        },
+        {
+          "path": "components/projects/0924c67d9d78/src/CityPrompt.tsx",
+          "sha256": "c49424a2ee37318a9f6ebd8898fff476c9bff71388c89f3477c7c2074838a96d",
+          "url": "/api/design-source/dfce7fffce5d62655a6d111f",
+          "available": true,
+          "remoteAvailable": false,
+          "status": "ready",
+          "symbol": "GlassPrompt"
+        },
+        {
+          "path": "components/projects/0924c67d9d78/src/FullPrompt.tsx",
+          "sha256": "613b9eafd1da60e12901379274aa3c733408f3d7b173b5bc1ffdd47432b297c2",
+          "url": "/api/design-source/bb19dbb5319b10ee50da5029",
+          "available": true,
+          "remoteAvailable": false,
+          "status": "ready",
+          "symbol": "FullPrompt"
+        },
+        {
+          "path": "components/projects/0924c67d9d78/material-policy.tsx",
+          "sha256": "710ee99b3004369f66b996ea9988fdffb73d6e29d512adbe06adbe9f523da292",
+          "url": "/api/design-source/c7ee5f3817f5bd3a6c4e6487",
+          "available": true,
+          "remoteAvailable": false,
+          "status": "ready"
+        },
+        {
+          "path": "components/projects/0924c67d9d78/material-bindings.json",
+          "sha256": "30e69ca542604d3025330e7f8fa5089756511c318516148bef3af671f7396212",
+          "url": "/api/design-source/d57cf4e8c3d11feef33baba7",
+          "available": true,
+          "remoteAvailable": false,
+          "status": "ready"
+        }
+      ],
+      "sourceAvailability": {
+        "available": true,
+        "status": "ready",
+        "authRequired": false,
+        "installationRequired": false,
+        "reason": "Verified source is installed.",
+        "importCommand": null,
+        "downloadCommand": null,
+        "installCommand": null
+      },
+      "candidateId": "4b5b8eb5-14b8-4fe9-86fe-e9bee5d02751"
+    }
+  ]
+}

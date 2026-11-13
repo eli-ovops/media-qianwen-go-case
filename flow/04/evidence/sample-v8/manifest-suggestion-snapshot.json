@@ -1,0 +1,337 @@
+{
+  "workflow": {
+    "profile": "fred-video-v2",
+    "componentMatching": "v1",
+    "authorization": {
+      "mode": "bounded-revision",
+      "source": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/Fred工作流费用提醒样片-v8任务.md",
+      "quote": "先在内部用真实最长文字/字幕做关键帧、运动中间态，再渲短段检查，按当前授权自行修正"
+    }
+  },
+  "timelineFps": 60,
+  "durationInFrames": 816,
+  "outputSpec": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 60
+  },
+  "clockContract": {
+    "mode": "global",
+    "sourceRule": "one persistent global clock, source audio offset 37.2966667"
+  },
+  "referenceCatalogRevision": "217ebeb42f5bfca098228f5eb8b29d5c3196c0a2a7b57a38eb8e7c8e07720c7e",
+  "audio": {
+    "source": "/Users/USER/Downloads/e404afe47f88fa4affadf7f5fa273814_raw.mp4",
+    "startSeconds": 37.29666666666667,
+    "endSeconds": 50.89666666666666,
+    "timeStretch": 1
+  },
+  "subtitles": {
+    "enabled": true,
+    "sourcePath": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/project/src/v8/captions.json",
+    "sourceSha256": "f3a46865afd2f5f6ee18bee0f54200b245e02ba8b79e645ff5cceeb6d4b5723b",
+    "cues": [
+      {
+        "startSeconds": 0.06329999999999991,
+        "endSeconds": 3.003300000000001,
+        "text": "把优惠和服务的费用"
+      },
+      {
+        "startSeconds": 3.003300000000001,
+        "endSeconds": 5.0633,
+        "text": "整体都理清楚"
+      },
+      {
+        "startSeconds": 5.0633,
+        "endSeconds": 6.663300000000001,
+        "text": "计算清楚"
+      },
+      {
+        "startSeconds": 6.663300000000001,
+        "endSeconds": 9.063300000000002,
+        "text": "最后给这个价格的估算"
+      },
+      {
+        "startSeconds": 9.063300000000002,
+        "endSeconds": 10.903300000000002,
+        "text": "而且还设置一个"
+      },
+      {
+        "startSeconds": 10.903300000000002,
+        "endSeconds": 13.4633,
+        "text": "每天查价的提醒"
+      }
+    ],
+    "edgeTrimNote": "Removed preceding id28 only, 0–0.0633s; other cue text and times unchanged from v7 minus8.2s."
+  },
+  "pages": [
+    {
+      "stableId": "fees",
+      "startFrame": 0,
+      "globalStartFrame": 0,
+      "durationInFrames": 528,
+      "implementationMode": "adapted",
+      "productionRoute": {
+        "selected": "remotion",
+        "source": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/Fred工作流费用提醒样片-v8任务.md"
+      },
+      "oneQuestion": "优惠和服务如何形成总价估算",
+      "sourceSpans": [
+        {
+          "text": "然后询问客服，把优惠和服务的费用，整体都理清楚，计算清楚，最后给这个价格的估算"
+        }
+      ],
+      "componentPlan": {
+        "query": "商品 优惠 费用 多项汇合 总价 计算",
+        "candidates": [
+          {
+            "id": "fred-wave2-42-t15d",
+            "decision": "rejected",
+            "reason": "费用逐项累计语义最接近，实际看3核心帧；源码needs-auth，当前无安装或付费授权，拒绝直接复用。"
+          },
+          {
+            "id": "library-new10-n008",
+            "decision": "rejected",
+            "reason": "商品旁问答转执行角色，已读3核心帧及RebuiltN008；问答和结果作品不对应优惠扣除，拒绝。"
+          },
+          {
+            "id": "library-new10-n044",
+            "decision": "rejected",
+            "reason": "商品缩成附件、原输入载体提到前景；保留同一商品变小并进入提醒设置载体，适合承接。"
+          },
+          {
+            "id": "new30-op09",
+            "decision": "selected",
+            "reason": "四个既有画面收束而主画面扩展；保留多个费用对象向同一估算载体收束，连续主对象接力。"
+          }
+        ],
+        "inspectedReferences": [
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/references/new30-op09-0.png",
+            "sha256": "d6a9a0ae63c8ce256c07d40ac1e5140d9f6002fcb8aad37889b08b3da267359c",
+            "id": "new30-op09",
+            "observations": "四个既有画面收束而主画面扩展；保留多个费用对象向同一估算载体收束，连续主对象接力。"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/references/new30-op09-1.png",
+            "sha256": "31697556e3d8ba25932647b019d2672e341d79eb6353a638aff8d9f310e85ee8",
+            "id": "new30-op09",
+            "observations": "四个既有画面收束而主画面扩展；保留多个费用对象向同一估算载体收束，连续主对象接力。"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/references/new30-op09-2.png",
+            "sha256": "e327b795f3c180f6685a3718840b30d6350f9a548895d7229cb834dcf2e98d4f",
+            "id": "new30-op09",
+            "observations": "四个既有画面收束而主画面扩展；保留多个费用对象向同一估算载体收束，连续主对象接力。"
+          }
+        ]
+      },
+      "referenceChoices": [
+        {
+          "id": "new30-op09",
+          "reason": "四个既有画面收束而主画面扩展；保留多个费用对象向同一估算载体收束，连续主对象接力。",
+          "preserve": "辅助对象收束，主载体保持连续身份并扩展",
+          "change": "竖屏60fps；按真实口播重写费用/条件/开关图解，不用原品牌/媒体/数字",
+          "useScope": "费用归并5.1–6.3秒",
+          "useMode": "local",
+          "keyAction": "辅助对象收束，主载体保持连续身份并扩展",
+          "source": {
+            "path": "/Users/USER/.codex/skill-repos/FredTalk/components/projects/expansion-selected-20261007/source-view/7ffd8e123f571e373a7012bed97ca238ce3ecc22631da6637ed284e3ec4451fe.txt",
+            "sha256": "7ffd8e123f571e373a7012bed97ca238ce3ecc22631da6637ed284e3ec4451fe",
+            "symbol": "OP09"
+          },
+          "implementation": {
+            "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/project/src/v8/CostReminder.tsx",
+            "sha256": "692d7365600036a7da7036f35381b097950e87f868280c1b3893da027a700007",
+            "symbol": "CostGather"
+          },
+          "callSite": {
+            "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/project/src/v8/CostReminder.tsx",
+            "sha256": "692d7365600036a7da7036f35381b097950e87f868280c1b3893da027a700007",
+            "symbol": "CostReminder",
+            "callee": "CostGather"
+          }
+        }
+      ],
+      "visualPlan": {
+        "enter": "同一收藏夹冰箱与报价",
+        "change": "优惠扣除、服务加入、合计收束",
+        "read": "文本与原字幕对应停留",
+        "exit": "保留冰箱及预计总支出",
+        "handoff": "交给同一提醒设置面"
+      },
+      "motionEvents": [
+        {
+          "event": "费用归并",
+          "cueFrame": 306,
+          "spokenCue": "计算清楚"
+        }
+      ],
+      "componentAcceptance": {
+        "status": "passed",
+        "stage": "suggestion",
+        "reviewer": "assistant",
+        "checks": {
+          "semanticFit": "四个既有画面收束而主画面扩展；保留多个费用对象向同一估算载体收束，连续主对象接力。",
+          "corePreserved": "辅助对象收束，主载体保持连续身份并扩展",
+          "visualQuality": "实际核心帧可见主从尺寸变化、圆角与软阴影；本期采用1080×1920重排，图解文字明确，无真实成交承诺。"
+        },
+        "evidence": [
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/references/new30-op09-0.png",
+            "sha256": "d6a9a0ae63c8ce256c07d40ac1e5140d9f6002fcb8aad37889b08b3da267359c"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/references/new30-op09-1.png",
+            "sha256": "31697556e3d8ba25932647b019d2672e341d79eb6353a638aff8d9f310e85ee8"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/references/new30-op09-2.png",
+            "sha256": "e327b795f3c180f6685a3718840b30d6350f9a548895d7229cb834dcf2e98d4f"
+          }
+        ],
+        "contextSha256": "d7a7c682a3e838aa6cf25c01bc943b8d5cfb9b3f2a890733f7eaa5b35c517656"
+      },
+      "sceneGuide": {
+        "type": "custom",
+        "modifiers": [
+          "object-transition"
+        ]
+      }
+    },
+    {
+      "stableId": "reminder",
+      "startFrame": 528,
+      "globalStartFrame": 528,
+      "durationInFrames": 288,
+      "implementationMode": "adapted",
+      "productionRoute": {
+        "selected": "remotion",
+        "source": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/Fred工作流费用提醒样片-v8任务.md"
+      },
+      "oneQuestion": "同一商品如何变成按预算每天查价的提醒",
+      "sourceSpans": [
+        {
+          "text": "最后给这个价格的估算，而且还设置一个，每天查价的提醒"
+        }
+      ],
+      "componentPlan": {
+        "query": "界面 点击 开关 反馈",
+        "candidates": [
+          {
+            "id": "fred-wave2-42-t19c",
+            "decision": "rejected",
+            "reason": "实际3核心帧是Fred动画人物对作品作惊叹短评；本段是设置提醒，人物反应不解释条件和开关，且源码needs-auth，不选。"
+          },
+          {
+            "id": "library-new10-n026",
+            "decision": "rejected",
+            "reason": "媒体上传手机和键盘输入会增加本段没有发生的上传动作，核心帧已看，拒绝。"
+          },
+          {
+            "id": "fred-native-t09a",
+            "decision": "rejected",
+            "reason": "核心帧展示光标选入口；源码needs-auth且原录屏界面非本案，不选。"
+          },
+          {
+            "id": "library-new10-n044",
+            "decision": "selected",
+            "reason": "商品缩成附件、原输入载体提到前景；保留同一商品变小并进入提醒设置载体，适合承接。"
+          }
+        ],
+        "inspectedReferences": [
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/references/library-new10-n044-0.jpg",
+            "sha256": "648cd169685bdc01f2addc714be994f9ec9273ede1bc8ea65d3541959b15c8f2",
+            "id": "library-new10-n044",
+            "observations": "商品缩成附件、原输入载体提到前景；保留同一商品变小并进入提醒设置载体，适合承接。"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/references/library-new10-n044-1.jpg",
+            "sha256": "ac2a8d5ae16ccb32d99b7a9aca7dd989e0fe99db1988818bda6ef17a966f05cf",
+            "id": "library-new10-n044",
+            "observations": "商品缩成附件、原输入载体提到前景；保留同一商品变小并进入提醒设置载体，适合承接。"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/references/library-new10-n044-2.jpg",
+            "sha256": "d20adde0f0664b06af435890c6b8a23d149d7729f3fb4b2fcf596d7ee2ff23ab",
+            "id": "library-new10-n044",
+            "observations": "商品缩成附件、原输入载体提到前景；保留同一商品变小并进入提醒设置载体，适合承接。"
+          }
+        ]
+      },
+      "referenceChoices": [
+        {
+          "id": "library-new10-n044",
+          "reason": "商品缩成附件、原输入载体提到前景；保留同一商品变小并进入提醒设置载体，适合承接。",
+          "preserve": "商品持续缩小成为同一前景设置载体的附件",
+          "change": "竖屏60fps；按真实口播重写费用/条件/开关图解，不用原品牌/媒体/数字",
+          "useScope": "8.8–9.8秒同商品与总价移入条件设置",
+          "useMode": "local",
+          "keyAction": "商品持续缩小成为同一前景设置载体的附件",
+          "source": {
+            "path": "/Users/USER/.codex/skill-repos/FredTalk/components/projects/30b3c05aa839/src/BatchB.tsx",
+            "sha256": "159a69df982c5184c08ef7d8a152ee80bf7e7a3d3128ef67fab3d51060dd8c03",
+            "symbol": "MediaScenesB"
+          },
+          "implementation": {
+            "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/project/src/v8/CostReminder.tsx",
+            "sha256": "692d7365600036a7da7036f35381b097950e87f868280c1b3893da027a700007",
+            "symbol": "ProductToReminder"
+          },
+          "callSite": {
+            "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/project/src/v8/CostReminder.tsx",
+            "sha256": "692d7365600036a7da7036f35381b097950e87f868280c1b3893da027a700007",
+            "symbol": "CostReminder",
+            "callee": "ProductToReminder"
+          }
+        }
+      ],
+      "visualPlan": {
+        "enter": "同一收藏夹冰箱与报价",
+        "change": "结果附着到设置面，条件展开、开关启用",
+        "read": "文本与原字幕对应停留",
+        "exit": "保留冰箱及预计总支出",
+        "handoff": "交给同一提醒设置面"
+      },
+      "motionEvents": [
+        {
+          "event": "条件展开及启用",
+          "cueFrame": 544,
+          "spokenCue": "设置一个"
+        }
+      ],
+      "componentAcceptance": {
+        "status": "passed",
+        "stage": "suggestion",
+        "reviewer": "assistant",
+        "checks": {
+          "semanticFit": "商品缩成附件、原输入载体提到前景；保留同一商品变小并进入提醒设置载体，适合承接。",
+          "corePreserved": "商品持续缩小成为同一前景设置载体的附件",
+          "visualQuality": "实际核心帧可见主从尺寸变化、圆角与软阴影；本期采用1080×1920重排，图解文字明确，无真实成交承诺。"
+        },
+        "evidence": [
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/references/library-new10-n044-0.jpg",
+            "sha256": "648cd169685bdc01f2addc714be994f9ec9273ede1bc8ea65d3541959b15c8f2"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/references/library-new10-n044-1.jpg",
+            "sha256": "ac2a8d5ae16ccb32d99b7a9aca7dd989e0fe99db1988818bda6ef17a966f05cf"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/references/library-new10-n044-2.jpg",
+            "sha256": "d20adde0f0664b06af435890c6b8a23d149d7729f3fb4b2fcf596d7ee2ff23ab"
+          }
+        ],
+        "contextSha256": "7170be0d4f1996cbfe45125d5c0151c9f225e57b61c6e257e5bd608334f93c88"
+      },
+      "sceneGuide": {
+        "type": "custom",
+        "modifiers": [
+          "object-transition"
+        ]
+      }
+    }
+  ]
+}

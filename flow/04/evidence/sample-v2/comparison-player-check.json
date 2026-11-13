@@ -1,0 +1,150 @@
+{
+  "initial": [
+    {
+      "id": "old",
+      "time": 0,
+      "duration": 21.8,
+      "paused": true,
+      "muted": true,
+      "width": 1080,
+      "height": 1920,
+      "error": null
+    },
+    {
+      "id": "new",
+      "time": 0,
+      "duration": 21.8,
+      "paused": true,
+      "muted": true,
+      "width": 1080,
+      "height": 1920,
+      "error": null
+    }
+  ],
+  "playing": [
+    {
+      "id": "old",
+      "time": 1.012772,
+      "duration": 21.8,
+      "paused": false,
+      "muted": true,
+      "width": 1080,
+      "height": 1920,
+      "error": null
+    },
+    {
+      "id": "new",
+      "time": 1.012763,
+      "duration": 21.8,
+      "paused": false,
+      "muted": true,
+      "width": 1080,
+      "height": 1920,
+      "error": null
+    }
+  ],
+  "paused": [
+    {
+      "id": "old",
+      "time": 1.027088,
+      "duration": 21.8,
+      "paused": true,
+      "muted": true,
+      "width": 1080,
+      "height": 1920,
+      "error": null
+    },
+    {
+      "id": "new",
+      "time": 1.027102,
+      "duration": 21.8,
+      "paused": true,
+      "muted": true,
+      "width": 1080,
+      "height": 1920,
+      "error": null
+    }
+  ],
+  "seek": [
+    {
+      "id": "old",
+      "time": 4.800009,
+      "duration": 21.8,
+      "paused": true,
+      "muted": true,
+      "width": 1080,
+      "height": 1920,
+      "error": null
+    },
+    {
+      "id": "new",
+      "time": 4.800009,
+      "duration": 21.8,
+      "paused": true,
+      "muted": true,
+      "width": 1080,
+      "height": 1920,
+      "error": null
+    }
+  ],
+  "resumed": [
+    {
+      "id": "old",
+      "time": 5.203238,
+      "duration": 21.8,
+      "paused": false,
+      "muted": true,
+      "width": 1080,
+      "height": 1920,
+      "error": null
+    },
+    {
+      "id": "new",
+      "time": 5.203239,
+      "duration": 21.8,
+      "paused": false,
+      "muted": true,
+      "width": 1080,
+      "height": 1920,
+      "error": null
+    }
+  ],
+  "soundControl": [
+    {
+      "id": "old",
+      "time": 5.217696,
+      "duration": 21.8,
+      "paused": true,
+      "muted": true,
+      "width": 1080,
+      "height": 1920,
+      "error": null
+    },
+    {
+      "id": "new",
+      "time": 5.217721,
+      "duration": 21.8,
+      "paused": true,
+      "muted": false,
+      "width": 1080,
+      "height": 1920,
+      "error": null
+    }
+  ],
+  "mediaErrors": "",
+  "images": [
+    {
+      "src": "evidence/sample-v2/pair-2.3.jpg",
+      "loaded": true
+    },
+    {
+      "src": "evidence/sample-v2/pair-11.5.jpg",
+      "loaded": true
+    },
+    {
+      "src": "evidence/sample-v2/pair-20.5.jpg",
+      "loaded": true
+    }
+  ],
+  "limits": "muted browser functional playback; no direct listening or continuous perceptual review"
+}

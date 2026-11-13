@@ -1,0 +1,292 @@
+{
+  "catalogRevision": "217ebeb42f5bfca098228f5eb8b29d5c3196c0a2a7b57a38eb8e7c8e07720c7e",
+  "count": 1,
+  "returned": 1,
+  "entries": [
+    {
+      "id": "component:fred-wave2-42-t19c",
+      "referenceId": "fred-wave2-42-t19c",
+      "label": "T19c",
+      "title": "惊叹反应：Fred 形象加短评",
+      "kind": "components",
+      "category": "讲解段落",
+      "categoryId": "explain",
+      "origin": "第二轮组件 42 条",
+      "description": "看到结果 → Fred 惊叹，短评落定",
+      "tags": [
+        "新做组件",
+        "T19c",
+        "惊叹",
+        "反应",
+        "Fred形象",
+        "短评",
+        "讲解段落",
+        "提出问题与给出答案"
+      ],
+      "selectionStatus": "keep",
+      "status": "keep",
+      "reviewKind": "registered",
+      "reviewStatus": "keep",
+      "visibleByDefault": true,
+      "defaultReuse": true,
+      "collectionId": "fred-wave2-42-20261012",
+      "addedAt": "2026-10-12T16:09:37+08:00",
+      "isNew": true,
+      "displayPriority": -161,
+      "libraryOrder": 0,
+      "sceneTypes": [
+        "custom",
+        "summary"
+      ],
+      "mergedInto": [],
+      "hiddenReason": null,
+      "reusability": {
+        "level": "parameterized",
+        "label": "可编辑组件 · 自备媒体",
+        "parameters": [],
+        "limitations": [
+          "源码包保留真实实现、kit、字体与动作音效；人物素材、实际录屏与每期原片由使用者自备。",
+          "新文字、数量、媒体与口播时码需检查容量、可读性和动态。"
+        ]
+      },
+      "previews": [
+        {
+          "videoUrl": "https://www.fred-fu.com/visual-library-app/objects/503a49e26ce66d1dff0676fdd0270f0c6cb24db886d279f28f70061f9d758120.mp4",
+          "posterUrl": "https://www.fred-fu.com/visual-library-app/objects/80fe818aba2b499cdf61841618321aa5c1ba675ccbb5b367c92c20f7e433c953.jpg",
+          "keyframes": [
+            {
+              "url": "https://www.fred-fu.com/visual-library-app/objects/80fe818aba2b499cdf61841618321aa5c1ba675ccbb5b367c92c20f7e433c953.jpg",
+              "frame": 72,
+              "timeSeconds": 1.2
+            },
+            {
+              "url": "https://www.fred-fu.com/visual-library-app/objects/d8684c706193c0b36317f5d17650585e05206e52818a4e21a6ad57e17f6d6edc.jpg",
+              "frame": 144,
+              "timeSeconds": 2.4
+            },
+            {
+              "url": "https://www.fred-fu.com/visual-library-app/objects/cd088cd56214546815c34d2ae57611e58a8991376f306de243ec6c05dfdc2598.jpg",
+              "frame": 234,
+              "timeSeconds": 3.9
+            }
+          ],
+          "available": true,
+          "status": "ready",
+          "start": 0,
+          "end": 4.0,
+          "fps": 60,
+          "width": 1280,
+          "height": 720,
+          "sha256": "503a49e26ce66d1dff0676fdd0270f0c6cb24db886d279f28f70061f9d758120",
+          "label": "惊叹反应：Fred 形象加短评",
+          "audioPolicy": "accepted-component-action-sfx-no-narration",
+          "previewIdentity": {
+            "kind": "public-720p-preview",
+            "derivedFromSha256": "0cebd198f569b14c75d21753b740e39db3190dca6113657d16beb37f962bf813",
+            "sourceWidth": 1920,
+            "sourceHeight": 1080,
+            "audioPolicy": "copied-original-compressed-audio"
+          },
+          "access": "public"
+        }
+      ],
+      "sources": [
+        {
+          "label": "T19c-ReactionCard.tsx",
+          "path": "src/components/T19c-ReactionCard.tsx",
+          "symbol": "ReactionCard",
+          "url": "/api/visual-library/assets/f671f6edd6a0c0b19851d4393db026f2399b88e6e3a4a9836424c68222378e54.txt",
+          "sha256": "f671f6edd6a0c0b19851d4393db026f2399b88e6e3a4a9836424c68222378e54",
+          "available": false,
+          "status": "needs-auth",
+          "installPath": ".artifacts/member-components/fred-wave2-42-20261012/fred-wave2-42-20261012/src/components/T19c-ReactionCard.tsx",
+          "access": "members"
+        },
+        {
+          "label": "theme.ts",
+          "path": "src/kit/theme.ts",
+          "symbol": "",
+          "url": "/api/visual-library/assets/a235e95c652137b43c31a9c680dabfd8fce3bbb45fac8559cd0af70ce2e9b1a3.txt",
+          "sha256": "a235e95c652137b43c31a9c680dabfd8fce3bbb45fac8559cd0af70ce2e9b1a3",
+          "available": false,
+          "status": "needs-auth",
+          "installPath": ".artifacts/member-components/fred-wave2-42-20261012/fred-wave2-42-20261012/src/kit/theme.ts",
+          "access": "members"
+        },
+        {
+          "label": "ui.tsx",
+          "path": "src/kit/ui.tsx",
+          "symbol": "",
+          "url": "/api/visual-library/assets/05ce402324f5e11521b15dacc30de3ee1f89adb0a1b5c20b220a29890d8e3ba9.txt",
+          "sha256": "05ce402324f5e11521b15dacc30de3ee1f89adb0a1b5c20b220a29890d8e3ba9",
+          "available": false,
+          "status": "needs-auth",
+          "installPath": ".artifacts/member-components/fred-wave2-42-20261012/fred-wave2-42-20261012/src/kit/ui.tsx",
+          "access": "members"
+        },
+        {
+          "label": "registry.ts",
+          "path": "src/registry.ts",
+          "symbol": "",
+          "url": "/api/visual-library/assets/658d1150913c15380146f67b79e9279f4d3bc589aa4fcaab697518b698f8caad.txt",
+          "sha256": "658d1150913c15380146f67b79e9279f4d3bc589aa4fcaab697518b698f8caad",
+          "available": false,
+          "status": "needs-auth",
+          "installPath": ".artifacts/member-components/fred-wave2-42-20261012/fred-wave2-42-20261012/src/registry.ts",
+          "access": "members"
+        }
+      ],
+      "projectDownload": {
+        "url": "/api/visual-library/assets/fa5ab7e784c6ed4245092ac0993d729b225e6078d96a287f042bd97d63ef13a6.zip",
+        "filename": "fred-wave2-42-20261012-source.zip",
+        "sha256": "fa5ab7e784c6ed4245092ac0993d729b225e6078d96a287f042bd97d63ef13a6",
+        "available": false,
+        "kind": "independent-source-user-supplied-media",
+        "size": 34144141,
+        "status": "needs-auth",
+        "access": "members"
+      },
+      "implementation": {
+        "compositionId": "T19c-ReactionCard",
+        "fps": 60,
+        "width": 1920,
+        "height": 1080,
+        "durationInFrames": 240,
+        "runtimeVersions": {
+          "remotion": "4.0.515",
+          "react": "19.2.4"
+        },
+        "projects": [
+          ".artifacts/member-components/fred-wave2-42-20261012/fred-wave2-42-20261012"
+        ],
+        "reuseBoundary": "Member website source package; install verified files into the ignored member directory before adaptation. Previously distributed MIT copies retain their license."
+      },
+      "matching": {
+        "referenceId": "fred-wave2-42-t19c",
+        "primaryUse": "explain",
+        "useIds": [
+          "explain",
+          "images"
+        ],
+        "sourceId": "fred-wave2-42",
+        "conceptIds": [
+          "people",
+          "media",
+          "text"
+        ],
+        "inputObjects": [
+          "结果图",
+          "Fred 形象",
+          "短评"
+        ],
+        "action": "看到结果 → Fred 惊叹，短评落定",
+        "segmentRole": "新做参数化组件（Fred 认可入库）",
+        "nativeDurationSeconds": 4.0,
+        "adaptation": "只通过 props 换文字、素材、数量；新内容先出静帧检查容量与可读性。",
+        "tags": [
+          "新做组件",
+          "T19c",
+          "惊叹",
+          "反应",
+          "Fred形象",
+          "短评",
+          "讲解段落",
+          "提出问题与给出答案"
+        ],
+        "scenarioId": "question",
+        "addedAt": "2026-10-12T16:09:37+08:00",
+        "scenarioTitle": "提出问题与给出答案",
+        "label": "T19c",
+        "categoryId": "explain",
+        "category": "讲解段落",
+        "sceneTypes": [
+          "custom",
+          "summary"
+        ],
+        "title": "惊叹反应：Fred 形象加短评",
+        "collectionId": "fred-wave2-42-20261012",
+        "kind": "components",
+        "searchText": "fred-wave2-42-t19c T19c 惊叹反应：Fred 形象加短评 看到结果 → Fred 惊叹，短评落定 新做参数化组件（Fred 认可入库） 新做组件 T19c 惊叹 反应 Fred形象 短评 讲解段落 提出问题与给出答案 结果图 Fred 形象 短评 第二轮组件 42 条 惊叹反应：Fred 形象加短评 新做组件 T19c 惊叹 反应 Fred形象 短评 讲解段落 提出问题与给出答案"
+      },
+      "earlyAccess": {
+        "enabled": true,
+        "audience": "exclusive_group",
+        "requiredMembershipLevels": [
+          "exclusive_group"
+        ],
+        "durationDays": 14,
+        "startsAt": "2026-10-13T03:15:00.000Z",
+        "publicAt": "2026-10-27T03:15:00.000Z"
+      },
+      "access": "members",
+      "originalDownload": {
+        "url": "/api/visual-library/assets/0cebd198f569b14c75d21753b740e39db3190dca6113657d16beb37f962bf813.mp4",
+        "available": true,
+        "filename": "T19c-original.mp4",
+        "sha256": "0cebd198f569b14c75d21753b740e39db3190dca6113657d16beb37f962bf813",
+        "size": 3411907,
+        "width": 1920,
+        "height": 1080,
+        "fps": 60,
+        "identity": "accepted-original"
+      },
+      "sourceFiles": [
+        {
+          "path": ".artifacts/member-components/fred-wave2-42-20261012/fred-wave2-42-20261012/src/components/T19c-ReactionCard.tsx",
+          "sha256": "f671f6edd6a0c0b19851d4393db026f2399b88e6e3a4a9836424c68222378e54",
+          "url": "/api/visual-library/assets/f671f6edd6a0c0b19851d4393db026f2399b88e6e3a4a9836424c68222378e54.txt",
+          "available": false,
+          "remoteAvailable": false,
+          "status": "missing",
+          "symbol": "ReactionCard"
+        },
+        {
+          "path": ".artifacts/member-components/fred-wave2-42-20261012/fred-wave2-42-20261012/src/kit/theme.ts",
+          "sha256": "a235e95c652137b43c31a9c680dabfd8fce3bbb45fac8559cd0af70ce2e9b1a3",
+          "url": "/api/visual-library/assets/a235e95c652137b43c31a9c680dabfd8fce3bbb45fac8559cd0af70ce2e9b1a3.txt",
+          "available": false,
+          "remoteAvailable": false,
+          "status": "missing"
+        },
+        {
+          "path": ".artifacts/member-components/fred-wave2-42-20261012/fred-wave2-42-20261012/src/kit/ui.tsx",
+          "sha256": "05ce402324f5e11521b15dacc30de3ee1f89adb0a1b5c20b220a29890d8e3ba9",
+          "url": "/api/visual-library/assets/05ce402324f5e11521b15dacc30de3ee1f89adb0a1b5c20b220a29890d8e3ba9.txt",
+          "available": false,
+          "remoteAvailable": false,
+          "status": "missing"
+        },
+        {
+          "path": ".artifacts/member-components/fred-wave2-42-20261012/fred-wave2-42-20261012/src/registry.ts",
+          "sha256": "658d1150913c15380146f67b79e9279f4d3bc589aa4fcaab697518b698f8caad",
+          "url": "/api/visual-library/assets/658d1150913c15380146f67b79e9279f4d3bc589aa4fcaab697518b698f8caad.txt",
+          "available": false,
+          "remoteAvailable": false,
+          "status": "missing"
+        }
+      ],
+      "sourceAvailability": {
+        "available": false,
+        "status": "needs-auth",
+        "authRequired": true,
+        "installationRequired": true,
+        "reason": "Source is not installed; log in to the website, download the official source ZIP and import it locally. Automatic token downloads are optional.",
+        "importCommand": "python3 scripts/assets.py import --zip <official-source-ZIP-path>",
+        "downloadCommand": "python3 scripts/assets.py download --members --collection fred-wave2-42-20261012",
+        "installCommand": "python3 scripts/assets.py materialize --members --collection fred-wave2-42-20261012"
+      },
+      "sourcePackage": {
+        "collectionId": "fred-wave2-42-20261012",
+        "sha256": "fa5ab7e784c6ed4245092ac0993d729b225e6078d96a287f042bd97d63ef13a6",
+        "size": 34144141,
+        "installRoot": ".artifacts/member-components/fred-wave2-42-20261012",
+        "entryPoint": ".artifacts/member-components/fred-wave2-42-20261012/fred-wave2-42-20261012/src/index.tsx",
+        "publicDir": ".artifacts/member-components/fred-wave2-42-20261012/fred-wave2-42-20261012/public"
+      },
+      "projectRoot": ".artifacts/member-components/fred-wave2-42-20261012/fred-wave2-42-20261012",
+      "entryPoint": null,
+      "publicDir": null,
+      "candidateId": "fred-wave2-42-t19c"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "status": "FAIL",
+  "stage": "suggestion",
+  "errors": [
+    "component distribution: whole-episode comparison is missing or stale; review new30-op09 in fees,outro; library-legacy81-c005 in tools,execution,fees"
+  ],
+  "manifestSha256": "b9af8f055eb2937d72e6d339881955554155e89664872791e429645c314dd283"
+}

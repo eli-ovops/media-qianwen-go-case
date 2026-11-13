@@ -1,0 +1,236 @@
+{
+  "reviewCompleted": true,
+  "rawMachineBlocking": 2,
+  "rawMachineWarnings": 14,
+  "thresholdsUnchanged": true,
+  "subtitleBand": 0.2,
+  "explicitAllows": [
+    {
+      "range": [
+        12,
+        16.5
+      ],
+      "reason": "10fps实看12.0–14.5秒让用户读三个工具和目标（约2.5秒）；14.6–15.9秒三条细连接线连续推进，之后不足1秒停留。压缩到192×108的全图平均变化漏检小面积线条，不能视为4.5秒全程冻结。"
+    },
+    {
+      "range": [
+        52.3,
+        55.5
+      ],
+      "reason": "10fps实看52.3–54.0秒条件边框从上到下逐一变亮；54.0–55.5秒完整条件组阅读约1.5秒。原始3.2秒标记合并了小面积边框变化与读完条件的停留。"
+    }
+  ],
+  "decisions": [
+    {
+      "segment": "qianwen-go-full-v9-r2",
+      "kind": "nonstop",
+      "start": 0.0,
+      "end": 4.9,
+      "meanStep": 1.619,
+      "netChange": 14.33,
+      "duration": 4.9,
+      "allowed": false,
+      "reviewDecision": "ACCEPT_READING_OR_MEANINGFUL_ACTION",
+      "reason": "原片真人自然说话和手部动作（部分边界含转场）；不是人为循环漂浮。动态抠像观感仍待05/用户。"
+    },
+    {
+      "segment": "qianwen-go-full-v9-r2",
+      "kind": "hold",
+      "start": 12.0,
+      "end": 16.5,
+      "meanStep": 0.014,
+      "netChange": 0.59,
+      "duration": 4.5,
+      "allowed": false,
+      "reviewDecision": "ACCEPT_READING_OR_MEANINGFUL_ACTION",
+      "reason": "10fps实看12.0–14.5秒让用户读三个工具和目标（约2.5秒）；14.6–15.9秒三条细连接线连续推进，之后不足1秒停留。压缩到192×108的全图平均变化漏检小面积线条，不能视为4.5秒全程冻结。"
+    },
+    {
+      "segment": "qianwen-go-full-v9-r2",
+      "kind": "hold-warn",
+      "start": 16.8,
+      "end": 18.8,
+      "meanStep": 0.007,
+      "netChange": 0.13,
+      "duration": 2.0,
+      "allowed": false,
+      "reviewDecision": "ACCEPT_READING_OR_MEANINGFUL_ACTION",
+      "reason": "读取工具推进结果，对应帮你往下办下去。"
+    },
+    {
+      "segment": "qianwen-go-full-v9-r2",
+      "kind": "hold-warn",
+      "start": 21.1,
+      "end": 23.4,
+      "meanStep": 0.001,
+      "netChange": 0.03,
+      "duration": 2.3,
+      "allowed": false,
+      "reviewDecision": "ACCEPT_READING_OR_MEANINGFUL_ACTION",
+      "reason": "千问Go专名展示，对应即将推出千问Go。"
+    },
+    {
+      "segment": "qianwen-go-full-v9-r2",
+      "kind": "nonstop",
+      "start": 23.4,
+      "end": 29.2,
+      "meanStep": 2.3,
+      "netChange": 24.11,
+      "duration": 5.8,
+      "allowed": false,
+      "reviewDecision": "ACCEPT_READING_OR_MEANINGFUL_ACTION",
+      "reason": "原片真人自然说话和手部动作（部分边界含转场）；不是人为循环漂浮。动态抠像观感仍待05/用户。"
+    },
+    {
+      "segment": "qianwen-go-full-v9-r2",
+      "kind": "hold-warn",
+      "start": 30.2,
+      "end": 32.5,
+      "meanStep": 0.013,
+      "netChange": 0.29,
+      "duration": 2.3,
+      "allowed": false,
+      "reviewDecision": "ACCEPT_READING_OR_MEANINGFUL_ACTION",
+      "reason": "冰箱与11.11场景说明，完整听完想买冰箱。"
+    },
+    {
+      "segment": "qianwen-go-full-v9-r2",
+      "kind": "hold-warn",
+      "start": 37.3,
+      "end": 39.5,
+      "meanStep": 0.004,
+      "netChange": 0.08,
+      "duration": 2.2,
+      "allowed": false,
+      "reviewDecision": "ACCEPT_READING_OR_MEANINGFUL_ACTION",
+      "reason": "收藏夹指定款条件阅读；下一条件39.55秒进入。"
+    },
+    {
+      "segment": "qianwen-go-full-v9-r2",
+      "kind": "hold-warn",
+      "start": 45.6,
+      "end": 48.5,
+      "meanStep": 0.01,
+      "netChange": 0.2,
+      "duration": 2.9,
+      "allowed": false,
+      "reviewDecision": "ACCEPT_READING_OR_MEANINGFUL_ACTION",
+      "reason": "回收/安装费用口播及两个服务图标阅读。"
+    },
+    {
+      "segment": "qianwen-go-full-v9-r2",
+      "kind": "hold-warn",
+      "start": 49.5,
+      "end": 52.0,
+      "meanStep": 0.004,
+      "netChange": 0.11,
+      "duration": 2.5,
+      "allowed": false,
+      "reviewDecision": "ACCEPT_READING_OR_MEANINGFUL_ACTION",
+      "reason": "4500预算条件阅读，不把数字写作价格。"
+    },
+    {
+      "segment": "qianwen-go-full-v9-r2",
+      "kind": "hold",
+      "start": 52.3,
+      "end": 55.5,
+      "meanStep": 0.077,
+      "netChange": 2.42,
+      "duration": 3.2,
+      "allowed": false,
+      "reviewDecision": "ACCEPT_READING_OR_MEANINGFUL_ACTION",
+      "reason": "10fps实看52.3–54.0秒条件边框从上到下逐一变亮；54.0–55.5秒完整条件组阅读约1.5秒。原始3.2秒标记合并了小面积边框变化与读完条件的停留。"
+    },
+    {
+      "segment": "qianwen-go-full-v9-r2",
+      "kind": "hold-warn",
+      "start": 72.1,
+      "end": 74.5,
+      "meanStep": 0.003,
+      "netChange": 0.06,
+      "duration": 2.4,
+      "allowed": false,
+      "reviewDecision": "ACCEPT_READING_OR_MEANINGFUL_ACTION",
+      "reason": "保留运算操作数与预计总支出，读取完整估算结果；为已批准v8.1段落。"
+    },
+    {
+      "segment": "qianwen-go-full-v9-r2",
+      "kind": "nonstop",
+      "start": 79.3,
+      "end": 84.1,
+      "meanStep": 2.544,
+      "netChange": 28.43,
+      "duration": 4.8,
+      "allowed": false,
+      "reviewDecision": "ACCEPT_READING_OR_MEANINGFUL_ACTION",
+      "reason": "原片真人自然说话和手部动作（部分边界含转场）；不是人为循环漂浮。动态抠像观感仍待05/用户。"
+    },
+    {
+      "segment": "qianwen-go-full-v9-r2",
+      "kind": "hold-warn",
+      "start": 84.1,
+      "end": 86.2,
+      "meanStep": 0.006,
+      "netChange": 0.12,
+      "duration": 2.1,
+      "allowed": false,
+      "reviewDecision": "ACCEPT_READING_OR_MEANINGFUL_ACTION",
+      "reason": "简单帮我们开题后接来回查；86.27秒焦点切入搜索任务。"
+    },
+    {
+      "segment": "qianwen-go-full-v9-r2",
+      "kind": "hold-warn",
+      "start": 86.6,
+      "end": 89.0,
+      "meanStep": 0.001,
+      "netChange": 0.02,
+      "duration": 2.4,
+      "allowed": false,
+      "reviewDecision": "ACCEPT_READING_OR_MEANINGFUL_ACTION",
+      "reason": "来回查任务随当前口播停留，89.07秒接询问任务。"
+    },
+    {
+      "segment": "qianwen-go-full-v9-r2",
+      "kind": "hold-warn",
+      "start": 92.3,
+      "end": 94.5,
+      "meanStep": 0.004,
+      "netChange": 0.09,
+      "duration": 2.2,
+      "allowed": false,
+      "reviewDecision": "ACCEPT_READING_OR_MEANINGFUL_ACTION",
+      "reason": "最后整理任务保持可读，94.55秒开始收向AI。"
+    },
+    {
+      "segment": "qianwen-go-full-v9-r2",
+      "kind": "nonstop",
+      "start": 96.2,
+      "end": 101.9,
+      "meanStep": 2.952,
+      "netChange": 16.01,
+      "duration": 5.7,
+      "allowed": false,
+      "reviewDecision": "ACCEPT_READING_OR_MEANINGFUL_ACTION",
+      "reason": "原片真人自然说话和手部动作（部分边界含转场）；不是人为循环漂浮。动态抠像观感仍待05/用户。"
+    }
+  ],
+  "additionalEvidence": [
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/full-v9-r2/motion-tools-01.jpg",
+      "sha256": "2b47386a853b237e769d9b7a695a68426cfd33075289954701382ad6cdfced5d"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/full-v9-r2/motion-tools-02.jpg",
+      "sha256": "683be22a665567a20855017af0feaee64d5c296cf5332b06b90ccc6df2f7628a"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/full-v9-r2/motion-conditions-01.jpg",
+      "sha256": "bcf912b358472c676ff418cd407f7423b18e45d9456d92c32c39364b3f3a55b7"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/full-v9-r2/motion-conditions-02.jpg",
+      "sha256": "59991ccfb38b4d7a639b82304dfeb0057b81054c0a551423558ead453e3e03d9"
+    }
+  ],
+  "scope": "Assistant review of actual sampled rendered motion; no automatic aesthetic approval or human continuous audiovisual acceptance."
+}

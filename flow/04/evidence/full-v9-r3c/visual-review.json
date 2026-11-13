@@ -1,0 +1,73 @@
+{
+  "video": {
+    "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/output/qianwen-go-full-v9-r3c.mp4",
+    "bytes": 9693641,
+    "sha256": "797426b66fec27431ecf298b9df67f9869b2cddfaa456b1c851009dd6b84ab10"
+  },
+  "actualReviewedUniqueFrames": 196,
+  "fullFrameReviewedCount": 106,
+  "portraitCropOnlyFrameCount": 90,
+  "unreviewedFrames": 5926,
+  "imagesActuallyViewed": [
+    "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/full-v9-r3c/native-keys-01.jpg",
+    "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/full-v9-r3c/native-keys-02.jpg",
+    "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/full-v9-r3c/portrait-sampled-01.jpg",
+    "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/full-v9-r3c/portrait-sampled-02.jpg",
+    "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/full-v9-r3c/portrait-sampled-03.jpg",
+    "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/full-v9-r3c/portrait-sampled-04.jpg",
+    "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/full-v9-r3c/portrait-sampled-05.jpg",
+    "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/full-v9-r3c/portrait-sampled-06.jpg",
+    "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/full-v9-r3c/portrait-sampled-07.jpg",
+    "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/full-v9-r3c/glasses-bridge-contiguous-01.jpg",
+    "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/full-v9-r3c/glasses-bridge-contiguous-02.jpg",
+    "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/full-v9-r3c/glasses-bridge-contiguous-03.jpg",
+    "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/full-v9-r3c/glasses-chair-close-contiguous-01.jpg",
+    "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/full-v9-r3c/glasses-chair-close-contiguous-02.jpg",
+    "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/full-v9-r3c/glasses-chair-close-contiguous-03.jpg",
+    "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/full-v9-r3c/glasses-chair-close-contiguous-04.jpg",
+    "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/full-v9-r3c/hand-close-contiguous-01.jpg",
+    "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/full-v9-r3c/hand-close-contiguous-02.jpg",
+    "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/full-v9-r3c/hand-close-contiguous-03.jpg",
+    "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/full-v9-r3c/hand-close-contiguous-04.jpg",
+    "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/full-v9-r3c/context-seams-01.jpg",
+    "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/full-v9-r3c/context-seams-02.jpg",
+    "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/full-v9-r3c/final-frames/f6021.png"
+  ],
+  "contiguousRanges": [
+    {
+      "firstFrame": 1487,
+      "lastFrame": 1511,
+      "firstSeconds": 24.783333333333335,
+      "lastSeconds": 25.183333333333334,
+      "frames": 25,
+      "kind": "portrait crop"
+    },
+    {
+      "firstFrame": 5850,
+      "lastFrame": 5892,
+      "firstSeconds": 97.5,
+      "lastSeconds": 98.2,
+      "frames": 43,
+      "kind": "full frame"
+    },
+    {
+      "firstFrame": 6003,
+      "lastFrame": 6039,
+      "firstSeconds": 100.05,
+      "lastSeconds": 100.65,
+      "frames": 37,
+      "kind": "full frame"
+    }
+  ],
+  "observations": [
+    "桥接段眼镜外缘主缺口补回，手指接触脸部的连续状态保留；f1488椅背细碎片不再出现。",
+    "opinion保留脸/肩轮廓，没有采用试验中伤及脸/肩的遮罩。",
+    "结尾真人保留96.27–97.3s；97.05–97.35s与既有AI节点交接。97.3s后原手部/椅背问题窗口由内容画面覆盖，包括98.27s与100.35s，未声称这些原片像素全部无损修复。",
+    "原有标题、字幕与内容组件可读，抽样未见额外免责声明或ELI角标。",
+    "细镜框、发丝仍可见分割边缘；不得描述为无损抠像。"
+  ],
+  "continuousAudiovisualReview": false,
+  "directListening": false,
+  "pmoAcceptance": "PENDING",
+  "stage05": "NOT_RELEASED"
+}

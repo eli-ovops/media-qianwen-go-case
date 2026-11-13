@@ -1,0 +1,20 @@
+{
+  "pmo_thread_id": "01a11194-c40d-7bf0-8396-5bb5d6449444",
+  "content_id": "qianwen-go-case-20261013",
+  "stage": "05",
+  "decision": "PASS",
+  "human_review_source": {
+    "date": "2026-10-14",
+    "thread": "01a11194-c40d-7bf0-8396-5bb5d6449444",
+    "quote": "就这版吧，开始准备各个平台的封面、标题、文案和标签，依然做到最后一步，发布我自己来。",
+    "meaning": "用户接受所交v9-r3c并授权待发准备；不推断实际观看覆盖"
+  },
+  "evidence_read": [
+    "完整成片-v9-r3c质检报告.md",
+    "完整成片-v9-r3c质检.json",
+    "PMO质检接收-v9-r3c.json"
+  ],
+  "remaining_required_work": [],
+  "technical_av_limits_preserved": true,
+  "video_sha256": "797426b66fec27431ecf298b9df67f9869b2cddfaa456b1c851009dd6b84ab10"
+}

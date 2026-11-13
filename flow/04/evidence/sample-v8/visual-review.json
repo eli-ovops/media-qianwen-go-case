@@ -1,0 +1,127 @@
+{
+  "at": "2026-10-14T09:56:33.260926+08:00",
+  "reviewer": "04 assistant",
+  "sampledFrameIndex": {
+    "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/frame-index.json",
+    "sha256": "142c9f984bae4afe636d836919b832fa959a5736ba91010da26211e94d6461e4",
+    "bytes": 60156
+  },
+  "viewedBoards": [
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/overview-01.jpg",
+      "sha256": "ca46391edd329aa9805394a3f7455373b18b645b3b37434adc975db0565a4d38",
+      "bytes": 379977
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/overview-02.jpg",
+      "sha256": "0e14f0718171ef10ad4e8b3cfbf1169139fa88088a6c6f2c239d061d6dd4271f",
+      "bytes": 410962
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/overview-03.jpg",
+      "sha256": "f4c3ed195d1cbd6d6be009948821ecb5219cb576b34b9c705d320a6bcb8c3f3c",
+      "bytes": 399438
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/overview-04.jpg",
+      "sha256": "492373e2e09cd5501cb15cf95ff0c9210cd01aaa0c657f20a1b2dd0c19852e62",
+      "bytes": 415872
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/overview-05.jpg",
+      "sha256": "0aa2323818d8aa7f45cebe5f61602de82b0f33795e03ece2f2dfb6037976d46c",
+      "bytes": 369491
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/overview-06.jpg",
+      "sha256": "51469ae10971cf6bf380398cb95618b8165bc020c1636dd609430ec31549547e",
+      "bytes": 321724
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/gather-dense-01.jpg",
+      "sha256": "b4835fc9dd32f76ec4281e09ec68b4ce459ae465c4eaf1ea78dc66b071be3205",
+      "bytes": 340507
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/gather-dense-02.jpg",
+      "sha256": "b128b537a34e8456632eafd8deffbbf871cd5236d18b2fffd999613a0a5e8e1e",
+      "bytes": 408921
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/gather-dense-03.jpg",
+      "sha256": "39261ea40559d6fa283030a9497f8f8de19be8df860e258cfe8a26a90e67e1cb",
+      "bytes": 68296
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/handoff-dense-01.jpg",
+      "sha256": "8f72a00c3958d62330442cfe3f1bb023b20a58571d347ec2c51e409a377c2a08",
+      "bytes": 385770
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/handoff-dense-02.jpg",
+      "sha256": "71760f83ed7659b9996390992a86597165f2b0dfb2b9bc49e0bed1909c0f6bd0",
+      "bytes": 363842
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/handoff-dense-03.jpg",
+      "sha256": "[REDACTED_PHONE]bb5ad758fc17494a13a3193f78afc993a6c45e4e8e9b37e6150d8",
+      "bytes": 270883
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/toggle-dense-01.jpg",
+      "sha256": "b601464e991cc7339ea10d749c0a8ce709a2e82f4c637ad4e3392fa604d45045",
+      "bytes": 392770
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/toggle-dense-02.jpg",
+      "sha256": "74f3173728fd414010e1d160344d2388e404aa7fa429c8a081ed714f78895cb5",
+      "bytes": 431388
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/toggle-dense-03.jpg",
+      "sha256": "657bf7dbf989ee21edd2d6ee30efc5aebc881e2ac4d71bbe9e6e468c83499d02",
+      "bytes": 357451
+    }
+  ],
+  "nativeViewed": [
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/native-f111.png",
+      "sha256": "6d90e1bcdd4ca3f659e2e34c3a5dc9a4b3d1c4d053b28678b7cc2982baa0955e",
+      "bytes": 296315
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/native-f390.png",
+      "sha256": "bd95f2b7d73ddf230629fcb7da66773eb19f5f02fd20ea1f015987365e61d1f1",
+      "bytes": 267200
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/native-f546.png",
+      "sha256": "90a752db2a5435e9fe09eeaaece5d9cc0a1a952eaaf5fd3127bda51c24699939",
+      "bytes": 228668
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/native-f561.png",
+      "sha256": "e32a29e83970ca54cdc3f36b758510849ed6142d47bb92b67e650fb0999ec01f",
+      "bytes": 260892
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/final-frames/native-f759.png",
+      "sha256": "c4d827c4ed564e3a421f5dc2c8544dd3f5b43e55b1589ac750890a43e96fb878",
+      "bytes": 264627
+    }
+  ],
+  "uniqueFramesViewed": 288,
+  "totalFrames": 816,
+  "omittedFrames": 528,
+  "continuousRealtimeAV": false,
+  "directListening": false,
+  "actualObservations": [
+    "费用与优惠语义可见，服务为回收/上楼安装",
+    "同一商品及载体跨转场持续，未发现黑帧或突换",
+    "修正后未见旧标题与总价、费用与总价互压",
+    "长中文/英文字幕与画面内容分区；原尺寸所查看关键帧未裁切",
+    "总价阅读与条件阅读停顿保留，motion audit 3 warnings未豁免"
+  ],
+  "pmoAcceptance": "PENDING",
+  "userAcceptance": "PENDING"
+}

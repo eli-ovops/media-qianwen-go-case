@@ -1,0 +1,22 @@
+{
+  "video": {
+    "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/qianwen-go-case-20261013/flow/04/output/sample-motion-v8.1.mp4",
+    "sha256": "b82e98437d0018b47e9010346e4087887b1edaea1d1eeda6597880b72410c1a8"
+  },
+  "metadataProvider": "existing AVFoundation adapter; ffprobe incompatible CPU; frame count and PTS independently decoded by FFmpeg",
+  "decodeExit": 0,
+  "decodedFrames": 816,
+  "firstPTS": 0.0,
+  "lastPTS": 13.5833,
+  "maxPTSErrorSeconds": 3.3333333334439885e-05,
+  "audio": {
+    "sourceSamples": 652800,
+    "decodedSamples": 653312,
+    "commonSamples": 652800,
+    "correlationAtZeroLag": 0.9999701871222819,
+    "bestLagWithinOneMsSamples": 0,
+    "peak": 0.5003865361213684,
+    "directListening": false
+  },
+  "scope": "machine metadata/decode/audio-signal verification only"
+}

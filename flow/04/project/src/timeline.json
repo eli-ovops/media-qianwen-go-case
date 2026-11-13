@@ -1,0 +1,166 @@
+{
+  "version": "v1",
+  "fps": 60,
+  "total_seconds": 102.02,
+  "duration_frames": 6122,
+  "sources": [
+    {
+      "path": "/Users/USER/Downloads/7b14be666720ab35b4c9330ff5caf3bb_raw.mp4",
+      "sha256": "a9f103d1e866fb68374b67be565c788af7b5383b97d572fe5b6f6355538e6458",
+      "bytes": 33518582,
+      "segment": "①",
+      "index": 1,
+      "segments": [
+        {
+          "source_start": 0.05,
+          "source_end": 4.95,
+          "output_start": 0,
+          "output_end": 4.9,
+          "speed": 1
+        }
+      ],
+      "output_start": 0,
+      "output_end": 4.9,
+      "loudness_measured": {
+        "input_i": "-25.40",
+        "input_tp": "-7.61",
+        "input_lra": "3.60",
+        "input_thresh": "-35.63",
+        "output_i": "-18.90",
+        "output_tp": "-1.88",
+        "output_lra": "1.80",
+        "output_thresh": "-29.08",
+        "normalization_type": "dynamic",
+        "target_offset": "0.90"
+      },
+      "gain_db": 6.11
+    },
+    {
+      "path": "/Users/USER/Downloads/8e45868cc8576735af4ec1a25b4d40f5_raw.mp4",
+      "sha256": "da7c29b71f6fa2dc9d6b83952760ad12ea35f08162d2d271a3416718b8f55a84",
+      "bytes": 150867376,
+      "segment": "②",
+      "index": 2,
+      "segments": [
+        {
+          "source_start": 0.0,
+          "source_end": 5.1,
+          "output_start": 4.9,
+          "output_end": 10.0,
+          "speed": 1
+        },
+        {
+          "source_start": 5.65,
+          "source_end": 19.1,
+          "output_start": 10.0,
+          "output_end": 23.45,
+          "speed": 1
+        },
+        {
+          "source_start": 19.48,
+          "source_end": 24.6,
+          "output_start": 23.45,
+          "output_end": 28.57,
+          "speed": 1
+        }
+      ],
+      "output_start": 4.9,
+      "output_end": 28.570000000000004,
+      "loudness_measured": {
+        "input_i": "-25.29",
+        "input_tp": "-6.89",
+        "input_lra": "4.30",
+        "input_thresh": "-35.77",
+        "output_i": "-18.19",
+        "output_tp": "-1.50",
+        "output_lra": "4.10",
+        "output_thresh": "-28.73",
+        "normalization_type": "dynamic",
+        "target_offset": "0.19"
+      },
+      "gain_db": 5.39
+    },
+    {
+      "path": "/Users/USER/Downloads/e404afe47f88fa4affadf7f5fa273814_raw.mp4",
+      "sha256": "2c9bd9f9b79808695d068c891eed29425986282d766f41c8ae0b54051f1ed495",
+      "bytes": 310877122,
+      "segment": "③",
+      "index": 3,
+      "segments": [
+        {
+          "source_start": 0.1,
+          "source_end": 50.9,
+          "output_start": 28.57,
+          "output_end": 79.37,
+          "speed": 1
+        }
+      ],
+      "output_start": 28.570000000000004,
+      "output_end": 79.37,
+      "loudness_measured": {
+        "input_i": "-23.25",
+        "input_tp": "-4.87",
+        "input_lra": "4.40",
+        "input_thresh": "-33.77",
+        "output_i": "-18.24",
+        "output_tp": "-1.50",
+        "output_lra": "3.50",
+        "output_thresh": "-28.73",
+        "normalization_type": "dynamic",
+        "target_offset": "0.24"
+      },
+      "gain_db": 3.37
+    },
+    {
+      "path": "/Users/USER/Downloads/70566362856e3aecc19310c1b2352f57_raw.mp4",
+      "sha256": "04bd489bb613273c39827d1aa19ff58ec7bd91727ef0f5e5d1048178c0a1ab79",
+      "bytes": 144784682,
+      "segment": "④",
+      "index": 4,
+      "segments": [
+        {
+          "source_start": 0.1,
+          "source_end": 22.75,
+          "output_start": 79.37,
+          "output_end": 102.02,
+          "speed": 1
+        }
+      ],
+      "output_start": 79.37,
+      "output_end": 102.02000000000001,
+      "loudness_measured": {
+        "input_i": "-23.07",
+        "input_tp": "-3.68",
+        "input_lra": "4.50",
+        "input_thresh": "-33.60",
+        "output_i": "-19.40",
+        "output_tp": "-1.50",
+        "output_lra": "2.30",
+        "output_thresh": "-29.88",
+        "normalization_type": "dynamic",
+        "target_offset": "1.40"
+      },
+      "gain_db": 2.18
+    }
+  ],
+  "removed": {
+    "head_tail": "See exact ranges; wider margins than03 recommendations to protect quiet syllables",
+    "internal": [
+      {
+        "source": 2,
+        "start": 5.1,
+        "end": 5.65,
+        "reason": "03 identified low-energy pause middle;0.55sec"
+      },
+      {
+        "source": 2,
+        "start": 19.1,
+        "end": 19.48,
+        "reason": "03 identified low-energy pause middle;0.38sec"
+      }
+    ]
+  },
+  "phrases_removed": [],
+  "speed": 1,
+  "note": "保留完整句和同义追加，直接听感未验证；4ms片段边缘淡化，分段静态增益匹配，不合成声音。"
+}

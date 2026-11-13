@@ -1,0 +1,7 @@
+{
+  "previous_output": "output/sample-motion-v4.mp4",
+  "defect": "18.6s return curve crosses estimate label",
+  "change": "return path starts at coin upper-right, below-right text remains clear",
+  "source_snapshot": "evidence/sample-v4/PhysicalWorldV4-before-path-fix.tsx",
+  "preserved": true
+}

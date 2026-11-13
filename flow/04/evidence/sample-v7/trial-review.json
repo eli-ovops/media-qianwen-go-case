@@ -1,0 +1,15 @@
+{
+  "actual_read": "trial-contact-00..11",
+  "frames": 288,
+  "seconds": [
+    10,
+    14.7833333333
+  ],
+  "tile_pixels": [
+    180,
+    320
+  ],
+  "continuous_realtime_AV": false,
+  "finding": "Two staggered arrivals, finite recoil and join visible; no observed overlap/cropping in this interval. Whole sample and aesthetic acceptance pending.",
+  "other_fixes": "local text origins, fridge title clearance, collection label fade; later day jaw shifted outward before full render"
+}

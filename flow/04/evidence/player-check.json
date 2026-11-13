@@ -1,0 +1,17 @@
+{
+  "initial": {
+    "paused": true,
+    "muted": true,
+    "duration": 102.037,
+    "width": 1080,
+    "height": 1920
+  },
+  "seek": 78.5,
+  "played": {
+    "time": 78.902034,
+    "muted": true,
+    "error": null
+  },
+  "paused": true,
+  "scope": "muted programmatic playback and screenshot; no human audio audition"
+}

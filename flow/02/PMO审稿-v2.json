@@ -1,0 +1,13 @@
+{
+  "pmo_thread_id": "01a11194-c40d-7bf0-8396-5bb5d6449444",
+  "content_id": "qianwen-go-case-20261013",
+  "stage": "02",
+  "version": "v2",
+  "decision": "READY_FOR_USER_REVIEW",
+  "trigger": "Owner主动汇报完成；PMO收到后审原件，无轮询",
+  "evidence_read": ["正式口播-v2.md", "提词版-v2.md", "分镜与素材清单-v2.md", "交付-v2.json"],
+  "review": "开头以AI能力与购物琐事的落差引入；本人期待和判断贯穿案例，较v1更有观点。案例自然归属柱子哥，监控仅设置证据，未冒称持续执行、本人实测或成交。提词对应正文，五段可以分别录制。全文将交用户确认，不宣称吸引力或完播率已验证。",
+  "known_required_fixes": [],
+  "remaining_required_work": ["用户认可v2口播后才通过02并恢复03", "实际录制后核时长"],
+  "next": "PMO聊天展示完整五段；03至08保持未释放"
+}

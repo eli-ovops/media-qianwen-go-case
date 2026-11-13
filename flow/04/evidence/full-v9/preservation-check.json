@@ -1,0 +1,36 @@
+{
+  "originalsAndV81": [
+    {
+      "path": "/Users/USER/Downloads/7b14be666720ab35b4c9330ff5caf3bb_raw.mp4",
+      "expectedSHA256": "a9f103d1e866fb68374b67be565c788af7b5383b97d572fe5b6f6355538e6458",
+      "actualSHA256": "a9f103d1e866fb68374b67be565c788af7b5383b97d572fe5b6f6355538e6458",
+      "unchanged": true
+    },
+    {
+      "path": "/Users/USER/Downloads/8e45868cc8576735af4ec1a25b4d40f5_raw.mp4",
+      "expectedSHA256": "da7c29b71f6fa2dc9d6b83952760ad12ea35f08162d2d271a3416718b8f55a84",
+      "actualSHA256": "da7c29b71f6fa2dc9d6b83952760ad12ea35f08162d2d271a3416718b8f55a84",
+      "unchanged": true
+    },
+    {
+      "path": "/Users/USER/Downloads/e404afe47f88fa4affadf7f5fa273814_raw.mp4",
+      "expectedSHA256": "2c9bd9f9b79808695d068c891eed29425986282d766f41c8ae0b54051f1ed495",
+      "actualSHA256": "2c9bd9f9b79808695d068c891eed29425986282d766f41c8ae0b54051f1ed495",
+      "unchanged": true
+    },
+    {
+      "path": "/Users/USER/Downloads/70566362856e3aecc19310c1b2352f57_raw.mp4",
+      "expectedSHA256": "04bd489bb613273c39827d1aa19ff58ec7bd91727ef0f5e5d1048178c0a1ab79",
+      "actualSHA256": "04bd489bb613273c39827d1aa19ff58ec7bd91727ef0f5e5d1048178c0a1ab79",
+      "unchanged": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/qianwen-go-case-20261013/flow/04/output/sample-motion-v8.1.mp4",
+      "expectedSHA256": "b82e98437d0018b47e9010346e4087887b1edaea1d1eeda6597880b72410c1a8",
+      "actualSHA256": "b82e98437d0018b47e9010346e4087887b1edaea1d1eeda6597880b72410c1a8",
+      "unchanged": true
+    }
+  ],
+  "renderInputChanges": [],
+  "status": "PASS"
+}

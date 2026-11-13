@@ -1,0 +1,91 @@
+{
+  "changed_interval": [
+    13,
+    21.8
+  ],
+  "tail_frames": 528,
+  "contact_sheets": 22,
+  "contact_tile_pixels": [
+    180,
+    320
+  ],
+  "native_times": [
+    13.5,
+    14.5,
+    15.5,
+    16.2,
+    16.7,
+    17.5,
+    18.0,
+    18.6,
+    19.1,
+    19.6,
+    20.1,
+    20.6,
+    21.2
+  ],
+  "seam_interval": [
+    12.9,
+    13.0833333
+  ],
+  "seam_frames": 12,
+  "assistant_viewed": true,
+  "direct_listening": false,
+  "realtime_continuous_av_review": false,
+  "viewed_at": "2026-10-13T19:59:19.305619+08:00",
+  "viewed_contact_files": [
+    "tail-all-contact-0.jpg",
+    "tail-all-contact-1.jpg",
+    "tail-all-contact-2.jpg",
+    "tail-all-contact-3.jpg",
+    "tail-all-contact-4.jpg",
+    "tail-all-contact-5.jpg",
+    "tail-all-contact-6.jpg",
+    "tail-all-contact-7.jpg",
+    "tail-all-contact-8.jpg",
+    "tail-all-contact-9.jpg",
+    "tail-all-contact-10.jpg",
+    "tail-all-contact-11.jpg",
+    "tail-all-contact-12.jpg",
+    "tail-all-contact-13.jpg",
+    "tail-all-contact-14.jpg",
+    "tail-all-contact-15.jpg",
+    "tail-all-contact-16.jpg",
+    "tail-all-contact-17.jpg",
+    "tail-all-contact-18.jpg",
+    "tail-all-contact-19.jpg",
+    "tail-all-contact-20.jpg",
+    "tail-all-contact-21.jpg"
+  ],
+  "viewed_native_files": [
+    "native-13.5.png",
+    "native-14.5.png",
+    "native-15.5.png",
+    "native-16.2.png",
+    "native-16.7.png",
+    "native-17.5.png",
+    "native-18.0.png",
+    "native-18.6.png",
+    "native-19.1.png",
+    "native-19.6.png",
+    "native-20.1.png",
+    "native-20.6.png",
+    "native-21.2.png"
+  ],
+  "additional_viewed": [
+    "seam-0.jpg",
+    "pair-15.5.jpg",
+    "pair-18.6.jpg",
+    "pair-21.2.jpg",
+    "frame-review-21.2.png",
+    "comparison-desktop-18.6.png",
+    "comparison-mobile.png"
+  ],
+  "observations": [
+    "Merged expense disc moves out to become persistent estimate object; reduced base fades out during handoff.",
+    "Two quote entries and magnifier passes act on the estimate; return curve now clears the side label.",
+    "Highlighted path reaches requirement gate, budget gate, then bell in sequence.",
+    "No new cutoffs or label intersections observed in inspected final export frames."
+  ],
+  "limits": "528 consecutive tail frames viewed as 180x320 contact tiles; 13 native key frames, seam and pairs also read. No direct listening or realtime continuous AV review; PMO visual acceptance pending."
+}

@@ -1,0 +1,15 @@
+{
+  "beforeKiB": {
+    "/Volumes/EXTERNAL": 1586209320,
+    "/System/Volumes/Data": 11954780
+  },
+  "afterKiB": {
+    "/Volumes/EXTERNAL": 1586167764,
+    "/System/Volumes/Data": 12462956
+  },
+  "availableDeltaKiB": {
+    "/Volumes/EXTERNAL": -41556,
+    "/System/Volumes/Data": 508176
+  },
+  "note": "Shared filesystem change, not attributable solely to this task; no files deleted, no space-release claim. Scoped du taken before final metadata writes."
+}

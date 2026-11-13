@@ -1,0 +1,164 @@
+{
+  "content_id": "qianwen-go-case-20261013",
+  "stage": "02",
+  "date": "2026-10-13 Asia/Shanghai",
+  "version": "v1",
+  "owner_thread_id": "01a11a70-35e6-7db1-86ac-80a7ce40a9cb",
+  "status": "DELIVERED_PENDING_PMO_REVIEW",
+  "gate_check": {
+    "command": "/Users/USER/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3 workflow_gate.py check --content qianwen-go-case-20261013 --stage 02 --thread 01a11a70-35e6-7db1-86ac-80a7ce40a9cb",
+    "cwd": "/Volumes/EXTERNAL/自媒体/流程协作",
+    "exit_code": 0,
+    "raw_result": {
+      "allowed": true,
+      "content": "qianwen-go-case-20261013",
+      "stage": "02"
+    },
+    "tool_chunk": "bbadc2"
+  },
+  "input_evidence": [
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/01/01会话初稿-已选题.md",
+      "sha256": "7e7a30d42d7f0a76e6d29a56edcb3c20154eb502fc07d481f243b0b2ca87785f"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/01/PMO验收.json",
+      "sha256": "6e9493a7ede4bc45ba6b0bbf70bf0387077f9237a064acb026add7cc3028a865"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/02/任务单.md",
+      "sha256": "743cffd42b5bd749c0d9ce61590035b3b00f41ddea30e3d2627ef7a12a1a96c3"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261013/柱子哥千问Go专项/分析与本人讲法.md",
+      "sha256": "b9f00176d0a196b2f0d54f737d719f09e4d080259653dd44f1f48f5a8cc879ab"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261013/柱子哥千问Go专项/回执.json"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261013/柱子哥千问Go专项/evidence/coverage.json"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261013/柱子哥千问Go专项/evidence/transcript.txt"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261013/柱子哥千问Go专项/evidence/result-detail.jpg"
+    }
+  ],
+  "outputs": [
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/02/分镜与素材清单.md",
+      "sha256": "b07a91834a523569483b9fa86e73e76c083b3b8f6124a58b27f120ee7e9b89b6",
+      "bytes": 8318
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/02/提词版.md",
+      "sha256": "aebc4efca3c0547b4c42758e752946705912d254a1089756b6aa46462761ddad",
+      "bytes": 1458
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/02/正式口播.md",
+      "sha256": "f70527ea86a16b80de1287aad35ae1fb1fe19e131811e0a0f8ebeafb678c7053",
+      "bytes": 3120
+    }
+  ],
+  "validation": {
+    "script_prompt_exact_match_ignoring_whitespace": true,
+    "hanzi": 341,
+    "ascii_letters": 8,
+    "spoken_equivalent_assumption": 349,
+    "speech_rate_equivalent_chars_per_second": [
+      4.4,
+      5.0
+    ],
+    "pause_seconds": [
+      8,
+      12
+    ],
+    "estimated_seconds": [
+      77.8,
+      91.3
+    ],
+    "actual_duration": "UNKNOWN",
+    "required_shot_rows": 14,
+    "source_sha_intact": true,
+    "source_reading": "Full upstream script/review/analysis/receipt, original ASR text and coverage metadata; one existing result-detail image viewed. No direct audio or continuous playback."
+  },
+  "fact_boundary": [
+    "Upcoming status attributed to same-day media report read by01; no official universal release/access verified",
+    "Creator public refrigerator case, not Eli personal purchase/test/savings",
+    "Monitor setup only; no receipt of sustained monitoring/reminder delivery/payment",
+    "No price or subsidy-rate claim; fee relations are original illustration",
+    "Original graphics and demand example must not imitate actual app receipts"
+  ],
+  "handoff_to_03": {
+    "condition": "PMO accepts02 and releases03 for this content with frozen SHA",
+    "action": "One continuous A-F narration video or six sections; use voice throughout, few small-person shots from A/E/F; no extra software recording, qualification or payment needed",
+    "script": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/02/正式口播.md",
+    "prompt": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/02/提词版.md",
+    "scene_map": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/02/分镜与素材清单.md",
+    "user_record_now_requested": false
+  },
+  "authorization_continuity": {
+    "local02_writing": "Authorized and delivered; same-topic revisions in current scope continue without renewed start approval",
+    "stage03": "Existing sequential objective, conditional on PMO02 review and03 release",
+    "stage04": "Conditional downstream production; creative freedom retained",
+    "publication": "Human final action only; no AI publish authorization",
+    "backstage_or_services": "Not applicable to02; no new process or automation"
+  },
+  "rules_read": [
+    "ROUTING-2026-09-30-v3",
+    "HANDOFF-2026-10-10-v2",
+    "BLOCKERS-2026-09-23-v1",
+    "CONTENT-FLOW-2026-10-08-v1"
+  ],
+  "requested_model": "gpt-6.1-sol",
+  "requested_effort": "medium",
+  "actual_model": "UNKNOWN",
+  "actual_effort": "UNKNOWN",
+  "actual_speed": "UNKNOWN",
+  "routing_evidence": "Dispatch supplied target; no platform per-turn actual routing receipt available",
+  "unknowns": [
+    {
+      "item": "Official release/access and personal test",
+      "owner": "01 if later scope changes to product testing",
+      "impact": "No blocker for public-case commentary; retain upcoming/report attribution"
+    },
+    {
+      "item": "Real voice and runtime",
+      "owner": "03 after release",
+      "impact": "Requires new user narration; estimate is not measured"
+    },
+    {
+      "item": "Reference image public reuse rights",
+      "owner": "04/05 if quoting image",
+      "impact": "Default original graphics do not require reference image reuse"
+    },
+    {
+      "item": "Final film quality and user review",
+      "owner": "04/05 later",
+      "impact": "Not evaluated in02"
+    }
+  ],
+  "conflicts_handled": [
+    "Legacy onboarding-only scope overridden by current explicit content02 task",
+    "Registry identity matches02; old current_release_content_id is historical; current state and gate define this release",
+    "01 multi-tool analysis alternatives not used; selected refrigerator draft controls scope"
+  ],
+  "write_scope": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/02",
+  "shared_state_modified": false,
+  "other_owner_messaged": false,
+  "subagents": false,
+  "network_calls": 0,
+  "generated_media": false,
+  "temporary_files": [],
+  "created_files": [
+    "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/02/分镜与素材清单.md",
+    "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/02/提词版.md",
+    "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/02/正式口播.md",
+    "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/02/交付.json"
+  ],
+  "cleanup": "No temporary files created or deleted. All delivery artifacts retained.",
+  "next": "PMO reads four delivery artifacts, reviews wording/source boundaries/runtime estimate and releases03. No stage PASS written by02."
+}

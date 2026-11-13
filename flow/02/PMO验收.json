@@ -1,0 +1,12 @@
+{
+  "pmo_thread_id": "01a11194-c40d-7bf0-8396-5bb5d6449444",
+  "content_id": "qianwen-go-case-20261013",
+  "stage": "02",
+  "decision": "PASS",
+  "trigger": "02 proactively reported completion through human-authorized send_message_to_thread, not routine polling",
+  "evidence_read": ["正式口播.md", "提词版.md", "分镜与素材清单.md", "交付.json", "PMO checked three original SHA against completion report"],
+  "review": "Selected one refrigerator public-case topic retained; directly recordable349 spoken-equivalent estimate,78-91s with explicit assumptions; natural creator/media attribution, no user experience/purchase/savings invented; full-screen original diagrams and small optional portrait; no mandatory reference-video reuse or paid tests; suitable03 handoff",
+  "remaining_required_work": [],
+  "known_limits": ["Actual runtime depends on recording", "Model/effort runtime evidence UNKNOWN", "Product primary announcement/access not independently verified; current commentary uses media attribution"],
+  "next": "Release03 shooting guidance then wait for actual user media;04 not released"
+}

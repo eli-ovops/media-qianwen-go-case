@@ -1,0 +1,17 @@
+{
+  "targetThreadId": "01a11194-c40d-7bf0-8396-5bb5d6449444",
+  "scope": "v8.1 delivery proactive report",
+  "tool": "mcp__codex_app__send_message_to_thread",
+  "result": {
+    "content": [
+      {
+        "type": "text",
+        "text": "{\"threadId\":\"01a11194-c40d-7bf0-8396-5bb5d6449444\"}"
+      }
+    ],
+    "isError": false
+  },
+  "toolSent": "CONFIRMED",
+  "PMORead": "UNKNOWN",
+  "PMOAccepted": "PENDING"
+}

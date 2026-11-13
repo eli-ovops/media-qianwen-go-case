@@ -1,0 +1,1381 @@
+{
+  "workflow": {
+    "profile": "fred-video-v2",
+    "componentMatching": "v1",
+    "authorization": {
+      "mode": "direct-output",
+      "source": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/完整成片制作-v9任务.md",
+      "quote": "用户已确认v8.1方向并说开始，授权从样片进入完整成片；不再探索多套风格；先内部自修后报PMO"
+    }
+  },
+  "timelineFps": 60,
+  "durationInFrames": 6122,
+  "outputSpec": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 60
+  },
+  "clockContract": {
+    "mode": "global",
+    "sourceRule": "one global60fps clock; portrait sequences use explicit cut-plan mapped source intervals"
+  },
+  "referenceCatalogRevision": "217ebeb42f5bfca098228f5eb8b29d5c3196c0a2a7b57a38eb8e7c8e07720c7e",
+  "audio": {
+    "source": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/project/public/voice.wav",
+    "cutPlan": {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/project/src/timeline.json",
+      "sha256": "c3b32c4f226ba6c02722d612ecb3c68dc35173880e6d1e2fad7530c99beece09"
+    },
+    "timeStretch": 1
+  },
+  "subtitles": {
+    "enabled": true,
+    "sourcePath": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/project/src/v9r2/captions.json",
+    "sourceSha256": "6d2aa4ab18666627af72164a3b13d7250dab3fd8bd92dce0de3d5e1c1cb76260",
+    "cues": [
+      {
+        "startSeconds": 0,
+        "endSeconds": 2.2,
+        "text": "AI接下来最值得期待的"
+      },
+      {
+        "startSeconds": 2.2,
+        "endSeconds": 4.9,
+        "text": "可能就是帮普通人把日常的事情给办好"
+      },
+      {
+        "startSeconds": 4.9,
+        "endSeconds": 6.3,
+        "text": "Personal Agent"
+      },
+      {
+        "startSeconds": 6.3,
+        "endSeconds": 8.08,
+        "text": "也就是个人的AI助理"
+      },
+      {
+        "startSeconds": 8.08,
+        "endSeconds": 9.9,
+        "text": "想做的事情就是这个"
+      },
+      {
+        "startSeconds": 10.01,
+        "endSeconds": 13.01,
+        "text": "买东西、订票、安排出行"
+      },
+      {
+        "startSeconds": 13.01,
+        "endSeconds": 14.55,
+        "text": "只要你说清楚目标"
+      },
+      {
+        "startSeconds": 14.55,
+        "endSeconds": 16.61,
+        "text": "它就会自己去调用工具"
+      },
+      {
+        "startSeconds": 16.61,
+        "endSeconds": 18.85,
+        "text": "然后帮你往下办下去"
+      },
+      {
+        "startSeconds": 18.85,
+        "endSeconds": 21.05,
+        "text": "最近有个报道"
+      },
+      {
+        "startSeconds": 21.05,
+        "endSeconds": 23.37,
+        "text": "千问即将推出千问Go"
+      },
+      {
+        "startSeconds": 23.49,
+        "endSeconds": 26.47,
+        "text": "这个公开的买冰箱的案例"
+      },
+      {
+        "startSeconds": 26.47,
+        "endSeconds": 28.43,
+        "text": "就挺能说明这个变化的"
+      },
+      {
+        "startSeconds": 28.57,
+        "endSeconds": 29.95,
+        "text": "案例是这样的"
+      },
+      {
+        "startSeconds": 29.95,
+        "endSeconds": 32.55,
+        "text": "有个人双十一想买冰箱"
+      },
+      {
+        "startSeconds": 32.55,
+        "endSeconds": 34.51,
+        "text": "然后他就把自己的需求"
+      },
+      {
+        "startSeconds": 34.51,
+        "endSeconds": 36.39,
+        "text": "全部一次性告诉了千问"
+      },
+      {
+        "startSeconds": 36.39,
+        "endSeconds": 39.55,
+        "text": "收藏夹里的这款冰箱"
+      },
+      {
+        "startSeconds": 39.55,
+        "endSeconds": 40.83,
+        "text": "需要送到杭州"
+      },
+      {
+        "startSeconds": 40.83,
+        "endSeconds": 42.91,
+        "text": "然后旧的冰箱需要搬走"
+      },
+      {
+        "startSeconds": 42.91,
+        "endSeconds": 45.39,
+        "text": "要结合优惠和回收的价格"
+      },
+      {
+        "startSeconds": 45.39,
+        "endSeconds": 48.59,
+        "text": "还有上门安装的这种总的费用"
+      },
+      {
+        "startSeconds": 48.59,
+        "endSeconds": 52.07,
+        "text": "总的支出需要低于4500"
+      },
+      {
+        "startSeconds": 52.07,
+        "endSeconds": 55.51,
+        "text": "满足以上所有条件以后"
+      },
+      {
+        "startSeconds": 55.51,
+        "endSeconds": 57.47,
+        "text": "再提醒用户"
+      },
+      {
+        "startSeconds": 57.47,
+        "endSeconds": 61.91,
+        "text": "案例里面千问首先需要确认型号"
+      },
+      {
+        "startSeconds": 61.91,
+        "endSeconds": 64.11,
+        "text": "然后再对比各个店铺的报价"
+      },
+      {
+        "startSeconds": 64.11,
+        "endSeconds": 65.83,
+        "text": "然后询问客服"
+      },
+      {
+        "startSeconds": 65.83,
+        "endSeconds": 68.77,
+        "text": "把优惠和服务的费用"
+      },
+      {
+        "startSeconds": 68.77,
+        "endSeconds": 70.83,
+        "text": "整体都理清楚"
+      },
+      {
+        "startSeconds": 70.83,
+        "endSeconds": 72.43,
+        "text": "计算清楚"
+      },
+      {
+        "startSeconds": 72.43,
+        "endSeconds": 74.83,
+        "text": "最后给这个价格的估算"
+      },
+      {
+        "startSeconds": 74.83,
+        "endSeconds": 76.67,
+        "text": "而且还设置一个"
+      },
+      {
+        "startSeconds": 76.67,
+        "endSeconds": 79.23,
+        "text": "每天查价的提醒"
+      },
+      {
+        "startSeconds": 79.37,
+        "endSeconds": 81.97,
+        "text": "其实我觉得普通人需要的AI"
+      },
+      {
+        "startSeconds": 81.97,
+        "endSeconds": 83.83,
+        "text": "也没有这么复杂"
+      },
+      {
+        "startSeconds": 83.83,
+        "endSeconds": 86.27,
+        "text": "就是很简单地能够帮我们"
+      },
+      {
+        "startSeconds": 86.27,
+        "endSeconds": 89.07,
+        "text": "把需要来回查的"
+      },
+      {
+        "startSeconds": 89.07,
+        "endSeconds": 90.87,
+        "text": "需要来回问的"
+      },
+      {
+        "startSeconds": 90.87,
+        "endSeconds": 94.55,
+        "text": "需要来回理清楚的这些麻烦事情"
+      },
+      {
+        "startSeconds": 94.55,
+        "endSeconds": 96.27,
+        "text": "都交给AI"
+      },
+      {
+        "startSeconds": 96.27,
+        "endSeconds": 99.03,
+        "text": "让AI来帮我们把精力节省下来"
+      },
+      {
+        "startSeconds": 99.03,
+        "endSeconds": 101.67,
+        "text": "我们只需要做最后的决策就可以了"
+      }
+    ]
+  },
+  "pages": [
+    {
+      "stableId": "intro",
+      "startFrame": 0,
+      "globalStartFrame": 0,
+      "durationInFrames": 294,
+      "implementationMode": "preserved-media",
+      "productionRoute": {
+        "selected": "media",
+        "source": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/完整成片制作-v9任务.md"
+      },
+      "mediaContract": [
+        {
+          "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/project/public/v9/intro.mp4",
+          "sha256": "5efd8edcac57d7b62954d4e7d3ac0b2eac3419a66f297027aef415bd68dc69fd"
+        }
+      ],
+      "componentPlan": {
+        "search": "not-needed",
+        "decisionReason": "本人原片按连续源时钟播放；本地背景排除与等比构图，只有口播标题/字幕"
+      },
+      "referenceChoices": []
+    },
+    {
+      "stableId": "tools",
+      "startFrame": 294,
+      "globalStartFrame": 294,
+      "durationInFrames": 1113,
+      "implementationMode": "adapted",
+      "productionRoute": {
+        "selected": "remotion",
+        "source": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/完整成片制作-v9任务.md"
+      },
+      "oneQuestion": "目标节点通过关系线连接购物/订票/出行工具，并推进到输出",
+      "sourceSpans": [
+        {
+          "text": "Personal Agent"
+        },
+        {
+          "text": "也就是个人的AI助理"
+        },
+        {
+          "text": "想做的事情就是这个"
+        },
+        {
+          "text": "买东西、订票、安排出行"
+        },
+        {
+          "text": "只要你说清楚目标"
+        },
+        {
+          "text": "它就会自己去调用工具"
+        },
+        {
+          "text": "然后帮你往下办下去"
+        },
+        {
+          "text": "最近有个报道"
+        },
+        {
+          "text": "千问即将推出千问Go"
+        }
+      ],
+      "componentPlan": {
+        "query": "节点 连线 输入 汇聚 输出 工作流",
+        "access": "installed",
+        "candidates": [
+          {
+            "id": "library-legacy81-c005",
+            "decision": "selected",
+            "reason": "选用：单目标向工具/询价分支，再回到结果的连接关系；已看3帧和源函数。"
+          },
+          {
+            "id": "library-legacy81-r006",
+            "decision": "rejected",
+            "reason": "不选：输入汇入编码器并被清掉，不利于追踪任务条件。"
+          },
+          {
+            "id": "library-new10-n026",
+            "decision": "rejected",
+            "reason": "不选：外部素材上传手机聊天，本片没有该操作。"
+          }
+        ],
+        "inspectedReferences": [
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/full-v9/references/library-legacy81-c005-0.jpg",
+            "sha256": "f89adf0d5bec40307410d5b745c52aae0f4c8f13ce1df899575020a4f06d000f",
+            "id": "library-legacy81-c005",
+            "observations": "选用：单目标向工具/询价分支，再回到结果的连接关系；已看3帧和源函数。"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/full-v9/references/library-legacy81-c005-1.jpg",
+            "sha256": "bef15e884c4d3e7e2ba7d999dd7bb6a28d66e93a236112449b481ac34fc5c6b9",
+            "id": "library-legacy81-c005",
+            "observations": "选用：单目标向工具/询价分支，再回到结果的连接关系；已看3帧和源函数。"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/full-v9/references/library-legacy81-c005-2.jpg",
+            "sha256": "8348d3155e6427f0578e101c0c2845f494fe41b2e5ab3cb5988ca8fbaed6934e",
+            "id": "library-legacy81-c005",
+            "observations": "选用：单目标向工具/询价分支，再回到结果的连接关系；已看3帧和源函数。"
+          }
+        ]
+      },
+      "referenceChoices": [
+        {
+          "id": "library-legacy81-c005",
+          "reason": "费用输入需要可追踪的连接关系，收束到总支出后继续到条件",
+          "preserve": "输入分支通过显性线条进入输出关系",
+          "change": "保留来源动作关系，按本期真实口播重排暗色竖屏语义对象",
+          "useScope": "本场景全局时间范围，见startFrame/durationInFrames",
+          "useMode": "local",
+          "keyAction": "分支连接后显现输出路径",
+          "source": {
+            "path": "/Users/USER/.codex/skill-repos/FredTalk/components/projects/2c1373611323/groups/ctw/core/src/RebuiltC005.tsx",
+            "sha256": "d646c06d576dbee79966fa668633eadea7cc5534f84149b78b9fcbfcc7da83d2",
+            "symbol": "RebuiltC005"
+          },
+          "implementation": {
+            "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/project/src/v9r2/Film.tsx",
+            "sha256": "216c22f74b11ed7fae9f836c26d14c68385f26ebc7e7797db1c4f3e8a9781730",
+            "symbol": "GoalsToTools"
+          },
+          "callSite": {
+            "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/project/src/v9r2/Film.tsx",
+            "sha256": "216c22f74b11ed7fae9f836c26d14c68385f26ebc7e7797db1c4f3e8a9781730",
+            "symbol": "FullFilm",
+            "callee": "GoalsToTools"
+          }
+        }
+      ],
+      "visualPlan": {
+        "enter": "从本期对应口播的既有对象进入",
+        "change": "目标节点通过关系线连接购物/订票/出行工具，并推进到输出",
+        "read": "条件/任务标签按原声逐项停留",
+        "exit": "保持关键对象并交给下一任务",
+        "handoff": "沿本期时间线连续承接"
+      },
+      "sceneGuide": {
+        "type": "custom",
+        "modifiers": [
+          "object-transition"
+        ]
+      },
+      "componentAcceptance": {
+        "status": "passed",
+        "stage": "suggestion",
+        "reviewer": "assistant",
+        "checks": {
+          "semanticFit": "目标节点通过关系线连接购物/订票/出行工具，并推进到输出",
+          "corePreserved": "输入分支通过显性线条进入输出关系",
+          "visualQuality": "已核真实组件预览与前版布局；r2只按真实口播新增进入/确认/焦点转移，成片实际帧仍需复核。"
+        },
+        "evidence": [
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/full-v9/references/library-legacy81-c005-0.jpg",
+            "sha256": "f89adf0d5bec40307410d5b745c52aae0f4c8f13ce1df899575020a4f06d000f",
+            "id": "library-legacy81-c005",
+            "observations": "选用：单目标向工具/询价分支，再回到结果的连接关系；已看3帧和源函数。"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/full-v9/references/library-legacy81-c005-1.jpg",
+            "sha256": "bef15e884c4d3e7e2ba7d999dd7bb6a28d66e93a236112449b481ac34fc5c6b9",
+            "id": "library-legacy81-c005",
+            "observations": "选用：单目标向工具/询价分支，再回到结果的连接关系；已看3帧和源函数。"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/full-v9/references/library-legacy81-c005-2.jpg",
+            "sha256": "8348d3155e6427f0578e101c0c2845f494fe41b2e5ab3cb5988ca8fbaed6934e",
+            "id": "library-legacy81-c005",
+            "observations": "选用：单目标向工具/询价分支，再回到结果的连接关系；已看3帧和源函数。"
+          }
+        ],
+        "contextSha256": "69201f40ba0fc0af4f43254847a1a3b9ec652e9564646f6ac2d1b7d4e9b2b097"
+      }
+    },
+    {
+      "stableId": "bridge",
+      "startFrame": 1407,
+      "globalStartFrame": 1407,
+      "durationInFrames": 307,
+      "implementationMode": "preserved-media",
+      "productionRoute": {
+        "selected": "media",
+        "source": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/完整成片制作-v9任务.md"
+      },
+      "mediaContract": [
+        {
+          "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/project/public/v9/bridge-safe.mp4",
+          "sha256": "6720c84c4478ac972aa3c7706aca9f29d0fa7de666c55bf11df02c28aacbe2a9"
+        }
+      ],
+      "componentPlan": {
+        "search": "not-needed",
+        "decisionReason": "本人原片按连续源时钟播放；本地背景排除与等比构图，只有口播标题/字幕"
+      },
+      "referenceChoices": []
+    },
+    {
+      "stableId": "requirements",
+      "startFrame": 1714,
+      "globalStartFrame": 1714,
+      "durationInFrames": 1734,
+      "implementationMode": "adapted",
+      "productionRoute": {
+        "selected": "remotion",
+        "source": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/完整成片制作-v9任务.md"
+      },
+      "oneQuestion": "冰箱保留；现有条件上移让位，新条件逐项提起，最终同时可读",
+      "sourceSpans": [
+        {
+          "text": "案例是这样的"
+        },
+        {
+          "text": "有个人双十一想买冰箱"
+        },
+        {
+          "text": "然后他就把自己的需求"
+        },
+        {
+          "text": "全部一次性告诉了千问"
+        },
+        {
+          "text": "收藏夹里的这款冰箱"
+        },
+        {
+          "text": "需要送到杭州"
+        },
+        {
+          "text": "然后旧的冰箱需要搬走"
+        },
+        {
+          "text": "要结合优惠和回收的价格"
+        },
+        {
+          "text": "还有上门安装的这种总的费用"
+        },
+        {
+          "text": "总的支出需要低于4500"
+        },
+        {
+          "text": "满足以上所有条件以后"
+        },
+        {
+          "text": "再提醒用户"
+        }
+      ],
+      "componentPlan": {
+        "query": "要点 列表 卡片 分类",
+        "access": "installed",
+        "candidates": [
+          {
+            "id": "ep102-selected-07",
+            "decision": "selected",
+            "reason": "冰箱保留；现有条件上移让位，新条件逐项提起，最终同时可读"
+          },
+          {
+            "id": "library-selfpick24-sp011",
+            "decision": "rejected",
+            "reason": "不选：四角能力铺陈与中间30+计数，不适用于五项具体购买条件；已读SP011实现。"
+          },
+          {
+            "id": "library-new10-x015",
+            "decision": "rejected",
+            "reason": "不选：三件商品卡轮换，本案只有同一台冰箱。"
+          }
+        ],
+        "inspectedReferences": [
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/full-v9/references/ep102-selected-07-0.jpg",
+            "sha256": "0ad57b5c2af1c7ae367c9d750af03f7947e77ca961f1a4d183afb67d9d789dc9",
+            "id": "ep102-selected-07",
+            "observations": "需求段选用：每项依次提起，既有组先让位再接新项，建立完整条件。"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/full-v9/references/ep102-selected-07-1.jpg",
+            "sha256": "0c7175b4ef2d25bb0625a1af6a7fd7da490d05aa108e2126e31d739c4084c2db",
+            "id": "ep102-selected-07",
+            "observations": "需求段选用：每项依次提起，既有组先让位再接新项，建立完整条件。"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/full-v9/references/ep102-selected-07-2.jpg",
+            "sha256": "33a189013f0f874afa4510cd0760161831fe91e363b2e480b80d1b3cb206475b",
+            "id": "ep102-selected-07",
+            "observations": "需求段选用：每项依次提起，既有组先让位再接新项，建立完整条件。"
+          }
+        ]
+      },
+      "referenceChoices": [
+        {
+          "id": "ep102-selected-07",
+          "reason": "五项条件逐项提起并建立组",
+          "preserve": "已有组让位后新对象进入；建立的对象保持可见",
+          "change": "四横向列改为竖屏五项条件；近黑底、语义图标与冰箱",
+          "useScope": "36.39–57.47秒",
+          "useMode": "local",
+          "keyAction": "类别提起、既有组移动让位、新项进入",
+          "source": {
+            "path": "/Users/USER/.codex/skill-repos/FredTalk/components/projects/ep102-selected-20261005/source/versions/canvas-v17/adapters/CanvasRevisionV14.tsx",
+            "sha256": "8dd30ff25dd157e8fd3f8e22b233a46f3b3d9cdbfa94f6fad19f0a6e2c69b060",
+            "symbol": "CanvasRevisionV14"
+          },
+          "implementation": {
+            "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/project/src/v9r2/Film.tsx",
+            "sha256": "216c22f74b11ed7fae9f836c26d14c68385f26ebc7e7797db1c4f3e8a9781730",
+            "symbol": "RequirementBuild"
+          },
+          "callSite": {
+            "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/project/src/v9r2/Film.tsx",
+            "sha256": "216c22f74b11ed7fae9f836c26d14c68385f26ebc7e7797db1c4f3e8a9781730",
+            "symbol": "FullFilm",
+            "callee": "RequirementBuild"
+          }
+        }
+      ],
+      "visualPlan": {
+        "enter": "从本期对应口播的既有对象进入",
+        "change": "冰箱保留；现有条件上移让位，新条件逐项提起，最终同时可读",
+        "read": "条件/任务标签按原声逐项停留",
+        "exit": "保持关键对象并交给下一任务",
+        "handoff": "沿本期时间线连续承接"
+      },
+      "sceneGuide": {
+        "type": "custom",
+        "modifiers": [
+          "object-transition"
+        ]
+      },
+      "componentAcceptance": {
+        "status": "passed",
+        "stage": "suggestion",
+        "reviewer": "assistant",
+        "checks": {
+          "semanticFit": "冰箱保留；现有条件上移让位，新条件逐项提起，最终同时可读",
+          "corePreserved": "已有组让位后新对象进入；建立的对象保持可见",
+          "visualQuality": "已核真实组件预览与前版布局；r2只按真实口播新增进入/确认/焦点转移，成片实际帧仍需复核。"
+        },
+        "evidence": [
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/full-v9/references/ep102-selected-07-0.jpg",
+            "sha256": "0ad57b5c2af1c7ae367c9d750af03f7947e77ca961f1a4d183afb67d9d789dc9",
+            "id": "ep102-selected-07",
+            "observations": "需求段选用：每项依次提起，既有组先让位再接新项，建立完整条件。"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/full-v9/references/ep102-selected-07-1.jpg",
+            "sha256": "0c7175b4ef2d25bb0625a1af6a7fd7da490d05aa108e2126e31d739c4084c2db",
+            "id": "ep102-selected-07",
+            "observations": "需求段选用：每项依次提起，既有组先让位再接新项，建立完整条件。"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/full-v9/references/ep102-selected-07-2.jpg",
+            "sha256": "33a189013f0f874afa4510cd0760161831fe91e363b2e480b80d1b3cb206475b",
+            "id": "ep102-selected-07",
+            "observations": "需求段选用：每项依次提起，既有组先让位再接新项，建立完整条件。"
+          }
+        ],
+        "contextSha256": "3eedb5bd1bf47ff79d4f79f735df3e031821728cd362fd3d841d203cc3b4a901"
+      }
+    },
+    {
+      "stableId": "execution",
+      "startFrame": 3448,
+      "globalStartFrame": 3448,
+      "durationInFrames": 498,
+      "implementationMode": "adapted",
+      "productionRoute": {
+        "selected": "remotion",
+        "source": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/完整成片制作-v9任务.md"
+      },
+      "oneQuestion": "同一型号分支到店铺报价/客服，再收束到商品报价节点",
+      "sourceSpans": [
+        {
+          "text": "案例里面千问首先需要确认型号"
+        },
+        {
+          "text": "然后再对比各个店铺的报价"
+        },
+        {
+          "text": "然后询问客服"
+        }
+      ],
+      "componentPlan": {
+        "query": "商品 确认 对比 客服",
+        "access": "installed",
+        "candidates": [
+          {
+            "id": "library-legacy81-b062",
+            "decision": "rejected",
+            "reason": "不选：人物/AI量化柱图会需要不存在的对比数字。"
+          },
+          {
+            "id": "library-legacy81-b074",
+            "decision": "rejected",
+            "reason": "不选：失败图片/模糊状态不是店铺询价与客服过程。"
+          },
+          {
+            "id": "4b5b8eb5-14b8-4fe9-86fe-e9bee5d02751",
+            "decision": "rejected",
+            "reason": "不选：真实图片ROI对照，需要本片没有的对比产品图片；实看15.2秒海报。"
+          },
+          {
+            "id": "library-legacy81-c005",
+            "decision": "selected",
+            "reason": "同一型号分支到店铺报价/客服，再收束到商品报价节点"
+          }
+        ],
+        "inspectedReferences": [
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/full-v9/references/library-legacy81-c005-0.jpg",
+            "sha256": "f89adf0d5bec40307410d5b745c52aae0f4c8f13ce1df899575020a4f06d000f",
+            "id": "library-legacy81-c005",
+            "observations": "选用：单目标向工具/询价分支，再回到结果的连接关系；已看3帧和源函数。"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/full-v9/references/library-legacy81-c005-1.jpg",
+            "sha256": "bef15e884c4d3e7e2ba7d999dd7bb6a28d66e93a236112449b481ac34fc5c6b9",
+            "id": "library-legacy81-c005",
+            "observations": "选用：单目标向工具/询价分支，再回到结果的连接关系；已看3帧和源函数。"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/full-v9/references/library-legacy81-c005-2.jpg",
+            "sha256": "8348d3155e6427f0578e101c0c2845f494fe41b2e5ab3cb5988ca8fbaed6934e",
+            "id": "library-legacy81-c005",
+            "observations": "选用：单目标向工具/询价分支，再回到结果的连接关系；已看3帧和源函数。"
+          }
+        ]
+      },
+      "referenceChoices": [
+        {
+          "id": "library-legacy81-c005",
+          "reason": "费用输入需要可追踪的连接关系，收束到总支出后继续到条件",
+          "preserve": "输入分支通过显性线条进入输出关系",
+          "change": "保留来源动作关系，按本期真实口播重排暗色竖屏语义对象",
+          "useScope": "本场景全局时间范围，见startFrame/durationInFrames",
+          "useMode": "local",
+          "keyAction": "分支连接后显现输出路径",
+          "source": {
+            "path": "/Users/USER/.codex/skill-repos/FredTalk/components/projects/2c1373611323/groups/ctw/core/src/RebuiltC005.tsx",
+            "sha256": "d646c06d576dbee79966fa668633eadea7cc5534f84149b78b9fcbfcc7da83d2",
+            "symbol": "RebuiltC005"
+          },
+          "implementation": {
+            "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/project/src/v9r2/Film.tsx",
+            "sha256": "216c22f74b11ed7fae9f836c26d14c68385f26ebc7e7797db1c4f3e8a9781730",
+            "symbol": "ModelToQuote"
+          },
+          "callSite": {
+            "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/project/src/v9r2/Film.tsx",
+            "sha256": "216c22f74b11ed7fae9f836c26d14c68385f26ebc7e7797db1c4f3e8a9781730",
+            "symbol": "FullFilm",
+            "callee": "ModelToQuote"
+          }
+        }
+      ],
+      "visualPlan": {
+        "enter": "从本期对应口播的既有对象进入",
+        "change": "同一型号分支到店铺报价/客服，再收束到商品报价节点",
+        "read": "条件/任务标签按原声逐项停留",
+        "exit": "保持关键对象并交给下一任务",
+        "handoff": "沿本期时间线连续承接"
+      },
+      "sceneGuide": {
+        "type": "custom",
+        "modifiers": [
+          "object-transition"
+        ]
+      },
+      "componentAcceptance": {
+        "status": "passed",
+        "stage": "suggestion",
+        "reviewer": "assistant",
+        "checks": {
+          "semanticFit": "同一型号分支到店铺报价/客服，再收束到商品报价节点",
+          "corePreserved": "输入分支通过显性线条进入输出关系",
+          "visualQuality": "已核真实组件预览与前版布局；r2只按真实口播新增进入/确认/焦点转移，成片实际帧仍需复核。"
+        },
+        "evidence": [
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/full-v9/references/library-legacy81-c005-0.jpg",
+            "sha256": "f89adf0d5bec40307410d5b745c52aae0f4c8f13ce1df899575020a4f06d000f",
+            "id": "library-legacy81-c005",
+            "observations": "选用：单目标向工具/询价分支，再回到结果的连接关系；已看3帧和源函数。"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/full-v9/references/library-legacy81-c005-1.jpg",
+            "sha256": "bef15e884c4d3e7e2ba7d999dd7bb6a28d66e93a236112449b481ac34fc5c6b9",
+            "id": "library-legacy81-c005",
+            "observations": "选用：单目标向工具/询价分支，再回到结果的连接关系；已看3帧和源函数。"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/full-v9/references/library-legacy81-c005-2.jpg",
+            "sha256": "8348d3155e6427f0578e101c0c2845f494fe41b2e5ab3cb5988ca8fbaed6934e",
+            "id": "library-legacy81-c005",
+            "observations": "选用：单目标向工具/询价分支，再回到结果的连接关系；已看3帧和源函数。"
+          }
+        ],
+        "contextSha256": "3d952d7cf8e83e7717e875f65aa658347f44a8b1a68f504c001d5b0a0df64ee0"
+      }
+    },
+    {
+      "stableId": "fees",
+      "startFrame": 3946,
+      "globalStartFrame": 3946,
+      "durationInFrames": 528,
+      "implementationMode": "adapted",
+      "productionRoute": {
+        "selected": "remotion",
+        "source": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/完整成片制作-v9任务.md"
+      },
+      "oneQuestion": "优惠和服务如何形成总价估算",
+      "sourceSpans": [
+        {
+          "text": "然后询问客服，把优惠和服务的费用，整体都理清楚，计算清楚，最后给这个价格的估算"
+        }
+      ],
+      "componentPlan": {
+        "query": "商品 优惠 费用 多项汇合 总价 计算",
+        "candidates": [
+          {
+            "id": "fred-wave2-42-t15d",
+            "decision": "rejected",
+            "reason": "费用逐项累计语义最接近，实际看3核心帧；源码needs-auth，当前无安装或付费授权，拒绝直接复用。"
+          },
+          {
+            "id": "library-new10-n008",
+            "decision": "rejected",
+            "reason": "商品旁问答转执行角色，已读3核心帧及RebuiltN008；问答和结果作品不对应优惠扣除，拒绝。"
+          },
+          {
+            "id": "library-new10-n044",
+            "decision": "rejected",
+            "reason": "商品缩成附件、原输入载体提到前景；保留同一商品变小并进入提醒设置载体，适合承接。"
+          },
+          {
+            "id": "new30-op09",
+            "decision": "selected",
+            "reason": "四个既有画面收束而主画面扩展；保留多个费用对象向同一估算载体收束，连续主对象接力。"
+          },
+          {
+            "id": "library-legacy81-c005",
+            "decision": "selected",
+            "reason": "真实3核心帧为有连线的输入分支→输出关系，源码已读；用于计算端口和总支出输出路径。"
+          },
+          {
+            "id": "library-legacy81-r006",
+            "decision": "rejected",
+            "reason": "真实3帧与源码呈多输入合成编码器并清掉输入；本次需保留费用依据，不选。"
+          }
+        ],
+        "inspectedReferences": [
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/references/new30-op09-0.png",
+            "sha256": "d6a9a0ae63c8ce256c07d40ac1e5140d9f6002fcb8aad37889b08b3da267359c",
+            "id": "new30-op09",
+            "observations": "四个既有画面收束而主画面扩展；保留多个费用对象向同一估算载体收束，连续主对象接力。"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/references/new30-op09-1.png",
+            "sha256": "31697556e3d8ba25932647b019d2672e341d79eb6353a638aff8d9f310e85ee8",
+            "id": "new30-op09",
+            "observations": "四个既有画面收束而主画面扩展；保留多个费用对象向同一估算载体收束，连续主对象接力。"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/references/new30-op09-2.png",
+            "sha256": "e327b795f3c180f6685a3718840b30d6350f9a548895d7229cb834dcf2e98d4f",
+            "id": "new30-op09",
+            "observations": "四个既有画面收束而主画面扩展；保留多个费用对象向同一估算载体收束，连续主对象接力。"
+          },
+          {
+            "id": "library-legacy81-c005",
+            "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/references/library-legacy81-c005-0.jpg",
+            "sha256": "f89adf0d5bec40307410d5b745c52aae0f4c8f13ce1df899575020a4f06d000f",
+            "observations": "上方根节点连接多个可读输入，随后收束成输入到输出连线；本片采用随操作数而变的端口与连接路径。"
+          },
+          {
+            "id": "library-legacy81-c005",
+            "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/references/library-legacy81-c005-1.jpg",
+            "sha256": "bef15e884c4d3e7e2ba7d999dd7bb6a28d66e93a236112449b481ac34fc5c6b9",
+            "observations": "上方根节点连接多个可读输入，随后收束成输入到输出连线；本片采用随操作数而变的端口与连接路径。"
+          },
+          {
+            "id": "library-legacy81-c005",
+            "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/references/library-legacy81-c005-2.jpg",
+            "sha256": "8348d3155e6427f0578e101c0c2845f494fe41b2e5ab3cb5988ca8fbaed6934e",
+            "observations": "上方根节点连接多个可读输入，随后收束成输入到输出连线；本片采用随操作数而变的端口与连接路径。"
+          }
+        ]
+      },
+      "referenceChoices": [
+        {
+          "id": "new30-op09",
+          "reason": "四个既有画面收束而主画面扩展；保留多个费用对象向同一估算载体收束，连续主对象接力。",
+          "preserve": "多对象位置收束到同一运算列，保留原对象内容；主商品节点持续存在",
+          "change": "保留三个操作数，不沿用末端缩小淡出；暗底，优惠减项/服务加项，逐级接入总支出",
+          "useScope": "3.0–6.4秒操作数入位并形成输出",
+          "useMode": "local",
+          "keyAction": "辅助对象接入同一计算关系，输入保留",
+          "source": {
+            "path": "/Users/USER/.codex/skill-repos/FredTalk/components/projects/expansion-selected-20261007/source-view/7ffd8e123f571e373a7012bed97ca238ce3ecc22631da6637ed284e3ec4451fe.txt",
+            "sha256": "7ffd8e123f571e373a7012bed97ca238ce3ecc22631da6637ed284e3ec4451fe",
+            "symbol": "OP09"
+          },
+          "implementation": {
+            "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/project/src/v9r2/CostScene.tsx",
+            "sha256": "8512cffd80d17c16fad1ef12f85f49a97c326afcb1ce23b1f954657621216715",
+            "symbol": "CostGather"
+          },
+          "callSite": {
+            "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/project/src/v9r2/CostScene.tsx",
+            "sha256": "8512cffd80d17c16fad1ef12f85f49a97c326afcb1ce23b1f954657621216715",
+            "symbol": "CostScene",
+            "callee": "CostGather"
+          }
+        },
+        {
+          "id": "library-legacy81-c005",
+          "reason": "费用输入需要可追踪的连接关系，收束到总支出后继续到条件",
+          "preserve": "输入分支通过显性线条进入输出关系",
+          "change": "三项算术而非分类树；暗底竖屏；保留输入",
+          "useScope": "3.02–6.18秒计算端口/连线",
+          "useMode": "local",
+          "keyAction": "分支连接后显现输出路径",
+          "source": {
+            "path": "/Users/USER/.codex/skill-repos/FredTalk/components/projects/2c1373611323/groups/ctw/core/src/RebuiltC005.tsx",
+            "sha256": "d646c06d576dbee79966fa668633eadea7cc5534f84149b78b9fcbfcc7da83d2",
+            "symbol": "RebuiltC005"
+          },
+          "implementation": {
+            "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/project/src/v9r2/CostScene.tsx",
+            "sha256": "8512cffd80d17c16fad1ef12f85f49a97c326afcb1ce23b1f954657621216715",
+            "symbol": "CalculationRails"
+          },
+          "callSite": {
+            "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/project/src/v9r2/CostScene.tsx",
+            "sha256": "8512cffd80d17c16fad1ef12f85f49a97c326afcb1ce23b1f954657621216715",
+            "symbol": "CostGather",
+            "callee": "CalculationRails"
+          }
+        }
+      ],
+      "visualPlan": {
+        "enter": "同一收藏夹冰箱与报价",
+        "change": "优惠/服务原对象依次入运算位，三输入连线形成总支出",
+        "read": "文本与原字幕对应停留",
+        "exit": "保留全部操作数与总支出",
+        "handoff": "整个计算组上移缩小，总支出原节点接预算条件"
+      },
+      "motionEvents": [],
+      "sceneGuide": {
+        "type": "custom",
+        "modifiers": [
+          "object-transition"
+        ]
+      },
+      "componentAcceptance": {
+        "status": "passed",
+        "stage": "suggestion",
+        "reviewer": "assistant",
+        "checks": {
+          "semanticFit": "优惠和服务如何形成总价估算",
+          "corePreserved": "多对象位置收束到同一运算列，保留原对象内容；主商品节点持续存在",
+          "visualQuality": "已核真实组件预览与前版布局；r2只按真实口播新增进入/确认/焦点转移，成片实际帧仍需复核。"
+        },
+        "evidence": [
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/references/new30-op09-0.png",
+            "sha256": "d6a9a0ae63c8ce256c07d40ac1e5140d9f6002fcb8aad37889b08b3da267359c",
+            "id": "new30-op09",
+            "observations": "四个既有画面收束而主画面扩展；保留多个费用对象向同一估算载体收束，连续主对象接力。"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/references/new30-op09-1.png",
+            "sha256": "31697556e3d8ba25932647b019d2672e341d79eb6353a638aff8d9f310e85ee8",
+            "id": "new30-op09",
+            "observations": "四个既有画面收束而主画面扩展；保留多个费用对象向同一估算载体收束，连续主对象接力。"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/references/new30-op09-2.png",
+            "sha256": "e327b795f3c180f6685a3718840b30d6350f9a548895d7229cb834dcf2e98d4f",
+            "id": "new30-op09",
+            "observations": "四个既有画面收束而主画面扩展；保留多个费用对象向同一估算载体收束，连续主对象接力。"
+          },
+          {
+            "id": "library-legacy81-c005",
+            "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/references/library-legacy81-c005-0.jpg",
+            "sha256": "f89adf0d5bec40307410d5b745c52aae0f4c8f13ce1df899575020a4f06d000f",
+            "observations": "上方根节点连接多个可读输入，随后收束成输入到输出连线；本片采用随操作数而变的端口与连接路径。"
+          },
+          {
+            "id": "library-legacy81-c005",
+            "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/references/library-legacy81-c005-1.jpg",
+            "sha256": "bef15e884c4d3e7e2ba7d999dd7bb6a28d66e93a236112449b481ac34fc5c6b9",
+            "observations": "上方根节点连接多个可读输入，随后收束成输入到输出连线；本片采用随操作数而变的端口与连接路径。"
+          },
+          {
+            "id": "library-legacy81-c005",
+            "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8.1/references/library-legacy81-c005-2.jpg",
+            "sha256": "8348d3155e6427f0578e101c0c2845f494fe41b2e5ab3cb5988ca8fbaed6934e",
+            "observations": "上方根节点连接多个可读输入，随后收束成输入到输出连线；本片采用随操作数而变的端口与连接路径。"
+          }
+        ],
+        "contextSha256": "1aba99aac7b8f320fad71c0dcf2c0b21f22ac25b1a2be76fd523fbde60a88b71"
+      }
+    },
+    {
+      "stableId": "reminder",
+      "startFrame": 4474,
+      "globalStartFrame": 4474,
+      "durationInFrames": 288,
+      "implementationMode": "adapted",
+      "productionRoute": {
+        "selected": "remotion",
+        "source": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/完整成片制作-v9任务.md"
+      },
+      "oneQuestion": "同一商品如何变成按预算每天查价的提醒",
+      "sourceSpans": [
+        {
+          "text": "最后给这个价格的估算，而且还设置一个，每天查价的提醒"
+        }
+      ],
+      "componentPlan": {
+        "query": "界面 点击 开关 反馈",
+        "candidates": [
+          {
+            "id": "fred-wave2-42-t19c",
+            "decision": "rejected",
+            "reason": "实际3核心帧是Fred动画人物对作品作惊叹短评；本段是设置提醒，人物反应不解释条件和开关，且源码needs-auth，不选。"
+          },
+          {
+            "id": "library-new10-n026",
+            "decision": "rejected",
+            "reason": "媒体上传手机和键盘输入会增加本段没有发生的上传动作，核心帧已看，拒绝。"
+          },
+          {
+            "id": "fred-native-t09a",
+            "decision": "rejected",
+            "reason": "核心帧展示光标选入口；源码needs-auth且原录屏界面非本案，不选。"
+          },
+          {
+            "id": "library-new10-n044",
+            "decision": "selected",
+            "reason": "商品缩成附件、原输入载体提到前景；保留同一商品变小并进入提醒设置载体，适合承接。"
+          }
+        ],
+        "inspectedReferences": [
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/references/library-new10-n044-0.jpg",
+            "sha256": "648cd169685bdc01f2addc714be994f9ec9273ede1bc8ea65d3541959b15c8f2",
+            "id": "library-new10-n044",
+            "observations": "商品缩成附件、原输入载体提到前景；保留同一商品变小并进入提醒设置载体，适合承接。"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/references/library-new10-n044-1.jpg",
+            "sha256": "ac2a8d5ae16ccb32d99b7a9aca7dd989e0fe99db1988818bda6ef17a966f05cf",
+            "id": "library-new10-n044",
+            "observations": "商品缩成附件、原输入载体提到前景；保留同一商品变小并进入提醒设置载体，适合承接。"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/references/library-new10-n044-2.jpg",
+            "sha256": "d20adde0f0664b06af435890c6b8a23d149d7729f3fb4b2fcf596d7ee2ff23ab",
+            "id": "library-new10-n044",
+            "observations": "商品缩成附件、原输入载体提到前景；保留同一商品变小并进入提醒设置载体，适合承接。"
+          }
+        ]
+      },
+      "referenceChoices": [
+        {
+          "id": "library-new10-n044",
+          "reason": "商品缩成附件、原输入载体提到前景；保留同一商品变小并进入提醒设置载体，适合承接。",
+          "preserve": "同一主对象组缩小成为提醒控制的输入附件",
+          "change": "从单商品改为包含所有费用与总支出的计算组；预算比较直接附着原结果节点",
+          "useScope": "8.8–9.72秒计算组变为提醒条件",
+          "useMode": "local",
+          "keyAction": "同一计算组等比收束，当前设置控件进入前景",
+          "source": {
+            "path": "/Users/USER/.codex/skill-repos/FredTalk/components/projects/30b3c05aa839/src/BatchB.tsx",
+            "sha256": "159a69df982c5184c08ef7d8a152ee80bf7e7a3d3128ef67fab3d51060dd8c03",
+            "symbol": "MediaScenesB"
+          },
+          "implementation": {
+            "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/project/src/v9r2/CostScene.tsx",
+            "sha256": "8512cffd80d17c16fad1ef12f85f49a97c326afcb1ce23b1f954657621216715",
+            "symbol": "ProductToReminder"
+          },
+          "callSite": {
+            "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/project/src/v9r2/CostScene.tsx",
+            "sha256": "8512cffd80d17c16fad1ef12f85f49a97c326afcb1ce23b1f954657621216715",
+            "symbol": "CostScene",
+            "callee": "ProductToReminder"
+          }
+        }
+      ],
+      "visualPlan": {
+        "enter": "同一收藏夹冰箱与报价",
+        "change": "总支出原位置附加<4500元，整组等比让位于每天查价开关",
+        "read": "文本与原字幕对应停留",
+        "exit": "保留计算依据与已启用状态",
+        "handoff": "交给同一提醒设置面"
+      },
+      "motionEvents": [],
+      "sceneGuide": {
+        "type": "custom",
+        "modifiers": [
+          "object-transition"
+        ]
+      },
+      "componentAcceptance": {
+        "status": "passed",
+        "stage": "suggestion",
+        "reviewer": "assistant",
+        "checks": {
+          "semanticFit": "同一商品如何变成按预算每天查价的提醒",
+          "corePreserved": "同一主对象组缩小成为提醒控制的输入附件",
+          "visualQuality": "已核真实组件预览与前版布局；r2只按真实口播新增进入/确认/焦点转移，成片实际帧仍需复核。"
+        },
+        "evidence": [
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/references/library-new10-n044-0.jpg",
+            "sha256": "648cd169685bdc01f2addc714be994f9ec9273ede1bc8ea65d3541959b15c8f2",
+            "id": "library-new10-n044",
+            "observations": "商品缩成附件、原输入载体提到前景；保留同一商品变小并进入提醒设置载体，适合承接。"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/references/library-new10-n044-1.jpg",
+            "sha256": "ac2a8d5ae16ccb32d99b7a9aca7dd989e0fe99db1988818bda6ef17a966f05cf",
+            "id": "library-new10-n044",
+            "observations": "商品缩成附件、原输入载体提到前景；保留同一商品变小并进入提醒设置载体，适合承接。"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/references/library-new10-n044-2.jpg",
+            "sha256": "d20adde0f0664b06af435890c6b8a23d149d7729f3fb4b2fcf596d7ee2ff23ab",
+            "id": "library-new10-n044",
+            "observations": "商品缩成附件、原输入载体提到前景；保留同一商品变小并进入提醒设置载体，适合承接。"
+          }
+        ],
+        "contextSha256": "a6cf8c360c1159c595a3309fb11a6d8259ef28fd58c0d797de41df9bf85c0904"
+      }
+    },
+    {
+      "stableId": "opinion",
+      "startFrame": 4762,
+      "globalStartFrame": 4762,
+      "durationInFrames": 268,
+      "implementationMode": "preserved-media",
+      "productionRoute": {
+        "selected": "media",
+        "source": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/完整成片制作-v9任务.md"
+      },
+      "mediaContract": [
+        {
+          "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/project/public/v9/opinion-safe.mp4",
+          "sha256": "8a331f5d04d6548312d8c2161ba036104742443e162f5456712462d366c3884f"
+        }
+      ],
+      "componentPlan": {
+        "search": "not-needed",
+        "decisionReason": "本人原片按连续源时钟播放；本地背景排除与等比构图，只有口播标题/字幕"
+      },
+      "referenceChoices": []
+    },
+    {
+      "stableId": "outro",
+      "startFrame": 5030,
+      "globalStartFrame": 5030,
+      "durationInFrames": 746,
+      "implementationMode": "adapted",
+      "productionRoute": {
+        "selected": "remotion",
+        "source": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/完整成片制作-v9任务.md"
+      },
+      "oneQuestion": "三项查问整理任务收束进AI，再交给真人作最终选择",
+      "sourceSpans": [
+        {
+          "text": "把需要来回查的"
+        },
+        {
+          "text": "需要来回问的"
+        },
+        {
+          "text": "需要来回理清楚的这些麻烦事情"
+        },
+        {
+          "text": "都交给AI"
+        }
+      ],
+      "componentPlan": {
+        "query": "费用 汇合 总结",
+        "access": "installed",
+        "candidates": [
+          {
+            "id": "ep102-selected-07",
+            "decision": "rejected",
+            "reason": "需求段选用：每项依次提起，既有组先让位再接新项，建立完整条件。"
+          },
+          {
+            "id": "library-selfpick24-sp011",
+            "decision": "rejected",
+            "reason": "不选：四角能力铺陈与中间30+计数，不适用于五项具体购买条件；已读SP011实现。"
+          },
+          {
+            "id": "library-legacy81-b062",
+            "decision": "rejected",
+            "reason": "不选：人物/AI量化柱图会需要不存在的对比数字。"
+          },
+          {
+            "id": "new30-op09",
+            "decision": "selected",
+            "reason": "三项查问整理任务收束进AI，再交给真人作最终选择"
+          }
+        ],
+        "inspectedReferences": [
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/references/new30-op09-0.png",
+            "sha256": "d6a9a0ae63c8ce256c07d40ac1e5140d9f6002fcb8aad37889b08b3da267359c",
+            "id": "new30-op09",
+            "observations": "四个既有画面收束而主画面扩展；保留多个费用对象向同一估算载体收束，连续主对象接力。"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/references/new30-op09-1.png",
+            "sha256": "31697556e3d8ba25932647b019d2672e341d79eb6353a638aff8d9f310e85ee8",
+            "id": "new30-op09",
+            "observations": "四个既有画面收束而主画面扩展；保留多个费用对象向同一估算载体收束，连续主对象接力。"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/references/new30-op09-2.png",
+            "sha256": "e327b795f3c180f6685a3718840b30d6350f9a548895d7229cb834dcf2e98d4f",
+            "id": "new30-op09",
+            "observations": "四个既有画面收束而主画面扩展；保留多个费用对象向同一估算载体收束，连续主对象接力。"
+          }
+        ]
+      },
+      "referenceChoices": [
+        {
+          "id": "new30-op09",
+          "reason": "四个既有画面收束而主画面扩展；保留多个费用对象向同一估算载体收束，连续主对象接力。",
+          "preserve": "多对象位置收束到同一运算列，保留原对象内容；主商品节点持续存在",
+          "change": "保留来源动作关系，按本期真实口播重排暗色竖屏语义对象",
+          "useScope": "本场景全局时间范围，见startFrame/durationInFrames",
+          "useMode": "local",
+          "keyAction": "辅助对象接入同一计算关系，输入保留",
+          "source": {
+            "path": "/Users/USER/.codex/skill-repos/FredTalk/components/projects/expansion-selected-20261007/source-view/7ffd8e123f571e373a7012bed97ca238ce3ecc22631da6637ed284e3ec4451fe.txt",
+            "sha256": "7ffd8e123f571e373a7012bed97ca238ce3ecc22631da6637ed284e3ec4451fe",
+            "symbol": "OP09"
+          },
+          "implementation": {
+            "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/project/src/v9r2/Film.tsx",
+            "sha256": "216c22f74b11ed7fae9f836c26d14c68385f26ebc7e7797db1c4f3e8a9781730",
+            "symbol": "TasksToChoice"
+          },
+          "callSite": {
+            "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/project/src/v9r2/Film.tsx",
+            "sha256": "216c22f74b11ed7fae9f836c26d14c68385f26ebc7e7797db1c4f3e8a9781730",
+            "symbol": "FullFilm",
+            "callee": "TasksToChoice"
+          }
+        }
+      ],
+      "visualPlan": {
+        "enter": "从本期对应口播的既有对象进入",
+        "change": "三项查问整理任务收束进AI，再交给真人作最终选择",
+        "read": "条件/任务标签按原声逐项停留",
+        "exit": "保持关键对象并交给下一任务",
+        "handoff": "沿本期时间线连续承接"
+      },
+      "sceneGuide": {
+        "type": "custom",
+        "modifiers": [
+          "object-transition"
+        ]
+      },
+      "componentAcceptance": {
+        "status": "passed",
+        "stage": "suggestion",
+        "reviewer": "assistant",
+        "checks": {
+          "semanticFit": "三项查问整理任务收束进AI，再交给真人作最终选择",
+          "corePreserved": "多对象位置收束到同一运算列，保留原对象内容；主商品节点持续存在",
+          "visualQuality": "已核真实组件预览与前版布局；r2只按真实口播新增进入/确认/焦点转移，成片实际帧仍需复核。"
+        },
+        "evidence": [
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/references/new30-op09-0.png",
+            "sha256": "d6a9a0ae63c8ce256c07d40ac1e5140d9f6002fcb8aad37889b08b3da267359c",
+            "id": "new30-op09",
+            "observations": "四个既有画面收束而主画面扩展；保留多个费用对象向同一估算载体收束，连续主对象接力。"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/references/new30-op09-1.png",
+            "sha256": "31697556e3d8ba25932647b019d2672e341d79eb6353a638aff8d9f310e85ee8",
+            "id": "new30-op09",
+            "observations": "四个既有画面收束而主画面扩展；保留多个费用对象向同一估算载体收束，连续主对象接力。"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/sample-v8/references/new30-op09-2.png",
+            "sha256": "e327b795f3c180f6685a3718840b30d6350f9a548895d7229cb834dcf2e98d4f",
+            "id": "new30-op09",
+            "observations": "四个既有画面收束而主画面扩展；保留多个费用对象向同一估算载体收束，连续主对象接力。"
+          }
+        ],
+        "contextSha256": "f85ce82403988d3bc115f9c22623110862547d867ff541d0834a3eafbcf1ad6e"
+      }
+    },
+    {
+      "stableId": "close",
+      "startFrame": 5776,
+      "globalStartFrame": 5776,
+      "durationInFrames": 346,
+      "implementationMode": "preserved-media",
+      "productionRoute": {
+        "selected": "media",
+        "source": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/完整成片制作-v9任务.md"
+      },
+      "mediaContract": [
+        {
+          "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/project/public/v9/close-safe.mp4",
+          "sha256": "abe4314a9f453ece6be86992693e55e2871dc55668075b7391fdc5e43069ee22"
+        }
+      ],
+      "componentPlan": {
+        "search": "not-needed",
+        "decisionReason": "本人原片按连续源时钟播放；本地背景排除与等比构图，只有口播标题/字幕"
+      },
+      "referenceChoices": []
+    }
+  ],
+  "revision": "full-v9-r2",
+  "updatedTask": {
+    "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/完整成片制作-v9任务.md",
+    "sha256": "fc4f9c8fadeb57fc3c7763be177dbab13c2d897abea3463fb73f85785f81184f"
+  },
+  "designContract": {
+    "background": "#090D11",
+    "contrast": "bright lime/cyan/amber semantic roles",
+    "continuity": "Persistent quote/discount/service operands, connected output then same output budget predicate; no disappear/rebuild sum",
+    "sourcePriority": "latest user black-background instruction overrides Fred white default",
+    "branding": "All requested top/bottom disclaimers/ELI removed; only narration subtitles and explanatory labels",
+    "portrait": "Original source video; per-frame local person mask; no generative face"
+  },
+  "componentDistributionReview": {
+    "status": "passed",
+    "reviewedBy": "assistant",
+    "contextSha256": "16f7a580f0ff4263a3dc253f7344bd233728002c1782a61a0bf160d4d4da8ad0",
+    "decisions": [
+      {
+        "groupKey": "9b2878455acd5900b5cc88c7",
+        "sceneIds": [
+          "fees",
+          "outro"
+        ],
+        "reuseKind": "distinct-adaptation",
+        "reason": "沿同一案例保持连接与汇入动作语法；各场景输入、接收者和决策含义不同，实看全片概览没有用同一数据布局重复填充。",
+        "comparisons": [
+          {
+            "stableId": "fees",
+            "task": "归并费用并核预算",
+            "visibleState": "报价、回收抵扣、安装费保持，进入相加减表达式",
+            "reusePurpose": "输入持续可见，防止加减关系丢失"
+          },
+          {
+            "stableId": "outro",
+            "task": "AI承接查问整理",
+            "visibleState": "三个任务卡收向AI块，再回到真人选择",
+            "reusePurpose": "将执行工作交给AI，将最后决定留给人"
+          }
+        ],
+        "evidence": [
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/full-v9/stills-board-0.jpg",
+            "sha256": "b1cf6e3dc4e474661af11423c8e40e68be5d75d0e32991ca8d2bd9b71cafa6f3"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/full-v9/stills-board-1.jpg",
+            "sha256": "52ada40a926d4ac1dbc559a3baefd0f822625bf09f1cb026653e7df912a90685"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/full-v9/stills-board-2.jpg",
+            "sha256": "7a1f5e46d77f2444922cdb5180f64aaad45f908a59e932b6e5666c24dbaa5e43"
+          }
+        ]
+      },
+      {
+        "groupKey": "9d6f4b4e53c510121e34f96f",
+        "sceneIds": [
+          "tools",
+          "execution",
+          "fees"
+        ],
+        "reuseKind": "distinct-adaptation",
+        "reason": "沿同一案例保持连接与汇入动作语法；各场景输入、接收者和决策含义不同，实看全片概览没有用同一数据布局重复填充。",
+        "comparisons": [
+          {
+            "stableId": "tools",
+            "task": "从目标调用工具",
+            "visibleState": "上方目标，三条工具分支，下方推进结果",
+            "reusePurpose": "明确目标与可调用工具之间的因果关系"
+          },
+          {
+            "stableId": "execution",
+            "task": "同一型号向多店询价",
+            "visibleState": "冰箱保留，三店服务卡，再并入单一报价对象",
+            "reusePurpose": "沿同一商品追踪询价结果"
+          },
+          {
+            "stableId": "fees",
+            "task": "归并费用并核预算",
+            "visibleState": "报价、回收抵扣、安装费保持，进入相加减表达式",
+            "reusePurpose": "输入持续可见，防止加减关系丢失"
+          }
+        ],
+        "evidence": [
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/full-v9/stills-board-0.jpg",
+            "sha256": "b1cf6e3dc4e474661af11423c8e40e68be5d75d0e32991ca8d2bd9b71cafa6f3"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/full-v9/stills-board-1.jpg",
+            "sha256": "52ada40a926d4ac1dbc559a3baefd0f822625bf09f1cb026653e7df912a90685"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/evidence/full-v9/stills-board-2.jpg",
+            "sha256": "7a1f5e46d77f2444922cdb5180f64aaad45f908a59e932b6e5666c24dbaa5e43"
+          }
+        ]
+      }
+    ]
+  }
+}

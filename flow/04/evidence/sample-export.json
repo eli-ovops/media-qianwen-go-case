@@ -1,0 +1,59 @@
+{
+  "sample": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/output/sample-motion-v1.mp4",
+  "sha256": "cb08e8313ec48565d7a2bc6eba4c7d63f28e052c239a29063eade2f946e0ee9f",
+  "bytes": 2238256,
+  "source_intermediate": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/output/candidate-v1.mp4",
+  "source_sha256": "6d0043357a631301d6194c83b8b2c105662d049b35c5520b214b7a5176f6fdea",
+  "source_frames_inclusive": [
+    3454,
+    4761
+  ],
+  "source_seconds": [
+    57.56666666666667,
+    79.36666666666666
+  ],
+  "frames": 1308,
+  "duration_seconds": 21.8,
+  "raw_source": "/Users/USER/Downloads/e404afe47f88fa4affadf7f5fa273814_raw.mp4",
+  "raw_video_seconds": [
+    29.09666666666667,
+    50.89666666666666
+  ],
+  "selection": "确认型号→店铺比价→客服→费用整理→估算→每天查价设置，连续完整口播。略超20秒以保留开头完整案例句，不拼效果集锦。",
+  "first_phrase": "案例里面千问首先需要确认型号",
+  "last_phrase": "每天查价的一个提醒",
+  "boundary_energy": "source③28.8–29.3秒低能量，29.4秒进入下一句；起点源29.0967秒留约0.3秒余量",
+  "full_film_status": "PAUSED_PENDING_USER_SAMPLE_APPROVAL; existing intermediate preserved, not submitted for full QA",
+  "command": [
+    "/Users/USER/.local/bin/ffmpeg",
+    "-hide_banner",
+    "-i",
+    "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/output/candidate-v1.mp4",
+    "-filter_complex",
+    "[0:v]trim=start_frame=3454:end_frame=4762,setpts=PTS-STARTPTS[v];[0:a]atrim=start=57.56666666666667:end=79.36666666666666,asetpts=PTS-STARTPTS[a]",
+    "-map",
+    "[v]",
+    "-map",
+    "[a]",
+    "-c:v",
+    "libx264",
+    "-preset",
+    "fast",
+    "-crf",
+    "18",
+    "-threads",
+    "2",
+    "-pix_fmt",
+    "yuv420p",
+    "-r",
+    "60",
+    "-c:a",
+    "aac",
+    "-b:a",
+    "192k",
+    "-movflags",
+    "+faststart",
+    "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/output/sample-motion-v1.mp4"
+  ],
+  "raw_source_evidence_directory": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/03/evidence-v3/e404afe47f88fa4affadf7f5fa273814_raw"
+}

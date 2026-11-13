@@ -1,0 +1,13 @@
+{
+  "rule": "ROUTING-2026-10-13-v4",
+  "owner": "01a11a6f-49ef-7653-934a-4312979fd4e7",
+  "target_model": "gpt-6-astra",
+  "target_effort": "high",
+  "actual_model": "UNKNOWN",
+  "actual_effort": "UNKNOWN",
+  "actual_speed": "UNKNOWN",
+  "scope": "v3 PMO two-point local revision; no full film",
+  "at": "2026-10-13T19:47:28.912627+08:00",
+  "read_original": "PMO样片v3审阅.md",
+  "reference_research": "no additional reference reading this revision"
+}

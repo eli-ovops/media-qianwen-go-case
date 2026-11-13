@@ -1,0 +1,44 @@
+[
+  {
+    "name": "bridge-safe",
+    "source": "/Users/USER/Downloads/8e45868cc8576735af4ec1a25b4d40f5_raw.mp4",
+    "sourceStart": 19.48,
+    "duration": 5.12,
+    "globalStart": 23.45,
+    "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/project/public/v9r3/bridge-safe.mp4",
+    "processExit": [
+      0,
+      0,
+      0
+    ],
+    "method": "Apple Vision accurate person matte every decoded 60fps frame; same source frame composited over #090D11, retain full540x960 source framing; no face synthesis"
+  },
+  {
+    "name": "opinion-safe",
+    "source": "/Users/USER/Downloads/70566362856e3aecc19310c1b2352f57_raw.mp4",
+    "sourceStart": 0.1,
+    "duration": 4.46,
+    "globalStart": 79.37,
+    "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/project/public/v9r3/opinion-safe.mp4",
+    "processExit": [
+      0,
+      0,
+      0
+    ],
+    "method": "Apple Vision accurate person matte every decoded 60fps frame; same source frame composited over #090D11, retain full540x960 source framing; no face synthesis"
+  },
+  {
+    "name": "close-safe",
+    "source": "/Users/USER/Downloads/70566362856e3aecc19310c1b2352f57_raw.mp4",
+    "sourceStart": 17,
+    "duration": 5.75,
+    "globalStart": 96.27,
+    "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/04/project/public/v9r3/close-safe.mp4",
+    "processExit": [
+      0,
+      0,
+      0
+    ],
+    "method": "Apple Vision accurate person matte every decoded 60fps frame; same source frame composited over #090D11, retain full540x960 source framing; no face synthesis"
+  }
+]

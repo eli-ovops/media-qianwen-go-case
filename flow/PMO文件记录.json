@@ -1,0 +1,67 @@
+{
+  "files": [
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/README.md",
+      "bytes": 1603,
+      "sha256": "b11e994dbfeb8f97d5dec05f584be9491ef974699990381ddfa5368c0281155a",
+      "purpose": "content task, original input, Owner delivery or required review evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/协作目标与边界.md",
+      "bytes": 2336,
+      "sha256": "d0ee46b5f036b399b38eeec7e57e4c448091ba1b3676425243aef242634fda02",
+      "purpose": "content task, original input, Owner delivery or required review evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/02/任务单.md",
+      "bytes": 2555,
+      "sha256": "743cffd42b5bd749c0d9ce61590035b3b00f41ddea30e3d2627ef7a12a1a96c3",
+      "purpose": "content task, original input, Owner delivery or required review evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/02/分镜与素材清单.md",
+      "bytes": 8318,
+      "sha256": "b07a91834a523569483b9fa86e73e76c083b3b8f6124a58b27f120ee7e9b89b6",
+      "purpose": "content task, original input, Owner delivery or required review evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/02/正式口播.md",
+      "bytes": 3120,
+      "sha256": "f70527ea86a16b80de1287aad35ae1fb1fe19e131811e0a0f8ebeafb678c7053",
+      "purpose": "content task, original input, Owner delivery or required review evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/02/完成报告发送回执.json",
+      "bytes": 884,
+      "sha256": "c887fcc80cae820b8a932c59851fdfe2251aa9e7519e4f08430078dd48b187e2",
+      "purpose": "content task, original input, Owner delivery or required review evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/02/提词版.md",
+      "bytes": 1458,
+      "sha256": "aebc4efca3c0547b4c42758e752946705912d254a1089756b6aa46462761ddad",
+      "purpose": "content task, original input, Owner delivery or required review evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/02/交付.json",
+      "bytes": 7124,
+      "sha256": "aac5fce6db99f3b9aa858520f90c786d7d4c36dfc2f2dc41c9fac0b2b6e80d85",
+      "purpose": "content task, original input, Owner delivery or required review evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/01/01会话初稿-已选题.md",
+      "bytes": 3238,
+      "sha256": "7e7a30d42d7f0a76e6d29a56edcb3c20154eb502fc07d481f243b0b2ca87785f",
+      "purpose": "content task, original input, Owner delivery or required review evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/01/PMO验收.json",
+      "bytes": 2136,
+      "sha256": "6e9493a7ede4bc45ba6b0bbf70bf0387077f9237a064acb026add7cc3028a865",
+      "purpose": "content task, original input, Owner delivery or required review evidence"
+    }
+  ],
+  "protected_media_changed": false,
+  "temporary_download": "Jina401 produced no readable article; no retry or credential access",
+  "coordination": "completion report driven; no routine polling automation"
+}

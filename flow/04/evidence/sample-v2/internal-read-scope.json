@@ -1,0 +1,13 @@
+{
+  "source": "internal-test-final-3to7.mp4",
+  "source_sample_interval": [
+    3,
+    7
+  ],
+  "frames": 240,
+  "fps": 60,
+  "all_frames_extracted": true,
+  "assistant_viewed": true,
+  "limitations": "contact sheets, not continuous real-time playback or audio",
+  "finding": "全部240帧接触表已读，型号标签连续；主体有推进/退出，报价单展开与放大核对过程可见；字幕与前景文字不混叠。之后仅当前核对项说明及8秒后费用汇合部分再修改，最终输出另查。"
+}

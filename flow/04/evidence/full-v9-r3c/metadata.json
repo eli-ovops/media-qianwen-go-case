@@ -1,0 +1,21 @@
+{
+  "format": {
+    "bit_rate": "760032",
+    "duration": "102.034",
+    "format_name": "mov,mp4 (AVFoundation adapter)",
+    "size": "9693641"
+  },
+  "streams": [
+    {
+      "avg_frame_rate": "60.0/1",
+      "codec_name": "h264",
+      "codec_type": "video",
+      "height": 1920,
+      "width": 1080
+    },
+    {
+      "codec_name": "aac",
+      "codec_type": "audio"
+    }
+  ]
+}
